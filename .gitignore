@@ -13,6 +13,7 @@ files-without-tags.md
 # config dir
 .obsidian/workspace
 .obsidian/plugins/
+.obsidian/themes/
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/linux,windows,macos,vim,visualstudio,obsidian
