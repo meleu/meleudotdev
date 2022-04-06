@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # date
 [✏️](https://github.com/meleu/my-notes/edit/master/date.md)
 

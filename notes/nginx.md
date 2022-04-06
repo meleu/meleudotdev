@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # NginX
 [✏️](https://github.com/meleu/my-notes/edit/master/nginx.md)
 

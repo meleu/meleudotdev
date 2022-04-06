@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # vim
 [✏️](https://github.com/meleu/my-notes/edit/master/vim.md)
 

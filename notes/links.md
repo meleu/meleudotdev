@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # links
 [✏️](https://github.com/meleu/my-notes/edit/master/links.md)
 

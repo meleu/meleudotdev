@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # React
 [✏️](https://github.com/meleu/my-notes/edit/master/react.md)
 

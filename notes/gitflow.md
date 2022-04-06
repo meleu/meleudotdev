@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # gitflow
 [✏️](https://github.com/meleu/my-notes/edit/master/gitflow.md)
 

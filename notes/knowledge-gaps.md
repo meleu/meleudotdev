@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Knowledge Gaps
 [✏️](https://github.com/meleu/my-notes/edit/master/gaps.md)
 

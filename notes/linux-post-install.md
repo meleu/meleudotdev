@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Things to do right after a fresh install
 
 ## Debian/Ubuntu packages

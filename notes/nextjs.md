@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # NextJS
 [✏️](https://github.com/meleu/my-notes/edit/master/nextjs.md)
 

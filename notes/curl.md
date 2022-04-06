@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # curl
 
 ## find the fastest ubuntu apt repository near to you

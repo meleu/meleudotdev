@@ -1,6 +1,7 @@
+---
+dg-publish: true
+---
 # bash
-
-[✏️](https://github.com/meleu/my-notes/edit/master/bash.md)
 
 ## ideas
 
@@ -132,50 +133,3 @@ main() {
 main "$@"
 ```
 
-
-## urlencode
-
-```bash
-#!/usr/bin/env bash
-# urlencode
-###########
-# my explanation about what happens here (portuguese only):
-# https://meleu.sh/urlencode/
-
-urlencode() {
-    local LC_ALL=C
-    local string="$*"
-    local length="${#string}"
-    local char
-
-    for (( i = 0; i < length; i++ )); do
-        char="${string:i:1}"
-        if [[ "$char" == [a-zA-Z0-9.~_-] ]]; then
-            printf "$char" 
-        else
-            printf '%%%02X' "'$char" 
-        fi
-    done
-    printf '\n' # optional
-}
-
-urlencode "$@"
-```
-
-## urldecode
-
-```bash
-#!/usr/bin/env bash
-# urldecode
-###########
-# my explanation about what happens here (portuguese only):
-# https://meleu.sh/urlencode/
-
-urldecode() {
-    local encoded="${*//+/ }"
-    printf '%b\n' "${encoded//%/\\x}"
-    # the '\n' above is optional
-}
-
-urldecode "$@"
-```

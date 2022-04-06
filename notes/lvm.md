@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Linux LVM
 
 ## Preparar os HDs para usar com LVM

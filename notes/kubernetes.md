@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Kubernetes
 [✏️](https://github.com/meleu/my-notes/edit/master/kubernetes.md)
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Visual Studio Code
 [✏️](https://github.com/meleu/my-notes/edit/master/vscode.md)
 

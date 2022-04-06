@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # VirtualBox
 [✏️](https://github.com/meleu/my-notes/edit/master/apache.md)
 

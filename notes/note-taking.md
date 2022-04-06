@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Note Taking
 
 [✏️](https://github.com/meleu/my-notes/edit/master/note-taking.md)

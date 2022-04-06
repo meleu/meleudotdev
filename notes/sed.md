@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # sed
 [✏️](https://github.com/meleu/my-notes/edit/master/sed.md)
 

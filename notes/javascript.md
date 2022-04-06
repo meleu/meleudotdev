@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # JavaScript
 [✏️](https://github.com/meleu/my-notes/edit/master/javascript.md)
 

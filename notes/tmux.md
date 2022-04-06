@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## upcase video series
 
 - link: <https://thoughtbot.com/upcase/tmux>
