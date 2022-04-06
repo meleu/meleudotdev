@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Docker: Ferramenta essencial para Desenvolvedores - cod3r
 
 - <https://www.udemy.com/course/curso-docker/>
