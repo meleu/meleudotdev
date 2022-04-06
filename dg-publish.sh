@@ -35,8 +35,11 @@ includePublishFrontmatter() {
   # if file doesn't have a "dg-publish:" in the frontmatter
   # add one defaulting to 'true'
   sed '1,/---/!d' "${mdFile}" \
-    | grep --quiet 'dg-publish: ' \
-    || sed --in-place '2i dg-publish: true' "${mdFile}"
+    | grep --quiet 'dg-publish:' \
+    || (
+      sed --in-place '2i dg-publish: true' "${mdFile}"
+      echo "'${mdFile}': published" >&2
+    )
 }
 
 main() {
@@ -46,6 +49,7 @@ main() {
   mapfile -t mdFiles < <(listMdFiles)
 
   for mdFile in "${mdFiles[@]}"; do
+    [[ -f "${mdFile}" ]] || continue
     includePublishFrontmatter "${mdFile}"
   done
 }
