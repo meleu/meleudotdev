@@ -2,7 +2,6 @@
 dg-publish: true
 ---
 # gitlab CI/CD
-[✏️](https://github.com/meleu/my-notes/edit/master/gitlab.md)
 
 ## test this
 

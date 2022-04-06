@@ -2,7 +2,6 @@
 dg-publish: true
 ---
 # git
-[✏️](https://github.com/meleu/my-notes/edit/master/git.md)
 
 ## links
 

@@ -2,7 +2,6 @@
 dg-publish: true
 ---
 # Jekyll
-[✏️](https://github.com/meleu/my-notes/edit/master/jekyll.md)
 
 ## Installation
 

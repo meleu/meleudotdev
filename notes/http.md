@@ -2,7 +2,6 @@
 dg-publish: true
 ---
 # HTTP
-[✏️](https://github.com/meleu/my-notes/edit/master/http.md)
 
 
 ## HTTP verbs:

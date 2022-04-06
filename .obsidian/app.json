@@ -7,5 +7,6 @@
   "tabSize": 2,
   "spellcheck": false,
   "showFrontmatter": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true
 }

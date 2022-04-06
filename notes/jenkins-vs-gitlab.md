@@ -3,7 +3,6 @@ dg-publish: true
 ---
 # Jenkins vs GitLab
 
-[✏️](https://github.com/meleu/my-notes/edit/master/jenkins-vs-gitlab.md)
 
 ## video
 

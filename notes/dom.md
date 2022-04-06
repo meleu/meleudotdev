@@ -2,7 +2,6 @@
 dg-publish: true
 ---
 # Document Object Model
-[✏️](https://github.com/meleu/my-notes/edit/master/dom.md)
 
 O mais básico do básico de DOM manipulation.
 

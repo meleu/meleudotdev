@@ -2,7 +2,6 @@
 dg-publish: true
 ---
 # PostgreSQL
-[✏️](https://github.com/meleu/my-notes/edit/master/postgresql.md)
 
 ## install via docker
 

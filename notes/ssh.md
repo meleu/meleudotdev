@@ -2,7 +2,6 @@
 dg-publish: true
 ---
 # SSH
-[✏️](https://github.com/meleu/my-notes/edit/master/ssh.md)
 
 ## SSH Tunneling
 

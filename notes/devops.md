@@ -2,7 +2,6 @@
 dg-publish: true
 ---
 # DevOps
-[✏️](https://github.com/meleu/my-notes/edit/master/devops.md)
 
 ## Videos
 

@@ -2,7 +2,8 @@
 dg-publish: true
 ---
 # docker
-[✏️](https://github.com/meleu/my-notes/edit/master/docker.md)
+
+See also [[docker-mastery]].
 
 
 ## links

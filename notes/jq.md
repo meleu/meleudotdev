@@ -2,7 +2,6 @@
 dg-publish: true
 ---
 # jq
-[✏️](https://github.com/meleu/my-notes/edit/master/jq.md)
 
 ## minify JSON with jq
 

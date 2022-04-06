@@ -2,7 +2,6 @@
 dg-publish: true
 ---
 # React
-[✏️](https://github.com/meleu/my-notes/edit/master/react.md)
 
 ## Notes about "The Beginner's Guide to React"
 

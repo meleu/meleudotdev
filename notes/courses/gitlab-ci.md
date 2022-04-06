@@ -70,7 +70,7 @@ test the car:
 
 ### gitlab architecture
 
-![gitlab architecture](img/gitlab-architecture.png)
+![gitlab architecture](gitlab-architecture.png)
 
 Configuring Runners:
 - settings > CI/CD > Runners > Expand
@@ -213,7 +213,7 @@ build website:
 
 Basic pipeline:
 
-![CI/CD Pipeline](img/cicd-pipeline.png)
+![CI/CD Pipeline](cicd-pipeline.png)
 
 - doc: <https://docs.gitlab.com/ee/ci/environments/>
 
