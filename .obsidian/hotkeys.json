@@ -1,1 +1,10 @@
-{}
+{
+  "digitalgarden:publish-multiple-notes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ]
+}
