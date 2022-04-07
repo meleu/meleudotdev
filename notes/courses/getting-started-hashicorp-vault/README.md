@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Getting Started with HashiCorp Vault
 
 - <https://www.udemy.com/course/hashicorp-vault/>

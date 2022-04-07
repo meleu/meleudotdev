@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # NLW #6 - Aula 5
 
 - <https://nextlevelweek.com/episodios/node/aula-5/edicao/6>

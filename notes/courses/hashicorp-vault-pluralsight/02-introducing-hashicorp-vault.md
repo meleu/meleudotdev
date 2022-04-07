@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Introducing HashiCorp Vault
 
 [Pluralsight videos](https://app.pluralsight.com/course-player?clipId=83785bed-b9b2-4dd9-b614-c7aace76d623)

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Starting the project
 
 ## structure

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Configuration
 
 ## Commands and Arguments in Docker

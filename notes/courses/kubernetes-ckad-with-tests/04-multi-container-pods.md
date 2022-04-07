@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Multi-Container PODs
 
 Exercises:

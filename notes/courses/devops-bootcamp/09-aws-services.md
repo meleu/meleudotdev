@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # AWS Services
 
 ## 1 - Introduction to AWS

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Installing Vault
 
 ## Installing and Running a Vault Server

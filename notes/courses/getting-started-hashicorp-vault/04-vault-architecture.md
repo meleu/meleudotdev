@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Learning the Vault Architecture
 
  ## Vault Components

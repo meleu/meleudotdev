@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # React - First Project
 
 ## Starting the Project

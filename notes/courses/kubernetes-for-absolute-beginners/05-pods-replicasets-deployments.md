@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Kubernetes Concepts: PODs, ReplicaSets, Deployments
 
 ## YAML in Kubernetes

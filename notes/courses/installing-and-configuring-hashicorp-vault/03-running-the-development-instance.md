@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Running the Development Instance
 
 Installing Vault: [[05-installing-vault]]

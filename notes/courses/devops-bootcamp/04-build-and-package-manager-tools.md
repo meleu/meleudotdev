@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Build and Package Manager Tools
 
 - Building the code

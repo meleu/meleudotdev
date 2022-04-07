@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # gostack-bootcamp-notes
 
 Some notes about what I've been learning in the [GoStack Bootcamp](https://rocketseat.com.br/gostack).

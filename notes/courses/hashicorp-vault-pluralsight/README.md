@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Getting Started with HashiCorp Vault - Ned Bellavance - Pluralsight
 
 GitHub with material: <https://github.com/ned1313/Getting-Started-Vault>
