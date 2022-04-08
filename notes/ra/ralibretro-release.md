@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Using Github Actions to Release RALibretro
 
 read the docs here:
