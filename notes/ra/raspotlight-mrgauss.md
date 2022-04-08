@@ -10,7 +10,10 @@ In the beginning of the last month I was on a vacation trip with my family, vist
   {% rauserpic MrGauss %}
 </div>
 
-We chatted about several things and, of course, about RetroAchievements. During our conversation I couldn't help but notice how the feeling of belonging to a community of people who share the same passion, has a positive impact on a person's life.
+We chatted about several things. I was willing to know from him about all the cool places to visit in the city, 
+
+
+and, of course, about RetroAchievements. During our conversation I couldn't help but notice how the feeling of belonging to a community of people who share the same passion, has a positive impact on a person's life.
 
 I became interested in putting **MrGauss** in the RASpotlight and here we are.
 
