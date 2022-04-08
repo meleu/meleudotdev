@@ -10,11 +10,9 @@ In the beginning of the last month I was on a vacation trip with my family, vist
   {% rauserpic MrGauss %}
 </div>
 
-I was eager to know from him about all the cool places to visit in the city, eat typical food, know more about the rich history of the city, etc. So we chatted about several things. And, of course, about RetroAchievements.
+I was eager to know from him about all the cool places to visit in the city, where to eat typical food, and also the rich history of the city (I didn't know that in the past it was ruled by Dutch people and they brought a lot of improvements to the city). So we chatted about several things. And, of course, about RetroAchievements.
 
-During our conversation I couldn't help but notice how the feeling of belonging to a community of people who share the same passion, has a positive impact on a person's life.
-
-I became interested in putting **MrGauss** in the RASpotlight and here we are.
+During our conversation I couldn't help but notice how the feeling of belonging to a community of people who share the same passion, has a positive impact on a person's life. Then I became interested in putting **MrGauss** in the RASpotlight and here we are.
 
 I hope you enjoy the reading!
 
@@ -124,7 +122,7 @@ Please tell us about your motivations. What makes you spend your time helping ot
 
 Haha, now you're making me very emotional. I'm very happy to know people said those things about me.
 
-You see, I'm a teacher. I've been lecturing Physics and Math since I was 20 (now I'm ?????????????) and I saw in Code Review an oportunity to help the community even more with an skill that I had.
+You see, I'm a teacher. I've been lecturing Physics and Math since I was 20 (currently I'm 33) and I saw in Code Review an oportunity to help the community even more with an skill that I had.
 
 The sense of belonging is very strong in RA for many people and it was a very strong for me too. Once you start realizing it, once you see all the dedication the people put on the project, you start to want to give it your very best. It's really magical and somewhat difficult to explain.
 
