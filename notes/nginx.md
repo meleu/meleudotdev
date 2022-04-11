@@ -1,7 +1,9 @@
 ---
 dg-publish: true
+title: resumo dos meus estudos sobre NginX
 ---
-# NginX
+
+# Resumo dos meus estudos de NginX
 
 ## Introdução
 
@@ -9,7 +11,7 @@ dg-publish: true
 
 **Importante 2**: tudo que estou explicando aqui foi feito no Ubuntu Server 18.04. No entanto isso não deve ser de grande relevância (exceto o uso de `apt-get` de vez em quando).
 
-O [NginX.org](https://nginx.org) (ponto org) é o site onde encontramos informações sobre a versão Open Source do NginX. O [Nginx.com](https://nginx.com) (ponto com) é um site onde o(s) criador(es) do NginX vendem o NginX Plus e oferecem outros serviços (nunca investiguei a fundo que serviços são esses).
+O [NginX **.org**](https://nginx.org) é o site onde encontramos informações sobre a versão Open Source do NginX. O [Nginx **.com**](https://nginx.com) é um site onde o(s) criador(es) do NginX vendem o NginX Plus e oferecem outros serviços (nunca investiguei a fundo que serviços são esses).
 
 Apesar de serem sites diferentes, algumas informações valiosas sobre a versão open source do NginX podem ser encontradas no NginX **.com**.
 
