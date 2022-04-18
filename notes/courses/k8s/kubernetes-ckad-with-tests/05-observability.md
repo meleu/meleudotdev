@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Observability
 
 ## Readiness and Liveness Probes

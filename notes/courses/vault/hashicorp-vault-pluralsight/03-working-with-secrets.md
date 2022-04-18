@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Working with Secrets
 
 [Plurasight videos](https://app.pluralsight.com/course-player?clipId=fc9e2da0-f6c1-4c80-8df1-9eb37a2e57c9)

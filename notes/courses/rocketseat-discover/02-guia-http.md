@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Guia Estelar de HTTP
 
 <https://app.rocketseat.com.br/node/guia-estelar-de-http>

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # SonarQube
 
 - <https://www.udemy.com/course/gestion-continua-de-la-calidad-del-software-con-sonarqube/>

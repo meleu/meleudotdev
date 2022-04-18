@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Interacting with Vault
 
 ## Running Vault in Development Mode

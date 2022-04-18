@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Mergulho Spring REST - Preparação do Ambiente
 
 ## Instalar JDK

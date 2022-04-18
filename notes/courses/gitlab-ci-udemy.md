@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # GitLab CI: Pipelines, CI/CD and DevOps for Beginners
 
 - link: <https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners>

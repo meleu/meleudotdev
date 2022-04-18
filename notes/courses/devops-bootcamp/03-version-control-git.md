@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Version Control with Git
 
 - video: <https://techworld-with-nana.teachable.com/courses/devops-bootcamp/lectures/29436454>

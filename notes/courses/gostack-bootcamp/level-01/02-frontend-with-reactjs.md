@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Front-end With ReactJS
 
 ## Concepts

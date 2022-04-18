@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Services
 
 "Services" is the abstraction used to allow communication between pods/deployments/nodes and the external world.

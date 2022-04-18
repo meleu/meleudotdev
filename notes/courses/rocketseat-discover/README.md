@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Discover - Rocketseat
 
 Introdução à desenvolvimento Web.

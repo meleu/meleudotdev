@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Installing and Configuring HashiCorp Vault
 
 course: <https://app.pluralsight.com/courses/85108d6a-49b4-4332-9a4d-8d7ed81021c9/table-of-contents>

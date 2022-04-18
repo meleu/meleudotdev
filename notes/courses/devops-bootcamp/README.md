@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # DevOps Bootcamp - Techworld with Nana
 
 My notes about the DevOps Bootcamp by Nana: <https://www.techworld-with-nana.com/devops-bootcamp>

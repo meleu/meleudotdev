@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Introduction to Vault
 
 ## How Vault Works

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Aprendendo a Aprender - Barbara Oakley
 
 Curso no coursera.org

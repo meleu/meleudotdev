@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Improving the API
 
 ## Uploading files

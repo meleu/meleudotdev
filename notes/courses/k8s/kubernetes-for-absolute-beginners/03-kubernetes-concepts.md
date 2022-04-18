@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Kubernetes Concepts
 
 Official docs: <https://kubernetes.io/docs/concepts/>

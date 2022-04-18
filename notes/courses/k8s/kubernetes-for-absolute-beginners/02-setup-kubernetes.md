@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Setup Kubernetes
 
 Use minikube: <https://minikube.sigs.k8s.io/docs/>
