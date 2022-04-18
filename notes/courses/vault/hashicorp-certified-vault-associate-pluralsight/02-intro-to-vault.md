@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Introducing HashiCorp Vault
 
 ## Exam Overview

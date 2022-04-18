@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Hashicorp Certified Vault Associate: Getting Started
 
 - [[02-intro-to-vault]]

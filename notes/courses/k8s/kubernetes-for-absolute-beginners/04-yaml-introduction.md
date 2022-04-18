@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # YAML Introduction
 
 ## dictionary vs. list vs. list of dictionaries

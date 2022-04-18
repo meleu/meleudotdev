@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # First ReactJS Project
 
 ## Starting From Scratch

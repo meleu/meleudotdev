@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Starting With NodeJS and TypeScript
 
 ## GoBarber layout

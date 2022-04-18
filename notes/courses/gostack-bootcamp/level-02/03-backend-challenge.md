@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Challenge 6
 
 - challenge: <https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-database-upload>

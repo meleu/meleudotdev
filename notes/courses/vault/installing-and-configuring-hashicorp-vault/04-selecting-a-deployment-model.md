@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Selecting a Deployment Model
 
 ## Deployment Components

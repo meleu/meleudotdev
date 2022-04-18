@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Lista de vídeos
 
 ## Warm Up

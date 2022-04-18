@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Protocol Deep Dive: DNS
 
 - [Protocol Deep Dive: DNS](https://app.pluralsight.com/player?course=protocol-deep-dive-dns&author=betty-dubois&name=e6ce4f27-c947-45e1-b224-83328ceb41dd&clip=0)

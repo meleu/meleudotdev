@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Vault: Configuring Basic Authentication
 
 ## Vault Authentication Methods

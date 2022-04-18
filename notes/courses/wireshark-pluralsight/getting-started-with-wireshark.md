@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Getting Started with Wireshark
 
 - <https://app.pluralsight.com/library/courses/getting-started-analyzing-network-traffic-wireshark/table-of-contents>

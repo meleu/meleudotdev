@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # HashiCorp Vault Overview
 
 Learning Path (courses)

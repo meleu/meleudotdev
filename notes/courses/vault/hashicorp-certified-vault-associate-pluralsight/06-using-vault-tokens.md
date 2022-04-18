@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Using Vault Tokens
 
 ## Token Overview

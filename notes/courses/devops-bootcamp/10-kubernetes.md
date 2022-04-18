@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Container Orchestration with Kubernetes
 
 ## 1. Intro to Kubernetes

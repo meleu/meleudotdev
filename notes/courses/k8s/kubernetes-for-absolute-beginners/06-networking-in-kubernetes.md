@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Networking in Kubernetes
 
 ![[Pasted image 20210913135249.png]]

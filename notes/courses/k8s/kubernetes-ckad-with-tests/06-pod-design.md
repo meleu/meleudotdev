@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Pod Design
 
 ## Labels, Selectors and Annotations

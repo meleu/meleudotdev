@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Integrating Hashicorp Vault in DevOps Workflows
 
 - <https://app.pluralsight.com/library/courses/hashicorp-vault-integrating-devops-workflows/table-of-contents>

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Operating Vault Server
 
 ## Vault Server Architecture

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Vault: Using Secrets Engines
 
 Secrets engines are plugins used by Vault to handle sensitive data.

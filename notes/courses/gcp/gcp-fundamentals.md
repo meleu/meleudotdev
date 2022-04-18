@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Google Cloud Platform Fundamentals
 
 ## Introducing GCP

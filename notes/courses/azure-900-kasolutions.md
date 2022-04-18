@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # AZ-900 - KaSolutions
 
 ## Características dos Serviços em Nuvem

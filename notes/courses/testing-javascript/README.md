@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Testing JavaScript - with Kent C. Dods
 
 <https://testingjavascript.com/>

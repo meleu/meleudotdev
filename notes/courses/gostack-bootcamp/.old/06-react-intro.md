@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Introduction to React
 
 ## Creating your first root component

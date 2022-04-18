@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Kubernetes Certified Application Developer with Tests
 
 <https://www.udemy.com/course/certified-kubernetes-application-developer/>

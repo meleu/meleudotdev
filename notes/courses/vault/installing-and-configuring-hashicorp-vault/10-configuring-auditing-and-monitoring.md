@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Vault: Configuring Auditing and Monitoring
 
 - <https://app.pluralsight.com/course-player?clipId=109dd57f-b08f-4538-a4e8-3e070ed3bbbd>

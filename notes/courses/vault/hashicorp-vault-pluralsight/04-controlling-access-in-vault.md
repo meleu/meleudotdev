@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Controlling Access in Vault
 
 [Pluralsight videos](https://app.pluralsight.com/course-player?clipId=f4efab6b-9543-4a8d-80c7-af7143ba5b4e)

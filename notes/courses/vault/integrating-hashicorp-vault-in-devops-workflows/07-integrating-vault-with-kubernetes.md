@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Integrating Vault With Kubernetes
 
 ## Vault Helm Chart
