@@ -3,35 +3,50 @@ command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || tr
 publish = "public"
 
 [build.environment]
-# (Optional) Text in landing page button
-LANDING_BUTTON = "Click to steal some👆"
+# (Optional) Site title on landing page
+LANDING_TITLE = "Hi, I'm meleu! 👋"
+
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "I have nothing but intelligence."
+LANDING_DESCRIPTION = "This is going to be my 🌱 digital garden"
+
+# (Optional) Text in landing page button
+LANDING_BUTTON = "Click to join"
+
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "README"
-# (Optional) Site title on landing page
-LANDING_TITLE = "I love obsidian-zola! 💖"
+
 PYTHON_VERSION = "3.8"
+
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/meleu/meleudotdev"
+
 # (Optional) Site title in navbar
-SITE_TITLE = "Someone's Second 🧠"
+SITE_TITLE = "meleu's 2nd 🧠"
+
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
+
 # (REQUIRED) Netlify site URL
 SITE_URL = "https://courageous-marzipan-cf6962.netlify.app/"
+
 # (Optional) Site Timezone
 TIMEZONE = "America/Sao_Paulo"
-ZOLA_VERSION = "0.15.2"
+ZOLA_VERSION = "0.15.3"
+
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 SORT_BY = "title"
+
 # (Optional) Google Analytics Measurement ID
 GANALYTICS = ""
+
 # (Optional, default true) Slugify URLs. Put "" to disable.
 SLUGIFY = "y"
+
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
 HOME_GRAPH = "y"
+
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
 PAGE_GRAPH = "y"
+
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
-SIDEBAR_COLLAPSED = ""
+SIDEBAR_COLLAPSED = "y"
