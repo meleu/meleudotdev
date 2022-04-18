@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Next Level Week #6 - Rocketseat
 
 - <https://nextlevelweek.com/episodios/node/aula-1/edicao/6>
@@ -9,8 +6,4 @@ dg-publish: true
 
 ### 📝 Notes
 
-- [[aula-01]]
-- [[aula-02]]
-- [[aula-03]]
-- [[aula-04]]
-- [[aula-05]]
+- [aula-01](https://meleu.github.io/my-notes/courses/nlw-06/aula-01) - [✏️](https://github.com/meleu/my-notes/edit/master/courses/nlw-06/aula-01.md)

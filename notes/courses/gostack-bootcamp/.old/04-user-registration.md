@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # User Registration and Authentication
 
 ## User's Migration

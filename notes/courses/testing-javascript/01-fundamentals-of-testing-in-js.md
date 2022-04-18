@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Fundamentals of Testing in JavaScript
 
 - code: <https://github.com/kentcdodds/js-testing-fundamentals/tree/egghead-2018>

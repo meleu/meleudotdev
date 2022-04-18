@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Equipando sua Nave
 
 Anotações apenas do que achei digno de nota.

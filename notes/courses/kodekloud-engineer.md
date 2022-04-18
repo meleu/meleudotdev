@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # KodeKloud Engineer
 
 <https://kodekloud-engineer.com/>

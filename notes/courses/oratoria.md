@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Vídeos Sobre Oratória
 
 ## A PARTE MAIS IMPORTANTE DA ORATÓRIA

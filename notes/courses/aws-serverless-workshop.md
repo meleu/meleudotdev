@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Workshop AWS Serverless
 
 ## Arquitetura de microsserviços

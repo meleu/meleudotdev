@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # TypeScript
 
 ## Why TypeScript?

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 ## Getting a shell inside containers
 
 ### Create a new container and launch an interactive shell inside of it

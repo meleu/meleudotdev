@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Chapter 1: Primeiro Projeto com Node.JS
 
 - [aula - cadastro de conta](https://app.rocketseat.com.br/node/primeiro-projeto-com-node-js/lesson/cadastro-de-conta)

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # How to Teach Online - General Assembly
 
 <https://generalassemb.ly/get/how-to-teach-online>

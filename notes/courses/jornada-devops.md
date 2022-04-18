@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Jornada DevOps - Curso Udemy
 
 - <https://www.udemy.com/course/curso-oficial-para-certificacao-exin-devops-profissional>

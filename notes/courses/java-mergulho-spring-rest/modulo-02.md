@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Mergulho Spring REST - Módulo 2
 
 - Código: <https://github.com/algaworks/curso-mergulho-spring-rest>

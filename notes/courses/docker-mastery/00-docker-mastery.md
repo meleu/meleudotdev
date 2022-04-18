@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Docker Mastery
 
 - <https://www.udemy.com/course/docker-mastery/>
