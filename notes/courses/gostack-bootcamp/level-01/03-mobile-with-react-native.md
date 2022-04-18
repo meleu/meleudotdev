@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Mobile With Reach Native
 
 ## Concepts

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Build Automation & CI/CD with Jenkins
 
 ## 1. Intro to Build Automation

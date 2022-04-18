@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Apache Maven: Beginner to Guru
 
 - <https://www.udemy.com/course/apache-maven-beginner-to-guru/>

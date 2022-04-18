@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Tools and Basic Setup
 
 ## tools

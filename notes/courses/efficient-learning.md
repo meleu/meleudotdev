@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Efficient Learning
 
 - <https://www.udemy.com/course/learning-to-learn-efficient-learning-zero-to-mastery>

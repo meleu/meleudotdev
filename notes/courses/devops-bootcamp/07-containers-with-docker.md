@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Containers With Docker
 
 ## 1. What is a Container

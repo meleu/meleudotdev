@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # DevOps Ninja: Docker, Kubernetes e Rancher
 
 - <https://www.udemy.com/course/devops-mao-na-massa-docker-kubernetes-rancher>
@@ -161,7 +158,7 @@ Criar 4 máquinas virtuais 4 GB/2 CPUs (máquina de $20 na DigitalOcean):
 ##### Na máquina "local"
 
 criar uma chave pública na máquina que será usada para acessar o host remoto:
-```sh
+```bash
 ssh-keygen -t dsa
 ```
 
@@ -169,7 +166,7 @@ Isso vai gerar o arquivo `/home/USERNAME/.ssh/id_dsa.pub`.
 
 ##### No host remoto
 
-```sh
+```bash
 # executar como root
 ####################
 
@@ -196,7 +193,7 @@ ssh ubuntu@ip.do.host
 
 #### Instalando docker em cada máquina
 
-```sh
+```bash
 # executar na sua máquina local
 ssh -T ubuntu@ip.do.host << EOF
   sudo su
@@ -227,7 +224,7 @@ Importante: necessário ter uma conta no [docker hub](https://hub.docker.com/). 
 
 Comandos a serem executados na máquina do rancher:
 
-```sh
+```bash
 # considerando logado como usuário ubuntu
 sudo su
 apt-get install git -y
@@ -299,14 +296,14 @@ docker logs nginx
 
 Após confirmar que estes 3 containers estão servindo a aplicação corretamente, podemos remover todos os containers (para posteriormente chamá-los através do `docker-compose`).
 
-```sh
+```bash
 docker rm -f $(docker ps -a -q)
 docker volume rm $(docker volume ls)
 ```
 
 ### docker-compose
 
-```sh
+```bash
 cd ..
 vim docker-compose.yml
 # editar linhas 8, 18 e 37, colocando username do docker hub

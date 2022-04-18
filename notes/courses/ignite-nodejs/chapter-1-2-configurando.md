@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Chapter 1: Configurando o Projeto
 
 ## Estrutura do projeto

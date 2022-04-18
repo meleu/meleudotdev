@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Linux Basics
 
 - video: <https://techworld-with-nana.teachable.com/courses/devops-bootcamp/lectures/32585025>

@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Desafio: Conceitos de Node.js
 
 Aplicação de "ToDos".

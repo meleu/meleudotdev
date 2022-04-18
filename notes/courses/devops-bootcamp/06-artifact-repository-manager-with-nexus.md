@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 # Artifact Repository Manager with Nexus
 
 ## 1. Intro to Artifact Repository Manager
