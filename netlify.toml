@@ -19,7 +19,7 @@ SITE_TITLE = "Someone's Second 🧠"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://625d47e637f5c3364088c8a1--courageous-marzipan-cf6962.netlify.app/"
+SITE_URL = "https://courageous-marzipan-cf6962.netlify.app/"
 # (Optional) Site Timezone
 TIMEZONE = "America/Sao_Paulo"
 ZOLA_VERSION = "0.15.2"
