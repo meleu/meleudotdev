@@ -32,6 +32,7 @@ Brief explanation:
 - Container Runtime: underlying software responsible to run containers.
 - Kubelet: an agent running on each node in the cluster, responsible to make sure the containers are running as expected.
 
+
 ![[Pasted image 20210929092127.png]]
 
 ### kubectl
