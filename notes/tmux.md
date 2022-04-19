@@ -1,6 +1,69 @@
 ---
 dg-publish: true
 ---
+
+# tmux
+
+- <https://tmuxcheatsheet.com>
+
+
+## vídeos do blau
+
+### vídeo 1
+
+- <https://youtu.be/fAH3zxgJcrg>
+- <https://youtu.be/JNJL0w4RJyg> (parei em 1:00:00)
+
+
+```
+# listar sessões
+tmux ls
+
+# conectar a uma sessão existente
+tmux a  # conecta a última sessão utilizada
+tmux ls # pra pegar o target
+tmux a -t ${target}
+
+# nova sessão
+tmux new
+
+# nova sessão com um nome
+tmux new -s name
+
+# iniciar nova sessão dettached
+tmux new -d
+
+# matar uma sessão
+tmux ls # para pegar o target
+tmux kill-session -t ${target}
+
+# matar todas as sessões
+tmux kill-server
+
+# renomear uma sessão
+# prefix $
+tmux rename-session -t ${target} ${newName}
+
+```
+
+- desconectar da sessão atual: `prefix d`
+- fechar painel atual `prefix x`
+- abrir nova janela `prefix c`
+- renomear janela `prefix ,`
+- [**muito legal**] abrir a listagem de sessões/janelas: `prefix w`
+- entrar no modo de comando: `prefix :`
+
+painéis:
+
+- swap panels: `prefix }` / `prefix {`
+- converte um painel em janela: `prefix !`
+- redimensionar painel: `prefix ctrl-arrow`
+- redimensionar igualmente: `prefix E`
+
+**bônus**: ferramenta útil para mostrar as teclas que você está pressionando para um screencast: `screenkey`
+
+
+
 ## upcase video series
 
 - link: <https://thoughtbot.com/upcase/tmux>
@@ -44,11 +107,13 @@ When you type `tmux` you're starting a new session.
 You can also start a new session with:
 ```
 tmux new-session -s session-name
+tmux new -s name
 ```
 
 And list the running sessions with:
 ```
 tmux list-sessions
+tmux ls
 ```
 
 ---
@@ -56,7 +121,7 @@ tmux list-sessions
 
 ## cheatsheet
 
-### **By resources**
+### By resources
 
 #### *sessions*
 
@@ -168,7 +233,7 @@ set-buffer           setb       -- Set contents of a paster buffer
 show-buffer          showb      -- Display the contents of a paste buffer
 ```
 
-### **By functionality**
+### By functionality
 
 #### *options*
 
@@ -189,7 +254,7 @@ list-commands        lscm       -- List supported sub-commands
 list-keys            lsk        -- List all key-bindings
 ```
 
-### **Typical usage**
+### Typical usage
 
 #### *flags*
 
@@ -227,13 +292,13 @@ tmux show-buffer -b <buffer-name>
 tmux paste-buffer -b <buffer-name> -t <target-pane>
 ```
 
-### **Working with sessions**
+### Working with sessions
 
 ```
 $ Rename the current session.
 ```
 
-### **Working with clients**
+### Working with clients
 
 ```
 d Detach the current client.
@@ -245,7 +310,7 @@ r Force redraw of the attached client.
 s Select a new session for the attached client interactively.
 ```
 
-### **Working with windows**
+### Working with windows
 
 ```
 c Create a new window.
@@ -262,7 +327,7 @@ f Prompt to search for text in open windows.
 i Display some information about the current window.
 ```
 
-### **Working with panes**
+### Working with panes
 
 ```
 " Split the current pane into two, top and bottom
@@ -283,7 +348,7 @@ Space Arrange the current window in the next preset layout
 M-1 to M-5 Arrange panes (preset layouts)
 ```
 
-### **Copy mode**
+### Copy mode
 Set `vi` (or `emacs`) mode with:
 
 ```
@@ -324,7 +389,7 @@ set-window-option -g mode-keys vi   <or emacs>
        Transpose chars                        C-t
 ```       
 
-### **additional useful key bindings**
+### additional useful key bindings
 
 ```
 bind-key -t vi-copy v begin-selection
@@ -340,7 +405,7 @@ bind-key -n S-Right next-window
 bind-key -n S-Left previous-window
 ```
 
-### **sources**
+### sources
 
 - <https://gist.github.com/Bekbolatov/6840069e51382965fdad>
 
