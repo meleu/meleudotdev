@@ -57,3 +57,30 @@ tmux ls
 ## Part 2: Config
 
 - <https://thoughtbot.com/upcase/videos/tmux-configuration>
+
+3 ways to use tmux commands
+
+- directly in the command line (useful to experiment a new configuration before putting it in your `.tmux.conf`)
+- tmux command prompt: `prefix :` (don't need to prefix the commands with tmux)
+- `~/.tmux.conf` file
+
+Command line examples
+```
+tmux split-window
+tmux bind-key u split-window
+```
+
+tmux command prompt examples:
+```
+# prefix :
+# pro-tip: you can press <tab> for autocompletion
+split-window
+bind-key y split-window
+
+# make the prefix unnecessary
+bind-key -n C-h select-pane -L
+bind-key -n C-j select-pane -D
+bind-key -n C-k select-pane -U
+bind-key -n C-l select-pane -R
+```
+
