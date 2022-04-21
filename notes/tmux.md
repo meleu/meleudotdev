@@ -53,6 +53,21 @@ tmux rename-session -t ${target} ${newName}
 - [**muito legal**] abrir a listagem de sessões/janelas: `prefix w`
 - entrar no modo de comando: `prefix :`
 
+modo buffer:
+
+- **importante**: requer `:setw -g mode-keys vi`
+- `prefix [` entra no modo buffer
+- `space move` seleciona
+- `enter` copia e volta pro modo "normal"
+- `prefix ]` cola
+
+copy'n'paste:
+
+- `prefix #` abre a listagem de buffer
+- `prefix =` abre a listagem de buffers numa visualização mais bonita e ao selecionar já cola
+
+
+
 painéis:
 
 - swap panels: `prefix }` / `prefix {`
