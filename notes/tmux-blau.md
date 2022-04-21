@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## vídeos do blau
 
 ### vídeo 1
