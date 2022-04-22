@@ -84,3 +84,5 @@ bind-key -n C-k select-pane -U
 bind-key -n C-l select-pane -R
 ```
 
+
+## Part 3: Navigation
