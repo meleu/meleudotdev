@@ -39,6 +39,8 @@ $ tmux source-file ~/.tmux.conf
 
 ### session vs. window vs. pane
 
+A session is a collection of windows. A window has one or more panes.
+
 When you type `tmux` you're starting a new session.
 
 You can also start a new session with:
