@@ -88,3 +88,47 @@ bind-key -n C-l select-pane -R
 
 
 ## Part 3: Navigation
+
+- <https://thoughtbot.com/upcase/videos/tmux-navigation>
+
+```
+# create new panes in the same directory
+bind-key - split-window -v  -c '#{pane_current_path}'
+bind-key \ split-window -h  -c '#{pane_current_path}'
+
+# pane navigation
+bind-key -n C-h select-pane -L
+bind-key -n C-j select-pane -D
+bind-key -n C-k select-pane -U
+bind-key -n C-l select-pane -R
+
+# Pane Resizing
+# Fine adjustment (1 or 2 cursor cells per bump)
+bind -n S-Left resize-pane -L 2
+bind -n S-Right resize-pane -R 2
+bind -n S-Down resize-pane -D 1
+bind -n S-Up resize-pane -U 1
+
+# Coarse adjustment (5 or 10 cursor cells per bump)
+bind -n C-Left resize-pane -L 10
+bind -n C-Right resize-pane -R 10
+bind -n C-Down resize-pane -D 5
+bind -n C-Up resize-pane -U 5
+
+# window numbering
+set -g base-index 1
+set -g renumber-windows on
+
+# breaking a pane out to a window
+bind b break-pane -d
+```
+
+Cool way to start tmux sessions:
+- <https://github.com/thoughtbot/dotfiles/blob/main/bin/tat>
+
+
+About copy'n'paste and clipboard, I noticed [in tmux's wiki](https://github.com/tmux/tmux/wiki/Clipboard) that the version 3.2 has an improvement in this regard. Then I did this:
+```
+# depends on xclip (and tmux 3.2+)
+set -s copy-command 'xclip -selection c'
+```
