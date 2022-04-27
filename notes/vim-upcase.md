@@ -55,3 +55,8 @@ In vim terminology Window = Split
 
 `~/.vimrc`
 
+```vim
+" show you all current options in an
+" interactive and explanatory way
+:browse set
+```
