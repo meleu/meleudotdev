@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # upcase video course: Onramp to vim
 
 - <https://thoughtbot.com/upcase/onramp-to-vim>
@@ -39,3 +42,9 @@ In vim terminology Window = Split
 ```
 
 - move between tabs: `gt`/`gT`
+
+
+
+## 5. Modes
+
+`ctrl-v` goes to visual block mode
