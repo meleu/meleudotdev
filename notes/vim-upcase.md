@@ -48,3 +48,10 @@ In vim terminology Window = Split
 ## 5. Modes
 
 `ctrl-v` goes to visual block mode
+
+
+
+## 6. Configuration
+
+`~/.vimrc`
+
