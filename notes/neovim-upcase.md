@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # NeoVim - upcase
 
 - <https://thoughtbot.com/upcase/videos/meet-neovim>
