@@ -61,3 +61,19 @@ In vim terminology Window = Split
 :browse set
 ```
 
+
+## extending the vim language
+
+- <https://thoughtbot.com/upcase/videos/extending-the-vim-language>
+
+text objects are awesome!
+
+Some plugins that leverage the vim language:
+
+- tpope/vim-commentary
+- tommcdo/vim-exchange
+- inkarkat/vim-ReplaceWithRegister
+- christoomey/vim-sort-motion
+- kana/vim-textobj-user
+- kana/vim-textobj-indent
+- kana/vim-textobj-line
