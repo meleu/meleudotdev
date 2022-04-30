@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # vim
 
+- [[vim-upcase]]
+- [[neovim-upcase]]
 
 ## links
 
