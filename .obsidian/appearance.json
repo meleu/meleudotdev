@@ -1,4 +1,5 @@
 {
   "baseFontSize": 20,
-  "cssTheme": ""
+  "cssTheme": "",
+  "theme": "moonstone"
 }
