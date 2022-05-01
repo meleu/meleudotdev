@@ -13,6 +13,24 @@ dg-publish: true
 - [Vim as an IDE - by Leeren](https://www.youtube.com/watch?v=Gs1VDYnS-Ac) - VimConf talk
 - <https://thoughtbot.com/upcase/the-art-of-vim> - some useful vim tips
 - <https://alldrops.info> - useful vim drops
+
+- From the neovim tutor
+  - *Learn Vim Progressively*:
+    http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
+  - *Learning Vim in 2013*:
+    http://benmccormick.org/learning-vim-in-2014/
+  - *Vimcasts*:
+    http://vimcasts.org/
+  - *Vim Video-Tutorials by Derek Wyatt*:
+    http://derekwyatt.org/vim/tutorials/
+  - *Learn Vimscript the Hard Way*:
+    http://learnvimscriptthehardway.stevelosh.com/
+  - *7 Habits of Effective Text Editing*:
+    http://www.moolenaar.net/habits.html
+  - *vim-galore*:
+    https://github.com/mhinz/vim-galore
+
+
 - video in portuguese: <https://www.youtube.com/watch?v=hdZMqMeruSQ>
     - 8:30 - 15:00: useful options for `.vimrc`
     - 15:00 - ??:??: plugins to make vim behave like vscode
