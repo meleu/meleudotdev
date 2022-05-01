@@ -5,6 +5,7 @@ dg-publish: true
 
 - [[vim-upcase]]
 - [[neovim-upcase]]
+- [[vim-seven-habits-of-effective-text-editing]]
 
 ## links
 
