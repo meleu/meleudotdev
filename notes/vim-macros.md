@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # vim macros
 
 - <https://www.vimfromscratch.com/articles/vim-macros>
