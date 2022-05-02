@@ -6,8 +6,20 @@ dg-publish: true
 - [[vim-upcase]]
 - [[neovim-upcase]]
 - [[vim-seven-habits-of-effective-text-editing]]
+- [[vim-macros]]
+
+
+## things I wanna learn
+
+- macros
+- windows/buffers management
+- linting
+- do something on save
 
 ## links
+
+- text objects and macros in vim: <https://cloudacademy.com/course/text-objects-macros-vim-1413/text-objects/>
+- ctags: <https://kulkarniamit.github.io/whatwhyhow/howto/use-vim-ctags.html>
 
 - <https://thoughtbot.com/upcase/onramp-to-vim> - the best video series I found to get started with vim.
 - [Vim: tutorial on customization and configuration - by Leeren](https://www.youtube.com/watch?v=JFr28K65-5E) - advanced, very well reviewed
@@ -127,7 +139,7 @@ The [vim-plug](https://github.com/junegunn/vim-plug) is useful to install/update
 
 Here's a way to install it at startup:
 - add this to your `.vimrc`
-```
+```vim
 if empty(glob('~/.vim/autoload/plug.vim'))
   silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
     \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
