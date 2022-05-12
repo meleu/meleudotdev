@@ -34,7 +34,7 @@ Jenkins não é uma plataforma "end to end" para todo o ciclo de vida DevOps.
 
 Para extender as funcionalidades nativas do Jenkins é necessário a instalação de plugins. E Plugins são caros de se manter seguros e atualizados.
 
-> A maioria das organizações que conversamos nos dizem que o gerenciamento de plugins do Jenkins é um pesadelo. Cada um tem seu próprio ciclo de vida de desenvolviemnto, e toda vez que um novo plugin chega eles precião re-testar toda a cadeia de ferramentas.
+> A maioria das organizações que conversamos nos dizem que o gerenciamento de plugins do Jenkins é um pesadelo. Cada um tem seu próprio ciclo de vida de desenvolvimento, e toda vez que um novo plugin chega eles precião re-testar toda a cadeia de ferramentas.
 >
 > Ouvimos histórias tipo Grupo precisa do Plugin A, e administrador do Jenkins instala, e então descobre que tal plugin depende de uma versão nova (e incompatível) de uma biblioteca que o requerida pelo Plugin B, que é usado pelo Grupo B.
 >
