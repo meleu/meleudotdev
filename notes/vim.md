@@ -9,6 +9,11 @@ dg-publish: true
 - [[vim-macros]]
 
 
+## things I wanna do
+
+- Apply `gq` (break lines at column 80) in the whole file and keep the cursor position.
+
+
 ## things I wanna learn
 
 - macros
@@ -17,6 +22,8 @@ dg-publish: true
 - do something on save
 
 ## links
+
+- <https://github.com/dahu/learnvim>
 
 - text objects and macros in vim: <https://cloudacademy.com/course/text-objects-macros-vim-1413/text-objects/>
 - ctags: <https://kulkarniamit.github.io/whatwhyhow/howto/use-vim-ctags.html>
