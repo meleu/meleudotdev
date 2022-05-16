@@ -8,6 +8,18 @@ dg-publish: true
 - [[vim-seven-habits-of-effective-text-editing]]
 - [[vim-macros]]
 
+## things to do after vimtutor
+
+By reading the contents of [this repository](https://github.com/dahu/learnvim) I realized that this is the things to do after finishing the vimtutor:
+
+- learn how to navigate the documentation
+    - `ctrl-]` to follow a vimdoc link
+    - `ctrl-o` or `ctrl-t` to go back
+- `:help quickref` skim over quickref just to know it exists and what's there (it's like a cheatsheet)
+- learn about text-objects
+    - `
+    - `:help text-objects` - verbose
+
 
 ## things I wanna do
 
