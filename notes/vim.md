@@ -19,7 +19,7 @@ By reading the contents of [this repository](https://github.com/dahu/learnvim) I
 - learn about text-objects
     - `:help Q_to` cheatsheet
     - `:help text-objects` - verbose
-
+- when lurking other people's `.vimrc`, a one-sentence description of the options assigned with `set` can be seen in `:help option-list`
 
 ## things I wanna do
 
