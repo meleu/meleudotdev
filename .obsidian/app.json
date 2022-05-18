@@ -8,5 +8,6 @@
   "spellcheck": false,
   "showFrontmatter": true,
   "strictLineBreaks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false
 }
