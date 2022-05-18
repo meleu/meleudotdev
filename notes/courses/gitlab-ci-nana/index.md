@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # GitLab CI/CD - From Zero to Hero
 
 by Nana
