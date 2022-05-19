@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Things to do in this vault
 
 - [ ] configure meleu.dev in netlify
