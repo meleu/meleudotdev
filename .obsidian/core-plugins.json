@@ -9,8 +9,12 @@
   "note-composer",
   "command-palette",
   "editor-status",
+  "starred",
   "markdown-importer",
+  "random-note",
+  "outline",
   "word-count",
+  "slides",
   "open-with-default-app",
   "file-recovery"
 ]
