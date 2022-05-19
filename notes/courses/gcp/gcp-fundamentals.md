@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # Google Cloud Platform Fundamentals
 
+- <https://app.pluralsight.com/channels/player?courseId=5d5cf01d-b8e2-493b-bc77-73be1236a4ec&channelId=a81a554f-59dc-4eee-a30a-83744d11a381>
+
 ## Introducing GCP
 
 - Welcome to GCP Fundamentals
@@ -256,7 +258,7 @@ The GCP console lets you turn on and off APIs.
 
 Experiment with the **APIs Explorer**. It's an interactive tool that lets you easily try Google APIs using a browser.
 
-[Sounds like an interesting way to play with code :nerd:]
+[Sounds like an interesting way to play with code 🤓]
 
 
 #### Cloud Console Mobile App
