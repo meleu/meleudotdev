@@ -5,6 +5,7 @@ dg-publish: true
 
 <https://www.udemy.com/course/certified-kubernetes-application-developer/>
 
+- [[00-Accessing the Labs]]
 - 01-intro (nothing interesting)
 - [[02-core-concepts]]
 - [[03-configuration]]
