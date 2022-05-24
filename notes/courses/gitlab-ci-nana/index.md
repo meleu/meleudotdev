@@ -53,3 +53,5 @@ Nothing really new for me in sections 1, 2 and 3.
     - Specific runners: associated with a specific project
 
 - [AWS Pre-Requisite](https://techworld-with-nana.teachable.com/courses/gitlab-cicd-course/lectures/39895935) - Useful lecture for me to get used with AWS web interface.
+
+
