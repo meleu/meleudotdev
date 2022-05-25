@@ -18,7 +18,10 @@ Repository: <https://gitlab.com/nanuchi/mynodeapp-cicd-project>
 
 ### 2 - Run Unit Tests & Collect Test Reports
 
-
+> [!IMPORTANT]
+> Test report is a useful thing to use in my current work.
+>
+> It starts at 3:20 in the video
 
 - <https://techworld-with-nana.teachable.com/courses/1769488/lectures/39899012>
 
