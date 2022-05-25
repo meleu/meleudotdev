@@ -1,7 +1,7 @@
 {
   "vimMode": true,
   "attachmentFolderPath": "assets",
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "notes",
   "useTab": false,
   "tabSize": 2,
