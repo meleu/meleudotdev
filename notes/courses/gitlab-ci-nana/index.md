@@ -41,3 +41,26 @@ run_unit_tests:
 ```
 
 Another useful thing about these reports in the GitLab's UI is in the Merge Requests page. It shows the tests that failed.
+
+
+### 3 - Build Docker Image & Push to Private Registry
+
+I've learned that gitlab.com provides a private registry for your docker image.
+
+I also noticed that the self-hosted GitLab doesn't have this option (at least not by default).
+
+
+### 4 - GitLab Environments: Describe where code is deployed
+
+> [!IMPORTANT]
+> This is also cool to have in my work.
+
+```yaml
+# ...
+deploy_to_dev:
+  # ...
+  environment:
+    name: development
+    url: http://dev.server.com:3000
+```
+
