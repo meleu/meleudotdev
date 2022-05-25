@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # 04 - GitLab Architecture
 
 ### 2 - GitLab Executors
