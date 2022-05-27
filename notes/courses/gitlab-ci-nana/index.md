@@ -11,6 +11,7 @@ by Nana
 
 ## Things to try at work
 
+- deploy jobs should have the name of the environment (dev/stage/us-prod/ca-prod)
 - tests generating a JUnit report <https://www.npmjs.com/package/jest-junit>
 - integrate the JUnit report with GitLab's UI <https://docs.gitlab.com/ee/ci/yaml/artifacts_reports.html#artifactsreportsjunit>
 - use the environment keyword in the deploy job <https://docs.gitlab.com/ee/ci/yaml/#environment>
@@ -19,111 +20,128 @@ by Nana
     - <https://docs.gitlab.com/ee/ci/caching/>
     - advanced `config.toml` configuration: <https://docs.gitlab.com/runner/configuration/advanced-configuration.html>
 - use GitLab's SAST (but with `allow_failure`): <https://docs.gitlab.com/ee/user/application_security/sast/>
+    - I've noticed in the `gl-sast-report.json` that some vulnerabilities were found but the job finished successfully.
 
 
 ---
+
 
 Nothing really new for me in sections 1, 2 and 3.
 
-- [[04 - GitLab Architecture]]
-- [[05 - CI-CD pipeline for Node.js Application]]
+- [[4 - GitLab Architecture]]
+- [[5 - CI-CD pipeline for Node.js Application]]
+- [[6 - Optimize CI-CD Pipeline & Configure Multi-Stage Pipeline]]
 
 ---
 
-## 6 - Optimize CI-CD Pipeline & Configure Multi-Stage Pipeline
+## 7 - CI-CD MicroService Application (Mono and Polyrepo)
 
-### 2 - Configure Dynamic Versioning for Docker Image
+### 01 - What are Microservices?
 
-- <https://techworld-with-nana.teachable.com/courses/1769488/lectures/39901791>
+#### How to break down a monolithic code base into microservices?
 
-In this lecture it's explained how `needs` differs from `dependencies`. Note: when needs is used, dependencies is not needed.
+- Split based on business functionalitites
+- Separation of concerns (1 service for 1 specific job)
+- Self-contained & Independent (developed, deployed and scaled separately)
 
-At 30 min she talks about Dotenv files
+#### Downsides of Microservices Architecture
 
-Create a `build.env` file during the job. The contents must be `key=value`.
+- Added complexity just by the fact that a microservices application is a distributed system
+- Configure the communication between services
+- More difficult to monitor with multiple instances of each service distributed across servers
 
-And then use this:
-```yaml
-# ...
-build_image:
-  # ...
-  artifacts:
-    reports:
-      dotenv: build.env
+
+### 02 - Monorepo vs. Polyrepo
+
+#### Monorepo
+
+Best suited for smaller microservice applications
+
+- characteristics:
+    - 1 git repository that contains many projects
+    - 1 directory for each service/project
+    - Makes the code management and development easier
+    - clone and work only with 1 repo
+    - changes can be tracked, tested and released together
+    - share code and configurations
+- challenges
+    - tight coupling of projects
+    - easier to break this criterion and develop more tightly coupled code
+    - big source code means git interactions becomes slow
+    - additional logic necessary to make sure only the service that had changed is built and deployed
+        - pipeline logic becomes complex
+    - all projects/teams are affected if there is an issue
+- fact:
+  - many big companies, like Google and Facebook use monorepos
+  - they developed tools to scale build systems and version control with a large volume of code
+
+#### Polyrepo
+
+Best suited for microservice applications with separate teams.
+
+- characteristics:
+    - 1 repository for each service
+    - code is completely isolated
+    - clone and work on them separately
+    - in gitlab you can group projects together in a **Group**
+        - helps to keep an overview
+        - create shared secrets, CI/CD variables, Runners, etc.
+    - each project has its own pipeline
+- Downsides:
+    - cross-cutting changes is more difficult
+    - changes spreaded across projects must be submitted as separate Merge Requests instead of a having a single one
+    - Switching between projects is tedious
+    - Searching, testing and debugging is more difficult
+    - Sharing resources is more difficult
+
+
+### Monorepo Example
+
+- <https://gitlab.com/nanuchi/mymicroservice-cicd>
+- `git@gitlab.com:nanuchi/mymicroservice-cicd.git`
+
+### 05 - Prepare Deployment Server
+
+Create an ubuntu machine, log into it and:
+
+```bash
+# update application repositories
+sudo apt update
+
+# install docker
+sudo apt install docker.io
+
+# install docker-compose
+sudo apt install docker-compose
+
+# add current user to the 'docker' group
+sudo usermod -aG docker $USER
 ```
 
-This automatically makes the `key` variable available for the next stages.
+### 06 - Build Micro Services (Monorepo)
 
-- Collected variables are registered as runtime-created variables of the job.
-- Jobs in later stages can use the variable in scripts.
-- Variables cannot be used to configure a pipeline, but only in job scripts.
-- `dependencies` or `needs` keywords can be used to control which jobs receive these env vars.
-
-
-### 3 - Configure Caching to speed up Pipeline execution
-
-In the first job that downloads dependencies:
-
+Run a job only when there are changes in the `frontend/` directory:
 ```yaml
-# ...
-run_unit_tests:
+build_frontend:
   # ...
-  cache:
-    key: "$CI_COMMIT_REF_NAME"
-    paths:
-      - app/node_modules
+  only:
+    changes:
+      - "frontend/**/*" # can NOT use variables here
 ```
 
-- Cache `key`:
-    - give each cache a **unique identifying key**
-    - if not set, the default key is `default`
-    - all jobs that use the same cache key use the same cache
-    - common practice: use `$CI_COMMIT_REF_NAME`
-- Cache `paths`
-    - used to choose which files or directories to cache
-    - you can use an array of paths relative to the project directory
+Basically, the techniques used to create a pipeline for microservices in a a monorepo setup involves:
 
-Note that the `cache` key has 2 different purposes:
+- use the `only:changes` config
+- use a `.template-job` and `extends`
 
-- generate the cache
-- download the cache
+### 07 - Deploy Micro Services (Monorepo)
 
-On 1st execution, the job generates the cache. On 2nd execution, the job ca re-use its own cache.
+- <https://techworld-with-nana.teachable.com/courses/1769488/lectures/39904402>
 
-- Cache `policy`
-    - `pull-push` job downloads the cache when the job starts & uploads changes to the cache when the job ends (**note**: that's the default behavior, you don't need to specify)
-    - `pull` only download the cache, but never upload changes (use when you have many jobs executing in parallel using the same cache).
-    - `push` common to have a job, which just builds the cache (will only upload a cache, but never download).
-
-> [!IMPORTANT]
-> Your job should never depend on a cache to be available. Caching is an optimization, but it isn't guaranteed to always work.
-
-Notes about the `[Clear runner caches]` button on GitLab's UI:
-
-- the old cache is not deleted
-- instead its cache name will be updated and used
-- you can manually delete the files from the Runner storage
+In this lecture there are some interesting docker network tricks.
 
 
-### 4 - Testing in CI-CD & Configure Security Tests (SAST)
+### 08 - CI-CD Pipeline for a Polyrepo
 
-Different types of automated tests
+- <https://gitlab.com/mymicroservice-cicd>
 
-- Unit Testing
-    - most basic
-    - validate that **individual parts** of the app function
-    - so only specific units, instead of the entire program
-- Functional Testing
-    - Validate the functionality of the software
-- Integration Testing
-    - validate that individual parts of the code work together (e.g.: fronte and backend communication).
-    - or microservice application works properly with all those self-containted services
-- **Security Related Tests**
-    - validate application's security
-    - vulnerability scanning, penetration testing, etc.
-    - SAST: Static Application Security Testing
-        - Analyzes the **source code** to identify any vulnerabilities
-        - Examples: SQL injection, Cross-site scripting, buffer overflows...
-    - DAST: Dynamic Application Security Testing
-        - it analyzes the **running application**
-        - represents the hacker approach, testing from outside with no knowledge of the technologies used
