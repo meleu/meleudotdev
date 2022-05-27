@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 8 - Deploy Microservices to Kubernetes cluster
 
 - <https://techworld-with-nana.teachable.com/courses/1769488/lectures/39916960>
