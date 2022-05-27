@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-## 05 - CI-CD pipeline for Node.js Application
+# 5 - CI-CD pipeline for Node.js Application
 
 Repository: <https://gitlab.com/nanuchi/mynodeapp-cicd-project>
 
