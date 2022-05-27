@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 6 - Optimize CI-CD Pipeline & Configure Multi-Stage Pipeline
 
 ### 2 - Configure Dynamic Versioning for Docker Image
