@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 7 - CI-CD MicroService Application (Mono and Polyrepo)
 
 ### 01 - What are Microservices?
