@@ -34,3 +34,4 @@ Nothing really new for me in sections 1, 2 and 3.
 - [[6 - Optimize CI-CD Pipeline & Configure Multi-Stage Pipeline]]
 - [[7 - CI-CD MicroService Application (Mono and Polyrepo)]]
 - [[8 - Deploy Microservices to Kubernetes cluster]]
+
