@@ -67,6 +67,7 @@ On 1st execution, the job generates the cache. On 2nd execution, the job ca re-u
     - `push` common to have a job, which just builds the cache (will only upload a cache, but never download).
 
 > [!IMPORTANT]
+> 
 > Your job should never depend on a cache to be available. Caching is an optimization, but it isn't guaranteed to always work.
 
 Notes about the `[Clear runner caches]` button on GitLab's UI:
