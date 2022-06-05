@@ -174,7 +174,7 @@ docker container exec -it containerName /bin/bash
 
 Workflow with Docker
 
-![workflow with docker](workflow-with-docker.png)
+![workflow with docker](notes/learning/devops-bootcamp/img/workflow-with-docker.png)
 
 
 ## 8. Developing with Docker

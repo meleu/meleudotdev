@@ -10,5 +10,9 @@
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
   "legacyEditor": false,
-  "livePreview": false
+  "livePreview": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "pt-BR"
+  ]
 }

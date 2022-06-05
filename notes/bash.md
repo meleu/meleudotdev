@@ -14,9 +14,12 @@ dg-publish: true
 - <https://github.com/dylanaraps/pure-bash-bible> - pure bash bible
 - <https://github.com/alebcay/awesome-shell> - Awesome Shell resources
 - <https://ebook.bobby.sh/> - inspiration for an interactive bash book/website.
+- <http://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html>
+
+## just cool links
 - <https://cheat.sh> - the only cheat sheet you need :)
 - <https://explainshell.com/> - write down a command-line to see the help text that matches each argument.
-- <http://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html>
+
 
 ### egghead.io
 
@@ -25,8 +28,10 @@ dg-publish: true
 - <https://egghead.io/courses/automate-daily-development-tasks-with-bash>
 - <https://egghead.io/courses/advanced-bash-automation-for-web-developers>
 
+
 ### references
 
+- <https://mywiki.wooledge.org/BashSheet> - the best bash reference I know
 - <http://mywiki.wooledge.org/> - awesome bash knowledge resource.
 - <https://wiki.bash-hackers.org> - more bash hacking
-
+- <http://redsymbol.net/articles/unofficial-bash-strict-mode/> - bash strict mode explanation

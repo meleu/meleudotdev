@@ -60,7 +60,7 @@ Quote from Kelsey Hightower (found in "Cloud Native DevOps with Kubernetes" book
             - managed by **Ingress**
     - service is also a load balancer, so it can forward requests to several nodes
 
-![[basic-k8s-components.png]]
+![[notes/learning/devops-bootcamp/img/basic-k8s-components.png]]
 
 ### ConfigMap and Secrets
 
@@ -253,7 +253,7 @@ nginx-depl-5c8bf76b5b   1         1         1       2m3s
 
 ### Layers of Abstraction
 
-![[k8s-abstraction-layers.png]]
+![[notes/learning/devops-bootcamp/img/k8s-abstraction-layers.png]]
 
 **Everything below "Deployment" is handled by Kubernetes**
 
@@ -550,7 +550,7 @@ spec:
 
 **Ports**
 
-![[k8s-ports-in-service-and-pod.png]]
+![[notes/learning/devops-bootcamp/img/k8s-ports-in-service-and-pod.png]]
 
 
 ```sh
@@ -582,7 +582,7 @@ kubectl get deployment nginx-deployment -o yaml > nginx-deployment-result.yaml
 
 ### Overview
 
-![[k8s-demo-project-overview.png]]
+![[notes/learning/devops-bootcamp/img/k8s-demo-project-overview.png]]
 
 ### Request Flow
 
@@ -930,7 +930,7 @@ Change the active namespaces with `kubens`. You have to install the tool: <https
     - `NodePort`
     - `LoadBalancer`
 
-![[k8s-3-service-type-attributes.png]]
+![[notes/learning/devops-bootcamp/img/k8s-3-service-type-attributes.png]]
 
 
 ### ClusterIP Services    
@@ -944,7 +944,7 @@ Change the active namespaces with `kubens`. You have to install the tool: <https
     - `labels` of pods
     - you can give any name you want
 
-![[k8s-service-selector.png]]
+![[notes/learning/devops-bootcamp/img/k8s-service-selector.png]]
 
 - If a Pod has several ports open, how the service knows to which port to forward the request to?
     - `targetPort` Service attribute
@@ -964,7 +964,7 @@ kubectl get endpoints
 
 **Multi-Port Services**
 
-![[k8s-multi-port-services.png]]
+![[notes/learning/devops-bootcamp/img/k8s-multi-port-services.png]]
 
 
 ### Headless Services
@@ -1002,7 +1002,7 @@ And you can see it in the output of `kubectl get services`, in the line where th
     - what's the difference between `NodePort` and `LoadBalancer`?
     - what's the usecase for `NodePort`?
 
-![[k8s-nodeport-services.png]]
+![[notes/learning/devops-bootcamp/img/k8s-nodeport-services.png]]
 
 
 ### LoadBalancer Services
@@ -1148,7 +1148,7 @@ spec:
     # that name in the same namespace
 ```
 
-![[k8s-tls-certificate.png]]
+![[notes/learning/devops-bootcamp/img/k8s-tls-certificate.png]]
 
 **NOTES**:
 
