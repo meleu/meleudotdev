@@ -7,7 +7,7 @@ dg-publish: true
 
 > "Services" allows loose coupling between the microservices in our application.
 
-![[notes/courses/k8s/kubernetes-ckad-with-tests/assets/Pasted image 20211018093926.png]]
+![[notes/learning/k8s/kubernetes-ckad-with-tests/assets/Pasted image 20211018093926.png]]
 
 
 ### Service Types
@@ -53,7 +53,7 @@ spec:
 
 Allows communication between pods inside a cluster
 
-![[notes/courses/k8s/kubernetes-ckad-with-tests/assets/Pasted image 20211018101600.png]]
+![[notes/learning/k8s/kubernetes-ckad-with-tests/assets/Pasted image 20211018101600.png]]
 
 ```yaml
 apiVersion: v1
@@ -79,7 +79,7 @@ spec:
 
 Ingress Controller - Ingress Resources
 
-![[notes/courses/k8s/kubernetes-ckad-with-tests/assets/Pasted image 20211018103913.png]]
+![[notes/learning/k8s/kubernetes-ckad-with-tests/assets/Pasted image 20211018103913.png]]
 
 You do not have an Ingress Controller in kubernetes by default, so you must deploy one.
 
