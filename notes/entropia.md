@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # entropia
 
 ## Por que me interessei por isso?

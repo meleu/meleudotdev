@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Regra da Modularidade - The Art of Unix Programming
 
 **Escreva partes simples conectadas por interfaces limpas.**

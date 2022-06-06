@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # gitlab-ci questions
 
 GitLab CI scenarios that I want to be able to solve.

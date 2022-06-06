@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Regra da Separação - The Art of Unix Programming
 
 **Separe política do mecanismo; separe interface dos motores.**

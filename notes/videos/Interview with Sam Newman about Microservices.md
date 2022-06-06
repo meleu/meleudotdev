@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Interview with Sam Newman about Microservices
 
 - <https://youtu.be/MhmdGiOmUqU>

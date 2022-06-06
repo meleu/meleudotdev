@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # My "learning JavaScript/TypeScript" roadmap
 
 - [ ] [JavaScript Concurrency](https://www.executeprogram.com/courses/javascript-concurrency)

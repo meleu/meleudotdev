@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # The Many Flavors of Agile - What's the right one for your team.
 
 - #video <https://www.youtube.com/watch?v=wB9cNs6dVzY>

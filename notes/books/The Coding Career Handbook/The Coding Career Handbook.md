@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # The Coding Career Handbook
 
 ## 12. Specialize in the New

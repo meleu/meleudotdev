@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## When To Use Microservices (And When Not To!) - Sam Newman & Martin Fowler
 
 - <https://youtu.be/GBTdnfD6s5Q>

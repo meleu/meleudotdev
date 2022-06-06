@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Capítulo 4: Comandos comuns do kubectl
 
 ### Namespaces

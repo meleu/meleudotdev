@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Regra da Simplicidade - The Art of Unix Programming
 
 **Projete para simplicidade; adiciona complexidade apenas onde precisar.**

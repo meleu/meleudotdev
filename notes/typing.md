@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # typing
 
 I enjoy typing faster, and this website is a very cool one for practicing: <https://monkeytype.com/>

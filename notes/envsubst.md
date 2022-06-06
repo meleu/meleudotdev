@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # envsubst
 
 Get's a stream and replaces the `${variables}` with the ones defined in the environment.

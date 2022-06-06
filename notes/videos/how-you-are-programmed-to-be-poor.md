@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # How you are programmed to be poor - Sorelle Amore
 
 - <https://youtu.be/eAOxiDK8e0Q>

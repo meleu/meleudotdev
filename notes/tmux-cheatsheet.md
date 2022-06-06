@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## tmux cheatsheet
 
 - From: <https://gist.github.com/Bekbolatov/6840069e51382965fdad>

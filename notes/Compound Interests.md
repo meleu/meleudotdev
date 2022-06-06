@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Long-term games and Compound interests
 
 Some quotes from <https://nav.al/long-term>

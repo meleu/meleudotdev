@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Book Review: O Apanhador no Campo de Centeio
 
 ## Por que eu li esse livro?

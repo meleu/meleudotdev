@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Regra da Parsimônia - The Art of Unix Programming
 
 **Escreva um grande programa apenas quando for claro por demonstração que nada mais serve.**

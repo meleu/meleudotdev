@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Book Review: Segredos da Mente Milionária
 
 #livro/financas 

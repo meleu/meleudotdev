@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Capítulo 5: Pods
 
 ### Raciocinando com Pods

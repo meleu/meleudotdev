@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # 3 Practices for Effective DevOps Adoption
 
 - #video <https://youtu.be/MCPrtYxuVPU>

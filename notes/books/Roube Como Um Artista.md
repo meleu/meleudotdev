@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Book Review: Roube Como Um Artista
 
 #livro/artes

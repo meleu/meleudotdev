@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Book Review: O Valor do Amanha
 
 ## Por que eu li esse livro?

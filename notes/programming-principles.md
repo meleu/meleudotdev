@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Programming Principles
 
 ## Separation between intention and implementation

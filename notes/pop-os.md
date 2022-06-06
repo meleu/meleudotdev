@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Pop! OS
 
 ## Things I'm missing

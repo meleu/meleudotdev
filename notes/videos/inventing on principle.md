@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Bret Victor - Inventing on Principle
 
 Find a guiding principle for your work, and use that to guide what you do.

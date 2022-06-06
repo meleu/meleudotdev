@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # mermaid
 
 - live editor: <https://mermaid-js.github.io/mermaid-live-editor>

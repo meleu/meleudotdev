@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # kubectl tricks
 
 ## Delete all evicted pods

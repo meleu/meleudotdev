@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## The Problem with Microservices - Dave Farley
 
 - <https://youtu.be/V3NQt5KP7EM>

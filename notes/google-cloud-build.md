@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Google Cloud Build
 
 Reading <https://cloud.google.com/build/docs/overview> I stumbled upon a really interesting information:

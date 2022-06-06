@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Digital Garden
 
 Definition from <https://nesslabs.com/digital-garden-set-up>:

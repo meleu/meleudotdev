@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Book Review: Androides Sonham Com Ovelhas Eletricas
 
 #livro/scifi

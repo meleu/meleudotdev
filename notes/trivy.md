@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # trivy
 
 Trivy is a vulnerability scanner for containers (and other artifacts).

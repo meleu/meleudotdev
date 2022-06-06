@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Microservices - Código Fonte TV
 
 - <https://youtu.be/_2bDOCTnbKc>

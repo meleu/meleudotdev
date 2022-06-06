@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Evolutionary Architecture & Microservices - Rebecca Parsons
 
 - <https://youtu.be/WhHtVUlJNA0>

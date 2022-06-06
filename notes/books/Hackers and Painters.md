@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Book Review: Hackers and Painters
 
 ## Por que eu li esse livro?

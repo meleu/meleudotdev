@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Microsserviços muito além da teoria: a prática da concepção ao deploy - André Nobre
 
 - <https://youtu.be/OZ5NgGUheII>

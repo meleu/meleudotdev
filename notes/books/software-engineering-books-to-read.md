@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Software Engineering Books To Read
 - [[Code Complete]] - 2nd Edition - Steve McConnel
 

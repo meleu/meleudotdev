@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # DevOps Katas
 
 - https://github.com/eficode-academy/git-katas

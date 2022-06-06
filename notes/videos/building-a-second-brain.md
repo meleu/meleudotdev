@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Building a Second Brain
 
 - <https://www.youtube.com/watch?v=k2lTg6jgg3U>

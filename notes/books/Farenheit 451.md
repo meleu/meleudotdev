@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Book Review: Farenheit 451
 
 #livro/distopia

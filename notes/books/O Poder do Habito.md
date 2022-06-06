@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Book Review: O Poder do Hábito
 
 ## Por que eu li esse livro?

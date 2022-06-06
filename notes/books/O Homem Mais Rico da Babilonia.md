@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Book Review: O Homem Mais Rico da Babilonia
 
 #livro/financas

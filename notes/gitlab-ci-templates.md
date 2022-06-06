@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # gitlab-ci templates
 
 - <https://youtu.be/PkHt6jyMy7E?t=1320> (yeah, it starts at 22 minutes)

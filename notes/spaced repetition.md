@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Spaced Repetition
 
 - <https://leananki.com/how-to-use-anki-tutorial/> - nice tutorial about Anki!

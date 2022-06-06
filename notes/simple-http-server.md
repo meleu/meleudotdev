@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 From: <https://gist.github.com/willurd/5720255>
 
 ## Meta

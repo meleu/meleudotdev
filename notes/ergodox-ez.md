@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Ergodox EZ
 
 Neste #artigo falo da minha experiência com o teclado [Ergodox EZ](https://ergodox-ez.com/). Trata-se de um teclado mecânico split (dividido em duas peças, o que traz benefícios ergonômicos) e altamente customizável.

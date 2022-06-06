@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Book Review: The Art of Unix Programming
 
 #livro/nerd #unix

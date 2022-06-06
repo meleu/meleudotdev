@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Regra da Transparência - The Art of Unix Programming
 
 **Projete para visibilidade para tornar mais fácil a inspeção e a depuração.**

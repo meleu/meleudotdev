@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Pragmatic Microservices - Randy Shoup
 
 **Note:** very good talk! About how to do Microservices correctly.

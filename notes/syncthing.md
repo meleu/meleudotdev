@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # How To Sync ALL Your Stuff With Syncthing (Linux + Android Guide)
 
 **Stuff. You’ve Got It.**

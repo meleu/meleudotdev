@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Sql\*Plus
 
 ## Imagem da Oracle com o Sql\*Plus

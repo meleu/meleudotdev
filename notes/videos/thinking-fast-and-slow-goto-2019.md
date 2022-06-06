@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # GOTO 2019 • Thinking Fast and Slow • Linda Rising
 
 - <https://youtu.be/XjbTLIqnq-o>

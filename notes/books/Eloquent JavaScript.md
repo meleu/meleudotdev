@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Book Review: Eloquent JavaScript
 
 #livro/nerd #js

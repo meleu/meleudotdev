@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Capítulo 3: Implantação de um cluster Kubernetes
 
 Neste capítulo há instruções para criar um cluster kubernetes para começar a praticar.

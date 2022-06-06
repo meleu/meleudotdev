@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Cloud Native DevOps with Kubernetes
 
 ### Chapter 1

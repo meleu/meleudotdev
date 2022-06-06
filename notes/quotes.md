@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # quotes / citações
 
 ## Malcolm Gladwell - Blink: A decisão num piscar de olhos

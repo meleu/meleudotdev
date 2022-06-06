@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # How To Format Shell Programs Using Shfmt In Linux
 
 from

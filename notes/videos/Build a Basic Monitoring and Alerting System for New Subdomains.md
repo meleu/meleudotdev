@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # 5 Minutes to Build a Basic Monitoring and Alerting System for New Subdomains
 
 - <https://youtu.be/gWpX1Exqzes>

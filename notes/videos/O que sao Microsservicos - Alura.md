@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## O que são Microsserviços - Alura
 
 - <https://youtu.be/jSnLOoGjQ80>
