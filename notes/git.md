@@ -1,24 +1,91 @@
----
-dg-publish: true
----
 # git
 
-## links
+## learn
 
+- <https://thoughtbot.com/upcase/mastering-git>
 - <https://github.com/eficode-academy/git-katas> - deliberate git practice
-
-### egghead.io
-
 - <https://egghead.io/q/git>
+- <https://blog.bitsrc.io/how-to-utilize-submodules-within-git-repos-5dfdd1c62d09> - How to Utilize Submodules within Git Repos
 
-### gitflow
 
+## gitflow
+
+- [[gitflow]]
 - Interesting video (portuguese): <https://www.youtube.com/watch?v=wzxBR4pOTTs>
 - Good doc: <https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow>
 - cheatsheet: <https://danielkummer.github.io/git-flow-cheatsheet/index.html>
 
 
-## getting the latest commit hash
+## random tips
+
+### how to find large commits in git history
+
+from: <https://stackoverflow.com/a/42544963/6354514>
+
+```bash
+git rev-list --objects --all |
+  git cat-file --batch-check='%(objecttype) %(objectname) %(objectsize) %(rest)' |
+  sed -n 's/^blob //p' |
+  sort --numeric-sort --key=2 |
+  cut -c 1-12,41- |
+  $(command -v gnumfmt || echo numfmt) --field=2 --to=iec-i --suffix=B --padding=7 --round=nearest
+```
+
+
+### verbose git
+
+```bash
+GIT_TRACE=true \
+  GIT_CURL_VERBOSE=true \
+  GIT_SSH_COMMAND="ssh -vvv" \
+  GIT_TRACE_PACK_ACCESS=true \
+  GIT_TRACE_PACKET=true \
+  GIT_TRACE_PACKFILE=true \
+  GIT_TRACE_PERFORMANCE=true \
+  GIT_TRACE_SETUP=true \
+  GIT_TRACE_SHALLOW=true \
+  git command...
+```
+
+### revert a commit
+
+Undoing **and removing** commits that were not yet pushed to the remote repository:
+```sh
+# reverting a commit
+# the '--hard' option discards the changes made in the commits being reverted.
+git reset --hard HEAD~1
+
+# the number after the tilde '~' sets the amount of commits to be reverted
+# example reverting last 3 commits:
+git reset --hard HEAD~3
+
+# reverting the commit but keeping the changes
+# (this is equivalent to use --soft)
+git reset HEAD~1
+
+# once you're happy with the changes you've made, let's ammend that commit
+git commit --amend -m 'commit message'
+```
+
+Undoing **and removing** commits that were already pushed to the remote repository
+
+**WARNING**: Don't do this in master or develop branch! Only do this when working alone in a branch!
+```sh
+# reverting a commit
+git reset --hard HEAD~1
+
+# force push a new commit history to the remote repository
+git push --force
+```
+
+Reverting changes through a new commit actually changing the files to the previous state.
+```sh
+# create a new commit changing the commit but in the reverse way
+git revert <commit-hash>
+```
+
+
+### getting the latest commit hash
 
 ```sh
 git log origin/master --max-count=1 --no-merges --format='format:%h'
@@ -28,7 +95,7 @@ git log origin/master --max-count=1 --no-merges --format='format:%h'
 
 For more info about formatting see `man git log`.
 
-## copy of the remote repository
+### copy of the remote repository
 
 You cloned a repo, changed some stuff and then regretted. The only thing you want is an exact copy of the remote repo.
 
@@ -76,18 +143,21 @@ $ git remote remove tempremote
 ```
 
 
-## testing a pull request
+### testing a pull request
 
+TARGET DECK: git
+
+testing a pull request again #flashcard
 ```sh
 git fetch origin pull/1234/head:pr-1234
 git checkout pr-1234
-
 # git fetch <repo> pull/<pr-id>/head:<local-branchname>
 # git checkout <local-branchname>
 ```
+<!--ID: 1625054083408-->
 
 
-## gitconfigs to be applied to specific directories
+### gitconfigs to be applied to specific directories
 
 If you work for multiple clients - or if you work for a company and contribute to open source projects - you probably already faced the situation where you made a git commit with the wrong account. Now the github commit history has your real name and your work email... :/
 
