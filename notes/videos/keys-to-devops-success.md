@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Keys to DevOps Success with Gene Kim
 
 - #video <https://youtu.be/dbkj0qXQ22A>

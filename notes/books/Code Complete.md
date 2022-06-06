@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Book Review: Code Complete
 
 ## Why did I read this book?

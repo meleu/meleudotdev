@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Capítulo 2: Criando e executando contêineres
 
 > O Kubernetes é uma plataforma para criação, implantação e gerenciamento de __aplicações distribuídas__.

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Martin Fowler - Microservices
 
 - <https://youtu.be/Irlw-LGIJO4>

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # The Psychology of Human Misjudgement - Charlie Munger Full Speech
 
 - #video  https://www.youtube.com/watch?v=pqzcCfUglws

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # my tools
 
 - [[tmux 1]]

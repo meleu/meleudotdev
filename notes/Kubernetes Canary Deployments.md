@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Introduction
 
 Testing out a new feature or upgrade in production is a stressful process. You want to roll out changes frequently but without affecting the user experience. To minimize downtime during this phase, set up canary deployments to streamline the transition.

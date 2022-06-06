@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## 3 Common Pitfalls in Microservice Integration & How to Avoid Them - Bernd Rücker
 
 - <https://youtu.be/7uvK4WInq6k>

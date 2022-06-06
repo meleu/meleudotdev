@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # A Path to Better Programming - Uncle Bob & Allen Holub
 
 - <https://youtu.be/QnmRpHFoYLk>

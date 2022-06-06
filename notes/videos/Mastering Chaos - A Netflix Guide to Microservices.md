@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Mastering Chaos - A Netflix Guide to Microservices
 
 - <https://youtu.be/CZ3wIuvmHeM>

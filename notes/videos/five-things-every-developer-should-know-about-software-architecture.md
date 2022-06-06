@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # GOTO 2020 • Five Things Every Developer Should Know about Software Architecture • Simon Brown
 
 - #video <https://youtu.be/9Az0q2XHtH8>

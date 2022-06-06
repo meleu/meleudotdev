@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # LibreOffice Calc
 
 ## issues with numbers treated as text

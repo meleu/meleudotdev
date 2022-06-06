@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # SonarQube
 
 ## SAST - Static Application Security Testing

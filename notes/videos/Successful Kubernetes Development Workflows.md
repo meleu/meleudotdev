@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Successful Kubernetes Development Workflows - Ellen Körbes
 
 - <https://youtu.be/9csPAXYEf7M>

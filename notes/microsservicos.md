@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Estudando Microsserviços
 
 ## Referências

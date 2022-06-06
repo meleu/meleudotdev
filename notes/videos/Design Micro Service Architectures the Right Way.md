@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Design Micro Service Architectures the Right Way
 
 ## Misconceptions

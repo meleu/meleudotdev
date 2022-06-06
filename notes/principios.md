@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Meus Princípios
 
 #life

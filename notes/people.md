@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # People that worth paying attention to
 
 ## Great Master

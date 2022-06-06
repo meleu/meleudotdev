@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Random Notes about Java
 
 ## lombok

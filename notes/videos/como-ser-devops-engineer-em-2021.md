@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # COMO SER UM DEVOPS ENGINEER OU SRE EM 2021
 
 - <https://www.youtube.com/watch?v=Z_GTtWzoHOA>

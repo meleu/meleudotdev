@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Agile is Dead
 
 - #video <https://youtu.be/a-BOSpxYJ9M>

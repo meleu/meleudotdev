@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # instant gratification
 
 Ouvi isso no Primocast #11:

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Book Review: Pai Rico, Pai Pobre
 
 #livro/financas 

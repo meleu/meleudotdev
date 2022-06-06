@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Vault - HashiCorp
 
 [[Secret Management with Vault]]

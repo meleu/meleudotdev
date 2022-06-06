@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Regra da Clareza - The Art of Unix Programming
 
 **Clareza é melhor que esperteza.**

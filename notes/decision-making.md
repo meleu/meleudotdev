@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Decision Making
 
 ## Malcolm Gladwell - Blink: A decisão num piscar de olhos

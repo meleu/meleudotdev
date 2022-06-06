@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Book Review: Mais Esperto que o Diabo
 
 ## Por que eu li esse livro?

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Secret Management with Hashicorp's Vault • Daniel Bornkessel • GOTO 2018
 
 ## Por que focar no Vault?

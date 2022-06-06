@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # GitLab for Complex CI/CD: Robust, Visible Pipelines
 
 - #video <https://youtu.be/qy8A7Vp_7_8>

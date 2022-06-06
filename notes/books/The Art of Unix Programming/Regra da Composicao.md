@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Regra da Composição - The Art of Unix Programming
 
 **Projete programas para serem conectados a outros programas.**

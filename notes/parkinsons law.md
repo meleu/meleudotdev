@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Parkinson's law
 
 It's actually an adage that says:

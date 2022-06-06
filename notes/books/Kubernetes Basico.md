@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # livro: Kubernetes Básico
 
 - [[01-introducao]]

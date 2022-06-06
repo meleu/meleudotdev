@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Capítulo 1: Introdução
 
 ### Infraestrutura Imutável

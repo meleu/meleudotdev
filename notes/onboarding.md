@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Onboarding issues in large-scale open source projects
 
 Interesting ideas/suggestions about how to make things easier for new contributors.

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Whimsical Flowcharts Tutorial
 
 - #video <https://youtu.be/ARbjNYc_lKA>

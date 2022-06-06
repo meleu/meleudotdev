@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # The Operating System of You by Shawn @swyx Wang
 
 - #video <https://youtu.be/IzK4IxHv3W0>

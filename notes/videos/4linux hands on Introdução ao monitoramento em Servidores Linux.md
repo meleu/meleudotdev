@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Introdução ao monitoramento em Servidores Linux
 
 ### monitoring and alert systems

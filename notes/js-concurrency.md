@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # JavaScript Concurrency
 
 Some lessons learned from <https://www.executeprogram.com/courses/javascript-concurrency>.

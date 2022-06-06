@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Integração Contínua (CI) do ZERO ao Sonarqube
 
 - <https://youtu.be/oObcolQppS8>

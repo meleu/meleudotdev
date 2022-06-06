@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # GOTO 2014 • Five Years of DevOps: Where are we Now? • Michael T. Nygard
 
 - #video <https://youtu.be/mFv5dcv7UzE>
