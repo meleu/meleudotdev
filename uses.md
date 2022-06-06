@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # meleu uses
 
 These are the tools I use:
