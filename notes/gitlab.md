@@ -3,6 +3,11 @@ dg-publish: true
 ---
 # gitlab CI/CD
 
+## certification
+
+- [GitLab Certified CI/CD Specialist](https://about.gitlab.com/services/education/gitlab-cicd-specialist/)
+
+
 ## test this
 
 <https://docs.gitlab.com/ee/user/project/pages/getting_started/pages_from_scratch.html>
@@ -42,9 +47,4 @@ services:
 #    entrypoint: ["dockerd-entrypoint.sh"]
     command: ["--insecure-registry=registry-domain-name-1", "--insecure-registry=registry-domain-name-2"]
 ```
-
-## Questions?
-
-- How to get (via API requests) the repositories where a pipeline finished successfully in the master branch?
-
 
