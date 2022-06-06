@@ -19,7 +19,7 @@ These are the tools I use:
 - terminal multiplexer: [[tmux]]
 - editor of choice: [[vim]] (migrating to [[neovim]])
 - editor for more complex code: [[vscode]] (using [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim) plugin to have vim keybindings and other [neo]vim features, otherwise I wouldn't be productive)
-- knowledge management (aka building my second brain): [[Obsidian]]
+- knowledge management (aka building my second brain): [[obsidian]]
 - spaced repetition: [[anki]]
 
 

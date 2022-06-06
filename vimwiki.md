@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # vimwiki cheatsheet
 
 _[number] refers to the wiki number, set by the order in your vimrc. The default is 1._
