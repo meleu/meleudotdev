@@ -12,3 +12,8 @@ nmap <C-l> :nohl
 set clipboard=unnamed
 
 set tabstop=2
+
+" WARNING: this [obcommand] is not a formal API that Obsidian provides
+" and is done in a rather hacky manner. It's definitely possible that
+" some future version of Obsidian will break this functionality.
+exmap q obcommand workspace:close
