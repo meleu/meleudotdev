@@ -23,6 +23,9 @@ exmap dark obcommand theme:use-dark
 
 exmap reveal obcommand file-explorer:reveal-active-file
 
+exmap lsbar obcommand app:toggle-left-sidebar
+exmap rsbar obcommand app:toggle-right-sidebar
+
 " https://github.com/esm7/obsidian-vimrc-support#surround-text-with-surround
 exmap wiki surround [[ ]]
 map [[ :wiki
