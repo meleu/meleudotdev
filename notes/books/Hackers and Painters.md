@@ -11,12 +11,6 @@ Eu costumo gostar dos artigos que o Paul Graham publica em seu site:
 <http://paulgraham.com/>
 
 
-## O livro em 3 frases
-
-1. ???
-2. ???
-3. ???
-
 
 ## Citações
 
@@ -53,6 +47,7 @@ Pick your battles
 
 
 
-## O que eu aprendi?
+## principal aprendizado
 
-## Comentários
+**Pick your battles!**
+

@@ -27,8 +27,17 @@ A minha parte favorita do livro (e que acredito que o resume muito bem) é:
 
 
 
-## O que eu aprendi?
+## principal aprendizado
 
 A raciocinar melhor quando preciso decidir entre o que ter/fazer agora ou no futuro.
 
-## Comentários
+**Quando você escolhe fazer algo, você automaticamente está escolhendo não fazer todo o resto.**
+
+(Não tenho certeza se realmente li isso 👆 neste livro, mas quando lembro do livro, essa é uma das coisas que me lembro)
+
+Elaborando um pouco mais com um exemplo:
+
+Você tem um conjunto de coisas que gosta e/ou precisa fazer (exemplo: programar, ler bons livros).
+
+Algumas vezes a curiosidade nos leva a ver notícias, fatos inúteis e/ou fofocas. Quando gasto tempo com esse conteúdo, estou automaticamente escolhendo não programar, não ler um bom livro.
+

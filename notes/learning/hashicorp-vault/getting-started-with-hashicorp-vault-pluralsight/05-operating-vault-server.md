@@ -11,11 +11,11 @@ dg-publish: true
 - Barrier
 - Storage Backend
 
-![[notes/learning/vault/hashicorp-vault-pluralsight/assets/Pasted image 20211117101044.png]]
+![[notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117101044.png]]
 
 ### Inside the Barrier
 
-![[notes/learning/vault/hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png]]
+![[notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png]]
 
 Example:
 

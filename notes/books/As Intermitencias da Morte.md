@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-# Resenha: As Intermitências da Morte
+# As Intermitências da Morte
 
 Em um determinado país, após a virada do ano a morte parou de chegar. O que a princípio parece ser uma benção demonstra ser um grande fardo.
 
