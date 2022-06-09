@@ -32,7 +32,7 @@ sudo timedatectl set-timezone ${timezone}
 
 ## Disable root connections via ssh
 
-Edit `/etc/ssh/sshd_config`, replaceing:
+Edit `/etc/ssh/sshd_config`, replacing:
 ```sh
 #PermitRootLogin yes
 ```
