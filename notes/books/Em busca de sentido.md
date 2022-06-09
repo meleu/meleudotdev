@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Em Busca de Sentido
 
 ## principal aprendizado

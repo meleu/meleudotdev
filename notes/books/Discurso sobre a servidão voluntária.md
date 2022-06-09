@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Discurso Sobre a Servidão Voluntária
 
 Achei bacaninha. Apesar de ter o seu valor histórico, é um discurso muito marcado pela crítica ao absolutismo/monarquia.

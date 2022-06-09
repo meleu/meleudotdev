@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Crime and Punishment
 
 An interesting thing is that I found some similarities with The Catcher in the Rye. Specially the fact that the main character is a depressive guy, disillusioned with life.

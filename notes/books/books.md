@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # books I read
 
 ## reading
