@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Checking if directory is empty
 
 Although not very readable, this is what I believe is the most effective way:
