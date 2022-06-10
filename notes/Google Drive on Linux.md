@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Google Drive on Linux
 
 ## PopOS! / GNOME
