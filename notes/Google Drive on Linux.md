@@ -120,6 +120,21 @@ unison \
 # you didn't followed the steps above to install unison
 ```
 
-Once you confirm it works as expected, let's make it synchronize our google drive.
+Once you confirm it works as expected, let's create a preferences file for unison:
 
+```
+# this should be in ~/.unison/gdrive.prf
+# Unison preferences to sync my Obsidian files on google drive
+label = gdrive Obsidian
+logfile = /home/${user}/.unison/gdrive.log
+root = /home/${user}/source
+root = /home/${user}/gdrive/target
+ignore = Path .git
+batch = true
+repeat = watch
+copyonconflict = true
+prefer = newer
+contactquietly = true
+silent = true
+```
 
