@@ -56,12 +56,70 @@ systemctl enable --user gdrive.service
 ```
 
 
-### Syncrhonizing
+### Synchronizing
 
-to read...
+#### Install `unison`
 
-https://en.jveweb.net/archives/2010/11/synchronizing-folders-with-rsync.html
-
-https://www.baeldung.com/linux/synchronize-linux-directories#using-unison-program
+Download an awesome tool named `unison`:
 
 https://github.com/bcpierce00/unison
+
+> [!important]
+> Do not install from your package manager, as it won't come with the file system monitor.
+>
+> Download from the [releases page](https://github.com/bcpierce00/unison/releases/) instead.
+
+I've download this file here: <https://github.com/bcpierce00/unison/releases/download/v2.52.1/unison-v2.52.1+ocaml-4.14.0+x86_64.linux.tar.gz>
+
+And then:
+```bash
+# the file was downloaded in the ~/Downloads dir
+cd ~/Downloads
+
+# create a tmp dir for unison
+mkdir unison-dir
+
+# uncompress the files into the right dir
+tar xvzf unison-v2.52.1+ocaml-4.14.0+x86_64.linux.tar.gz \
+  -C unison-dir
+
+cd unison-dir
+
+# move the binaries to /usr/local/bin
+sudo mv bin/* /usr/local/bin/
+rmdir bin
+
+# move the docs to a proper dir
+mkdir -p /usr/local/share/unison
+mv * /usr/local/share/unison
+
+# DONE! The unison is now "installed"
+```
+
+#### Testing `unison`
+
+Let's test unison:
+
+```bash
+# create two empty directories
+mkdir -p ~/tmp/{source,target}
+cd ~/tmp
+
+# now run this command to keep directories 'source' and
+# 'target' synchronized.
+# (took from: https://jpcercal.com/en/how-to-create-a-bidirectional-file-sync-using-unison/
+unison \
+  -repeat watch \
+  -copyonconflict \
+  -prefer newer \
+  source/ \
+  target/
+
+# NOTE: if the command above breaks due to a
+# "Filesystem watcher error", it's probably because
+# you didn't followed the steps above to install unison
+```
+
+Once you confirm it works as expected, let's make it synchronize our google drive.
+
+
