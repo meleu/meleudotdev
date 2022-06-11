@@ -4,6 +4,16 @@
       "type": "file",
       "title": "now",
       "path": "now.md"
+    },
+    {
+      "type": "file",
+      "title": "books",
+      "path": "notes/books/books.md"
+    },
+    {
+      "type": "file",
+      "title": "Rediet",
+      "path": "private/cambly/Rediet/Rediet.md"
     }
   ]
 }
