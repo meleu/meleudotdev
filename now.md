@@ -3,17 +3,16 @@ dg-publish: true
 ---
 # What I'm into *now*
 
-## finite goal
+## Studying
 
-- [ ] [[notes/learning/gcp/index]]
-- [ ] [[notes/learning/k8s/kubernetes-the-hard-way/index]]
-- [x] [[notes/learning/gitlab-ci-nana/index]]
+- [ ] [[notes/learning/gcp/index|Google Cloud Provider - Pluralsight]]
+- [ ] [[notes/learning/k8s/kubernetes-the-hard-way/index|Kubernetes the Hard Way]]
+- [x] [[notes/learning/gitlab-ci-nana/index|GitLab-CI - Nana]]
 
+## 2022 goals
 
-## habit
-
-- Write for <https://meleu.sh> on a weekly basis.
-
+- [ ] GCP Associate Certificate Engineer
+- [ ] CKAD
 
 ## reading
 

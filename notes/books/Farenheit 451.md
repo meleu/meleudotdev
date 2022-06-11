@@ -11,11 +11,7 @@ Lido em fevereiro/2019
 
 Iniciei o ano de 2019 com a intenção de ler sobre distopias. E esse livro acabou sendo uma excelente leitura.
 
-## O livro em 3 frases
-
-1. Mostra como a sociedade do espetáculo é uma espécie de servidão voluntária.
-2. ???
-3. ???
+O livro mostra como a sociedade do espetáculo é o combustível que causa a [[Discurso sobre a servidão voluntária|servidão voluntária]].
 
 ## Citações
 
@@ -56,7 +52,8 @@ Beatty falando sobre como surgiu a nova função dos bombeiros (queimar livros):
 [[mediocridade#^58baf2]]
 
 
+## principal aprendizado
 
-## O que eu aprendi?
+Excesso de entretenimento é o que permite a servidão voluntária.
 
-## Comentários
+
