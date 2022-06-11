@@ -14,7 +14,7 @@ Many good reviews saying that experienced programmers benefit from the knowledge
 
 > Software construction is the central acitivity in software development; construction is the only activity that's guaranteed to happen on every project.
 
-This book uses the term "software constructions" to refer to "coding".
+This book uses the term "software construction" to refer to "coding".
 
 > In the final analysis, your understanding of how to do constructions determines how good a programmer you are.
 
@@ -23,20 +23,22 @@ Just like in building constructions, those who understand how to do it are good 
 
 ### Chapter 2 - Metaphors for a Richer Understanding of Software Development
 
-Metaphors are heuristics, not algorithms. Therefore they are not mutually exclusive (you can use more than one metaphor to better understand software).
+Metaphors are heuristics, not algorithms. Therefore they are not mutually exclusive, you can use more than one metaphor to better understand software. Choose one that works for you and for your target audience.
 
 #### Algorithm vs. Heuristic
 
 ^f43b96
 
- > An algorithm is a set of well-defined instructions for carrying out a particular task. (...) A heuristic is a technique that helps you look for an answer.
- > (...) An algorithm gives you the instructions directly. A heuristic tells you how to discover the instructions for yourself, or at least where to look for them.
+ > An algorithm is a set of well-defined instructions for carrying out a particular task. (...) **A heuristic is a technique that helps you look for an answer.**
+ > 
+ > (...) An algorithm gives you the instructions directly. **A heuristic tells you how to discover the instructions for yourself, or at least where to look for them.**
+ > 
 > (...) Here is an algorithm for driving to someone's house: Take Highway 167 south to Puyallup. Take the South Hill Mall exit and drive 4.5 miles up the hill. Turn right at the light by the grocery store, and then take the first left. Turn into the driveway of the large tan house on the left, at 714 North Cedar.
 > Here's a heuristic for getting to someone's house: Find the last letter we mailed you. Drive to the town in the return address. When you get to town, ask someone where our house is. Everyone knows us—someone will be glad to help you. If you can't find anyone, call us from a public phone, and we'll come get you.
 
 (it's an example from a time where GPS and Google Maps weren't that common)
 
-I was amazed by this. To know what heuristics is. I noticed that it's quite common to get myself looking for the "heuristics" for doing something instead of blindly accepting the algorithm being offered. It's good to know it has a name.
+I was amazed by this. To know what heuristics is. I noticed that it's quite common to get myself looking for the "heuristics" for doing something instead of blindly accepting the "algorithm" being offered. It's good to know it has a name.
 
 What I was used to say: "I don't want to just solve **this** problem. I want to **know how to solve** the same kind of problem everytime I face it."
 

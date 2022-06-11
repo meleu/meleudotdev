@@ -19,14 +19,14 @@ Lembrei que tinha esse livro na minha (enorme) lista de "livros que quero ler" e
 
 ## Citações
 
-> Those who do not understand Unix are comdemned to reinvent it, poorly.
--- Henry Spencer Usenet signatuyre, November 1987
+> Those who do not understand Unix are condemned to reinvent it, poorly.
+-- Henry Spencer Usenet signature, November 1987
 
 ---
 
 Um sinal de que conhecer sobre as "fundações" (ou "princípios fundamentais") de um determinado assunto é uma atitude que vale a pena:
 
-> Machines have increased a thousandfold in power, languages have mutated, industry jpractice has gone through multiple revolutions - and Unix hangs in there, still producing, still paying the bills, and still commanding loyalty from many of the best and brightest software technologists on the planet.
+> Machines have increased a thousandfold in power, languages have mutated, industry practice has gone through multiple revolutions - and Unix hangs in there, still producing, still paying the bills, and still commanding loyalty from many of the best and brightest software technologists on the planet.
 
 ---
 
