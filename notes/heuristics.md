@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Heuristics
 
 It's a way to think how to discover a solution rather than having a solution.
