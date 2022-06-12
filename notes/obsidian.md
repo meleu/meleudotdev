@@ -2,15 +2,15 @@
 dg-publish: true
 ---
 # Obsidian
-
-#tools 
+> [!warning]
+> There are outdated notes from when I was just starting with obsidian.
 
 ## TODO
 
 - [x] tab == 2 spaces
 - [x] install Anki
 - [x] install Obsidian_to_Anki
-- [ ] periodically sync with git
+- [x] periodically sync with git
 
 ## shortcuts
 
@@ -35,18 +35,7 @@ dg-publish: true
 
 ## Synchronizing with git
 
-- <https://youtu.be/H6ipjzaN2WY>
-
-```sh
-gstatus="$(git status --porcelain)"
-if [ ${#gstatus} -ne 0 ]; then
-  git add --all
-  git commit -m "Automated sync: ${gstatus}"
-  git pull --rebase
-  git push
-fi
-```
-
+Use a plugin named Obsidian Git
 
 ## Synchronizing with anki
 
