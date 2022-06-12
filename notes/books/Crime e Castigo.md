@@ -3,7 +3,7 @@ dg-publish: true
 ---
 # Crime and Punishment
 
-An interesting thing is that I found some similarities with The Catcher in the Rye. Specially the fact that the main character is a depressive guy, disillusioned with life.
+An interesting thing is that I found some similarities with [[O Apanhador no Campo de Centeio|The Catcher in the Rye]]. Specially the fact that the main character is a depressive guy, disillusioned with life.
 
 The main difference is that Crime and Punishment is heavier, and darker. Addressing more miserable situations, mainly the ones caused by poverty.
 

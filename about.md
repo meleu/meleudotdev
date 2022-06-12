@@ -1,10 +1,10 @@
 ---
-dg-publish: false
+dg-publish: true
 ---
 
 # Hi! 👋 I'm meleu
 
-Some facts about me:
+## Short version
 
 - 🐧 I'm a Linux nerd since the late 90s
 
@@ -25,3 +25,8 @@ Some facts about me:
 - 🕹️ I also love [RetroAchievements](https://retroachievements.org/) 👾
 
 - 📚 Maybe you can know more about me seeing the list of [[books]] I read.
+
+
+## Long version
+
+To be done...
