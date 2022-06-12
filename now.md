@@ -16,5 +16,5 @@ dg-publish: true
 
 ## reading
 
-- [ ] [[Os 7 Hábitos das Pessoas Altamente Eficazes]]
+- [ ] [[Os 7 Hábitos das pessoas Altamente Eficazes]]
 - [ ] [[Crime e Castigo]]

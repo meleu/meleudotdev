@@ -7,6 +7,11 @@ As they say "tell me who you hang out with, and I'll tell you who you are"...
 
 Maybe this list can tell a bit about who I am.
 
+**Notes**:
+
+1. The list here is uncategorized and purely chronological (I like to read fiction, non-fictional, technical books and whatever gets my interest).
+2. Most of the non-technical books are in portuguese.
+
 ## currently reading
 
 - [[Crime e Castigo]]
@@ -32,6 +37,9 @@ Maybe this list can tell a bit about who I am.
 - [[Como Ler Livros]]
 - [[Ghost in the Shell]]
 - [[O Livro de Deus]]
+- [[Filho Rico Filho Vencedor]]
+- [[Business Model You]]
+
 
 
 ## 2021
@@ -52,6 +60,7 @@ Maybe this list can tell a bit about who I am.
 - [[System Design Interview]]
 - [[Microsserviços prontos para a produção]]
 - [[Kubernetes Basico]]
+- [[O mais importante para o investidor]]
 
 
 
@@ -61,6 +70,8 @@ Maybe this list can tell a bit about who I am.
 - [[Nijigahara Holograph]]
 - [[Matadouro 5]]
 - [[Big Fish]]
+- [[Independencia Financeira (Pai Rico Pai Pobre)]]
+- [[Habitos Atomicos]]
 
 #### unfinished
 
@@ -104,6 +115,7 @@ Maybe this list can tell a bit about who I am.
 - [[Mais Esperto que o Diabo]]
 - [[A Arte de fazer Acontecer]]
 - [[Boa noite Punpun]]
+- [[HTML & CSS - Jon Duckett]]
 
 
 ## read in the past
@@ -113,3 +125,15 @@ Maybe this list can tell a bit about who I am.
 - [[O cavaleiro inexistente]]
 - [[O visconde partido ao meio]]
 - [[Roube Como Um Artista]]
+- [[As aventuras de Tom Sawyer]]
+- [[As aventuras de Huckleberry Finn]]
+- ⭐ [[Buda - Osamu Tezuka]]
+- [[Desventuras em Serie]]
+- [[Substitutos]]
+- [[V de Vinganca]]
+- [[Tres Sombras]]
+- [[Azul é a cor mais quente]]
+- [[A Metamorfose]]
+- [[The Art Spirit]]
+- [[As cronicas do gelo e fogo]]
+
