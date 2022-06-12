@@ -3,11 +3,11 @@ dg-publish: true
 ---
 # Ergodox EZ
 
-Neste #artigo falo da minha experiência com o teclado [Ergodox EZ](https://ergodox-ez.com/). Trata-se de um teclado mecânico split (dividido em duas peças, o que traz benefícios ergonômicos) e altamente customizável.
-
-O teclado possui menos teclas do que os ABNT2 que estou acostumado a utilizar aqui no Brasil. E como sou usuário intensivo de vim, linha de comando, e teclas de atalho na maioria dos programas que uso, tive que passar por um processo de adaptação.
+Falo aqui da minha experiência com o teclado [Ergodox EZ](https://ergodox-ez.com/). Trata-se de um teclado mecânico split (dividido em duas peças, o que traz benefícios ergonômicos) e altamente customizável.
 
 Neste artigo vou falar da motivação de ter comprado esse teclado, de quanto custou, primeiras impressões. Pretendo também descrever como foi esse processo de adaptação e compartilhar algumas dicas que você pode usar caso tenha um perfil de uso parecido com o meu.
+
+
 
 ## motivação
 
@@ -74,6 +74,8 @@ Algumas informações relevantes sobre perfil de uso e as consequências disso:
     - com muita frequência meu mindinho direito chega na direita para procurar o `Enter`
 
 
+## Minha opinião depois de um ano usando o Ergodox EZ
 
+Continuo achando muito top e acredito que fiz um excelente investimento! Se um dia esse teclado der defeito, é muito provável que eu compre um outro teclado split e ortolinear.
 
 
