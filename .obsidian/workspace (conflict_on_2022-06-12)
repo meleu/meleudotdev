@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "7f2a45bd8fa28420",
+    "type": "split",
+    "children": [
+      {
+        "id": "19b0a267ed0438c7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/books/Os 5 Desafios das Equipes.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc913522f57cea97",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6f2b5448e1884cc6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "77eec67439b59b51",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7621850e2e2dd42a",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "032f0327982a975d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "28eac11f3bbc5c45",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "notes/books/Os 5 Desafios das Equipes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d142fb0dd9aebb29",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "notes/books/Os 5 Desafios das Equipes.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "19b0a267ed0438c7",
+  "lastOpenFiles": [
+    "notes/books/Os 5 Desafios das Equipes.md",
+    "books.md",
+    "notes/books/Os 7 Hábitos das pessoas Altamente Eficazes.md",
+    "notes/books/As cronicas do gelo e fogo.md",
+    "notes/books/Desventuras em Serie.md",
+    "notes/books/Farenheit 451.md",
+    "notes/mediocridade.md",
+    "about.md",
+    "notes/Compound Interests.md",
+    "questions/linux - how to check if a directory is empty?.md"
+  ]
+}

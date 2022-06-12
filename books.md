@@ -136,4 +136,5 @@ Maybe this list can tell a bit about who I am.
 - [[A Metamorfose]]
 - [[The Art Spirit]]
 - [[As cronicas do gelo e fogo]]
-
+- [[A Invencao de Hugo Cabret]]
+- [[O BGA - Bom Gigante Amigo]]
