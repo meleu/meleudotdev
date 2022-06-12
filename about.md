@@ -22,7 +22,7 @@ dg-publish: true
 
 - 🤓 I write a blog (**in portuguese**) totally focused on the terminal environment: <https://meleu.sh>
 
-- 🕹️ I also love [RetroAchievements](https://retroachievements.org/) 👾
+- 🕹️ I love [RetroAchievements](https://retroachievements.org/) 👾
 
 - 📚 Maybe you can know more about me seeing the list of [[books]] I read.
 
