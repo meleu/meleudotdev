@@ -11,4 +11,4 @@ Definition from <https://nesslabs.com/digital-garden-set-up>:
 Tools I use to build my digital garden:
 
 - [[obsidian]]
-- [[using obsidian-digital-garden]] <-- follow the instructions here
+- [[using obsidian-digital-garden]] plugin <-- follow the instructions here
