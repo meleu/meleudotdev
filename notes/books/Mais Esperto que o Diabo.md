@@ -1,15 +1,11 @@
 ---
 dg-publish: true
 ---
-# Book Review: Mais Esperto que o Diabo
+# Mais Esperto que o Diabo
 
 ## Por que eu li esse livro?
 
-## O livro em 3 frases
-
-1. 1
-2. 2
-3. 3
+Recomendação do Primo 
 
 ## Citações
 
