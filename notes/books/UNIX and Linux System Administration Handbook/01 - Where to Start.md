@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Chapter 1 - Where to Start
 
 Interesting things I learned while reading this chapter.
