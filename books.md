@@ -19,6 +19,7 @@ Maybe this list can tell a bit about who I am.
 
 ## 2022
 
+- [[Digital Zettelkasten - Principles, Methods, and Examples]]
 - [[Discurso sobre a servidão voluntária]]
 - [[12 Regras Para a Vida]]
 - [[Eu, Robô]]
