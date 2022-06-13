@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # VPC and Virtual Machines in GCP
 
 ### Virtual Private Cloud (VPC) Network
