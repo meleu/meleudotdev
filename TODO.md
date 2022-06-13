@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # TODO
 
 - [ ] use my own domain meleu.dev
