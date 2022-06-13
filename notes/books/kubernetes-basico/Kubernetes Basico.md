@@ -54,20 +54,3 @@ launch http://localhost:48858
 ```
 
 
-
-
-
----
-
-
-## video Kubernetes Up & Running - interview with Brendan Burns
-
-- <https://youtu.be/Nr3i2r-ffnc>
-
-An interview with Brendan Burns, co-founder of Kubernetes and co-author of "Kubernetes Up & Running"
-
-> It's important to pull yourself out of the mainline, but find those areas where you can have an impact and where you can contribute.
-
-> The worst thing you can do is keep yourself in the mainline when you're a blocker.
-
-> Even sophisticated developers want to use unsophisticated, easy-to-use tools.

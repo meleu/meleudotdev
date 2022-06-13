@@ -89,7 +89,7 @@ Maybe this list can tell a bit about who I am.
 - ⭐ [[O homem mais rico da Babilônia]]
 - [[O apanhador no campo de centeio]]
 - [[101 perguntas e respostas para investidores iniciantes]]
-- ⭐ [[Segredos da Mente Milionaria]]
+- ⭐ [[Segredos da Mente Milionária]]
 - [[Os capitaes da areia]]
 - ⭐ [[Flores para Algernon]]
 - [[Admirável mundo novo]]

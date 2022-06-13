@@ -4,7 +4,7 @@ dg-publish: true
 # Software Engineering Books To Read
 - [[Code Complete]] - 2nd Edition - Steve McConnel
 
-- [[notes/books/The Art of Unix Programming/index|The Art of Unix Programming]] - Eric S. Raymond
+- [[The Art of Unix Programming|The Art of Unix Programming]] - Eric S. Raymond
 
 - Manual de DevOps
 
