@@ -11,12 +11,6 @@ Lido em 2019.
 
 Para tentar aprender como me relacionar melhor com o dinheiro e não depender de um trabalho que não me traz satisfação.
 
-## O livro em 3 frases
-
-1. 1
-2. 2
-3. 3
-
 ## Citações favoritas
 
 ### Conta da diversão
@@ -37,7 +31,7 @@ Por que conta da diversão?
 
 > Quem tem mentalidade pobre valida a sua própria inépcia financeira com comparações irrelevantes. Afirma: "O dinheiro não mais importante que o amor". Ora, essa é uma comparação equivocada. O que é mais importante: o seu braço ou sua perna? É óbvio que ambos tem importância!
 
-### Riqueza !== Status
+### Riqueza != Status
 
 > Os ricos sabem gerir suas finanças. Eles não são mais inteligentes que os outros, apenas têm hábitos diferentes e mais positivos em relação às finaças.
 
@@ -55,7 +49,9 @@ Por que conta da diversão?
 
 ### Vida fácil
 
-> Se você só estiver disposto a realizar o que é fácil, a vida sedrá difícil. Mas, se concordar em fazer o que é difícil, a vida será fácil.
+^80fb35
+
+> Se você só estiver disposto a realizar o que é fácil, a vida será difícil. Mas, se concordar em fazer o que é difícil, a vida será fácil.
 
 
 ### outras...
@@ -70,7 +66,7 @@ Por que conta da diversão?
 
 
 
-## O que eu aprendi?
+## Principal aprendizado
 
 **Nunca estabeleça um teto para sua receita.**
 
@@ -78,6 +74,5 @@ Trocar tempo por dinheiro é uma péssima estratégia. Pois como tempo é um rec
 
 Você precisa se divertir!
 
-## Comentários gerais
 
 

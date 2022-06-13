@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-# Book Review: The Art of Unix Programming
+# The Art of Unix Programming
 
 #livro/nerd #unix
 
@@ -59,10 +59,6 @@ Entendi isso como "a importância de empoderar os leigos em programação."
 16. [[Regra da Diversidade]]: Desconfie de todas reivindicações de "o caminho verdadeiro".
 17. [[Regra da Extensibilidade]]: Projete para o futuro, pois ele estará aqui mais cedo do que você pensa.
 
-
-## O que eu aprendi?
-
-## Comentários
 
 ## Outros livros mencionados
 

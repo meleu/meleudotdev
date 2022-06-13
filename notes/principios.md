@@ -26,6 +26,6 @@ dg-publish: true
      
 - Focarei em construir ativos antes de começar a comprar passivos. [[Pai Rico, Pai Pobre]]
 
-- Não estabeleça um teto para sua receita. [[Segredos da Mente Milionaria]]
+- Não estabeleça um teto para sua receita. [[Segredos da Mente Milionária]]
     - Como tempo é um recurso finito, trocar tempo por dinheiro é estabelecer um limite para sua receita.
 
