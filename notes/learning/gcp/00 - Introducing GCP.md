@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Introducing GCP
 
 - Welcome to GCP Fundamentals
