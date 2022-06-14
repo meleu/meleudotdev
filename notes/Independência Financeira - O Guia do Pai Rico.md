@@ -3,13 +3,10 @@ dg-publish: true
 ---
 # Independência Financeira - O Guia do Pai Rico
 
-Sendo bem franco, achei esse livro bem enrolado. Achei meio que a mesma coisa que o [[Pai Rico, Pai Pobre]], só que requentado.
+Algumas sacadas interessantes a respeito dos "4 quadrantes".
 
-No entanto teve um trecho que ficou marcado pra mim. Se me lembro bem é sobre uma conversa do Kiyosak com o Pai Rico dele, onde o Pai diz algo assim:
 
-> Se você não está sendo feliz durante o seu caminho para o enriquecimento, dificilmente será feliz quando já estiver rico.
 
-(não tenho muita certeza se é nesse livro que tem essa citação, pode também ter sido no [[Filho Rico Filho Vencedor]])
 
 ## Citações
 
