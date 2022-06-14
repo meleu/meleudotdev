@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Regra 01: Costas eretas, ombros para trás
 
 Meu resumo:
