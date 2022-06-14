@@ -7,7 +7,7 @@ dg-publish: true
 
 - [ ] [[GCP|Google Cloud Provider - Pluralsight]]
 - [ ] [[Kubernetes the Hard Way|Kubernetes the Hard Way]]
-- [x] [[notes/learning/gitlab-ci-nana/index|GitLab-CI - Nana]] - ✅ done!
+- [x] [[GitLab CICD - Nana course|GitLab-CI - Nana]] - ✅ done!
 
 ## 2022 goals
 
