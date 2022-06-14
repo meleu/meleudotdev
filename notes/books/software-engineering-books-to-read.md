@@ -22,7 +22,7 @@ dg-publish: true
 
 - Padrões de Projeto - Gang of Four
 
-- Pragmatic Programmer - David Thomas & Andrew Hunt
+- [[Pragmatic Programmer]] - David Thomas & Andrew Hunt
 
 
 

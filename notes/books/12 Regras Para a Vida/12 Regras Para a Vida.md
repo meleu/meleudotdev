@@ -7,7 +7,7 @@ Gostei do livro. Encontrei várias partes que não concordo, mas até mesmo disc
 
 O melhor de tudo é que esse livro junto com minha esposa e a cada "regra" íamos discutindo cada uma delas. Isso definitivamente foi melhor do que se eu tivesse simplesmente lido o livro sozinho.
 
-## Regra 00 - Introdução
+## Introdução
 
 No finalzinho da introdução encontrei um trecho interessante.
 
@@ -17,13 +17,8 @@ Isso me remete a um aprendizado que tive quando li [[Segredos da Mente Milionár
 
 A meu ver, aprimorarmos a nós mesmos é uma maneira muito mais efetiva de aprimorar o coletivo do que simplesmente ficar tentando concertar/melhorar os outros. Em outras palavras, aprimorar a nós mesmos gera um ROI muito maior.
 
-Outro trecho que me chamou a atenção, e que depois eu observei que é mais desenvolvido durante o decorrer do livro, é:
-
-> Talvez, se vivêssemos corretamente, conseguríamos resistir ao conhecimento da nossa própria fragilidade e mortalidade, sem o sentido de vitimização agravada, o que produz, primeiramente, o ressentimento, depois a inveja e, então o desejo por vingança e destruição.
-
-
-## Regra 01: Costas eretas, ombros para trás
-
+## As 12 Regras
+- [[Regra 01 - Costas eretas, ombros para trás]]
 
 ## Regra 02: Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade
 
