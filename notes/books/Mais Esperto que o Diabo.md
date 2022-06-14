@@ -16,6 +16,8 @@ Sobre a veracidade do "Diabo" que foi entrevistado:
 
 ### Fracasso: uma benção disfarçada
 
+^ceb8eb
+
 > De cristo até Edson, os homens que mais realizaram foram os que mais se depararam com formas duradouras de fracasso temporario.
 
 
