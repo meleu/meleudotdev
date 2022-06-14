@@ -27,8 +27,6 @@ Metaphors are heuristics, not algorithms. Therefore they are not mutually exclus
 
 #### Algorithm vs. Heuristic
 
-^f43b96
-
  > An algorithm is a set of well-defined instructions for carrying out a particular task. (...) **A heuristic is a technique that helps you look for an answer.**
  > 
  > (...) An algorithm gives you the instructions directly. **A heuristic tells you how to discover the instructions for yourself, or at least where to look for them.**
@@ -63,7 +61,8 @@ It generally costs less to use pre-built components than coding all of them from
 
 ## What did I learn?
 
-[[#^f43b96]]
+[[#Algorithm vs Heuristic]]
+
 
 
 

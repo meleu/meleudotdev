@@ -9,4 +9,4 @@ Trecho retirado do [[Independência Financeira - O Guia do Pai Rico]]:
 
 Acredito que isso é um papo que demonstra a importância do TDD, pois obtemos rapidamente um feedback a respeito do que está errado.
 
-Esse papo também me faz lembrar do [[Mais Esperto que o Diabo#^ceb8eb]].
+Esse papo também me faz lembrar do [[Mais Esperto que o Diabo#Fracasso uma benção disfarçada]]
