@@ -20,12 +20,12 @@ Nothing really new for me in sections 1, 2 and 3.
 
 ## Things to try at work
 
-- [ ] deploy jobs should have the name of the environment (dev/stage/us-prod/ca-prod)
-- [ ] tests generating a JUnit report <https://www.npmjs.com/package/jest-junit>
-- [ ] integrate the JUnit report with GitLab's UI <https://docs.gitlab.com/ee/ci/yaml/artifacts_reports.html#artifactsreportsjunit>
-- [ ] use the environment keyword in the deploy job <https://docs.gitlab.com/ee/ci/yaml/#environment>
-- [ ] use the `artifacts:report:dotenv` to pass environment variables to the next stages/jobs <
-- [ ] use cache based on changes in `package.json` (and/or lock files)
+- deploy jobs should have the name of the environment (dev/stage/us-prod/ca-prod)
+- tests generating a JUnit report <https://www.npmjs.com/package/jest-junit>
+- integrate the JUnit report with GitLab's UI <https://docs.gitlab.com/ee/ci/yaml/artifacts_reports.html#artifactsreportsjunit>
+- use the environment keyword in the deploy job <https://docs.gitlab.com/ee/ci/yaml/#environment>
+- use the `artifacts:report:dotenv` to pass environment variables to the next stages/jobs <
+- use cache based on changes in `package.json` (and/or lock files)
     - depends on removing tests from cloudbuild
     - <https://docs.gitlab.com/ee/ci/caching/>
     - advanced `config.toml` configuration: <https://docs.gitlab.com/runner/configuration/advanced-configuration.html>
