@@ -7,6 +7,15 @@ by Nana
 
 <https://techworld-with-nana.teachable.com/courses/enrolled/1769488>
 
+Nothing really new for me in sections 1, 2 and 3.
+
+- [[4 - GitLab Architecture]]
+- [[5 - CI-CD pipeline for Node.js Application]]
+- [[6 - Optimize CI-CD Pipeline & Configure Multi-Stage Pipeline]]
+- [[7 - CI-CD MicroService Application (Mono and Polyrepo)]]
+- [[8 - Deploy Microservices to Kubernetes cluster]]
+
+
 ---
 
 ## Things to try at work
@@ -22,16 +31,4 @@ by Nana
     - advanced `config.toml` configuration: <https://docs.gitlab.com/runner/configuration/advanced-configuration.html>
 - use GitLab's SAST (but with `allow_failure`): <https://docs.gitlab.com/ee/user/application_security/sast/>
     - I've noticed in the `gl-sast-report.json` that some vulnerabilities were found but the job finished successfully.
-
-
----
-
-
-Nothing really new for me in sections 1, 2 and 3.
-
-- [[4 - GitLab Architecture]]
-- [[5 - CI-CD pipeline for Node.js Application]]
-- [[6 - Optimize CI-CD Pipeline & Configure Multi-Stage Pipeline]]
-- [[7 - CI-CD MicroService Application (Mono and Polyrepo)]]
-- [[8 - Deploy Microservices to Kubernetes cluster]]
 
