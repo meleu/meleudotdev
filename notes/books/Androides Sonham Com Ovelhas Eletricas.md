@@ -29,12 +29,9 @@ Gostei dessa metáfora:
 
 > -- Bagulho é todo tipo de coisa inútil como correspondencias sem importância, caixa de fósforos vazia, embalagem de chiclete ou homeojornal de ontem. Quando ninguém está por perto, o bagulho se reproduz.
 > (...)
+> 
 > -- Existe a Primeira Lei do Bagulho: Bagulho expulsa o não bagulho
 > (...)
+> 
 > -- Ninguém pode vencer o bagulho, a não ser temporariamente (...) como em meu apartamento (...). Mas um dia eu vou morrer ou ir embora, e então o bagulho voltará a tomar conta de tudo. É um princípio universal que opera por todo o cosmo; o universo inteiro está se movendo na direção de um estado final de total e absoluta bagulhificação.
 
-
-
-## O que eu aprendi?
-
-## Comentários
