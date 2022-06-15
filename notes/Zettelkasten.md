@@ -23,7 +23,5 @@ In the Zettelkasten system ideas must be atomic. Here are some atomic ideas I ha
 - having a shared myth is what allows humans to dominate the planet
 - the metrics shapes the behavior
 - inveja
-- vingança
-- mediocridade
 - what to do after vimtutor
 - vim text objects

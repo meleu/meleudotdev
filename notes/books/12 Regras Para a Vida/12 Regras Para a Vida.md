@@ -20,8 +20,8 @@ A meu ver, aprimorarmos a nós mesmos é uma maneira muito mais efetiva de aprim
 
 ## As 12 Regras
 - [[Regra 01 - Costas eretas, ombros para trás]]
+- [[Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade]]
 
-## Regra 02: Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade
 
 ## Regra 03: Seja amigo de pessoas que queiram o melhor para você
 

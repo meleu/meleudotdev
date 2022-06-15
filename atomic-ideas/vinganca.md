@@ -3,8 +3,6 @@ dg-publish: true
 ---
 # vingança
 
-#quote
-
 Santo Agostinho, sobre vingança
 
 > **Todo sentimento de vingança é um ato de ateísmo inconsciente.**
