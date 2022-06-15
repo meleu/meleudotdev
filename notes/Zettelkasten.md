@@ -11,6 +11,7 @@ In the Zettelkasten system ideas must be atomic. Here are some atomic ideas I ha
 
 - the importance of having principles
 - having a shared myth is what allows humans to dominate the planet
+- the metrics shapes the behavior
 - inveja
 - vingança
 - mediocridade
