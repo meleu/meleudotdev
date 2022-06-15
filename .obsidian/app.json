@@ -15,5 +15,6 @@
     "en-US",
     "pt-BR"
   ],
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "readableLineLength": false
 }
