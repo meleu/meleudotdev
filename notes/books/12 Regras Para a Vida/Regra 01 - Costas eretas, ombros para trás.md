@@ -26,7 +26,7 @@ Há também uma citação ao que ele chama como "Princípio de Mateus" (Mateus 2
 
 > Uma verdade incontestável da biologia é que a evolução é conservadora. Quando algo evolui, deve ser construído a partir do que a natureza já produziu. Novas características podem ser acrescentadas e características antigas sofrer alguma alteração, mas a maioria das coisas permanece igual.
 
-Interpretei isso como uma apologia a se manter alinhado com as tradições e então adaptar o que não concorda. Em oposição a negar tudo (niilismo).
+Interpretei isso como uma apologia a se manter alinhado com as tradições e então alterar/adaptar o que julgar necessário (abordagem que eu concordo). Em oposição a negar tudo (aka [[niilismo]]).
 
 Gostei do trecho a seguir, e vejo como um argumento que diz que a natureza/ambiente/contexto está em constante mudança. Portanto algumas "receitas de sucesso" que funcionaram no passado podem não funcionar hoje.
 
@@ -38,7 +38,7 @@ Gostei do trecho a seguir, e vejo como um argumento que diz que a natureza/ambie
 
 O trecho a seguir me faz pensar num período da minha vida que eu não percebia o quanto nossas relações como sociedade e civilização possuem um toque de "seleção natural".
 
-Hoje eu valorizo mais o "teste do tempo". O fato de que "se um comportamento existe há tanto tempo, ele é relevante".
+Hoje eu valorizo mais o "teste do tempo". O fato de que "se um comportamento existe há tanto tempo, ele portanto é relevante".
 
 > conceito equivocado: a natureza é algo estritamente segregado de nossas construções culturais que emergiram dentro dela. A ordem que se insere no caos e na ordem do Ser é **cada vez mais "natural" conforme perdura por mais tempo.** Isso porque "natureza" é "aquilo que seleciona", e quanto mais tempo uma característica tem existido, mais tempo teve para ser selecionada - e para moldar a vida. **Não importa se a característica é física, biológica, *social ou cultural*.**
 
