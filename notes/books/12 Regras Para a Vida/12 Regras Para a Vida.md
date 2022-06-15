@@ -11,6 +11,7 @@ O melhor de tudo é que esse livro junto com minha esposa e a cada "regra" íamo
 
 No finalzinho da introdução encontrei um trecho interessante.
 
+
 > Se cada um de nós viver corretamente, prosperaremos coletivamente.
 
 Isso me remete a um aprendizado que tive quando li [[Segredos da Mente Milionária#^80fb35]], onde o autor diz que quando aprimoramos a nós mesmos, estamos também aprimorando o coletivo.
