@@ -6,7 +6,7 @@
   "useTab": false,
   "tabSize": 2,
   "spellcheck": true,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
   "legacyEditor": false,
