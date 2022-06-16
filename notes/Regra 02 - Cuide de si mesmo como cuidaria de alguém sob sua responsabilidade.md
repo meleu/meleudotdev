@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Regra 02: Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade
 
 O título da regra é meio auto-explicativo. E faz muito sentido. Costumamos cuidar com mais ênfase das outras pessoas do que de nós mesmos. Portanto, cuidar de nós mesmos como cuidamos de alguém com quem a gente se importa é uma boa abordagem.
@@ -18,3 +21,7 @@ O termo "serpente" aqui é uma referência a serpente que ofereceu o fruto proib
 ### Tornar apto ou proteger
 
 > **É muito melhor tornar aptos os Seres que estão sob seus cuidados do que protegê-los.**
+
+
+### O cristianismo estimula o sacrifício
+

@@ -5,7 +5,7 @@ dg-publish: true
 
 ## Por que eu li esse livro?
 
-Recomendação do Primo 
+Recomendação do Primo Rico
 
 ## Citações
 
