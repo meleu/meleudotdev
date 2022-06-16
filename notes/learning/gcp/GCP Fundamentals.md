@@ -7,6 +7,12 @@ dg-publish: true
 
 - [[00 - Introducing GCP]]
 - [[01.00 - Getting Started with GCP]]
+- [[01.01 - The GCP resource hierarchy]]
+- [[01.02 - GCP IAM]]
+- [[01.03 - Interacting with GCP]]
+
+
+## Introduction
 - [[02 - VPC and Virtual Machines in GCP]]
 
 ---
