@@ -20,11 +20,17 @@ Não há muro que consiga nos separar desse mal. Devemos estar preparados para p
 Como diz o B-Negão em Prioridades:
 
 > Nosso maior inimigo somos nós mesmos
+> 
 > Reféns da nossa própria ignorância
+> 
 > (ignorância da própria)
+> 
 > Orgulho
+> 
 > Às vezes o que o espelho mostra é duro de ver
+> 
 > Admitir que o que tu critica
+> 
 > É bem parecido com você
 
 ---
