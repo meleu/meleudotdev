@@ -1,8 +1,8 @@
 ---
 dg-publish: true
 tags:
-  - git
-  - dotfiles
+  - tech/git
+  - tech/dotfiles
 ---
 
 # smart way to manage your dotfiles
