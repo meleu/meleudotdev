@@ -7,6 +7,11 @@ It's a book from [Dave Kadavy](https://kadavy.net/).
 
 A good idea of what the book is can be seen in [this article here](https://kadavy.net/blog/posts/zettelkasten-method-slip-box-digital-example/)
 
+## main takeaway
+
+The book is pretty shallow, but made me 
+
+
 ## Why did I read this book?
 
 I want to improve my Personal Knowledge Management methodology.

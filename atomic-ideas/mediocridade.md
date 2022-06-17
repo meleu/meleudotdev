@@ -3,11 +3,18 @@ dg-publish: true
 ---
 # mediocridade
 
-## Steven Pressfield
-
-Carmen Lúcia, da Nova Acrópole, alega que a seguinte afirmação é de Steven Pressfield em seu livro A Guerra da Arte:
+Carmen Lúcia, da Nova Acrópole, alega que a seguinte afirmação é de Steven Pressfield no livro A Guerra da Arte:
 
 > Existe entre os homens um acordo tácito em prol da mediocridade; quem reage a este pacto é tido como um traidor.
+
+Esse pensamento clickou na minha cabeça.
+
+Já ocorreram varios episódios na minha vida profissional onde o meu entusiasmo foi visto de forma negativa pelos meus colegas.
+
+Isso não tem relação alguma com serviço público vs. privado, isso aconteceu comigo nos dois cenários. Portanto é inerente ao ser humano.
+
+Eu vejo o episódio da Bíblia que conta o início da vida de José, como um exemplo disso. O ressentimento que seus irmãos tinham com ele (foi espancado pelos irmãos e vendido como escravo), é um exemplo desse "acordo em prol da mediocridade".
+
 
 ## Emicida
 
