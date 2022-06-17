@@ -56,4 +56,5 @@ Beatty falando sobre como surgiu a nova função dos bombeiros (queimar livros):
 
 Excesso de entretenimento é o que permite a servidão voluntária.
 
+Ver também [[Discurso sobre a servidão voluntária]].
 

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 issue: 2021-09
 order: 202109-10
 layout: article
@@ -9,9 +9,14 @@ author: meleu
 toc: true
 ---
 
+Originally published in [RANews 2021-09](https://news.retroachievements.org/issues/2021-09/editorial.html)
+
+---
+
 <br>
 
 > "We build computer systems the way we build our cities: over time, without a plan, on top of ruins."
+>
 > -- [Ellen Ullman](https://en.wikipedia.org/wiki/Ellen_Ullman), computer programmer and author.
 
 ## Intro
