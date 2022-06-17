@@ -7,5 +7,5 @@ At some point, most of software will be considered as a commodity. Therefore the
 
 
 ## references
-I saw this idea in the [[GCP Fundamentals]]
+I saw this idea in the introductory part of [[GCP Fundamentals]]
 
