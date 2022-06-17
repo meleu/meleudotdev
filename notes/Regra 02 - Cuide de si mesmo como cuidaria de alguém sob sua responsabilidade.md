@@ -3,7 +3,7 @@ dg-publish: true
 ---
 ## Regra 02: Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade
 
-O título da regra é meio auto-explicativo. E faz muito sentido. Costumamos cuidar com mais ênfase das outras pessoas do que de nós mesmos. Portanto, cuidar de nós mesmos como cuidamos de alguém com quem a gente se importa é uma boa abordagem.
+O título da regra é meio auto-explicativo. E faz muito sentido. Costumamos cuidar com mais ênfase das outras pessoas do que de nós mesmos. Portanto, cuidar de nós mesmos como cuidamos de alguém com quem a gente se importa é uma boa abordagem para a vida.
 
 ### Limites entre ordem e caos
 
