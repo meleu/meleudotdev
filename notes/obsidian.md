@@ -12,12 +12,6 @@ dg-publish: true
 - [x] install Obsidian_to_Anki
 - [x] periodically sync with git
 
-## shortcuts
-
-- `ctrl-o`: open/alternate files
-- `ctrl-shift-i`: open the DevTools
-- `ctrl-,`: open configs
-
 
 ## Things to do after installing
 
@@ -26,9 +20,19 @@ dg-publish: true
 - vim keybinding
 - tab not actual tabs
 - tab == 2 spaces
+
+
+### Plugins
+
 - calendar
-- templates
-- mindmap
+- advanced tables
+- paste image rename
+- icon shortcodes (for emojis)
+- sliding pane
+- paste url into selection (useful for creating links)
+- vimrc
+
+#### Plugins to consider
 - Obsidian_to_anki
 
 
@@ -85,8 +89,4 @@ Remember: use ctrl-p to quickly access the plugin commands.
 - calendar
     - check weekly notes
 - review - set a review day
-- ~~note refactor~~ already available in Core Plugins
 
-## external tools
-
-- https://github.com/zoni/obsidian-export - CLI to export an Obsidian vault to regular Markdown
