@@ -5,7 +5,7 @@ dg-publish: true
 
 Richard Feynman quote:
 
-> You have to keep **a dozen of your favorite problems** constantly present in your mind, although by and large they will lay in dormant state. Every time you hear or read a new trick or a new result, **test against each of your twelve problems** to see wheter it helps. Every once in a while there will be a hit, and people will say "How did he do it? **He must be a genius!**"
+> You have to keep **a dozen of your favorite problems** constantly present in your mind, although by and large they will lay in dormant state. Every time you hear or read a new trick or a new result, **test against each of your twelve problems** to see whether it helps. Every once in a while there will be a hit, and people will say "How did he do it? **He must be a genius!**"
 
 It doesn't need to be exactly 12. Here are mine ones:
 

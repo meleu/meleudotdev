@@ -16,12 +16,14 @@ Isso não tem relação alguma com serviço público vs. privado, isso aconteceu
 Eu vejo o episódio da Bíblia que conta o início da vida de José, como um exemplo disso. O ressentimento que seus irmãos tinham com ele (foi espancado pelos irmãos e vendido como escravo), é um exemplo desse "acordo em prol da mediocridade".
 
 
-## Emicida
+## referências ao mesmo tema
+
+### Emicida
 
 > Aqui cê tem que pedir desculpa por ter feito mais que os outros.
 
 
-## Beatty - Farenheit 451
+### Beatty - Farenheit 451
 
 Trecho de [[Farenheit 451]]: ^58baf2
 
