@@ -9,6 +9,9 @@ Conceitos chave:
 - Ética do Caráter vs. Ética da Personalidade
 - maturidade: dependência -> independência -> interdependência
 - P/CP = Produção / Capacidade de Produção
+- Hábito 1: você é o roteirista e protagonista da sua vida
+- Hábito 2: escreva a sua história. Defina o que você quer e aonde você quer chegar.
+- Hábito 3: faça o que tem que ser feito para chegar aonde você quer chegar.
 
 ---
 
