@@ -101,7 +101,7 @@ O líder deve ser uma referência de comportamento adequado durante um conflito.
 
 ### Papel do líder
 
-Deve se sentir à vontade diante da perspectiva de tomar uma decisão que possa revelar errada com o passar do tempo (tem relação com o [[Os 7 Hábitos das pessoas Altamente Eficazes#^423f64]]).
+Deve se sentir à vontade diante da perspectiva de tomar uma decisão que possa revelar errada com o passar do tempo (tem relação com o [[Habito Eficaz 2 - Comece com o objetivo em mente#Liderar vs Gerenciar]]).
 
 Deve estimular o grupo a chegar a conclusões e aderir ao que a equipe tiver decidido.
 

@@ -1,33 +1,3 @@
----
-dg-publish: true
----
-
-# Os 7 Hábitos das pessoas Altamente Eficazes
-
-## 
-
-
-## Hábito Eficaz 1 - Seja Proativo
-
-O capítulo inteiro basicamente serve para te convencer que você deve se considerar como o "autor" da sua própria vida.
-
-Ou usando uma metáfora computacional: Você é o programador da sua vida.
-
-### Reativo vs. Proativo
-
-| Linguagem Reativa              | Linguagem Proativa                  |
-| ------------------------------ | ----------------------------------- |
-| Não há nada que eu possa fazer | Vamos procurar alternativas         |
-| Sou assim e pronto             | Posso tomar outra atitude           |
-| Ela me deixa louco             | Posso controlar meus sentimentos    |
-| Eles nunca vão aceitar isso    | Vou buscar uma apresentação eficaz  |
-| Tenho de fazer isso            | Preciso achar a resposta apropriada |
-| Não posso                      | Eu escolho                          |
-| Eu preciso                     | Eu prefiro                          |
-| Ah, se eu pudesse              | Eu vou fazer                        |
-
-
-
 ## Hábito Eficaz 2 - Comece com o objetivo em mente
 
 Ainda na metáfora... Se o hábito 1 diz que você é o programador, o hábito 2 diz: escreva o programa!
@@ -52,7 +22,6 @@ Muito frequentemente gastamos uma energia pensando nessa otimização dos proces
 > E como reagem os produtores e gerenciadores, com frequência? Dizem: "Cale a boca! Estamos conseguindo avançar!"
 
 Isso também me lembra a frase "Não administre seu tempo, administre sua energia". Isso pra mim ressoa como "ao invés de ficar com aquela crise de ansiedade gerenciando seu tempo para tentar encaixar mais atividades, decida o que é realmente essencial pra você e invista sua energia nisso." Devo confessar que isso é um pensamento bem influenciado pelo [[Essencialismo]].
-^423f64
 
 ### Centro da nossa vida
 
