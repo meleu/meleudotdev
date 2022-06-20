@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Hábito Eficaz 2 - Comece com o objetivo em mente
 
 Ainda na metáfora... Se o hábito 1 diz que você é o programador, o hábito 2 diz: escreva o programa!

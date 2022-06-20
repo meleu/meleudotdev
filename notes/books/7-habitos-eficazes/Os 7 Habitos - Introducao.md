@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Os 7 Hábitos - De dentro para fora
 
 ### Ética da Personalidade vs. Ética do Caráter

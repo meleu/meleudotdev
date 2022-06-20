@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Is programming for everyone?
 
 In the PrimoTech Podcast I heard something interesting about the question "Is programming for everyone?". One of the participants said that it's a **social decision**.

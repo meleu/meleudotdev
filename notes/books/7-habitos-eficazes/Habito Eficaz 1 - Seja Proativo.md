@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Hábito Eficaz 1 - Seja Proativo
 
 O capítulo inteiro basicamente serve para te convencer que você deve se considerar como o "autor" da sua própria vida.
