@@ -14,7 +14,3 @@ dg-publish: true
 - [ ] GCP Associate Certificate Engineer
 - [ ] CKAD
 
-## reading
-
-- [ ] [[Os 7 Hábitos das pessoas Altamente Eficazes]]
-- [ ] [[Crime e Castigo]]

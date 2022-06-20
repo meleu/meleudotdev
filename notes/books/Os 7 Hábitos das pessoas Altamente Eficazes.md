@@ -4,12 +4,54 @@ dg-publish: true
 
 # Os 7 Hábitos das pessoas Altamente Eficazes
 
-## Hábito 2: Comece com o objetivo em mente
+## 
+
+
+## Hábito Eficaz 1 - Seja Proativo
+
+O capítulo inteiro basicamente serve para te convencer que você deve se considerar como o "autor" da sua própria vida.
+
+Ou usando uma metáfora computacional: Você é o programador da sua vida.
+
+### Reativo vs. Proativo
+
+| Linguagem Reativa              | Linguagem Proativa                  |
+| ------------------------------ | ----------------------------------- |
+| Não há nada que eu possa fazer | Vamos procurar alternativas         |
+| Sou assim e pronto             | Posso tomar outra atitude           |
+| Ela me deixa louco             | Posso controlar meus sentimentos    |
+| Eles nunca vão aceitar isso    | Vou buscar uma apresentação eficaz  |
+| Tenho de fazer isso            | Preciso achar a resposta apropriada |
+| Não posso                      | Eu escolho                          |
+| Eu preciso                     | Eu prefiro                          |
+| Ah, se eu pudesse              | Eu vou fazer                        |
+
+
+
+## Hábito Eficaz 2 - Comece com o objetivo em mente
+
+Ainda na metáfora... Se o hábito 1 diz que você é o programador, o hábito 2 diz: escreva o programa!
+
+O capítulo também tem alguns insights bem maneiros.
+
+### Mutável vs. Imutável
+
+Esse trecho me lembrou muito o [[12 Regras Para a Vida]], quando se fala sobre [[Regra 01 - Costas eretas, ombros para trás#A natureza da natureza]] (é o caos dentro da ordem).
+
+> As pessoas não podem conviver com a mudança se não houver um centro imutável dentro delas. A chave para faculdade de mudar é a sensação imutável do que somos, do que fazemos e do que valorizamos.
+
+
+### Liderar vs. Gerenciar
+
+No livro ele usa uma metáfora usando um exemplo onde precisamos abrir caminho numa mata fechada. O líder é aquele que vai na frente desbravando e abrindo a trilha. Os gerentes são aqueles que vêm depois, tentando otimizar os processos de abrir caminho na mata fechada.
+
+Muito frequentemente gastamos uma energia pensando nessa otimização dos processos sem nem perceber o que estamos fazendo. Sem nem refletir se estamos realmente indo para o caminho que queremos ir.
 
 > O líder é aquele que sobe na árvore mais alta, estuda a situação em seu conjunto e grita: " Estamos na mata errada".
 > 
 > E como reagem os produtores e gerenciadores, com frequência? Dizem: "Cale a boca! Estamos conseguindo avançar!"
 
+Isso também me lembra a frase "Não administre seu tempo, administre sua energia". Isso pra mim ressoa como "ao invés de ficar com aquela crise de ansiedade gerenciando seu tempo para tentar encaixar mais atividades, decida o que é realmente essencial pra você e invista sua energia nisso." Devo confessar que isso é um pensamento bem influenciado pelo [[Essencialismo]].
 ^423f64
 
 ### Centro da nossa vida

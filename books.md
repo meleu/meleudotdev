@@ -3,6 +3,13 @@ dg-publish: true
 ---
 # 📚 books I read
 
+## currently reading
+
+- [[Crime e Castigo]]
+- [[Os 7 Hábitos das pessoas Altamente Eficazes]]
+
+---
+
 As they say "tell me who you hang out with, and I'll tell you who you are"...
 
 Maybe this list can tell a bit about who I am.
@@ -12,10 +19,7 @@ Maybe this list can tell a bit about who I am.
 1. The list here is uncategorized and purely chronological (I like to read fiction, non-fictional, technical books and whatever gets my interest).
 2. Most of the non-technical books are in portuguese.
 
-## currently reading
-
-- [[Crime e Castigo]]
-- [[Os 7 Hábitos das pessoas Altamente Eficazes]]
+---
 
 ## 2022
 
