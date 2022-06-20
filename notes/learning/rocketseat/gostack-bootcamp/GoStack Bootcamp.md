@@ -6,8 +6,6 @@ dg-publish: true
 
 Some notes about what I've been learning in the [GoStack Bootcamp](https://rocketseat.com.br/gostack).
 
-To be honest these notes were not written in a way to be "consumed" by others, but mostly like my personal notes. I'm using a github repo to make it easier to edit/search the notes when working on different computers.
-
 ## Table of Contents
 
 

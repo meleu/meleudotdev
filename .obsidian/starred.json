@@ -14,6 +14,11 @@
       "type": "file",
       "title": "Rediet",
       "path": "private/cambly/Rediet/Rediet.md"
+    },
+    {
+      "type": "file",
+      "title": "raw notes",
+      "path": "notes/raw notes.md"
     }
   ]
 }
