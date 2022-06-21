@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## rules
 
 - IDs are textual description of the topic
