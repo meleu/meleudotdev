@@ -1,6 +1,37 @@
 ---
 dg-publish: true
 ---
+## Os 7 Hábitos - Prefácio
+
+> se você quiser alcançar as suas maiores aspirações e superar os seus maiores desafios, identifique e aplique o princípio ou a lei natural que governa os resultados que você procura.
+
+> Eu sou a força criativa da minha vida.
+
+### Estagnação pessoal
+
+> A natureza humana é quadridimensional: corpo, mente, coração e espírito. Considere as diferenças e os frutos das duas abordagens \[tendência cultural vs. princípio]:
+> 
+> **CORPO**:
+> 
+> - _comum:_ (...) tratar os problemas de saúde com cirurgia e medicamentos.
+> - _princípio:_ evitar doenças e os problemas alinhando o estilo de vida para que fique em harmonia com princípios de saúde estabelecidos e aceitos universalmente.
+> 
+> **MENTE**:
+> 
+> - _comum:_ assistir televisão, \[acessar redes sociais], "entreter-se".
+> - _princípio:_ ler ampla e profundamente, educação contínua
+> 
+> **CORAÇÃO**
+> 
+> - _comum:_ usar relacionamentos para favorecer os seus interesses.
+> - _princípio:_ ouvir profundamente os outros com respeito e servi-los são atitudes que causam enorme realização e alegria. \[entendi, mas isso não bateu forte em mim]
+> 
+> **ESPÍRITO**
+> 
+> - _comum:_ sucumbir a um crescente secularismo e ceticismo.
+> - _princípio:_ reconhecer que a origem da nossa necessidade fundamental de significado e de tudo positivo que buscamos na vida são os *princípios*, cujas leis naturais eu pessoalmente acredito terem sua origem em Deus. \[entendo que o ceticismo radical, beirando o niilismo, é prejudicial, mas essa crença em Deus me soa como "oversimplification"]
+  
+
 ## Os 7 Hábitos - De dentro para fora
 
 ### Ética da Personalidade vs. Ética do Caráter

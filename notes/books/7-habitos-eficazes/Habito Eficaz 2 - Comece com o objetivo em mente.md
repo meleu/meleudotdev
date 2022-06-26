@@ -38,9 +38,9 @@ Fonte de:
 
 ### Sugestões de aplicação
 
-1. [[#1 Registrar as impressões que teve no funeral visualizado no início do capítulo]]
+1. [[#Registrar as impressões que teve no funeral visualizado no início do capítulo]]
 
-2. Dedique alguns momentos a anotar em seus papéis, da maneira como você os encara. Está satisfeito com a imagem obtida no espelho de sua vida?
+2. Dedique alguns momentos a [[#anotar em seus papéis]], da maneira como você os encara. Está satisfeito com a imagem obtida no espelho de sua vida?
 
 3. Reserve algum tempo para se afastar completamente das atividades diárias e se concentrar inteiramente em sua missão pessoal.
 
@@ -48,7 +48,7 @@ Fonte de:
 
 5. Inicie uma coleção de citações, anotações e ideias que pode desejar utilizar como material de pesquisa para redigir sua missão pessoal.
 
-6. Escolha um projeto com o qual se defrontará em um futuro próximo, e aplique o princípio da criação mental. Anote os resultados que pretende atingir e os passos que o levarão a isso.
+6. [[#Escolha um projeto com o qual se defrontará em um futuro próximo]], e aplique o princípio da criação mental. Anote os resultados que pretende atingir e os passos que o levarão a isso.
 
 7. Mostre os princípios do Hábito 2 para sua família e amigos ou colegas de trabalho, e sugira que todos iniciem juntos o processo de desenvolver uma missão familiar ou grupal.
 
@@ -56,7 +56,7 @@ Fonte de:
 ---
 
 
-#### 1. Registrar as impressões que teve no funeral visualizado no início do capítulo.
+#### Registrar as impressões que teve no funeral visualizado no início do capítulo.
 
 - **Família**
     - **Caráter**: Inspirar as pessoas a serem os autores da própria vida. Fazerem o que elas realmente querem fazer. Saber o que quer e conseguir encontrar meios de alcançar o que quer. Se adaptar a realidade ao invés de lamentar que a realidade não é exatamente como gostaríamos que fosse.
@@ -77,4 +77,46 @@ Fonte de:
     - **Caráter**: Inspirar respeito mútuo e entusiasmo por contribuir com algo maior que si mesmo.
     - **Contribuições**: Site de documentação. Ajudar na integração com RetroArch. Elaborar um código de conduta. Criar o RANews. Estimular a participação de um grupo maior de pessoas.
     - **Conquistas**: Ver que vários achievement sets são publicados a cada semana.
+
+---
+
+#### anotar em seus papéis
+
+>  Dedique alguns momentos a anotar em seus papéis, da maneira como você os encara. Está satisfeito com a imagem obtida no espelho de sua vida?
+
+##### Pai
+
+##### Marido
+
+##### Amigo
+
+##### Programador
+
+
+
+
+---
+
+#### 6. Escolha um projeto com o qual se defrontará em um futuro próximo
+
+> Escolha um projeto com o qual se defrontará em um futuro próximo, e aplique o princípio da criação mental. Anote os resultados que pretende atingir e os passos que o levarão a isso.
+
+##### Projeto
+
+Migrar para a área de desenvolvimento web
+
+
+##### Resultados esperados
+
+- Estar imerso em um ambiente que proporcione mais aprendizado.
+- Ter uma visão holística das tecnologias por trás de uma aplicação web.
+- Ter skills pra rapidamente desenvolver aplicações que possam resolver problemas (exemplo: sistema de follow up de logística)
+- Conhecer uma nova linguagem de programação: Ruby
+- O que espero ao me envolver com a linguagem Ruby:
+    - Acredito que a cultura de escrever testes é forte.
+    - Muitos bons livros sobre Orientação a Objetos, "Clean Code" e afins foram escritos por programadores Ruby.
+
+
+##### Passos para atingir os resultados
+- Fazer o bootcamp do Le Wagon em Outubro de 2022
 
