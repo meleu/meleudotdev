@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-## Hábito Eficaz 2 - Comece com o objetivo em mente
+# Hábito Eficaz 2 - Comece com o objetivo em mente
 
 Ainda na metáfora... Se o hábito 1 diz que você é o programador, o hábito 2 diz: escreva o programa!
 
@@ -38,6 +38,24 @@ Fonte de:
 
 ### Sugestões de aplicação
 
+1. [[#1 Registrar as impressões que teve no funeral visualizado no início do capítulo]]
+
+2. Dedique alguns momentos a anotar em seus papéis, da maneira como você os encara. Está satisfeito com a imagem obtida no espelho de sua vida?
+
+3. Reserve algum tempo para se afastar completamente das atividades diárias e se concentrar inteiramente em sua missão pessoal.
+
+4. Vá até o quadro no Apêndice A, mostrando diferentes centros, e faça um círculo em torno de todos aqueles com os quais se identifica. Será que eles mostram um padrão de comportamento em sua vida? Está satisfeito com as implicações de sua análise?
+
+5. Inicie uma coleção de citações, anotações e ideias que pode desejar utilizar como material de pesquisa para redigir sua missão pessoal.
+
+6. Escolha um projeto com o qual se defrontará em um futuro próximo, e aplique o princípio da criação mental. Anote os resultados que pretende atingir e os passos que o levarão a isso.
+
+7. Mostre os princípios do Hábito 2 para sua família e amigos ou colegas de trabalho, e sugira que todos iniciem juntos o processo de desenvolver uma missão familiar ou grupal.
+
+
+---
+
+
 #### 1. Registrar as impressões que teve no funeral visualizado no início do capítulo.
 
 - **Família**
@@ -59,3 +77,4 @@ Fonte de:
     - **Caráter**: Inspirar respeito mútuo e entusiasmo por contribuir com algo maior que si mesmo.
     - **Contribuições**: Site de documentação. Ajudar na integração com RetroArch. Elaborar um código de conduta. Criar o RANews. Estimular a participação de um grupo maior de pessoas.
     - **Conquistas**: Ver que vários achievement sets são publicados a cada semana.
+
