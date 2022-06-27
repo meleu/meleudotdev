@@ -12,7 +12,7 @@ Things to consider:
 - See if the managers understand and encourage the importance of having high quality code. Do they understand that good code implies productivity?
 - See if your team mates care about code quality (it can be overwhelming if you are the only one caring about improving the code quality).
 - Observe if code quality is getting better or worse over time.
-- finally, ask yourself if you really care about the project. If the pain to work with the messy code is bigger than your will to solve it alone, maybe you should simply look for another project.
+- finally, ask yourself if you really care about the project. If the pain to work with the messy code is bigger than your will to address the issue alone, maybe you should look for another project.
 
 
 ## references
