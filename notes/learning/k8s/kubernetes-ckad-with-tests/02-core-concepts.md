@@ -50,7 +50,29 @@ kubectl get nodes
 
 A Pod is the smalles object that you can create in kubernetes.
 
-A Pod can have one or more containers. It's recommended to group in the same pod only containers that need to scale together.
+A Pod can have one or more containers.
+
+**It's recommended to group in the same pod only containers that need to scale together.**
+
+Very minimum Pod yaml:
+```yaml
+# example with nginx
+apiVersion: v1
+kind: Pod
+metadata:
+  name: nginx
+spec:
+  containers:
+  - name: container-nginx
+    image: nginx:1.23
+```
+
+Creating a Pod from CLI:
+```bash
+# example with nginx
+kubectl run nginx --image=nginx:1.23
+```
+
 
 
 ## Recap - YAML in Kubernetes
