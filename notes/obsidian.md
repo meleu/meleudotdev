@@ -5,21 +5,16 @@ dg-publish: true
 > [!warning]
 > There are outdated notes from when I was just starting with obsidian.
 
-## TODO
-
-- [x] tab == 2 spaces
-- [x] install Anki
-- [x] install Obsidian_to_Anki
-- [x] periodically sync with git
-
 
 ## Things to do after installing
 
-^a7ce0d
-
-- vim keybinding
-- tab not actual tabs
-- tab == 2 spaces
+- Editor
+    - vim keybinding
+    - Use tabs - turn off
+    - Strict line breaks (for consistent markdown usage)
+- Files & Links
+    - Automatically update internal links
+    - Default location for new attachments
 
 
 ### Plugins

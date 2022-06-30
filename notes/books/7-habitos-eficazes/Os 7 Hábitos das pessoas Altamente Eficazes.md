@@ -18,3 +18,18 @@ Conceitos chave:
 - [[Os 7 Habitos - Introducao]]
 - [[Habito Eficaz 1 - Seja Proativo]]
 - [[Habito Eficaz 2 - Comece com o objetivo em mente]]
+
+---
+
+### importante vs. urgente
+
+- jogar videogame 
+- estudar
+- tempo de qualidade com os familiares
+- tempo com os amigos
+- exercício fisico
+- dentista
+- finanças
+- organizar my second brain 
+- cuidar do logbots
+- 
