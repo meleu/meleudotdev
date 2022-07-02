@@ -86,8 +86,8 @@ Cloud Spanner is a horizontally scalable RDBMS
 
 Comparison based on use cases:
 
-![[Pasted image 20220613175903.png]]
+![[gcp-storage-options-comparison.png]]
 
 Technical comparison:
 
-![[Pasted image 20220613175747.png]]
+![[gcp-storage-options-comparison-tech.png]]
