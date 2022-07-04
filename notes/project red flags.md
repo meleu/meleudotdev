@@ -27,3 +27,4 @@ vcs tem algum link sobre esse tema?
 ## references
 
 - [[O Mitico Homem-Mes]]
+- Ver também: <https://github.com/viraptor/reverse-interview>
