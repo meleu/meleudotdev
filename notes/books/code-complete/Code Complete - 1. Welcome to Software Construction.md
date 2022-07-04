@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Chapter 1 - Welcome to Software Construction
 
 Activities that go into software development include:

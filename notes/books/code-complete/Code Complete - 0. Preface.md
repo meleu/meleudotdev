@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Preface
 
 I had an epiphany moment about "cost to fix vs cost of not fixing" and it made me remember the concept of [[cost of action vs. cost of inaction]], that I learned from Tim Ferris.
