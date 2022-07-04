@@ -7,10 +7,19 @@ dg-publish: true
 
 Many good reviews saying that experienced programmers benefit from the knowledge in this book.
 
+After reading the first 7 chapters I realized that this book has a lot of "progammer's wisdom". I'm very sure that my time spent reading this book really worth it.
 
-## Favorite quotes
+## Preface
 
-### Chapter 1 - Welcome to **Software Construction**
+I had an epiphany moment about "cost to fix vs cost of not fixing" and it made me remember the concept of [[cost of action vs. cost of inaction]], that I learned from Tim Ferris.
+
+Good quote:
+
+> Software construction is the only activity that's guaranteed to be done. Requirements can be assumed rather than developed; architecture can be shortchanged rather than designed; and testing can be abbreviated or skipped rather than fully planned and executed. But if there's going to be a program, there has to be a construction, and that makes construction a uniquely fruitful area in which to improve development practices.
+
+
+
+## Chapter 1 - Welcome to **Software Construction**
 
 > Software construction is the central acitivity in software development; construction is the only activity that's guaranteed to happen on every project.
 
@@ -21,7 +30,7 @@ This book uses the term "software construction" to refer to "coding".
 Just like in building constructions, those who understand how to do it are good constructors.
 
 
-### Chapter 2 - Metaphors for a Richer Understanding of Software Development
+## Chapter 2 - Metaphors for a Richer Understanding of Software Development
 
 Metaphors are heuristics, not algorithms. Therefore they are not mutually exclusive, you can use more than one metaphor to better understand software. Choose one that works for you and for your target audience.
 
@@ -64,6 +73,3 @@ It generally costs less to use pre-built components than coding all of them from
 [[#Algorithm vs Heuristic]]
 
 
-
-
-## Notes
