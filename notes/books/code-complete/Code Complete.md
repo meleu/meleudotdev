@@ -40,7 +40,21 @@ Now I can say: "I'm looking for the heuristics to solve this problem."
 
 ### 2.3 Common Software Metaphors
 
-#### ✍️ Writing Code
+#### ✍️ Writing Code Metaphor
+
+- Examples: book [[The Elements of Programming Style]]
+- Useful for individual's work or small-scale projects.
+- Where this metaphor does NOT work well:
+    - in writing, a high premium is placed on originality
+    - in software construction, trying to create truly original work is often less effective than focusing on the reuse of design ideas, code and test cases.
+- the writing metaphor implies a software-development process that's too simple and rigid to be healthy.
+- from [[O Mitico Homem-Mes]]:
+    - "Plan to throw one away; you will, any how."
+    - Reply from Craig Zerouni: "If you plan to throw one away, you will throw away two."
+    - My interpretation: "Do not plan to throw away, but be aware that it can happen."
+
+
+#### 🧑‍🌾🌱 Software Farming: Growing a System
 
 
 
