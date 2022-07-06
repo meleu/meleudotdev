@@ -10,6 +10,7 @@ From "Introduction"
 
 > Those of us whose work is to write software are incredibly lucky. Building software is a **guiltless pleasure** because we get to use our creative energy to get things done. We have arranged our lives to have it both ways; we can enjoy the pure act of writing code in sure knowledge that the code we write has use.
 
+
 From 1.1 "In Praise of Design":
 
 > If painful programming were the most cost-effective way to produce working software, programmers would be morally obligated to suffer stoically or to find other jobs.
