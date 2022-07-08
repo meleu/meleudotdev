@@ -40,25 +40,26 @@ Now I can say: "I'm looking for the heuristics to solve this problem."
 
 ### 2.3 Common Software Metaphors
 
-#### ✍️ Writing Code Metaphor
+#### ✍️ Software Penmansip: Writing Code
 
 - Examples: book [[The Elements of Programming Style]]
 - Useful for individual's work or small-scale projects.
 - Where this metaphor does NOT work well:
     - in writing, a high premium is placed on originality
     - in software construction, trying to create truly original work is often less effective than focusing on the reuse of design ideas, code and test cases.
-- the writing metaphor implies a software-development process that's too simple and rigid to be healthy.
-- from [[O Mitico Homem-Mes]]:
-    - "Plan to throw one away; you will, any how."
-    - Reply from Craig Zerouni: "If you plan to throw one away, you will throw away two."
+- "Plan to throw one away; you will, any how." - Fred Brooks, author of [[O Mitico Homem-Mes]]
+    - "If you plan to throw one away, you will throw away two." - Reply from Craig Zerouni
     - My interpretation: "Do not plan to throw away, but be aware that it can happen."
+    - It's not that simple to throw away a very large and expensive project.
 
 
-#### 🧑‍🌾🌱 Software Farming: Growing a System
+#### 🌱 Software Farming: Growing a System
 
 
 
-#### Software Constructions = Building Construction
+#### 🦪 Software Oyster Farming: System Accretion
+
+#### 🏗️ Software Construction: Building Software
 
 > Treating software construction as similar to building construction suggests that careful preparation is needed and illuminates the difference between large and small projects.
 
