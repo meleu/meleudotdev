@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Chapter 2 - Metaphors for a Richer Understanding of Software Development
 
 Metaphors are heuristics, not algorithms. Therefore they are not mutually exclusive, you can use more than one metaphor to better understand software. Choose one that works for you and for your target audience.
