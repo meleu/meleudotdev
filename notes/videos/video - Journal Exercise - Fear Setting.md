@@ -5,6 +5,8 @@ dg-publish: true
 
 The exercise starts at 3:15
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m5woKFjz1GM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Fear Setting exercise
 
 | Define | Prevent | Repair |

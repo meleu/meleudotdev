@@ -5,7 +5,7 @@ dg-publish: true
 
 ## megaman 1
 
-### weakenes
+### weaknes
 
 guts -> cut -> elec -> ice -> fire -> bomb
 
