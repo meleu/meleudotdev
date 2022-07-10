@@ -11,6 +11,7 @@ dg-publish: true
 
 ## 2022 goals
 
-- [ ] GCP Associate Certificate Engineer
+- [ ] ~~GCP Associate Certificate Engineer~~ changed my idea
+- [ ] Learn Ruby
 - [ ] CKAD
 
