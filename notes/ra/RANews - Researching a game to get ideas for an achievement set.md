@@ -4,7 +4,7 @@ issue: 2021-06
 order: 202106-12
 layout: article
 category: DevTip
-title: Researching a Game to Get Ideas for an Interesting Achievement Set
+title: "Researching a Game to Get Ideas for an Interesting Achievement Set"
 author: meleu
 toc: true
 ---

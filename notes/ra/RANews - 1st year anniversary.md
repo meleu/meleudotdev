@@ -47,7 +47,7 @@ Well, I can confirm that. Every month, when RANews contributors send their stuff
 
 I want to share here what I feel while working on RANews. I'd like to make all RANews contributors to feel something similar. You may think you're just doing a small contribution, but I want you to realize that you are part of something bigger. And this "something" becomes better and better with your contributions. I hope you feel happy about it as much as I do.
 
-Every month, when I'm working on [Hotcheevs Monthly](hotcheevs) and see the amount of brand new sets, a smile comes to my face. And the thought that "this community is f***ing awesome!"
+Every month, when I'm working on [Hotcheevs Monthly](hotcheevs) and see the amount of brand new sets, a smile comes to my face. And the thought that "this community is f\*\*\*ing awesome!"
 
 I feel kinda proud because I think the documentation website (a project I started a few years ago) helped to reach that point. But without Code Reviewers showing the ropes to jr-devs, without {% rauser Jamiras %} constantly improving the tools to create achievements, without {% rauser luchaos %} doing his best to keep our ~~buggy~~ website online... The documentation alone wouldn't do that much. It's just a part of something bigger.
 
