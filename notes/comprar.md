@@ -1,0 +1,3 @@
+- fita crepe
+- caderno ata
+- porta giz

@@ -56,9 +56,58 @@ despite the lack of a message-sending dot and an explicit receiver for the messa
 
 
 
+---
 
+## Ruby in Twenty Minutes
 
+From <https://www.ruby-lang.org/en/documentation/quickstart/>
+
+Hello World:
+```ruby
+puts "Hello World!"
+```
+
+In a function:
+```ruby
+def hi(name = "World")
+  # use #{var} to refer to a local variable
+  puts "Hello #{name}!"
+end
+```
+
+Evolving into a `Greeter` class:
+```ruby
+class Greeter
+
+  def initialize(name = "World")
+    # @name is a private property of this class
+    @name = name
+  end
+
+  def say_hi
+    puts "Hi #{@name}!"
+  end
+
+  def say_bye
+    puts "Bye #{@name}, come back soon."
+  end
+
+end
+```
+
+Instantiate a `greeter` object:
+```ruby
+# the 'new' method runs what is in the 'initialize'
+greeter = Greeter.new("Augusto")
+
+# invoking a method without parantheses (they're optional)
+greeter.say_hi
+greeter.say_bye
+```
+
+---
 
 ## references
 
 - [[The Well-Grounded Rubyist]] - 1.1. Basic Ruby language literacy
+- <https://www.ruby-lang.org/en/documentation/quickstart/>
