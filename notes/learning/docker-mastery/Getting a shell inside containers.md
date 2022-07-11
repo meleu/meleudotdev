@@ -3,6 +3,19 @@ dg-publish: true
 ---
 ## Getting a shell inside containers
 
+### Create an ephemerous container and run an interactive shell
+
+```sh
+docker container run --rm -it <imageName> bash # or sh
+# --rm = remove the container right after finishing it
+# -i = --interactive
+# -t = --tty
+
+# sometimes the entrypoint doesn't allow you to run a shell.
+# then you'll need to overwrite the entrypoint
+docker container run --rm -it --entrypoint /bin/sh <imageName>
+```
+
 ### Create a new container and launch an interactive shell inside of it
 
 ```sh
@@ -20,7 +33,7 @@ Example:
 docker container run -it ubuntu # it'll run bash interactively
 ```
 
-### Launch an interactive shell in a running container running dettached
+### Launch an interactive shell in a running dettached container
 
 ```sh
 docker container exec -it <containerName> bash

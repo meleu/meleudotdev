@@ -3,6 +3,9 @@ dg-publish: true
 ---
 ## Installation
 
+> [!NOTE]
+> I wrote this while doing the [[Docker Mastery - udemy]] course. For installing docker I suggest to follow the steps in the official documentation.
+
 ```sh
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
