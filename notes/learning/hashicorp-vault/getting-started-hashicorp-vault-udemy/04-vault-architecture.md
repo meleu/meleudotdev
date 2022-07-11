@@ -49,7 +49,7 @@ dg-publish: true
 
 ## Vault Architecture
 
-![[notes/learning/getting-started-hashicorp-vault/assets/Pasted image 20211102100804.png]]
+![[vault-architecture.png]]
 
 **The Barrier:**
 
@@ -78,7 +78,7 @@ dg-publish: true
 
 ## Vault Data Protection
 
-![[notes/learning/getting-started-hashicorp-vault/assets/Pasted image 20211102120840.png]]
+![[vault-keys.png]]
 
 - Master Key:
     - Used to decrypt the encryption key
@@ -186,7 +186,7 @@ vault server -config <file>
 - **location** for storage of Vault data
 - Open-source users can choose a storage backend based on their preferences.
 
-![[notes/learning/getting-started-hashicorp-vault/assets/Pasted image 20211104171653.png]]
+![[vault-choose-storage-backend.png]]
 
 
 ## Audit Device
@@ -231,4 +231,4 @@ vault audit enable file file_path=/var/log/vault_audit_log.log
 - UI must be enabled via configuration file
 - Authentication is **required** to access any of the interfaces
 
-![[notes/learning/getting-started-hashicorp-vault/assets/Pasted image 20211104174651.png]]
+![[vault-interfaces.png]]

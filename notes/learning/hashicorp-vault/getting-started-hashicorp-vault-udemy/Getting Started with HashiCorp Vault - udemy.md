@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-# Getting Started with HashiCorp Vault
+# Getting Started with HashiCorp Vault - udemy
 
 - <https://www.udemy.com/course/hashicorp-vault/>
 

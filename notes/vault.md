@@ -22,10 +22,10 @@ dg-publish: true
 ## Getting Started
 
 - <https://learn.hashicorp.com/collections/vault/getting-started>
-- <https://www.udemy.com/course/hashicorp-vault/>
-- [[notes/learning/hashicorp-vault-pluralsight/index]]
+- [[Getting Started with HashiCorp Vault - udemy]]
+- [[Getting Started with HashiCorp Vault - Pluralsight]]
 - [[notes/learning/hashicorp-certified-vault-associate-pluralsight/index]]
-- [[notes/learning/getting-started-hashicorp-vault/index]]
+- [[notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/index]]
 
 
 ## Useful links
