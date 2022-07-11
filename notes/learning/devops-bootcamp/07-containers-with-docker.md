@@ -307,7 +307,7 @@ docker-compose -f mongo.yml down
 
 ## 10. Dockerfile - Build your own Docker Image
 
-(see also [the notes "Building Images: The Dockerfile Basics"](00-docker-mastery.md#building-images-the-dockerfile-basics))
+(see also [the notes "Building Images: The Dockerfile Basics"](Docker%20Mastery%20-%20udemy.md#building-images-the-dockerfile-basics))
 
 Dockerfile is a blueprint for creating a Docker image.
 

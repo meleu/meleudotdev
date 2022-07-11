@@ -5,9 +5,10 @@ dg-publish: true
 
 ## Studying
 
-- [ ] [[GCP|Google Cloud Provider - Pluralsight]]
-- [ ] [[Kubernetes the Hard Way|Kubernetes the Hard Way]]
+- [ ] [[Docker Mastery - udemy]]
+- [ ] [[CKAD udemy course]]
 - [x] [[GitLab CICD - Nana course|GitLab-CI - Nana]] - ✅ done!
+- [ ] ~~[[GCP|Google Cloud Provider - Pluralsight]]~~ ❌ changed my mind
 
 ## 2022 goals
 
