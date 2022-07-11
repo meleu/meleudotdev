@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Container Images
 
 - from [[Docker Mastery - udemy]]

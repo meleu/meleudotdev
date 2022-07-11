@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-## Getting a shell inside containers
+## Running a shell inside containers
 
 ### Create an ephemerous container and run an interactive shell
 

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Docker Installation
 
 For the officially supported distributions (CentOS, Debian, Fedora, Raspbian and Ubuntu), it's possible to use the method below:

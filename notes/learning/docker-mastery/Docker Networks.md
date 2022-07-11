@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Docker Networks
 
 - From [[Docker Mastery - udemy]]
