@@ -24,8 +24,9 @@ dg-publish: true
 - <https://learn.hashicorp.com/collections/vault/getting-started>
 - [[Getting Started with HashiCorp Vault - udemy]]
 - [[Getting Started with HashiCorp Vault - Pluralsight]]
-- [[notes/learning/hashicorp-certified-vault-associate-pluralsight/index]]
-- [[notes/learning/hashicorp-vault/getting-started-hashicorp-vault-udemy/index]]
+- [[Hashicorp Certified Vault Associate - pluralsight]]
+- [[Installing and Configuring Hashicorp Vault - pluralsight]]
+- [[Integrating Hashicorp Vault in DevOps Workflows - pluralsight]]
 
 
 ## Useful links
