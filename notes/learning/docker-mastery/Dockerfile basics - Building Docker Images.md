@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Building Images: The Dockerfile Basics
 
 - The default filename is `Dockerfile`, but you can specify with `docker build -f <some-dockerfile>`.
