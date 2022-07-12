@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## What's going on in containers
 
 - `docker container top`: process list in one container
