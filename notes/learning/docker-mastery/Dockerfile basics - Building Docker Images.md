@@ -4,6 +4,7 @@ dg-publish: true
 ## Building Images: The Dockerfile Basics
 
 - The default filename is `Dockerfile`, but you can specify with `docker build -f <some-dockerfile>`.
+- One of the reasons to build containers FROM Debian, Ubuntu, alpine, etc is that we can use their package managers to install new software.
 
 ```Dockerfile
 # FROM tells which image we want to use as a base.
@@ -65,3 +66,8 @@ COPY index.html index.html
 ```
 
 
+### Dockerfile Best Practice
+
+Things you change the most should be at the bottom of the file.
+
+Why? Because when you change a layer, the consecutive ones will need to be rebuilt.
