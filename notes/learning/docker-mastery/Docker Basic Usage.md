@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Basic Usage
 
 ## Running a NginX container
