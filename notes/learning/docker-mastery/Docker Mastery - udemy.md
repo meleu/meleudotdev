@@ -15,9 +15,12 @@ dg-publish: true
 - [[Docker Installation - udemy]]
 - [[Docker Basic Usage]]
 - [[Running a shell inside containers]]
+- [[Docker Mastery - Whats going on inside the containers]]
 - [[Docker Networks]]
 - [[Docker Container Images]]
 - [[Dockerfile basics - Building Docker Images]]
+
+
 
 ---
 
@@ -62,15 +65,6 @@ Besides the foundational knowledge needed to go on with kubernetes, I also want 
 - **ambitious**: get the tools needed to build RetroArch for Windows, Linux, Android, Raspberry Pi (ARM processors).
 
 ---
-
-## What's going on in containers
-
-- `docker container top`: process list in one container
-- `docker container inspect`: details of one container config
-- `docker container stats`: continuous monitor performance stats for all containers
-
-The `docker container stats` is particularly useful to check the memory usage.
-
 
 
 
