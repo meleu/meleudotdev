@@ -79,10 +79,49 @@ docker container exec -it container2 ping container1
 
 **Note**: due to a [bug introduced in alpine 3.11.3](https://github.com/gliderlabs/docker-alpine/issues/539), use `alpine:3.10`.
 
+#### Assignment solution
 
----
+```bash
+# create a network
+docker network create elastic
 
-### CLI Management of Virtual Networks
+# create two containers, connected to the new
+# network and with a network alias.
+docker container run \
+  --detach \
+  --network elastic \
+  --network-alias search \
+  --name esearch1 \
+  elasticsearch:2
+docker container run \
+  --detach \
+  --network elastic \
+  --network-alias search \
+  --name esearch2 \
+  elasticsearch:2
 
-**Note**: replace `nginx` with `nginx:alpine`, because it still has ping command.
+# check the DNS with alpine
+docker container run \
+  --rm \
+  --network elastic \
+  alpine:3.10 \
+  nslookup search
+# it should show the IPs of both containers
+# esearch1 and esearch2
+
+# check with curl using centos
+docker container run \
+  --rm \
+  --network elastic \
+  centos:7 \
+  curl -s search:9200
+# try this 👆 command a few times and see
+# that it randomly gets response from different
+# containers (check the 'name' property).
+
+# to conclude, just remove the containers
+docker container rm -f esearch1 esearch2
+```
+
+
 

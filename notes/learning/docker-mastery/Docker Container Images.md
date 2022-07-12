@@ -11,7 +11,7 @@ What's in an image?
 - Metadata about the image data and how to run the image.
 - Official definition:
     - "An image is an ordered collection of root filesystem changes and the corresponding execution parameters for use within a container runtime."
-
+- Not a complete OS. No kernel or kernel modules. They are all provided by the host system.
 
 ### Docker Hub
 
@@ -28,7 +28,7 @@ Biggest benefits: we're never storing the same image data more than once in our 
 
 #### Copy on Write
 
-When running a container you have a "living" layer on top of the previous one. And when you change something in the filesystem, the changed file is copied from the original layer into the contaner's one. This technique is called **Copy on Write**.
+When running a container you have a "living" layer on top of the previous one. And when you change something in the filesystem, the changed file is copied from the original layer into the container's one. This technique is called **Copy on Write**.
 
 
 #### image `history` and `inspect` commands
