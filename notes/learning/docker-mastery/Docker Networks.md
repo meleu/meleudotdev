@@ -79,3 +79,10 @@ docker container exec -it container2 ping container1
 
 **Note**: due to a [bug introduced in alpine 3.11.3](https://github.com/gliderlabs/docker-alpine/issues/539), use `alpine:3.10`.
 
+
+---
+
+### CLI Management of Virtual Networks
+
+**Note**: replace `nginx` with `nginx:alpine`, because it still has ping command.
+
