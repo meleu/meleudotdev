@@ -23,3 +23,7 @@ dg-publish: true
          - "I wake up and look at myself in the mirror every day. And I say 'if this was the last day I lived would I still do what I'm about to do today'. If the answer is 'no' too many days in a row, I know something has to change."
          - Memento Mori - Remember you will die.
 
+
+### See also
+
+- [[video - Journal Exercise - Fear Setting]]
