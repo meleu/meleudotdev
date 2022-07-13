@@ -23,16 +23,3 @@ dg-publish: true
          - "I wake up and look at myself in the mirror every day. And I say 'if this was the last day I lived would I still do what I'm about to do today'. If the answer is 'no' too many days in a row, I know something has to change."
          - Memento Mori - Remember you will die.
 
-
-
----
-
-Other video: <https://youtu.be/zU7OgLjA5zk>
-
-5 life-changing books:
-
-- the happiness hypothesis
-- atomic habits
-- I will teach you to be reach
-- art of not giving a f\*ck
-- breaking the habit of being yourself
