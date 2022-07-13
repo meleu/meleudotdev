@@ -6,6 +6,10 @@ dg-publish: true
 > Ninguém consegue feri-lo sem o seu consentimento.
 
 
+> Nunca aceite dinheiro em troca daquilo que o dinheiro não pode comprar.
+
+> se você quiser alcançar as suas maiores aspirações e superar os seus maiores desafios, identifique e aplique o princípio ou a lei natural que governa os resultados que você procura.
+
 
 ## references
 

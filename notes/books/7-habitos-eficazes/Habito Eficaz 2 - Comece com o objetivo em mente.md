@@ -49,7 +49,7 @@ Fonte de:
 
 5. Inicie uma coleção de citações, anotações e ideias que pode desejar utilizar como material de pesquisa para redigir sua missão pessoal. (link: [[material para missao pessoal]])
 
-6. [[#Escolha um projeto com o qual se defrontará em um futuro próximo]], e aplique o princípio da criação mental. Anote os resultados que pretende atingir e os passos que o levarão a isso.
+6. [[#6 Escolha um projeto com o qual se defrontará em um futuro próximo]], e aplique o princípio da criação mental. Anote os resultados que pretende atingir e os passos que o levarão a isso.
 
 7. Mostre os princípios do Hábito 2 para sua família e amigos ou colegas de trabalho, e sugira que todos iniciem juntos o processo de desenvolver uma missão familiar ou grupal.
 

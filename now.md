@@ -14,8 +14,8 @@ dg-publish: true
 
 ## 2022 goals
 
-- [ ] ~~GCP Associate Certificate Engineer~~ changed my idea
 - [ ] Learn Ruby
 - [ ] do the Le Wagon bootcamp
 - [ ] CKAD
+- [ ] ~~GCP Associate Certificate Engineer~~ changed my idea
 

@@ -5,7 +5,7 @@ dg-publish: true
 
 O capítulo inteiro basicamente serve para te convencer que você deve se considerar o "autor" da sua própria vida.
 
-Ou usando uma metáfora [[computacional:]] Você é o programador da sua vida.
+Ou usando uma metáfora computacional Você é o programador da sua vida.
 
 Vi em outro lugar, acredito que no [[12 Regras Para a Vida]], algo assim "Você precisa assumir o papel de protagonista da sua vida, ou pode acabar sendo figurante na vida de outra pessoa."
 

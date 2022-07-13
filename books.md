@@ -75,7 +75,6 @@ Maybe this list can tell a bit about who I am.
 - [[Nijigahara Holograph]]
 - [[Matadouro 5]]
 - [[Big Fish]]
-- [[Independencia Financeira (Pai Rico Pai Pobre)]]
 - [[Habitos Atomicos]]
 
 #### unfinished
