@@ -5,7 +5,7 @@
   "newFileFolderPath": "notes",
   "useTab": false,
   "tabSize": 2,
-  "spellcheck": false,
+  "spellcheck": true,
   "showFrontmatter": false,
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,

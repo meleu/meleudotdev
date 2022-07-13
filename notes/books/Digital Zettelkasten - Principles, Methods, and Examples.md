@@ -9,7 +9,7 @@ A good idea of what the book is can be seen in [this article here](https://kadav
 
 ## main takeaway
 
-The book is pretty shallow, but made me 
+The book is pretty shallow, but made me internalize the importance of atomic notes.
 
 
 ## Why did I read this book?
