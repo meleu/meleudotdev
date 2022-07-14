@@ -5,7 +5,7 @@ dg-publish: true
 
 ### Infraestrutura Imutável
 
-Infraestrutura imutável é um conceito fundamental importante para compreender o que o Kubernetes faz.
+Infraestrutura imutável é um conceito fundamental e importante para compreender o que o Kubernetes faz.
 
 Uma vez que um artefato (um container) é criado, ele não é modificado. Se for necessário realizar uma atualização, deve-se construir uma nova imagem de container, e o kubernetes se encarrega de colocar o novo em cima, e matar o antigo. Uma das grandes vantagens é: se o novo estiver bugado, é fácil voltar para a versão anterior.
 
