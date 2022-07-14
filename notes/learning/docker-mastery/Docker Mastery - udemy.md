@@ -20,8 +20,14 @@ dg-publish: true
 - [[Docker Container Images]]
 - [[Dockerfile basics - Building Docker Images]]
 - [[Docker Container Lifetime and Persistent Data]]
+- [[Docker Compose]]
 
 
+
+---
+
+Troubleshooting problems with permissions in containers:
+<https://www.udemy.com/course/docker-mastery/learn/lecture/31063670#questions>
 
 ---
 
@@ -67,6 +73,16 @@ Besides the foundational knowledge needed to go on with kubernetes, I also want 
 
 ---
 
+## Random thoughts about Docker
+
+Main concepts here:
+
+- immutable and ephemeral infrastructure
+- container images are just files/binaries used to run an applicaation (kernel/drivers are provided by the host OS)
+- UFS = Union File System
+- each change in the file system creates a new layer
+- container images are created in Dockerfiles
+- to have persistent data we use volumes
 
 
 
