@@ -35,6 +35,8 @@ Um sinal de que conhecer sobre as "fundações" (ou "princípios fundamentais") 
 
 Entendi isso como "a importância de empoderar os leigos em programação."
 
+Fazendo uma conexão com outras áreas da vida, isso tb está relacionado com a diferença entre Liderar e Gerenciar, mencionada no [[Habito Eficaz 2 - Comece com o objetivo em mente]].
+
 ---
 
 ### Filosofia Unix
