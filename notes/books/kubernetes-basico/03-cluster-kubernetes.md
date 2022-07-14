@@ -5,7 +5,7 @@ dg-publish: true
 
 Neste capítulo há instruções para criar um cluster kubernetes para começar a praticar.
 
-Instalei o minikube (devido ao curso da [Nana](notes/learning/devops-bootcamp/README.md))
+Instalei o minikube (devido ao curso da [Nana](DevOps%20Bootcamp%20-%20Nana.md))
 
 - Instalando kubernetes em um cloud provider:
     - Google Kubernetes Engine
