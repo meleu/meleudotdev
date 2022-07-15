@@ -32,7 +32,7 @@ Questions:
 
 
 
-Ramit's money rules:
+Ramit's money rules ([link](https://www.iwillteachyoutoberich.com/blog/money-rules/)):
 
 1. Always have 1 year of emergency funds, cash
 2. Save 10% and invest 20% of gross income, minimum

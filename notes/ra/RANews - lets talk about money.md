@@ -72,4 +72,3 @@ It's worth mentioning that we don't have any political agenda against money. We 
 Add to it the fact that projects related with emulation is always a "gray area". Making money from it could bring an unwanted attention and we don't want to be involved in any legal problem. This project exists since 2012 and people have been around here creating content for free, to everyone, for all these years. We greatly value this effort and want to preserve that for the future generations.
 
 The main takeaway for entrepeneurs is: everything produced in the RetroAchievements community is free for everyone. It implies that you can use it as you please. You don't even need to ask for permission.
-
