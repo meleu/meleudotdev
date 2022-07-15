@@ -12,6 +12,7 @@ dg-publish: true
 
 #### See also
 
+- [File permissions across multiple containers](https://www.udemy.com/course/docker-mastery/learn/lecture/31063670#questions)
 - [An introduction to immutable infrastructure](https://www.oreilly.com/radar/an-introduction-to-immutable-infrastructure/)
 
 ## Container Lifetime & Persisitent Data
