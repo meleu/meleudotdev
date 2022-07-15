@@ -1,12 +1,3 @@
----
-dg-publish: true
----
-# RA ideas
-
-Things I'd like to see in the RetroAchievements scene.
-
-
-[[RANews - lets talk about money]]
 ## RetroArch
 - Have offline cheevos so we can play with achievements in a gadget like the Miyoo Mini (which runs RetroArch but doesn't have wifi)
 
