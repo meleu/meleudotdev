@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## RetroArch
 - Have offline cheevos so we can play with achievements in a gadget like the Miyoo Mini (which runs RetroArch but doesn't have wifi)
 
