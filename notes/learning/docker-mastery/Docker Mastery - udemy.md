@@ -78,7 +78,7 @@ Besides the foundational knowledge needed to go on with kubernetes, I also want 
 Main concepts here:
 
 - immutable and ephemeral infrastructure
-- container images are just files/binaries used to run an applicaation (kernel/drivers are provided by the host OS)
+- container images are just files/binaries used to run an application (kernel/drivers are provided by the host OS)
 - UFS = Union File System
 - each change in the file system creates a new layer
 - container images are created in Dockerfiles

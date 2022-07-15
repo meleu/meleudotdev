@@ -35,8 +35,9 @@ Durante a leitura deste livro eu percebi que já tive contato com outros que par
     - [[Comece pelo porque]] - Simon Sinek
     - [[Essencialismo]]
     - [[Princípios (Ray Dalio)]]
-
- 
+    - [[Pense e Enriqueca]]
+- Hábito 3: primeiro o mais importante
+    - [[Personal Kanban]]
 
 
 
