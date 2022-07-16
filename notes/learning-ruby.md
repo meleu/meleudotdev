@@ -33,7 +33,7 @@ x = "100".to_i
 
 **Why the double terminology?** (method call vs. messages)
 
-> The more conventional vernacular is "calling the method." In Ruby, though, it's more correct to say you **send a message to a receiving object, and the object executes the corresponding method**. You can put anything to the right of the dot, and there's no guarantee that the receiver will have a method that matches the message you send. (...)
+> The more conventional vernacular is "calling the method." In Ruby, though, it's more correct to say you **send a message to a receiving object, and the object executes the corresponding method**. You can put anything to the right of the dot, and **there's no guarantee that the receiver will have a method that matches the message you send**. (...)
 > 
 > When you see a dot in what would otherwise be an inexplicable position, you should interpret it as a message (on the right) being sent to an object (on the left).
 
