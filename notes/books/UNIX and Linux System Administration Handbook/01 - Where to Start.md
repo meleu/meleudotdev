@@ -9,7 +9,7 @@ Interesting things I learned while reading this chapter.
 
 > Mastering [[vim]] is perhaps the single best productivity enhancement available to administrators.
 
-For scripting it's suggested [[bash]], [[python]] and [[ruby]]. Should I learn ruby? 🤔
+For scripting it's suggested [[bash]], [[python]] and [[ruby]]. Should I learn ruby? 🤔 (see [[learning-ruby]])
 
 There's also a mention to a tool called [[expect]]. I googled about it and became surprised how I didn't know such an old tool. Yeah, maybe I need to invest some time learning it.
 
@@ -18,7 +18,7 @@ There's also a mention to a tool called [[expect]]. I googled about it and becam
 
 > There continue to be hundreds of independent Linux distributions, but our sense is that distributions derived from Debian and Red Hat lineages will predominate in production environments in the years ahead.
 
-> (...) minimalist distributions has been gaining traction. [CoreOS](https://getfedora.org/en/coreos) is leading the charge against the status quo and prefers to run all software in containers. Alpine Linux is a lightweight distribution that is used as the basis of many public Docker images. Given this reductionist trend, we expect the footprint of Linux to shrink over the coming years.
+> (...) minimalist distributions has been gaining traction. [CoreOS](https://getfedora.org/en/coreos) is leading the charge against the status quo and prefers to run all software in containers [NOTE: CoreOS seems to be dead. NixOS looks promising]. Alpine Linux is a lightweight distribution that is used as the basis of many public Docker images. Given this reductionist trend, we expect the footprint of Linux to shrink over the coming years.
 
 Important questions to ask when adopting a distribution:
 
