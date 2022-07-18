@@ -10,6 +10,7 @@ See also: [[Docker Mastery - udemy]]
 
 ## links
 
+- Really good hands-on introduction to docker: <https://github.com/docker/getting-started>
 - <https://labs.play-with-docker.com/> - practice online, directly in your browser.
 
 

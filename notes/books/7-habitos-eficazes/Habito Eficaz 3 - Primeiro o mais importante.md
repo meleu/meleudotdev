@@ -20,7 +20,7 @@ Trabalhar com algo que não me desse a sensação de estar trocando tempo por di
 
 > É a capacidade para tomar decisões e fazer escolhas agindo de acordo com elas. É a habilidade para agir e não permitir que determinem suas ações, de levar adiante seus planos (...)
 > 
-> O fortalecimento vem de aprender a usara este grande dom nas decisões que tomamos todos os dias.
+> O fortalecimento vem de aprender a usar este grande dom nas decisões que tomamos todos os dias.
 
 Essa questão de escolher as nossas ações também me remete a escolher o que queremos colocar na nossa cabeça, o que queremos pensar, aonde devemos gastar nossa energia mental. E isso de certa forma me lembrou o "pick your battles" do terceiro capítulo de [[Hackers and Painters]].
 
@@ -30,7 +30,7 @@ Ainda sobre *vontade independente*, há uma menção a um ensaio chamado *The Co
 
 Isso me lembrou o livro do Seth Godin, *O Melhor do Mundo* (em inglês *The Dip*), onde ele diz que para ser uma estrela:
 
-> você precisa encontrar um campo com um Vão bastante profundo - uma barreira entre aqueles que tentam e aqueles que conseguem. E você precisa chegar ao outro lado. Isso não é para qualquer um. Se fosse, não haveriam estrelas. Se você escolher esse caminho, é porque reconhece que existe um Vão e acredito ser capaz de atravessá-lo.
+> você precisa encontrar um campo com um Vão bastante profundo - uma barreira entre aqueles que tentam e aqueles que conseguem. E você precisa chegar ao outro lado. Isso não é para qualquer um. Se fosse, não haveriam estrelas. Se você escolher esse caminho, é porque reconhece que existe um Vão e acredita ser capaz de atravessá-lo.
 
 
 ### Quatro gerações de administração do tempo
