@@ -112,10 +112,52 @@ Isso é mencionado no [[Habito Eficaz 2 - Comece com o objetivo em mente]]. É i
     - papéis -> metas -> planos -> (planejar ou delegar)
 
 
-### Delegar
-
-
-
-## citações
+### Eficácia vs. Eficiência aplicado a pessoas e coisas
 
 > Devemos pensar em *eficácia* com relação a *pessoas*, e em *eficiência* com relação a *coisas*. [ex.: episódio do rapaz planejando encerrar um namoro com uma ligação de 10 minutos]
+
+
+
+### Delegar
+
+> Muita gente se recusa a delegar poderes aos outros, porque acredita que leva muito tempo, dá muito trabalho e também que é possível fazer o serviço melhor sozinha. Contudo, **delegar poderes é possivelmente a atividade de alto nível mais poderosa que há.**
+> 
+> Transferir as responsabilidades para outras pessoas treinadas e capacitadas permite que você transfira suas energias para outras atividades de alto nível.
+
+
+#### Delegação Restrita vs. Administrativa
+
+A **delegação restrita** é aquela que ordena exatamente como fazer as coisas. "Faça isso, faça aquilo, vá até ali, volte e diga o que foi feito."
+
+Existe um modo melhor, que o autor chama de delegação administrativa.
+
+A **delegação administrativa** está focalizada nos resultados, não nos métodos. Ela dá às pessoas uma oportunidade de escolher o método, e as torna responsáveis pelos resultados. Leva mais tempo, no começo, mas trata-se de um tempo bem gasto.
+
+A delegação administrativa de poderes pressupõe compreensão e comprometimento mútuo com referência a cinco áreas:
+
+1. Resultados desejados:
+    - Focaliza no *o quê*, e não no *como*; *resultados*, e não *métodos*.
+    - Visualize o resultado desejado e faça com que a pessoa o veja também.
+2. Orientação
+    - Estabeleça alguns parâmetros, mas estes devem ser mínimos, pois podem retirar a autonomia da pessoa e levá-las ao cúmulo: "diga o que é pra fazer que eu faço"
+3. Recursos
+    - Identifique os recursos humanos, financeiros, técnicas necessários.
+4. Acompanhamento
+    - Estabeleça padrões de desempenho e o momento em que eles serão avaliados
+5. Consequências
+    - Especifique o que vai acontecer de bom ou ruim como resultado da avaliação.
+
+
+> A confiança é a forma mais elevada de motivação humana. (...) Mas exige tempo e paciência, e não elimina a necessidade de treinar e aprimorar as pessoas, de forma que sua competência possa fazer jus à confiança depositada. (...)
+> 
+> Sem dúvida alguma, você pode arrumar o quarto melhor do que uma criança, mas o xis da questão é dar condições para que ela assuma a tarefa. Isso leva tempo. Você precisa se envolver no treinamento e no amadurecimento dela. Leva tempo, mas quão valioso será esse tempo mais adiante! Você vai se poupar muito, a longo prazo.
+
+
+## Sugestões de Aplicação
+
+1. Identifique uma atividade Quadrante II que tenha sido negligenciada até agora em sua vida - uma atividade que, benfeita, tenha um impacto significativo em sua vida, seja pessoal ou profissional. Anote o que é e comprometa-se a colocá-la em prática.
+2. Prepare uma matriz de administração do tempo e tente estimar a porcentagem de seu tempo gasta em cada quadrante. Depois, acompanhe o tempo gasto, registrando as atividades a cada 15 minutos. Qual é a precisão de sua estimativa? Está satisfeito com o modo como passa seu tempo? O que precisa mudar?
+3. Faça uma lista das responsabilidades que pode delegar e das pessoas que podem assumi-las ou serem treinadas para isso. Identifique as medidas necessárias para iniciar o processo de delegação de responsabilidades ou de treinamento.
+4. Organize a próxima semana. Comece anotando seus papéis e suas metas para a próxima semana, depois transfira essas metas para um plano de ação específico. No final da semana, avalie o quanto o plano reflete seus valores e propósitos mais profundos da vida cotidiana, e o grau de integridade que foi capaz de manter em relação a esses valores e propósitos.
+5. Comprometa-se a começar a organizar sua vida em bases semanais, e reserve periodicamente algum tempo para fazer isso.
+6. Converta seu instrumento atual de planejamento em um instrumento de quarta geração, ou procure tal instrumento.
