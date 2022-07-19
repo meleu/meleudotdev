@@ -19,7 +19,7 @@ Activities that go into software development include:
 
 ### Key Points
 
-> - Software construction is the central acitivity in software development; construction is the only activity that's guaranteed to happen on every project.
+> - Software construction is the central activity in software development; construction is the only activity that's guaranteed to happen on every project.
 > - The main activities in construction are:
 >     - detailed design
 >     - coding
