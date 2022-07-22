@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Poetry
 
 - https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock
