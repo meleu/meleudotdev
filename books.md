@@ -28,7 +28,7 @@ Maybe this list can tell a bit about who I am.
 - [[12 Regras Para a Vida]]
 - [[Eu, Robô]]
 - [[1984]]
-- [[O Médico e o Monstro]]
+- [[O Medico e o Monstro]]
 - [[Em busca de sentido]]
 - [[O Melhor do Mundo - Seth Godin]]
 - [[Do Mil ao Milhao]]
