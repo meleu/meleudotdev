@@ -69,6 +69,8 @@ I don't agree with this understanding from the author:
 
 #### 🏗️ Software Construction: Building Software
 
+> TODO: write about the conversation I had with my wife, talking about how the Software Construction metaphor is really useful. (lembrete: construir um hospital de campanha e depois decidindo expandir).
+
 - implies various stages of planning, preparation, and execution that vary in kind and degree depending on what's being built.
 - suggests that careful preparation is needed
 - illuminates the difference between large and small projects
