@@ -18,6 +18,16 @@ Main concepts:
 
 ## Web Content & HTML
 
+Basic HTML stuff.
+
+I'm considering taking this emmet course before the Bootcamp: <https://www.linkedin.com/learning/emmet-fast-and-efficient-web-coding>
+
+Things to remember:
+
+- HTML basic syntax: `<element attribute="value">content</element>`
+- `<img>` tags are self-closing
+- in an `<a>` used for link, the `target` attribute can have the value `blank` to open the link in a new tab (btw, this is not a very intuitive thing).
+
 
 
 ## Terminal & Bash
