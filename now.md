@@ -6,7 +6,7 @@ dg-publish: true
 ## Studying
 
 - [ ] [[Docker Mastery - udemy]]
-- [ ] [[Docker for Node.js]]
+- [ ] [[Docker for NodeJS]]
 - [ ] [[CKAD udemy course]]
 - [x] [[GitLab CICD - Nana course|GitLab-CI - Nana]] - ✅ done!
 - [ ] ~~[[GCP|Google Cloud Provider - Pluralsight]]~~ ❌ changed my mind
