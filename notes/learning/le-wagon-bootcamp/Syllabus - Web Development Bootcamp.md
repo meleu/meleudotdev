@@ -7,6 +7,17 @@ dg-publish: true
 
 - 🤓 - conteúdo que eu possa usar pra dar um passo extra
 
+
+## 🤓 Conhecimento de DevOps pra levar para Dev
+
+- Acho que o [[Docker for NodeJS]] vai ser bem útil.
+- Colocar uma aplicação Ruby on Rails em containers: <https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application>
+
+## Fase 0 - Prepwork
+
+- [[00-prepwork]]
+
+
 ## Fase 1 - Fundações
 
 - Configurações da máquina de trabalho
