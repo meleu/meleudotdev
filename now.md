@@ -17,5 +17,5 @@ dg-publish: true
 - [ ] Learn Ruby
 - [ ] do the Le Wagon bootcamp
 - [ ] CKAD
-- [ ] ~~GCP Associate Certificate Engineer~~ changed my idea
+- [ ] ~~GCP Associate Certificate Engineer~~ changed my mind
 
