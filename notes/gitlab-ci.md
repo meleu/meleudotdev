@@ -5,8 +5,9 @@ dg-publish: true
 
 ## learn
 
-- <https://www.youtube.com/playlist?list=PLu-nSsOS6FRLA_6gcYKS0lGzZ4dkracbt>
+- [[GitLab CICD - Nana course]]
 - [[gitlab-ci-udemy]]
+- <https://www.youtube.com/playlist?list=PLu-nSsOS6FRLA_6gcYKS0lGzZ4dkracbt>
 - Set a complete GitLab pipeline for Angular
     - part 1: <https://indepth.dev/posts/1374/craft-a-complete-angular-gitlab-pipeline>
     - part 2: <https://indepth.dev/posts/1398/craft-a-complete-angular-pipeline-part-2>
@@ -28,6 +29,9 @@ dg-publish: true
 
 
 ## test gitlab-ci locally
+
+> [!note]
+> The method I had more comfort using was this: <https://github.com/firecow/gitlab-ci-local>
 
 - install gitlab-runner: <https://docs.gitlab.com/runner/install/linux-manually.html>
 
