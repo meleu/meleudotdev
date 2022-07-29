@@ -39,3 +39,41 @@ The first insight I had (as a DevOps Eng.), was to have a docker-compose setup f
 - `logs` same as docker CLI
 - `exec` same as docker CLI
 
+
+### Assignment
+
+clone the repo: <https://github.com/BretFisher/docker-mastery-for-nodejs>
+
+```bash
+# inside the repository directory...
+
+# run through simple compose commands
+cd sample-02
+docker compose up
+# ^c (same as `docker-compose stop`)
+docker compose down
+docker compose up -d # detached
+docker compose ps
+docker compose logs
+
+# while app is running detached...
+docker compose exec web sh
+curl localhost # curl is not installed...
+exit
+
+# edit Dockerfile, add curl with apk
+# RUN apk add --update curl
+docker compose up -d # it won't rebuild the image
+
+# force rebuild the image
+docker compose up -d --build
+
+# now try curl again
+docker compose exec web sh
+curl localhost # not it should works!
+exit
+
+# to finalize the assignment...
+# inside sample-02/ dir
+docker compose down
+```
