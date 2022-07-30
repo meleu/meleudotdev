@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Docker for NodeJS - 3. Node Dockerfile Best Practices
 
 ### Dockerfile Best Practice Basics

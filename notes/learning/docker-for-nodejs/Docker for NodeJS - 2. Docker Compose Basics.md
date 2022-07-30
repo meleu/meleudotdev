@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Docker for NodeJS - 2. Docker Compose Basics
 
 The instructor recommends that in day to day activities we should be using docker-compose YAML files instead of complex docker commands on terminal.
