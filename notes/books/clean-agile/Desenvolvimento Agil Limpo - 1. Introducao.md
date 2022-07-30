@@ -185,7 +185,7 @@ Uma abordagem ágil é diferente do que o cenário descrito acima 👆.
 > Algumas pessoas acham que a metodologia ágil é apenas uma série de mini-Métodos Cascata. *Não* é o caso. (...) Não se realiza a análise somente no início da iteração, nem se realiza a implementação apenas no final da iteração. Ao contrário, as atividades de análise, arquitetura, design e implementação de requisitos são constantes durante toda a iteração.
 
 
-#### Iteração Um
+#### Iterações seguintes
 
 **A Agilidade Gera Dados**
 
@@ -200,14 +200,13 @@ Nota pessoal: acredito que quanto mais experiência você tem fazendo o mesmo ti
 > É provável que esse cálculo seja bem desanimador. No entanto, essa data nova tem como base os **dados reais**, logo, não deve ser ignorada.
 
 
-#### Iterações Seguintes...
-
 Isso aqui é importante:
 
 > **A agilidade gera dados**. Os gerentes utilizam esses dados para direcionar o projeto rumo ao melhor resultado possível.
 
 Esse gerenciamento deve sempre levar em consideração a Restrição Tripla (escolher 3 entre bom, rápido, barato e concluído)
 
+### Gerenciando a Restrição Tripla
 
 
 
