@@ -23,6 +23,7 @@ Maybe this list can tell a bit about who I am.
 
 ## 2022
 
+- [[Desenvolvimento Agil Limpo]]
 - [[Digital Zettelkasten - Principles, Methods, and Examples]]
 - [[Discurso sobre a servidão voluntária]]
 - [[12 Regras Para a Vida]]
@@ -100,7 +101,7 @@ Maybe this list can tell a bit about who I am.
 - [[As virgens suicidas]]
 - [[Carta sobre a felicidade (Epicuro para Meneceu)]]
 - ⭐ [[Pai Rico, Pai Pobre]]
-- [[Independência Financeira - O Guia do Pai Rico]]
+- [[Independencia Financeira - O Guia do Pai Rico]]
 
 
 #### unfinished

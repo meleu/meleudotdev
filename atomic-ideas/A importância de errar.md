@@ -4,7 +4,7 @@ dg-publish: true
 
 # A importância de errar
 
-Trecho retirado do [[Independência Financeira - O Guia do Pai Rico]]:
+Trecho retirado do [[Independencia Financeira - O Guia do Pai Rico]]:
 
 > Quando criticado por 1014 vezes antes de criar a lâmpada elétrica, Thomas Edison disse: "Não falhei 1014 vezes. Descobri com sucesso o que não deu certo em 1014 ocasiões."
 >
