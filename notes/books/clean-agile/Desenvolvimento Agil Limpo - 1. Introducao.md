@@ -208,6 +208,38 @@ Esse gerenciamento deve sempre levar em consideração a Restrição Tripla (esc
 
 ### Gerenciando a Restrição Tripla
 
+Restrição Tripla: escolha 3 entre bom, rápido, barato e concluído.
+
+Ações que o Gerente pode tomar, e suas consequências relacionadas aos itens da Restrição Tripla:
+
+| ação                   | mexe com...          |
+| ---------------------- | -------------------- |
+| mudanças no cronograma | rápido               |
+| adição de pessoal      | - barato<br>- rápido |
+| diminuir a qualidade   | - bom<br>- rápido    |
+| mudanças no escopo     | - concluído                     |
+
+Alguns comentários sobre cada ação:
+
+#### mudanças no cronograma
+
+mexe com o "rápido"
+
+**Quanto mais cedo comunicarmos a necessidade de mudanças no cronograma, melhor!**
+
+Será que é possível mexer no cronograma? Na maioria das vezes não. Mas o exemplo dado no livro é interessante:
+
+> talvez aconteça uma feira em novembro em que eles querem exibir o projeto. Talvez ocorra outra feira em março que seria tão boa quanto. Lembre-se: ainda é cedo. Estamos com somente algumas iterações neste projeto. Queremos dizer às partes interessadas que nossa data de entrega será em março *antes* que eles aluguem agora o estande para a feira de novembro.
+
+
+#### adição de pessoal
+
+mexe com o "rápido" e "barato".
+
+[Lei de Brooks](https://en.wikipedia.org/wiki/Brooks's_law):
+
+> Adicionar pessoas a um projeto de software **atrasado** resulta em um atraso ainda maior.
+
 
 
 ### conteúdo extra
