@@ -3,6 +3,8 @@ dg-publish: true
 ---
 ## Installation
 
+- back to [[Docker Mastery - udemy]]
+
 > [!NOTE]
 > I wrote this while doing the [[Docker Mastery - udemy]] course. For installing docker I suggest to follow the steps in the official documentation.
 
