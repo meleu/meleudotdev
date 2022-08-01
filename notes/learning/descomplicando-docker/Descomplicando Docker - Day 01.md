@@ -3,6 +3,18 @@ dg-publish: true
 ---
 # Descomplicando Docker - Day 01
 
+- voltar para [[Descomplicando Docker]]
+
+
+## principais aprendizados
+
+- dá pra limitar CPU e memória usando `--memory` e `--cpus` (lembre-se `cpus`, no plural)
+- `stress` é uma ferramentinha maneira para testes de stress
+- limite CPU e memória, faça testes com o `stress` dentro do container, e confira com `docker container stats` fora do container.
+- faça clean do cache na mesma layer em que o cache foi gerado! Do contrário a layer com o cache continuará existindo, mesmo que a layer seguinte remova os arquivos.
+
+
+
 ## Observações
 
 - não falou do Docker Hub (container registry) que é de onde vêm as imagens quando fazemos `docker container run ...`
