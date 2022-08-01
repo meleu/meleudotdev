@@ -5,6 +5,18 @@ dg-publish: true
 
 ## Principal Aprendizado
 
+A culminação do capítulo é a seguinte:
+
+> [!important]
+A agilidade é um processo em que:
+> - um projeto é subdividido em iterações.
+> - O *output* de cada iteração é calculada e usada para avaliar continuamente o planejamento.
+> - As funcionalidades são implementadas de acordo com o valor de negócio agregado, de modo que as coisas mais valiosas sejam implementadas primeiro.
+> - O nível de qualidade é mantido o mais alto possível.
+> - O cronograma é principalmente gerenciado conforme a manipulação de escopo.
+
+Outros pontos interessantes:
+
 - Metodologia Ágil serve para **gerenciar times pequenos**
 - **Restrição Tripla**: bom, rápido, barato e concluído. Escolha apenas três.
 - Times/Sistemas grandes são compostos por muitos times/sistemas pequenos.
@@ -223,7 +235,7 @@ Alguns comentários sobre cada ação:
 
 #### mudanças no cronograma
 
-mexe com o "rápido"
+- mexe com o "rápido"
 
 **Quanto mais cedo comunicarmos a necessidade de mudanças no cronograma, melhor!**
 
@@ -234,12 +246,67 @@ Será que é possível mexer no cronograma? Na maioria das vezes não. Mas o exe
 
 #### adição de pessoal
 
-mexe com o "rápido" e "barato".
+- mexe com o "rápido" e "barato".
 
-[Lei de Brooks](https://en.wikipedia.org/wiki/Brooks's_law):
+[[Lei de Brooks]]
 
 > Adicionar pessoas a um projeto de software **atrasado** resulta em um atraso ainda maior.
 
+Um detalhe que muitas vezes é despercebido é que a lei de Brooks se refere a um projeto já atrasado.
+
+O que acontece é que quando entram mais pessoas no projeto, a produtividade cai. Pois os profissionais experientes precisam despender um tempo explicando o projeto para os novatos. Só após os novatos se tornarem produtivos é que a produtividade começar a ficar maior do que no início.
+
+O principal trade-off aqui é: você precisa de tempo e melhorias suficientes afim de compensar a perda de produtividade inicial.
+
+Outro fator: contratação de pessoal é cara.
+
+Se não despendemos de tempo nem de dinheiro para bancar o custo de adicionar pessoal, temos que pensar em mudar outra coisa.
+
+
+#### diminuindo a qualidade
+
+- mexe no "bom", no "rápido" e no "barato"
+
+**Fazer as coisas malfeitas *não* o faz avançar mais rápido, o faz avançar mais devagar.**
+
+Lição aprendida depois de trabalhar como programador durante vinte ou trinta anos.
+
+**A única forma de avançar rápido é fazer as coisas bem-feitas.**
+
+**Se queremos reduzir o nosso cronograma, a única opção é *aumentar* a qualidade.**
+
+**Nota**: Essa constatação é similar ao que vi no [[Practical Object-Oriented Design]]:
+
+> The programming techniques that make code a joy to write overlap with those that most efficiently produce software.
+
+
+#### mudanças no escopo
+
+- mexendo no "concluído"
+
+Se não tem como mexer no cronograma, precisamos decidir quais são as features extremamente necessárias e eliminar as que não são.
+
+Parte interessante (sobre ter os dados):
+
+> Os programadores têm os dados. E em qualquer organização racional, os dados levam a melhor.
+>
+> Se a organização é racional, as partes interessadas acabam por acatar e aceitar, e começam a analisar o planejamento.
+
+
+
+### Visão Geral da Agilidade
+
+A agilidade é um processo em que:
+
+- um projeto é subdividido em iterações.
+- O *output* de cada iteração é calculada e usada para avaliar continuamente o planejamento.
+- As funcionalidades são implementadas de acordo com o valor de negócio agregado, de modo que as coisas mais valiosas sejam implementadas primeiro.
+- O nível de qualidade é mantido o mais alto possível.
+- O cronograma é principalmente gerenciado conforme a manipulação de escopo.
+
+### Extreme Programming (XP)
+
+Ao final do capítulo há uma forte propagando pró-XP, do Kent Beck. Fiquei interessado!
 
 
 ### conteúdo extra

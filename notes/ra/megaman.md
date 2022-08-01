@@ -9,8 +9,8 @@ dg-publish: true
 
 guts -> cut -> elec -> ice -> fire -> bomb
 
-guts 2nd: hyper bomb
-cut 2nd: fire storm
+- guts 2nd: hyper bomb
+- cut 2nd: fire storm
 
 - yellow devil: thunder beam
 - copy robot: fire storm
