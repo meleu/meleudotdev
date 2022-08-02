@@ -117,7 +117,7 @@ ENV NAME='meleu'
 
 
 RUN apt-get update \
-  && apt-get install \
+  && apt-get install stress \
   && apt-get clean
 
 CMD stress --cpu 1 --vm-bytes 64M --vm 1
