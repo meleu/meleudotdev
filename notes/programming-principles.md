@@ -3,6 +3,10 @@ dg-publish: true
 ---
 # Programming Principles
 
+- One of our main concerns is to handle complexity (from [[Code Complete]]).
+- The best feature of a software is how easy it is to change it.
+- Part of your job is to educate your boss about technology (from [[Code Complete]]).
+
 ## Separation between intention and implementation
 
 > If you have to spend effort into looking at a fragment of code to figure out *what* it's doing, then you should extract it into a function and name the function after that "what".

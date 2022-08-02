@@ -20,3 +20,5 @@ Esse final, "colaboração de muitas equipes pequenas", soa como a "filosofia Un
 ## Anotações por Capítulos
 
 - [[Desenvolvimento Agil Limpo - 1. Introducao]]
+- [[Desenvolvimento Agil Limpo - 2. O Porque da Metodologia Agil]]
+- 
