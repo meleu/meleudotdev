@@ -6,4 +6,3 @@ dg-publish: true
 
 - [[Descomplicando Docker - Day 01]]
 
-
