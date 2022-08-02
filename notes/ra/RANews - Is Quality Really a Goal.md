@@ -50,7 +50,7 @@ Uh... but... Do we really need to see every single newcomer producing **the same
 
 In the pre-historic days of RA there wasn't any documentation. Then a member who was brave enough to open the Memory Inspector could find an address for "game over" and become excited. "Hooray!! I found an address meaning something! Let me create an achievement with this address real quick!". As you can imagine, this led to the creation of a lot of low quality content. 
 
-Fortunately for us, RA fans, some ancient members (like {% rauser Brian %}, {% rauser cirellio %} and the RA creator {% rauser Scott %}) probably made a lot of mistakes but were wise enough to write about their findings, and were generous enough to post them on the forums. Many achievement creation docs we have today, were built on top of their findings.
+Fortunately for us, RA fans, some ancient members (like {\% rauser Brian \%}, {\% rauser cirellio \%} and the RA creator {\% rauser Scott \%}) probably made a lot of mistakes but were wise enough to write about their findings, and were generous enough to post them on the forums. Many achievement creation docs we have today, were built on top of their findings.
 
 Thanks to their effort, today we can avoid repeating the same mistakes.
 
