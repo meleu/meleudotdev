@@ -33,4 +33,32 @@ Note: these guidelines refers to the use of the `node` image.
     - `:onbuild`
 
 
+### Assignment: Making a CentOS Node Image
+
+This is an interesting exercise to create a Node image based on a not officially available base distro.
+
+https://www.udemy.com/course/docker-mastery-for-nodejs/learn/lecture/13545434
+
+The usefulness of the assignment is not exactly related to Node neither CentOS, but how to research things to build custom images.
+
+
+### Running non-root containers users
+
+"Least privilege security with node user"
+
+- official `node` images **have** a node user
+- but it's not used by default (because usually you want to `apt install`, or `npm install --global`).
+
+The trick below should be done:
+
+- after `apt`, `apk` and `npm i -g`
+- before `npm i`
+- it may cause permissions issues with write access
+- may require `chown node:node`
+
+
+
+
+
+
 
