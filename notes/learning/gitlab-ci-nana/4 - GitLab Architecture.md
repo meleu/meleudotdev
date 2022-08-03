@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # 4 - GitLab Architecture
 
+- back to [[GitLab CICD - Nana course]]
+
 ### 2 - GitLab Executors
 
 - Shell Executor

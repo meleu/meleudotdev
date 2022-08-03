@@ -5,8 +5,8 @@ dg-publish: true
 
 ## docs
 
-<https://docs.gitlab.com/ee/ci/yaml/#rules>
-
+- <https://docs.gitlab.com/ee/ci/yaml/#rules>
+- useful video: <https://youtu.be/QjQc-zeL16Q>
 
 ## convert from `only` to `rules`
 

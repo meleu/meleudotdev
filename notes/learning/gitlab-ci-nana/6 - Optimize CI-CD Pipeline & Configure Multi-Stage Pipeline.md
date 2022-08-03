@@ -3,6 +3,8 @@ dg-publish: true
 ---
 ## 6 - Optimize CI-CD Pipeline & Configure Multi-Stage Pipeline
 
+- back to [[GitLab CICD - Nana course]]
+
 ### 2 - Configure Dynamic Versioning for Docker Image
 
 - <https://techworld-with-nana.teachable.com/courses/1769488/lectures/39901791>

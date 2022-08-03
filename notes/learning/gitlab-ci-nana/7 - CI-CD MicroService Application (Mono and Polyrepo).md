@@ -3,6 +3,8 @@ dg-publish: true
 ---
 ## 7 - CI-CD MicroService Application (Mono and Polyrepo)
 
+- back to [[GitLab CICD - Nana course]]
+
 ### 01 - What are Microservices?
 
 #### How to break down a monolithic code base into microservices?

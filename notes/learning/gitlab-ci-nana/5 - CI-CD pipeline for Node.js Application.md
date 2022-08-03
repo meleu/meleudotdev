@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # 5 - CI-CD pipeline for Node.js Application
 
+- back to [[GitLab CICD - Nana course]]
+
 Repository: <https://gitlab.com/nanuchi/mynodeapp-cicd-project>
 
 ### 2 - Run Unit Tests & Collect Test Reports

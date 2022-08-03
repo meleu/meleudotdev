@@ -3,6 +3,8 @@ dg-publish: true
 ---
 ## 8 - Deploy Microservices to Kubernetes cluster
 
+- back to [[GitLab CICD - Nana course]]
+
 - <https://techworld-with-nana.teachable.com/courses/1769488/lectures/39916960>
 - Useful lecture when not using ArgoCD
 
