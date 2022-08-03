@@ -56,7 +56,20 @@ The trick below should be done:
 - it may cause permissions issues with write access
 - may require `chown node:node`
 
+```Dockerfile
+# This is how to set `node` as the user
+USER node
 
+# After that, the RUN, CMD, and ENTRYPOINT run as the `node` user.
+# This 👆 causes an issue when you use WORKDIR to create a directory.
+# The workaround is to use this:
+RUN mkdir directory && chown -R node:node .
+```
+
+If this causes permissions issues when using `docker-compose`, call it like this:
+```bash
+docker compose exec -u root
+```
 
 
 
