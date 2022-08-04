@@ -9,12 +9,12 @@ In this note I'm trying to list the fundamental books about these topics.
 
 ## must read
 
-- Test-Drive Development: By Example - Kent Beck
+- Test-Drive Development: By Example - Kent Beck (iff: B393t / 005.14)
 - Understanding the Four Rules of Simple Design - Corey Haines - [link](https://leanpub.com/4rulesofsimpledesign)
 - Clean Code - Robert Martin
 - Refatoração: Aperfeiçoando o Design de Códigos Existentes - Martin Fowler
 - Trabalho Eficaz com Código Legado - Michael Feathers
-- Extreme Programming Explained: Embrace Change - Kent Beck
+- Extreme Programming Explained: Embrace Change - Kent Beck (iff: B393p / 005.1)
 
 
 ## further reading

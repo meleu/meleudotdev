@@ -71,7 +71,38 @@ If this causes permissions issues when using `docker-compose`, call it like this
 docker compose exec -u root
 ```
 
+> [!important]
+> After `USER node`, all executions of `RUN`, `CMD` and `ENTRYPOINT` run as the `node` user. All the other Dockerfile instructions are executed as `root`.
+> 
+> This [video lecture](https://www.udemy.com/course/docker-mastery-for-nodejs/learn/lecture/14274050) is useful to show this behavior.
 
 
+### Making Images Efficiently
 
+- Pick proper `FROM` (preferably an alpine based image)
+- Line order matters
+    - Things that rarely change should come at the top
+- `COPY` twice: `package.json` then `. .`
+- installations with `apt`/`apk` should come at the top
+
+Look at this example:
+```Dockerfile
+# if this comes first, it'll be recreated a lot of times
+COPY . .
+RUN npm install && npm cache clean --force
+```
+
+You should do this instead:
+```Dockerfile
+# 1. copy only the "dependencies file"
+COPY package.json package-lock.json* ./
+
+# 2. install the dependencies
+RUN npm install && npm cache clean --force
+
+# 3. copy your code
+COPY . .
+```
+
+Pro-tip: using `package-lock.json*` (with the trailing asterisk) makes the build NOT break if the file doesn't exist.
 
