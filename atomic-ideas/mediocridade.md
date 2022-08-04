@@ -13,12 +13,18 @@ Já ocorreram varios episódios na minha vida profissional onde o meu entusiasmo
 
 Isso não tem relação alguma com serviço público vs. privado, isso aconteceu comigo nos dois cenários. Portanto acredito ser inerente ao ser humano.
 
-Eu vejo o episódio da Bíblia que conta o início da vida de José, como um exemplo disso. O ressentimento que seus irmãos tinham com ele (foi espancado pelos irmãos e vendido como escravo), é um exemplo desse "acordo em prol da mediocridade".
 
 
 ## referências ao mesmo tema
 
-### Emicida
+### Bíblia - História de José
+
+O início da vida de José é um exemplo disso. O ressentimento que seus irmãos tinham com ele deixa isso claro.
+
+José foi espancado pelos irmãos e vendido como escravo por ser "o queridinho do papai". Vejo isso como um exemplo desse "acordo em prol da mediocridade".
+
+
+### Emicida - Então Toma
 
 > Aqui cê tem que pedir desculpa por ter feito mais que os outros.
 
