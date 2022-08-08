@@ -8,7 +8,6 @@ Falo aqui da minha experiência com o teclado [Ergodox EZ](https://ergodox-ez.co
 Neste artigo vou falar da motivação de ter comprado esse teclado, de quanto custou, primeiras impressões. Pretendo também descrever como foi esse processo de adaptação e compartilhar algumas dicas que você pode usar caso tenha um perfil de uso parecido com o meu.
 
 
-
 ## motivação
 
 **Por que comprei um teclado tão caro?**
