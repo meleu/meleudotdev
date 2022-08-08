@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # Gripes always go up
 
+This is an important learning about leadership...
+
 From **Saving Private Ryan**, soldiers talking about risking the life of 8 men for the mission of rescuing a single soldier.
 
 ---

@@ -58,6 +58,8 @@ Deixar o mouse no meio é bem mais confortável do que esticar o braço pra dire
 
 ## customização
 
+[TODO: preciso elaborar mais essa parte]
+
 Ao comprar o teclado você recebe um email com links para a documentação, e no [Getting Started](https://ergodox-ez.com/pages/getting-started) tem algumas orientações básicas. Inclusive orientações de como customizar seu teclado.
 
 Não vou repetir aqui o que já está escrito na documentação, quero apenas passar algumas dicas sobre como configurar seu teclado para ficar parecido com o meu caso de uso.
