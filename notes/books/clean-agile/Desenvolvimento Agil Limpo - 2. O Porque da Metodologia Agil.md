@@ -21,6 +21,12 @@ Práticas Ágeis:
 - Testes de Aceitação
 
 
+---
+
+[TOC]
+
+---
+
 ## Profissionalismo
 
 > O desenvolvimento ágil é importante por motivos éticos e filosóficos mais enraizados. Eles têm a ver com profissionalismo e expectativas razoáveis de nossos clientes.

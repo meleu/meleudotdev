@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # Desenvolvimento Agil Limpo - 1. Introducao
 
+- Voltar para [[Desenvolvimento Agil Limpo]]
+
 ## Principal Aprendizado
 
 A culminação do capítulo é a seguinte:
@@ -28,7 +30,13 @@ Outros pontos interessantes:
         - Mudanças nessas expectativas devem ser informadas o mais cedo possível
         - Se o cronograma não for negociável, decidir exatamente quais features são realmente imprescindíveis.
 
+
 ---
+
+[TOC]
+
+---
+
 
 Um constatação em relação a quando um movimento se torna popular (como o movimento ágil) e que no meu entendimento está acontecendo agora (2022) com movimento DevOps.
 
