@@ -15,4 +15,4 @@ Practice. Practice. Practice!
 
 ## references
 
-- I forgot the book, but it's about art.
+- [[Art and Fear]]: Observations on the Perils (and Rewards) of Artmaking
