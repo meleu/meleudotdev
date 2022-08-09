@@ -152,7 +152,7 @@ Acho que também ajuda a tornar a história Testável
 
 A princípio achei essa definição muito vaga. Mas o autor depois fala o seguinte.
 
-> A quantificação do valor do negócio pode ser informal. Algumas equipes podem simplesmente usar algo/médio/baixo como sua escala de valor de negócio; outras podem tentar empregar uma escala de 10 pontos.
+> A quantificação do valor do negócio pode ser informal. Algumas equipes podem simplesmente usar alto/médio/baixo como sua escala de valor de negócio; outras podem tentar empregar uma escala de 10 pontos.
 
 Teve uma observação que me chamou atenção e fiquei curioso para saber como será resolvido (p. 75):
 
@@ -179,7 +179,7 @@ Outra forma de pensar é: **a história deve ser concreta o suficiente para ser 
 
 > A empresa deve conseguir estruturar testes que comprovem que a história foi concluída.
 
-Lembrar do **I**ndependente e do **E**stimável: uma história deve ser independente e concreta o suficiente para ser especificada nos tests.
+Lembrar do **I**ndependente e do **E**stimável: uma história deve ser independente e concreta o suficiente para ser especificada nos testes.
 
 
 ## Gerenciando a Iteração
@@ -203,4 +203,5 @@ O autor chama atenção para algo interessante sobre atribuição de histórias.
 ---
 
 > básico da teoria de controle: não exerça pressão sobre o que você está calculando.
-
+ 
+ Isso me lembra a época de Plataforma, onde era comum colocar culpa nos instrumentos. 

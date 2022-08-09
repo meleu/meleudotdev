@@ -42,11 +42,13 @@ dg-publish: true
     - Grid
         - 🤓 - <https://www.origamid.com/curso/css-grid-layout/>
         - 🤓 - <https://courses.wesbos.com/account/access/5e9c03859edbdf363811e910>
+        - assignment: use grid to allow [reordering the badges](https://github.com/RetroAchievements/RAWeb/discussions/1068) on RAWeb
     - Bootstrap
         - 🤓 - <https://www.origamid.com/curso/bootstrap-4/>
 - JavaScript/ES6
     - DOM
 - Empacotando tudo com Rails
+    - 🤓 - [Colocar uma aplicação Ruby on Rails em containers](https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application)
 - Construindo um clone de Airbnb
 
 
