@@ -33,6 +33,12 @@ run_unit_tests:
 
 Another useful thing about these reports in the GitLab's UI is in the Merge Requests page. It shows the tests that failed.
 
+> [!notes]
+> Issues I faced when implementing this at my work:
+> - For eslint jobs I needed to use [formatters](https://eslint.org/docs/latest/user-guide/formatters/) `--format junit`
+> - For different jobs, I needed to create differente `artifacts:reports` (e.g.: `junit-eslint-start-e2e.xml`)
+> - In a report I got an error from gitlab when it tried to parse the `.xml` file ([like this one described here](https://stackoverflow.com/questions/23422316/xml-validation-error-entityref-expecting)), and it made me give up from using this kind of report ☹️
+
 
 ### 3 - Build Docker Image & Push to Private Registry
 
