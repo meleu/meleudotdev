@@ -5,7 +5,7 @@ dg-publish: true
 
 Some quotes from <https://nav.al/long-term>
 
-> all the benefits in life com from compound interests. Whether it's in relationships, or making money, or in learning.
+> all the benefits in life come from compound interests. Whether it's in relationships, or making money, or in learning.
 
 > You have to be able to play a long-term game. And long-term games are good not just for compound interest, they're also good for trust.
 
