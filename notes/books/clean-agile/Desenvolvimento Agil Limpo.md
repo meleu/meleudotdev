@@ -9,7 +9,13 @@ Livro do Uncle Bob
 
 ## Principais Aprendizados
 
-- Devo estudar XP, TDD e Refatoração. Incorporar essas práticas no dia-a-dia.
+- Devo estudar XP, TDD e Refatoração. Incorporar essas práticas no dia-a-dia. (ler [[TDD-Refactoring literature]])
+- Agilidade é para times pequenos
+- Pilares da agilidade:
+    - TDD
+    - Refatoração
+    - Design Simples
+    - Programação em Dupla
 
 
 
@@ -20,6 +26,7 @@ Livro do Uncle Bob
 - [[Desenvolvimento Agil Limpo - 1. Introducao]]
 - [[Desenvolvimento Agil Limpo - 2. O Porque da Metodologia Agil]]
 - [[Desenvolvimento Agil Limpo - 3. Praticas de Negocios]]
+- [[Desenvolvimento Agil Limpo - 4. Praticas de Equipe]]
 
 ---
 

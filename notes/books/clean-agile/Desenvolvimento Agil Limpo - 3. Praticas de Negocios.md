@@ -18,6 +18,7 @@ dg-publish: true
     - Testável
 - É necessário fazer um shift-left no QA.
 - *definition of done*: Testes de Aceitação foram aprovados
+- [[#Testes de Aceitação]] confundem muita gente pois ele deve especificar os requisitos e quem deve fazer isso é o *stakeholder*. Como o *stakeholder* não conhece linguagens de programação, ficamos numa situação ambígua. Para minimizar isso, alguns frameworks foram criados (Cucumber, RSpec, etc.) e também o conceito de *Behavior Driven Development* (BDD) - por Dan North.
 
 ---
 
@@ -195,15 +196,71 @@ Foco deve ser:
 >
 > É bem melhor concluir 80% das histórias do que 80% de cada história. **Foque na conclusão das histórias.**
 
+Outra forma de dizer:
+
+> não queremos encerrar a iteração com duas histórias pela metada quando poderíamos ter sacrificado uma história para concluir a outra.
+>
+> Não se trata de fazer as coisas rápido. Trata-se de fazer progressos tangíveis e mensuráveis (...) confiabilidade dos dados.
+
 O autor chama atenção para algo interessante sobre atribuição de histórias.
 
 > Gerentes e a liderança ficarão tentados a atribuir histórias aos programadores. Isso deve ser evitado. É melhor deixar os programadores negociarem entre si.
 
 
-**Definition of done**: Testes de Aceitação foram aprovados
+### QA
 
----
+> Caso a equipe de QA continue perdendo o prazo do ponto médio, uma iteração após a outra, é bem provável que a correlação de engenheiros de QA e desenvolvedores esteja errada.
+
+**Definition of done**: Testes de Aceitação foram aprovados
 
 > básico da teoria de controle: não exerça pressão sobre o que você está calculando.
  
  Isso me lembra a época de Plataforma, onde era comum colocar culpa nos instrumentos. 
+
+### Demo
+
+> A demonstração deve incluir a execução de todos os Testes de Aceitação - incluindo todos os anteriores - e de todos os testes unitários.
+
+
+## Pequenas Versões
+
+Mesma história dos pequenos lotes mencionado no [[Manual de DevOps]].
+
+
+## Testes de Aceitação
+
+> A prática dos Testes de Aceitação é uma das menos compreendidas, menos usadas e mais confusas de todas as práticas ágeis. (...)
+> 
+> A ideia fundamental é bastante simples: *os requisitos devem ser especificados pela empresa*.
+
+Uma especificação é, devido à sua própria natureza, *um teste*.
+Exemplo:
+
+*Quando o usuário digitar um username/password válidos e clicar em "login", o sistema apresentará a página "Bem-vindo".
+
+Isso 👆 é uma especificação e um teste
+
+A prática dos Testes de Aceitação diz que, na medida do possível, os requisitos do sistema devem ser escritos como testes automatizados.
+
+Mas quem escreve estes testes? A empresa? Mas ela não entende de linguagens de programação! Mas não é a empresa que deve especificar os requisitos?
+
+Esse 👆 é o motivo da confusão.
+
+Para minimizar esse problema de comunicação entre o business e técnico, foram criadas algumas ferramentas e frameworks como FitNesse, SpecFlow, Cucumber, RSpec, etc.
+
+Também surgiu o conceito de *Behavior Driven Development* (BDD), por Dan North.
+
+> tentativa de formalizar a linguagem dos testes usando três advérbios especiais: *Dado*, *Quando* e *Então*.
+
+[Não notei muita empolgação por parte do Uncle Bob ao falar do BDD]
+
+Mais sobre BDD aqui:
+    - <https://dannorth.net/introducing-bdd/>
+    - https://youtu.be/6nSwRSbc27g
+
+Me parece que o BDD e o RSpec são boas ferramentas para fazer com que o *business* e o *técnico* se comuniquem melhor.
+
+
+
+
+
