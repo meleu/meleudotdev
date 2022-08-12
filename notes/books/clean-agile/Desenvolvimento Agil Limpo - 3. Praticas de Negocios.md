@@ -17,6 +17,7 @@ dg-publish: true
     - *Small*/Pequeno
     - Testável
 - É necessário fazer um shift-left no QA.
+- *definition of done*: Testes de Aceitação foram aprovados
 
 ---
 
@@ -199,6 +200,7 @@ O autor chama atenção para algo interessante sobre atribuição de histórias.
 > Gerentes e a liderança ficarão tentados a atribuir histórias aos programadores. Isso deve ser evitado. É melhor deixar os programadores negociarem entre si.
 
 
+**Definition of done**: Testes de Aceitação foram aprovados
 
 ---
 

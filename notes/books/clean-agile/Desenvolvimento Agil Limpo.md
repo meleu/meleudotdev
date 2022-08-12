@@ -5,6 +5,16 @@ dg-publish: true
 
 Livro do Uncle Bob
 
+---
+
+## Principais Aprendizados
+
+- Devo estudar XP, TDD e Refatoração. Incorporar essas práticas no dia-a-dia.
+
+
+
+---
+
 ## Anotações por Capítulos
 
 - [[Desenvolvimento Agil Limpo - 1. Introducao]]
@@ -23,7 +33,14 @@ Será que deveríamos fazer coisas significativas com as equipes grandes?
 
 Não! Coisas significativas **não** são feitas por equipes grandes. Elas são feitas pela colaboração de muitas equipes pequenas fazendo coisas insignficantes.
 
+Essa ideia de "colaboração de muitas equipes pequenas" soa como a "filosofia Unix" ([[The Art of Unix Programming]]) e arquitetura de [[microsservicos]] aplicados à gestão de equipes.
+
 ---
 
-Esse final, "colaboração de muitas equipes pequenas", soa como a "filosofia Unix" ([[The Art of Unix Programming]]) e arquitetura de [[microsservicos]] aplicados à gestão de equipes.
+## Tópicos para se aprofundar
 
+- Testes de Aceitação
+- TDD
+- eXtreme Programming (XP)
+- Ciclo de Vida de Ron Jeffries
+- DDD - Domain Driven Development
