@@ -9,8 +9,8 @@ Livro do Uncle Bob
 
 ## Principais Aprendizados
 
-- Devo estudar XP, TDD e Refatoração. Incorporar essas práticas no dia-a-dia. (ler [[TDD-Refactoring literature]])
 - Agilidade é para times pequenos
+- Práticas importantes: XP, TDD, Refatoração e Design Simples. Incorporar essas práticas no dia-a-dia. (ver [[TDD-Refactoring literature]])
 - Pilares da agilidade:
     - TDD
     - Refatoração
@@ -42,12 +42,3 @@ Não! Coisas significativas **não** são feitas por equipes grandes. Elas são 
 
 Essa ideia de "colaboração de muitas equipes pequenas" soa como a "filosofia Unix" ([[The Art of Unix Programming]]) e arquitetura de [[microsservicos]] aplicados à gestão de equipes.
 
----
-
-## Tópicos para se aprofundar
-
-- Testes de Aceitação
-- TDD
-- eXtreme Programming (XP)
-- Ciclo de Vida de Ron Jeffries
-- DDD - Domain Driven Development
