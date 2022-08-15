@@ -11,7 +11,7 @@ Livro do Uncle Bob
 
 - Agilidade é para times pequenos
 - Práticas importantes: XP, TDD, Refatoração e Design Simples. Incorporar essas práticas no dia-a-dia. (ver [[TDD-Refactoring literature]])
-- Pilares da agilidade:
+- Pilares (Técnicos) da agilidade:
     - TDD
     - Refatoração
     - Design Simples
@@ -27,6 +27,7 @@ Livro do Uncle Bob
 - [[Desenvolvimento Agil Limpo - 2. O Porque da Metodologia Agil]]
 - [[Desenvolvimento Agil Limpo - 3. Praticas de Negocios]]
 - [[Desenvolvimento Agil Limpo - 4. Praticas de Equipe]]
+- [[Desenvolvimento Agil Limpo - 5. Praticas Tecnicas]]
 
 ---
 
