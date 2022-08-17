@@ -3,7 +3,7 @@ dg-publish: true
 ---
 # TDD/Refactoring literature
 
-I'm interested in being specialized in refactoring. It requires a strong knowledge about TDD.
+While reading [[Desenvolvimento Agil Limpo]] I became interested in being specialized in refactoring. It requires a strong knowledge about TDD.
 
 In this note I'm trying to list the fundamental books about these topics.
 

@@ -262,7 +262,7 @@ Será que é possível mexer no cronograma? Na maioria das vezes não. Mas o exe
 
 Um detalhe que muitas vezes é despercebido é que a lei de Brooks se refere a um projeto já atrasado.
 
-O que acontece é que quando entram mais pessoas no projeto, a produtividade cai. Pois os profissionais experientes precisam despender um tempo explicando o projeto para os novatos. Só após os novatos se tornarem produtivos é que a produtividade começar a ficar maior do que no início.
+O que acontece é que quando entram mais pessoas no projeto, a produtividade cai. Pois os profissionais experientes precisam despender um tempo explicando o projeto para os novatos. Só após os novatos se tornarem produtivos é que a produtividade começa a ficar maior do que no início.
 
 O principal trade-off aqui é: você precisa de tempo e melhorias suficientes afim de compensar a perda de produtividade inicial.
 
