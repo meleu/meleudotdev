@@ -9,7 +9,7 @@ dg-publish: true
 
 A culminação do capítulo é a seguinte:
 
-> [!important]
+> [!important] Importante 
 A agilidade é um processo em que:
 > - um projeto é subdividido em iterações.
 > - O *output* de cada iteração é calculada e usada para avaliar continuamente o planejamento.
@@ -228,7 +228,14 @@ Esse gerenciamento deve sempre levar em consideração a Restrição Tripla (esc
 
 ### Gerenciando a Restrição Tripla
 
-Restrição Tripla: escolha 3 entre bom, rápido, barato e concluído.
+Restrição Tripla: escolha 3 entre
+
+- bom (qualidade)
+- rápido (tempo)
+- barato (custo)
+- concluído (escopo)
+
+(entre parenteses são os termousados no cap. 4 do [[Programacao eXtrema explicada]])
 
 Ações que o Gerente pode tomar, e suas consequências relacionadas aos itens da Restrição Tripla:
 
