@@ -40,6 +40,17 @@ Useful links mentioned at the end of the module:
 
 
 
+## Web Design & CSS
+
+![[00-prepwork-css-fonts-size-spacing.png]]\:
+
+Fonts-size & spacing
+
+
+
+
+
+
 ## Terminal & Bash
 
 Nothing new...
@@ -47,6 +58,14 @@ Nothing new...
 ## Version Control & Git
 
 Nothing new...
+
+
+## Product Design & Figma
+
+See also: <https://www.udemy.com/course/sketching-for-ux-designers/> (my own recomendation)
+
+
+---
 
 
 ## Going Further
