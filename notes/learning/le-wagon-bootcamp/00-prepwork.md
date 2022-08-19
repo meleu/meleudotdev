@@ -42,13 +42,72 @@ Useful links mentioned at the end of the module:
 
 ## Web Design & CSS
 
-![[00-prepwork-css-fonts-size-spacing.png]]\:
+![[00-prepwork-css-fonts-size-spacing.png]]
 
-Fonts-size & spacing
+### div
+
+Styling divs involves structuring the content and customizing the spacing of our boxes (the yellow rectangle below).
+
+![[00-prepwork-div-box-model.png]]
+
+- width: full width of the page
+- height: same height as div's content
+- margin: external space around the outside of the box
+- padding: internal space between content and the border of the box
+- border: the limit of the box (default: nothing)
+- box-shadow: a nice way to differentiate the box from the rest
 
 
+#### Classic `<div>` design
+
+```css
+background: white;  /* white background */
+padding: 30px;      /* internal space */
+border-radius: 4px; /* small radius */
+box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1); /* strip shadow */
+```
 
 
+#### `<div>` centering technique
+
+```css
+width: 300px;   /* fix the width */
+margin: 0 auto; /* automatic left/right margins */
+```
+
+
+### `id` and `class`
+
+- `id` to style individual element
+- `class` for creating reusable styling
+
+#### `class` names
+
+What are the best `class` names?
+
+- `.btn-red` or `.btn-signup`?
+- `.background-blue` or `.background-home`?
+- `.img-user` or `.img-circle`?
+
+**Tip**: think graphical
+
+Le Wagon naming convention:
+
+```css
+/* Convention */
+.element-design
+
+/* Examples */
+.text-center
+.text-justify
+.btn-red
+.btn-green
+.btn-big
+.list-inline
+.form-horizontal
+.img-rounded
+.img-circle
+```
 
 
 ## Terminal & Bash
