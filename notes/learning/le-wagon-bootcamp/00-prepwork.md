@@ -62,7 +62,7 @@ Nothing new...
 
 ## Product Design & Figma
 
-See also: <https://www.udemy.com/course/sketching-for-ux-designers/> (my own recomendation\)
+See also: <https://www.udemy.com/course/sketching-for-ux-designers/> (my own recomendation)
 
 
 ---
