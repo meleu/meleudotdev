@@ -78,7 +78,7 @@ margin: 0 auto; /* automatic left/right margins */
 
 ### `id` and `class`
 
-- `id` to style individual element
+- `id` to style unique element
 - `class` for creating reusable styling
 
 #### `class` names

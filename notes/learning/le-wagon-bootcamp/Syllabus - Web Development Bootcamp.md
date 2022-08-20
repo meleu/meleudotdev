@@ -54,3 +54,7 @@ dg-publish: true
 
 ## Fase 3 - Projetos finais
 
+- controlesuacarteira
+- retrochampions
+- 1loc.sh
+- RANews like
