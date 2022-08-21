@@ -157,6 +157,30 @@ end
 puts hello("meleu") # => "Hi meleu!"
 ```
 
+### Things I learned doing the challenges
+
+While doing the <https://codewars.com/> challenges I learned some useful stuff.
+
+#### convert string to array
+```ruby
+"um dois tres quatro".split
+# => ["um", "dois", "tres", "quatro"]
+
+# convert to string and convert to integer
+"5 1 4 2 3 15 42 34".split.map(&:to_i)
+# => [5, 1, 4, 2, 3, 15, 42, 34]
+
+# in the example above 👆 looks like the '&' char
+# refers every single item in the array.
+```
+
+#### get min and max of an array
+
+```ruby
+[5, 1, 4, 2, 3].minmax
+# => [1, 5]
+```
+
 
 See also:
 
