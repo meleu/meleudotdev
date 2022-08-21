@@ -5,6 +5,12 @@ dg-publish: true
 
 - <https://learn.lewagon.com/>
 
+---
+
+[TOC]
+
+---
+
 
 ## Web 101
 
@@ -109,15 +115,68 @@ Le Wagon naming convention:
 .img-circle
 ```
 
+---
+
+## Ruby
+
+First 3 data types in Ruby:
+
+- Numeric
+    - Integer
+    - Float
+- String
+- Boolean
+
+**Coding style**: variables and methods named with `snake_case`
+
+Arrays:
+
+```ruby
+burger = ["bun", "patty", "lettuce", "tomato"]
+```
+
+
+"Everything in Ruby is an Object"
+
+```ruby
+name = "meleu"
+name.class # => returns String
+
+10.even? # => returns true
+22.odd?  # => returns false
+500.to_s # => returns the string "500"
+```
+
+Methods:
+
+```ruby
+def hello(name)
+  return "Hi #{name}!"
+end
+
+puts hello("meleu") # => "Hi meleu!"
+```
+
+
+See also:
+
+- [[learning-ruby]]
+- [[The Well-Grounded Rubyist]]
+
+
+---
 
 ## Terminal & Bash
 
 Nothing new...
 
+---
+
 ## Version Control & Git
 
 Nothing new...
 
+---
 
 ## Product Design & Figma
 
