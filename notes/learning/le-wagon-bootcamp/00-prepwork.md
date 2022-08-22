@@ -194,6 +194,24 @@ array.each do |n|
 end
 ```
 
+#### char to ASCII value
+
+```ruby
+# from char to ASCII value
+'a'.ord
+# => 97
+
+# from ASCII value to char
+97.chr
+# => "a"
+```
+
+#### arrays subtraction
+```ruby
+[1, 2, 3] - [1, 3]
+# => [2]
+```
+
 
 
 See also:
