@@ -181,6 +181,20 @@ While doing the <https://codewars.com/> challenges I learned some useful stuff.
 # => [1, 5]
 ```
 
+#### `for` loop
+
+```ruby
+for i in 0..10 do
+  puts i
+end
+
+# iterating like a .forEach()
+array.each do |n|
+  puts n
+end
+```
+
+
 
 See also:
 
