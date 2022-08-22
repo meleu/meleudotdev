@@ -47,6 +47,7 @@ dg-publish: true
         - 🤓 - <https://www.origamid.com/curso/bootstrap-4/>
 - JavaScript/ES6
     - DOM
+    - 🤓 - <https://domevents.dev/>
 - Empacotando tudo com Rails
     - 🤓 - [Colocar uma aplicação Ruby on Rails em containers](https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application)
 - Construindo um clone de Airbnb
