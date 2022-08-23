@@ -28,7 +28,9 @@ dg-publish: true
 - vimrc
 
 #### Plugins to consider
-- Obsidian_to_anki
+- ~~Obsidian_to_anki~~ - development seems to be dead
+- Flashcards
+- Obsidian Anki Sync
 
 
 
