@@ -27,6 +27,7 @@ dg-publish: true
 - Arquitetura de Software
     - 🤓 - [[Practical Object-Oriented Design]]
 - Banco de dados relacional
+    - 🤓  - <https://selectstarsql.com/> - "the best place on the internet for learning SQL"
 
 
 ## Fase 2 - Desenvolvimento Web
@@ -58,4 +59,4 @@ dg-publish: true
 - controlesuacarteira
 - retrochampions
 - 1loc.sh
-- RANews like
+- RANews like <https://increment.com>
