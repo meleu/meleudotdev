@@ -216,7 +216,7 @@ end
 
 See also:
 
-- [[learning-ruby]]
+- [[ruby]]
 - [[The Well-Grounded Rubyist]]
 
 

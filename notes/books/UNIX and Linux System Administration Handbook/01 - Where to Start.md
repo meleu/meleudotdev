@@ -9,7 +9,7 @@ Interesting things I learned while reading this chapter.
 
 > Mastering [[vim]] is perhaps the single best productivity enhancement available to administrators.
 
-For scripting it's suggested [[bash]], [[python]] and [[ruby]]. Should I learn ruby? 🤔 (see [[learning-ruby]])
+For scripting it's suggested [[bash]], [[python]] and [[ruby]].
 
 There's also a mention to a tool called [[expect]]. I googled about it and became surprised how I didn't know such an old tool. Yeah, maybe I need to invest some time learning it.
 

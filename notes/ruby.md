@@ -1,9 +1,15 @@
 ---
 dg-publish: true
 ---
-# learning-ruby
+# ruby
 
-[[The Well-Grounded Rubyist]]
+## Ruby Cheatsheet
+
+
+
+---
+
+Book I'm reading: [[The Well-Grounded Rubyist]]
 
 ## Ruby in Twenty Minutes
 
@@ -100,3 +106,5 @@ greeter.say_hi
 
 - [[The Well-Grounded Rubyist]] - 1.1. Basic Ruby language literacy
 - <https://www.ruby-lang.org/en/documentation/quickstart/>
+- <https://try.ruby-lang.org/>
+

@@ -8,7 +8,8 @@ See also: [[links - free assets]]
 
 HTML + CSS + JavaScript
 
-- <https://jgthms.com/web-design-in-4-minutes/> - webdesign in 4 minutes.
+- <https://web.dev> - many rich contents
+- <https://jgthms.com/web-design-in-4-minutes/> - [[Web Design in 4 minutes]]
 - <https://learnfromsteph.dev/> - A (modern/2020ish) web development video course for beginners 
 - <https://web.dev/learn/css/> - Very in-depth way to learn CSS 
 - <https://www.freecodecamp.org/> - really awesome to learn frontend stuff.

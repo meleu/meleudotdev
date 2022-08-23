@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # SQL/Database
 
 - <https://selectstarsql.com/> - "the best place on the internet for learning SQL"
