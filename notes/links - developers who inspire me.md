@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## developers who inspire me
 
 - <https://www.taniarascia.com/> - Tania Rascia. Really good guides.

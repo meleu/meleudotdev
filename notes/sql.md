@@ -3,10 +3,6 @@ dg-publish: true
 ---
 # SQL
 
-## Cool SQL resources
-
-- <https://mystery.knightlab.com/>
-- <https://selectstarsql.com/>
 
 ## Source of Information
 

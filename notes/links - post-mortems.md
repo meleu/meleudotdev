@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## post-mortems
 
 - <https://www.freecodecamp.org/news/what-is-a-software-post-mortem/> - article
