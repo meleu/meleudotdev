@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## CSS variables
 
 From <https://www.w3schools.com/css/css3_variables.asp>

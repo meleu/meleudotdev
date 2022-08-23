@@ -1,15 +1,116 @@
 ---
 dg-publish: true
+cards-deck: webdev::ruby
 ---
 # ruby
 
-## Ruby Cheatsheet
+Book I'm reading: [[The Well-Grounded Rubyist]]
 
-
+[TOC]
 
 ---
 
-Book I'm reading: [[The Well-Grounded Rubyist]]
+## Basic Data Types
+
+- Numeric
+    - Integer
+    - Float
+- String
+- Boolean
+- Array
+- Hashes - it's like a associative array
+
+Don't forget: everything in Ruby is an object!
+
+
+## Coding Style
+
+Variables and Methods named with `snake_case`.
+
+
+## Methods
+
+```ruby
+def hello(name)
+  return "Hi #{name}!" # note: this return is optional
+end
+
+puts hello("meleu") # => "Hi meleu!"
+
+
+# TODO: explain this '&' notation
+# convert to string and convert to integer
+"5 1 4 2 3 15 42 34".split.map(&:to_i)
+# => [5, 1, 4, 2, 3, 15, 42, 34]
+```
+
+
+## Conditionals
+
+```ruby
+if age > 18
+  return "You can vote"
+else
+  return "Sorry, you're too young to vote"
+end
+```
+
+## Loops
+
+for loops:
+```ruby
+for i in 0..10 do
+  puts i
+end
+
+# iterating over each item of an array
+array.each do |n|
+  puts n
+end
+
+# iterating over each key of a hash
+hash.each_key do |key|
+  puts n
+end
+# note: .each_value works similarly
+
+# iterating over each key,value pair of a hash
+hash.each do |key, value|
+  puts "#{key} => #{value}"
+end
+```
+
+
+## Some ruby tricks
+
+```ruby
+# from char to ASCII value
+'a'.ord # ordinal
+# => 97
+
+# from ASCII value to char
+97.chr
+# => "a"
+
+
+# you can "subtract" arrays like this
+[1, 2, 3] - [1, 3]
+# => [2]
+
+
+# get the lowest and biggest value in an array
+[5, 1, 4, 2, 3].minmax
+# => [1, 5]
+# you can also use .min and .max
+
+
+# repeat a string
+"meleu " * 3
+# => "meleu meleu meleu "
+```
+
+---
+
 
 ## Ruby in Twenty Minutes
 
@@ -98,13 +199,11 @@ greeter.say_hi
 
 
 
-
-
 ---
 
 ## references
 
-- [[The Well-Grounded Rubyist]] - 1.1. Basic Ruby language literacy
+- [[The Well-Grounded Rubyist]]
 - <https://www.ruby-lang.org/en/documentation/quickstart/>
 - <https://try.ruby-lang.org/>
 

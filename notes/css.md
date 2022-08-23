@@ -43,19 +43,19 @@ scroll-behavior: smooth;
 ^1661278561207
 
 
-## flexbox way to position something in the center of the screen
+## [flexbox] place something in the center of the screen
 
 ```css
 html, body, #container {
   height: 100vh;
 }
-
 #container {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 ```
+
 
 
 ## background perfeitamente ajustado
@@ -73,9 +73,11 @@ Premissas:
 - funciona ~~em qualquer~~ na esmagadora maioria dos navegadores.
 
 Eis o código CSS:
+perfect fullpage background image #anki
 ```css
 html {
   background: url("background.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 ```
+^1661285400438
