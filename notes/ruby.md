@@ -45,6 +45,39 @@ puts hello("meleu") # => "Hi meleu!"
 ```
 
 
+## Blocks
+
+Block styles
+```ruby
+# do/end style
+5.times do
+  puts "Hello, World!"
+end
+
+# bracket style
+5.times{ puts "Hello, World!" }
+```
+
+Blocks are passed to methods. In the examples above 👆 we're giving to the method `5.times` the instructions we want to run each time.
+
+There are many methods that accept blocks, like `gsub`:
+```ruby
+>> "augusto 'meleu' lopes".gsub("u"){ puts "Found an U!" }
+Found an U!
+Found an U!
+Found an U!
+=> "agsto 'mele' lopes"
+```
+
+### Block Parameters
+
+When our instructions within a block need to reference the value that they're currently working with, we can specify a block parameter inside `|` pipe characters:
+
+```ruby
+5.times do |i|
+  puts "#{i}: Hello, World!"
+end
+```
 ## Conditionals
 
 ```ruby
@@ -54,6 +87,7 @@ else
   return "Sorry, you're too young to vote"
 end
 ```
+
 
 ## Loops
 
@@ -122,7 +156,156 @@ end
     - <http://tutorials.jumpstartlab.com/topics/internal_testing/rspec_and_bdd.html>
     - <http://tutorials.jumpstartlab.com/topics/internal_testing/rspec_practices.html>
 
-### Ruby in Twenty Minutes
+
+### Variables
+
+Coding style
+
+- `snake_case`
+- named after the meaning of their contents, not the type
+- not abbreviated
+
+### Strings
+
+Substrings
+```ruby
+# executed in 'irb':
+>> greeting = "Hello Everyone!"
+=> "Hello Everyone!"
+>> greeting[0..4]
+=> "Hello"
+>> greeting[0..14]
+=> "Hello Everyone!"
+# negative positions count back from the end
+>> greeting[6..-1]
+=> "Everyone!"
+>> greeting[6..-2]
+=> "Everyone"
+```
+
+#### Common String Methods
+
+```ruby
+# .length
+>> greeting.length
+=> 15
+
+# .split
+>> greeting.split
+=> ["Hello", "Everyone!"]
+
+# .split with an argument
+>> numbers = "one,two,three"
+=> "one,two,three"
+>> numbers.split
+=> ["one,two,three"]
+>> numbers.split(",")
+=> ["one", "two", "three"]
+
+# .sub - substitute - replaces just a single occurence
+>> numbers
+=> "one,two,three"
+>> numbers.sub(',', '-')
+=> "one-two,three"
+
+# .gsub - global substitution - replaces all occurances
+>> numbers.gsub(',', '-')
+=> "one-two-three"
+```
+
+
+#### Combining Strings and Variables
+
+```ruby
+# string concatenation
+######################
+name = "meleu"
+puts "Hello, " + name + "!"
+# Hello, meleu!
+
+# string interpolation
+######################
+puts "Hello, #{name}!"
+# Hello, meleu!
+
+# executing code inside interpolation
+#####################################
+modifier = "very "
+mood = "excited"
+puts "I am #{modifier * 3 + mood} for today's class!"
+# I am very very very excited for today's class!
+```
+
+
+### Symbols
+
+Symbols are halfway between a string and a number.
+
+They start wit a colon then one or more letters, like `:flag` or `:best_friend`.
+
+Think of a symbol as a "named integer". It doesn't matter what actual value the symbol references. All we care about is that any reference to that value within the VM will give back the same value.
+
+[I need to see some examples of how can this be useful]
+
+
+### Numbers
+
+Two basic kinds of numbers:
+
+- Integer
+- Float
+
+Numbers are objects and have methods (try `5.methos` inside `irb` to see the list).
+
+Example of a loop:
+```ruby
+5.times do
+  puts "Hello, World!"
+end
+```
+
+
+### Blocks
+
+Block styles
+```ruby
+# do/end style
+5.times do
+  puts "Hello, World!"
+end
+
+# bracket style
+5.times{ puts "Hello, World!" }
+```
+
+Blocks are passed to methods. In the examples above 👆 we're giving to the method `5.times` the instructions we want to run each time.
+
+There are many methods that accept blocks, like `gsub`:
+```ruby
+>> "augusto 'meleu' lopes".gsub("u"){ puts "Found an U!" }
+Found an U!
+Found an U!
+Found an U!
+=> "agsto 'mele' lopes"
+```
+
+#### Block Parameters
+
+When our instructions within a block need to reference the value that they're currently working with, we can specify a block parameter inside `|` pipe characters:
+
+```ruby
+5.times do |i|
+  puts "#{i}: Hello, World!"
+end
+```
+
+
+
+
+---
+
+
+## Ruby in Twenty Minutes
 
 From <https://www.ruby-lang.org/en/documentation/quickstart/>
 

@@ -3,11 +3,13 @@ dg-publish: true
 ---
 # The Well-Grounded Rubyist
 
-## Chapter 1
+[TOC]
 
-### Basic Ruby language literacy
+---
 
-#### stylistic conventions
+## Chapter 1 - Bootstrapping your Ruby Literacy
+
+### stylistic conventions
 
 | type     | Ruby convention | Nonconventional               |
 |:--------:| --------------- | ----------------------------- |
@@ -16,12 +18,12 @@ dg-publish: true
 | class    | `@@first_name`  | `@@First_name`, `@@firstName` |
 | global   | `$FIRST_NAME`   | `$first_name`, `$firstName`   | 
 
-#### method names
+### method names
 
 > Names of methods follow the same rules and conventions as local variables. This is by design: **methods don't call attention to themselves as methods** but rather blend into the texture of a program as **expressions that provide a value**. In some contexts you can't tell just by looking at an expression whether you're seeing a local variable or a method name - and that's intentional.
 
 
-#### method calls vs. messages
+### method calls vs. messages
 
 When an object's method is called, rubyists also say that you're sending a message to the object.
 
@@ -49,11 +51,13 @@ puts "Hello"
 despite the lack of a message-sending dot and an explicit receiver for the message, we're sending the message `puts` with the argument `"Hello"` to the default object `self`.
 
 
-
-#### objects > classes
+### objects > classes
 
 > Although every object is an instance of a class, the concept of class is less important than the concept of object. That's because **objects can change, acquiring methods and behaviors that weren't defined in their class**. The class is responsible for launching the object into existence, a process known as *instantiation*, but thereafter the object has a life of its own.
 > 
 > **The ability of objects to adopt behaviors that their class didn't give them is one of the most central defining principles of the design of Ruby as a language.** (..) although every object has a class, the class of an object isn't the sole determinant of what the object can do.
 
 
+### require vs. load
+
+p. 20-24
