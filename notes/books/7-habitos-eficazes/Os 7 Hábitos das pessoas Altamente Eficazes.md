@@ -18,6 +18,7 @@ Conceitos chave:
 - [[Os 7 Habitos - Introducao]]
 - [[Habito Eficaz 1 - Seja Proativo]]
 - [[Habito Eficaz 2 - Comece com o objetivo em mente]]
+- [[Habito Eficaz 3 - Primeiro o mais importante]]
 
 ---
 
@@ -57,4 +58,3 @@ Durante a leitura deste livro eu percebi que já tive contato com outros que par
 - finanças
 - organizar my second brain 
 - cuidar do logbots
-- 

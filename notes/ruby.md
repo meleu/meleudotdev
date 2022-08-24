@@ -112,7 +112,17 @@ end
 ---
 
 
-## Ruby in Twenty Minutes
+## tutorials
+
+## Ruby in 100 Minutes
+
+- <http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html>
+- See also:
+    - <http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html>
+    - <http://tutorials.jumpstartlab.com/topics/internal_testing/rspec_and_bdd.html>
+    - <http://tutorials.jumpstartlab.com/topics/internal_testing/rspec_practices.html>
+
+### Ruby in Twenty Minutes
 
 From <https://www.ruby-lang.org/en/documentation/quickstart/>
 
@@ -201,9 +211,8 @@ greeter.say_hi
 
 ---
 
-## references
 
-- [[The Well-Grounded Rubyist]]
-- <https://www.ruby-lang.org/en/documentation/quickstart/>
-- <https://try.ruby-lang.org/>
+### Navigating Ruby Files with Vim
+
+- <https://thoughtbot.com/upcase/navigating-ruby-files-with-vim>
 

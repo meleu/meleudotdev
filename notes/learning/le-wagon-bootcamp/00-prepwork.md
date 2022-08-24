@@ -236,7 +236,11 @@ Nothing new...
 
 ## Product Design & Figma
 
-See also: <https://www.udemy.com/course/sketching-for-ux-designers/> (my own recomendation)
+Uhm... Some interesting stuff, but I'm afraid that's not the thing the pleases me... 😔
+
+Some stuff I saw as related (maybe useful):
+- <https://www.origamid.com/curso/ui-design-para-iniciantes> - curso do Origamid, deve ser bom.
+- <https://www.udemy.com/course/sketching-for-ux-designers/> - prototyping by drawing on a paper
 
 
 ---

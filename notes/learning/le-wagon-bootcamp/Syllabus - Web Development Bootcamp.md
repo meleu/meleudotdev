@@ -56,7 +56,14 @@ dg-publish: true
 
 ## Fase 3 - Projetos finais
 
-- controlesuacarteira
-- retrochampions
-- 1loc.sh
+- logbots.app
+- portfolio <https://meleu.dev/portfolio/>
+    - RetroAchievements (disclaimer: I'm not the creator)
+    - RANews
+    - RADocs
+    - meleu.sh
+    - RABot
 - RANews like <https://increment.com>
+- 1loc.sh
+- retrochampions
+- controlesuacarteira
