@@ -27,6 +27,8 @@ Don't forget: everything in Ruby is an object!
 
 Variables and Methods named with `snake_case`.
 
+See also [[idiomatic ruby]].
+
 
 ## Methods
 
@@ -300,6 +302,100 @@ end
 ```
 
 
+### Arrays
+
+```ruby
+>> numbers = [1, 2, 3, 4]
+=> [1, 2, 3, 4]
+# the "shovel operator" << works like .push
+>> numbers << 5
+=> [1, 2, 3, 4, 5]
+>> numbers
+=> [1, 2, 3, 4, 5]
+```
+
+#### Common Array Methods
+
+```ruby
+# there conveniente methods, like .first, .last, .min, .max, .minmax
+>> array.last
+=> 5
+>> array.first
+=> 1
+>> array.max
+=> 5
+>> array.min
+=> 1
+>> array.minmax
+=> [1, 5]
+
+# .sort
+>> numbers = [1, 9, 2, 8, 3, 7]
+=> [1, 9, 2, 8, 3, 7]
+>> numbers.sort
+=> [1, 2, 3, 7, 8, 9]
+>> numbers
+=> [1, 9, 2, 8, 3, 7]
+
+```
+
+Others methods to try:
+
+- `each`
+- `collect`
+- `shuffle`
+
+See full Array documentation: <https://ruby-doc.org/core-2.5.1/Array.html> (2.5.1 because that's the version used in [[The Well-Grounded Rubyist]])
+
+
+### Hashes
+
+Hashes are basically an associative array. In other words: a hash is an *unordered* collection where the data is organized into key/value pairs.
+
+```ruby
+produce = {'apples' => 1, 'oranges' => 2}
+# => {"apples"=>1, "oranges"=>2}
+puts "there are #{produce['oranges']} oranges in the fridge."
+# there are 2 oranges in the fridge.
+# => nil
+
+# it's also possible to use symbols as the keys of a hash
+produce = {apples: 3, oranges: 4}
+=> {:apples=>3, :oranges=>4}
+# now you must use the :symbol notation to get the value
+puts "there are #{produce[:oranges]} oranges in the fridge."
+# there are 4 oranges in the fridge.
+# => nil
+```
+
+
+### Conditionals
+
+Common conditional operators: `==`, `!=`, `>`, `>=`, `<`, `<=`.
+
+Logical AND: `&&`
+
+Logical OR: `||`
+
+The convention is that a method which returns a boolean value should have a name ending with `?`.
+
+
+### Classes and Objects
+
+Example:
+```ruby
+class Student
+  attr_accessor :first_name, :last_name, :primary_phone_number
+
+  def introduction
+    puts "Hi, I'm #{first_name}!"
+  end
+end
+
+frank = Student.new
+frank.first_name = "Frank"
+frank.introduction
+```
 
 
 ---
