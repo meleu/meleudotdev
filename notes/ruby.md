@@ -27,7 +27,11 @@ Don't forget: everything in Ruby is an object!
 
 Variables and Methods named with `snake_case`.
 
-See also [[idiomatic ruby]].
+See also:
+
+- <https://rubystyle.guide/>
+- RuboCop: <https://github.com/rubocop/rubocop>
+-  [[idiomatic ruby]].
 
 
 ## Methods
