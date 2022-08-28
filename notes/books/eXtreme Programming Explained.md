@@ -9,7 +9,7 @@ Livro de Kent Beck
 
 ---
 
-- Li a versão em português da primeira edição do livro (existe uma 2a. edição não publicada em português)
+Observação: Li a versão em português da primeira edição do livro (existe uma 2a. edição não publicada em português)
 
 
 ## XP 04 - Quatro Variáveis
@@ -99,8 +99,9 @@ Já testemunhei esse cenário muitas vezes:
 >
 > Simplicidade e comunicação têm uma maravilhosa relação de suporte mútuo. Quando mais você se comunica, mais claramente você vê o que precisa ser feito e tem mais certeza sobre o que não precisa. Quanto mais simples for o sistema, menos você precisa comunicar sobre ele. O que nos leva a uma comunicação mais completa, especialmente se você pode simplificar o sistema o suficiente para precisar de menos programadores.
 
-
-
 Obs.: esse tema me lembra uma coisa que vi no [[Code Complete]]: "uma das funções do Engenheiro de Software é conter a complexidade."
 
+### feedback
 
+
+### coragem
