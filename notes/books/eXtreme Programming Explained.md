@@ -46,6 +46,12 @@ Solução: trabalhar com iterações curtas, limitadas a pequenas entregas de es
 
 ### Qualidade
 
+> Você pode ter ganhos a curto prazo se deliberadamente sacrificar a qualidade, mas o custo - humano, comercial e técnico - é enorme.
+
+Abrir mão da qualidade gera o *infamous* [[debito tecnico]].
+
+Esse tema me faz lembrar de uma coisa que li no [[Code Complete - 3.2. Determine the Kind of Software You're Working On]]. Para cada tipo de software existe uma abordagem mais apropriada. Imagino eu que em Hackathons e construção de MVPs, abrir mão da qualidade para fazer algo muito rápido pode ser uma decisão aceitável. O perigo é querer evoluir a partir de uma versão feita sem qualidade para ser concluída rapidamente.
+
 > Qualidade não é verdadeiramente uma variável livre. Os únicos valores possíveis são "excelente" ou "insanamente excelente", dependendo se vidas estão em jogo ou não. Do contrário você não aprecia o seu trabalho, não trabalha bem e o projeto vai por água abaixo.
 
 
