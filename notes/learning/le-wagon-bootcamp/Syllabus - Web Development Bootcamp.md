@@ -48,6 +48,7 @@ dg-publish: true
         - 🤓 - <https://www.origamid.com/curso/bootstrap-4/>
 - JavaScript/ES6
     - DOM
+    - 🤓 - <https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/>
     - 🤓 - <https://domevents.dev/>
 - Empacotando tudo com Rails
     - 🤓 - [Colocar uma aplicação Ruby on Rails em containers](https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application)
