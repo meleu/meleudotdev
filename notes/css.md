@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-cards-deck: webdev::css
+deck: webdev::css
 ---
 # CSS
 
@@ -35,11 +35,13 @@ cards-deck: webdev::css
 
 ---
 
+<!-- basicblock-start oid="ObsRsO8RujveTSFrhYQjpQwk" -->
 ## smooth scrolling
-
+::
 ```css
 scroll-behavior: smooth;
 ```
+<!-- basicblock-end -->
 
 
 ## [flexbox] place something in the center of the screen
@@ -72,11 +74,14 @@ Premissas:
 - funciona ~~em qualquer~~ na esmagadora maioria dos navegadores.
 
 Eis o código CSS:
-perfect fullpage background image #anki
+
+<!-- basicblock-start oid="Obs4sikA3Y4NWay2uozGSk7N" -->
+perfect fullpage background image
+::
 ```css
 html {
   background: url("background.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 ```
-^1661285400438
+<!-- basicblock-end -->

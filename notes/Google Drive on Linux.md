@@ -3,6 +3,10 @@ dg-publish: true
 ---
 # Google Drive on Linux
 
+[TOC]
+
+---
+
 ## PopOS! / GNOME
 
 > [!warning]
