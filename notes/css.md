@@ -36,11 +36,10 @@ cards-deck: webdev::css
 ---
 
 ## smooth scrolling
-#anki
+
 ```css
 scroll-behavior: smooth;
 ```
-^1661278561207
 
 
 ## [flexbox] place something in the center of the screen
