@@ -10,6 +10,12 @@ Book I'm reading: [[The Well-Grounded Rubyist]]
 
 ---
 
+## tutorials
+
+- [[Ruby in 100 Minutes]]
+- [Navigating Ruby Files with Vim](https://thoughtbot.com/upcase/navigating-ruby-files-with-vim)
+
+
 ## Basic Data Types
 
 - Numeric
@@ -149,11 +155,4 @@ end
 # => "meleu meleu meleu "
 ```
 
----
-
-
-## tutorials
-
-- [[Ruby in 100 Minutes]]
-- [Navigating Ruby Files with Vim](https://thoughtbot.com/upcase/navigating-ruby-files-with-vim)
 

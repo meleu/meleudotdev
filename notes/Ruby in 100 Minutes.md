@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Ruby in 100 Minutes
 
 - <http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html>
