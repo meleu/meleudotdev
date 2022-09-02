@@ -28,7 +28,7 @@ Os conteúdos listados aqui estão em inglês, portanto é importante saber ler 
 
 Para fazer os exercícios dos links que listo aqui, é muito conveniente que você se sinta confortável na linha de comando (se você é completamente novato, recomendo [esse conteúdo gratuito e em português produzido pelo Blau Araujo](https://youtube.com/playlist?list=PLXoSGejyuQGqJEEyo2fY3SA-QCKlF2rxO))
 
-O meu objetivo aqui **não** é aprender a programar, e sim adquirir fluência na linguagem Ruby. Portanto estou assumindo que você tenha alguma noção de programação (qualquer linguagem).
+O meu objetivo aqui **não** é aprender a programar, estou assumindo que você já tenha alguma noção de programação. O objetivo aqui é adquirir fluência na linguagem Ruby.
 
 Um conhecimento dos fundamentos de programação orientada a objetos pode ajudar, mas acredito não ser tão necessário pra começar.
 
@@ -39,7 +39,13 @@ Depois de alguns anos atuando como DevOps Engineer, resolvi migrar para área de
 
 Passei um bom tempo pesquisando qual seria a maneira mais rápida de fazer essa migração e cheguei a conclusão que seria cursando um *coding bootcamp*. Após muitos dias de pesquisa observei que o mais bem avaliado é o [curso de Web Development do Le Wagon](https://www.lewagon.com/rio/web-development-course/full-time). E nesse curso a linguagem usada no backend é o Ruby.
 
-Existem outros motivos que me fizeram gostar ainda mais da linguagem - é uma linguagem elegante, a biblioteca padrão é rica, a comunidade preza por qualidade e tem uma forte cultura em prol do TDD - mas no final das contas o motivo pelo qual resolvi mergulhar no Ruby foi pra fazer o curso.
+Existem outros motivos que me fizeram gostar ainda mais da linguagem, exemplos:
+
+- é uma linguagem realmente "gostosa" de usar
+- a biblioteca padrão é rica
+- a comunidade Ruby tem uma forte cultura em prol do TDD
+
+Porém, mesmo com esses pontos positivos, o verdadeiro motivo pelo qual resolvi mergulhar no Ruby foi pra fazer o curso.
 
 
 ## Contato inicial com a linguagem
@@ -83,19 +89,21 @@ A seguir falo um pouco sobre o exercism. Se você já conhece a plataforma, pode
 
 O [exercism.org](https://exercism.org) é uma plataforma maravilhosa para adquirir fluência em qualquer linguagem (atualmente eles têm trilhas para 61 linguagens).
 
-Eu não conheço nenhuma alternativa de aprendizado de uma nova linguagem de programação que seja melhor do que o exercism. E digo isso como um grande fã de aprender lendo livros. Continuo achando que livros são uma excelente fonte de referência, mas digo que o exercism é melhor pra aprender pelos seguintes motivos:
+Eu não conheço nenhuma alternativa de aprendizado de uma nova linguagem de programação que seja melhor do que o exercism.
+
+Eu sou um grande fã de aprender lendo livros, e continuo achando que livros são uma excelente fonte de referência. Mas digo que o exercism é melhor pra aprender e ganhar fluência, pelos seguintes motivos:
 
 **Os exercícios são do tipo *Test-Driven Development* (TDD).**
 
 Isso significa que você vai resolver o problema proposto no desafio e vai rodar um teste que vai te dizer na hora se você conseguiu resolver o problema.
 
-Isso é muito maravilhoso! Você pode ir aperfeiçoando (refatorando) seu código e ir executando os testes novamente para conferir novas maneiras de resolver o problema.
+Você pode ir aperfeiçoando (refatorando) seu código e ir executando os testes novamente para conferir novas maneiras de resolver o problema. Sem precisar ficar testando "na mão". Isso é muito maravilhoso! 
 
 **Você vai aprender muito vendo as soluções submetidas por outras pessoas**
 
-Uma excelente maneira de aprender os "macetes" de uma determinada linguagem é você ver como que pessoas mais experientes na linguagem.
+Uma excelente maneira de aprender os "macetes" de uma determinada linguagem é você ver como que pessoas mais experientes naquela linguagem fazem.
 
-No exercism, uma vez que você submete a sua solução, você tem acesso às soluções das outras pessoas que já resolveram o exercício. E essa é uma excelente maneira de você ir aprendendo aquelas soluções idiomáticas, que fazem um bom uso das características da linguagem.
+No exercism, uma vez que você submete a sua solução, você tem acesso às soluções das outras pessoas. E essa é uma excelente maneira de você ir aprendendo aquelas soluções idiomáticas, que fazem um bom uso das características específicas da linguagem.
 
 Eu recomendo muito que após submeter sua solução você gaste alguns minutinhos dando uma olhada no código das outras pessoas e tentar entender o que elas estão fazendo.
 
@@ -103,18 +111,19 @@ Lembra que eu falei que estamos usando TDD? Pois então! Você pode pegar trecho
 
 Se você não entender o que o colega fez, você vai dar uma olhada na documentação oficial da linguagem e vai passar a entender.
 
-CONTINUAR DAQUI...
+Repito: não conheço maneira mais efetiva de ganhar fluência numa linguagem de programação.
 
 
 ## Ruby Koans - Reforçando os fundamentos da linguagem
 
+FALAR SOBRE O Ruby Koans!!!
 
 - <https://github.com/edgecase/ruby_koans>
 
 
 
-## Coisas que tentei antes de chegar nessa lista
+## Coisas que tentei antes de chegar aqui
 
-- ruby in 20 minutes
-- codewars
-- well grounded rubyist
+- [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/) - não achei as explicações muito boas...
+- [codewars.com](https://codewars.com) - a proposta até que é legalzinha, mas o exercism é melhor.
+- [The Well-Grounded Rubyist, 3rd Edition](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) - comecei lendo o livro, mas achei meio "devagar". Continuo lendo devagarinho para fixar alguns conceitos, pois ele explica com profundidade. Mas pra ganhar fluência de forma mais rápida, eu já pulei pro exercism.
