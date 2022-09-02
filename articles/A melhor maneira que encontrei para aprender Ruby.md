@@ -170,34 +170,29 @@ ruby path_to_enlightenment.rb
 ruby about_symbols.rb
 ```
 
-Grande parte do processo de aprendizado com os Ruby Koans, é você iterando nos seguintes passos
+Grande parte do processo de aprendizado com os Ruby Koans, é você ir iterando nos seguintes passos
 
-1. executar o teste no terminal
-2. ver aonde está falhando
-3. editar o arquivo para concertar o teste
-4. voltar ao passo 1
+1. executar o teste no terminal e ver aonde está falhando
+2. editar o arquivo para concertar o teste
+3. voltar ao passo 1
 
-Cedo ou tarde você vai ficar entendiado de ficar indo pro terminal pra testar e voltar pro editor pra conc
+Cedo ou tarde você vai ficar entendiado de ficar alternando entre o terminal pra testar e o editor de código pra ajeitar os testes.
 
-Uma coisa que certamente vai acontecer cedo ou tarde, é 
+Para ajudar nessa tarefa, pidemos usar o `observr`, desse jeito:
 ```
-
-# running koans automatically
-#############################
-
-# install observr gem
+# instalar o observr gem
 gem install observr
-observr ./koans/koans.watchr
 
-# now you can edit the file and see the results on save
+# rodar os testes a cada alteração
+# em qqr um dos koans
+observr ./koans/koans.watchr
 ```
 
-
-
+Pronto, agora vc pode deixar uma janela com o editor e outra com observr executando os testes a cada vez q vc salvar o arquivo.
 
 
 ## Coisas que tentei antes de chegar aqui
 
-- [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/) - não achei as explicações muito boas...
-- [codewars.com](https://codewars.com) - a proposta até que é legalzinha, mas o exercism é melhor.
-- [The Well-Grounded Rubyist, 3rd Edition](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) - comecei lendo o livro, mas achei meio "devagar". Continuo lendo devagarinho para fixar alguns conceitos, pois ele explica com profundidade. Mas pra ganhar fluência de forma mais rápida, eu já pulei pro exercism.
+- [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/) - não achei as explicações muito coesas. Por isso preferi o "Ruby in 100 minutes".
+- [codewars.com](https://codewars.com) - a proposta até que é legalzinha, mas achei o exercism bem mais amigáve e sem propagandas.
+- [The Well-Grounded Rubyist, 3rd Edition](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) - comecei lendo o livro, mas achei meio "devagar". Continuo lendo devagarinho para fixar alguns conceitos, pois ele explica com profundidade. Mas pra ganhar fluência rápida, eu já pulei pro exercism.
