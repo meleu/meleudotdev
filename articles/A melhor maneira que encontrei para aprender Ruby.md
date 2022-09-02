@@ -129,39 +129,58 @@ Eu achei uma abordagem muito bacana e me ajudou a enxergar facilmente algumas co
 original_string = "Hello, "
 hi = original_string
 there = "World"
+# o operador << "shovel" aqui vai alterar
+# ambos, 'hi' e 'original_string'
 hi << there
+puts hi
+# => "Hello, World"
 puts original_string
 # => "Hello, World"
 ```
 
 O site dos Ruby Koans é o <http://rubykoans.com/>, mas eu recomendo que você vá pelo repositório: <https://github.com/edgecase/ruby_koans>
 
-TRADUZIR ES
-TRADUZIR A PARTE ABAIXO
+Aqui coloco um bizu bem direto ao ponto, mas recomendo que você consulte o README do repositório:
 
 ```bash
-# clone the repo
+# clonando o repositório
 git clone git@github.com:edgecase/ruby_koans.git
 cd ruby_koans
 
-# check if ruby is installed
+# checando se o ruby está instalado
+# se não tiver, recomendo que use o asdf-vm
 ruby --version
 rake --version
 
-# generate the koans
+# gerando os koans
 rake gen
 
-# regenerate the koans
+# se no futuro você precisar/quiser gerar os
+# koans novamente para estudar desde o início,
+# use esse comando:
 rake regen
 
-# to run all the tests in the koans' creator order:
+# para executar todos os testes na ordem sugerida:
 rake
-# it's the same as:
+# que é a mesma coisa que executar isso:
 ruby path_to_enlightenment.rb
 
-# you can also run a specific one, example:
+# você também pode executar um koan específico
+# exemplo:
 ruby about_symbols.rb
+```
 
+Grande parte do processo de aprendizado com os Ruby Koans, é você iterando nos seguintes passos
+
+1. executar o teste no terminal
+2. ver aonde está falhando
+3. editar o arquivo para concertar o teste
+4. voltar ao passo 1
+
+Cedo ou tarde você vai ficar entendiado de ficar indo pro terminal pra testar e voltar pro editor pra conc
+
+Uma coisa que certamente vai acontecer cedo ou tarde, é 
+```
 
 # running koans automatically
 #############################
