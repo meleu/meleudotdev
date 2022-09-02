@@ -10,7 +10,7 @@ Preciso reforçar que essa é uma lista de coisas que funcionaram muito bem **pa
 Eu vou listar a sequência que eu recomendo caso você atenda algumas premissas. Ao final do artigo eu listo outros conteúdos que tentei antes de chegar na lista atual.
 
 
-## Não quero ler isso tudo, me diz logo o que tenho que fazer
+## Resumo
 
 - Premissas:
     - saber ler em inglês.
@@ -116,9 +116,64 @@ Repito: não conheço maneira mais efetiva de ganhar fluência numa linguagem de
 
 ## Ruby Koans - Reforçando os fundamentos da linguagem
 
-FALAR SOBRE O Ruby Koans!!!
+De acordo com a [Wikipedia](https://pt.wikipedia.org/wiki/Koan):
 
-- <https://github.com/edgecase/ruby_koans>
+> Um *koan* é uma narrativa, diálogo, questão ou afirmação do budismo zen que contém aspectos que são inacessíveis a razão. Desta forma, o *koan* tem, como objetivo, propiciar a iluminação espiritual do praticante do budismo zen.
+
+OK, isso parece viajação demais... Vamos abstrair essa parte filosófica e nos concentrar no aspecto técnico.
+
+Os Ruby Koans são testes que estão "quebrados" e que você terá que corrigir. E a medida que você vai corrigindo você vai aprendendo/fixando alguns conceitos mais fundamentais da linguagem Ruby.
+
+Eu achei uma abordagem muito bacana e me ajudou a enxergar facilmente algumas coisas sutis. Exemplo: o operador `<<` "shovel" muda a string original quando fazemos algo desse tipo:
+```ruby
+original_string = "Hello, "
+hi = original_string
+there = "World"
+hi << there
+puts original_string
+# => "Hello, World"
+```
+
+O site dos Ruby Koans é o <http://rubykoans.com/>, mas eu recomendo que você vá pelo repositório: <https://github.com/edgecase/ruby_koans>
+
+TRADUZIR ES
+TRADUZIR A PARTE ABAIXO
+
+```bash
+# clone the repo
+git clone git@github.com:edgecase/ruby_koans.git
+cd ruby_koans
+
+# check if ruby is installed
+ruby --version
+rake --version
+
+# generate the koans
+rake gen
+
+# regenerate the koans
+rake regen
+
+# to run all the tests in the koans' creator order:
+rake
+# it's the same as:
+ruby path_to_enlightenment.rb
+
+# you can also run a specific one, example:
+ruby about_symbols.rb
+
+
+# running koans automatically
+#############################
+
+# install observr gem
+gem install observr
+observr ./koans/koans.watchr
+
+# now you can edit the file and see the results on save
+```
+
+
 
 
 
