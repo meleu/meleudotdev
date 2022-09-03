@@ -156,7 +156,7 @@ end
 ```
 
 
-### Custom `irb` prompt for copy'n'pasting
+## Custom `irb` prompt for copy'n'pasting
 
 Put this in your `~/.irbrc`:
 ```

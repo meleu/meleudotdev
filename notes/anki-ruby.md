@@ -114,3 +114,31 @@ returns a new array with the results of running a block once for every element i
 ```
 <!-- basicblock-end -->
 
+<!-- basicblock-start oid="ObsYabOUk3A6c1w6fqRSDu8P" -->
+## from char to ASCII value
+::
+```ruby
+'a'.ord # ordinal
+# => 97
+```
+<!-- basicblock-end -->
+
+
+<!-- basicblock-start oid="ObsZeT2Wv9luCKQ26uH9ZSUb" -->
+## from ASCII value to char
+::
+```ruby
+97.chr
+# => "a"
+```
+<!-- basicblock-end -->
+
+
+<!-- basicblock-start oid="ObsxCLsNAN4rr1oUy30GCJ6N" -->
+## subtract arrays
+::
+```ruby
+[1, 2, 3] - [1, 3]
+# => [2]
+```
+<!-- basicblock-end -->
