@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 <!-- basicblock-start oid="Obs7NM6yJsT1gYH8Zjw3DPXx" -->
 ## {{front}}
 ::

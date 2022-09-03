@@ -5,14 +5,14 @@ dg-publish: true
 
 - publicado em <https://dev.to/meleu/a-melhor-maneira-que-encontrei-para-aprender-ruby-56d5>
 
-Neste artigo listo a melhor maneira que encontrei para aprender Ruby.
+Esse artigo contem uma lista de coisas que estão funcionando muito bem para o meu aprendizado da linguagem Ruby. Estou compartilhando aqui pois acredito que também possa ter alguma valia para pessoas que tenham um perfil parecido.
 
-Preciso reforçar que essa é uma lista de coisas que funcionaram muito bem **para mim**, e isso não significa que funcionará para qualquer pessoa.
+Reforço que o objetivo aqui **NÃO** é aprender programação (muito básico), e nem aprender a desenvolver aplicações web usando Ruby (muito avançado).
 
-Eu vou listar a sequência que eu recomendo caso você atenda algumas premissas. Ao final do artigo eu listo outros conteúdos que tentei antes de chegar na lista atual.
+O material que indico aqui tem o objetivo bem específico de **ganhar fluência na linguagem Ruby o mais rápido possível**.
 
 
-## Resumo
+## Versão Resumida
 
 - Premissas:
     - saber ler em inglês.
@@ -20,8 +20,9 @@ Eu vou listar a sequência que eu recomendo caso você atenda algumas premissas.
     - saber pelo menos os conceitos básicos de programação orientada a objetos.
 
 - Leia [Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) para ter uma boa noção inicial da sintaxe.
-- Faça os desafios da [trilha Ruby no exercism](https://exercism.org/tracks/ruby).
+- Faça os desafios da [trilha Ruby no exercism.org](https://exercism.org/tracks/ruby).
 - Brinque com os [Ruby Koans](https://github.com/edgecase/ruby_koans) para ir fixando os conceitos mais fundamentais da linguagem.
+
 
 
 ## Premissas
@@ -32,22 +33,8 @@ Para fazer os exercícios dos links que listo aqui, é muito conveniente que voc
 
 O meu objetivo aqui **não** é aprender a programar, estou assumindo que você já tenha alguma noção de programação. O objetivo aqui é adquirir fluência na linguagem Ruby.
 
-Um conhecimento dos fundamentos de programação orientada a objetos pode ajudar, mas acredito não ser tão necessário pra começar.
+Algum conhecimento dos fundamentos de programação orientada a objetos pode ajudar, mas acredito não ser tããão necessário pra começar.
 
-
-## Por que eu decidi aprender Ruby
-
-Depois de alguns anos atuando como DevOps Engineer, resolvi migrar para área de desenvolvimento web (em algum outro artigo eu falo sobre minhas motivações).
-
-Passei um bom tempo pesquisando qual seria a maneira mais rápida de fazer essa migração e cheguei a conclusão que seria cursando um *coding bootcamp*. Após muitos dias de pesquisa observei que o mais bem avaliado é o [curso de Web Development do Le Wagon](https://www.lewagon.com/rio/web-development-course/full-time). E nesse curso a linguagem usada no backend é o Ruby.
-
-Existem outros motivos que me fizeram gostar ainda mais da linguagem, exemplos:
-
-- é uma linguagem realmente "gostosa" de usar
-- a biblioteca padrão é rica
-- a comunidade Ruby tem uma forte cultura em prol do TDD
-
-Porém, mesmo com esses pontos positivos, o verdadeiro motivo pelo qual resolvi mergulhar no Ruby foi pra fazer o curso.
 
 
 ## Contato inicial com a linguagem
@@ -60,7 +47,7 @@ Uma coisa que pra mim foi bem legal, foi entender o conceito de [Blocks](http://
 
 Exemplo:
 ```ruby
-# podemos fazer for desse jeito (meio parecido com bash)
+# podemos fazer "for" desse jeito (meio parecido com bash)
 for i in 0..5 do
   puts i
 end
@@ -198,3 +185,12 @@ Pronto, agora vc pode deixar uma janela com o editor e outra com observr executa
 - [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/) - não achei as explicações muito coesas. Por isso preferi o "Ruby in 100 minutes".
 - [codewars.com](https://codewars.com) - a proposta até que é legalzinha, mas achei o exercism bem mais amigáve e sem propagandas.
 - [The Well-Grounded Rubyist, 3rd Edition](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) - comecei lendo o livro, mas achei meio "devagar". Continuo lendo devagarinho para fixar alguns conceitos, pois ele explica com profundidade. Mas pra ganhar fluência rápida, eu já pulei pro exercism.
+
+
+## Coisas que quero tentar depois que estiver fluente
+
+Material que me foi recomendado por rubyistas já calejados:
+
+- [[Practical Object-Oriented Design]] - livro de Sandi Metz
+- [Confident Ruby](https://pragprog.com/titles/agcr/confident-ruby/) - livro de Avdi Grimm
+- [Metaprogramming Ruby 2](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/) - livro de Paolo Perrotta
