@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # A melhor maneira que encontrei para aprender Ruby
 
+- publicado em <https://dev.to/meleu/a-melhor-maneira-que-encontrei-para-aprender-ruby-56d5>
+
 Neste artigo listo a melhor maneira que encontrei para aprender Ruby.
 
 Preciso reforçar que essa é uma lista de coisas que funcionaram muito bem **para mim**, e isso não significa que funcionará para qualquer pessoa.

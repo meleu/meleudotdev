@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-# Ruby para quem vem do Java
+# Ruby para quem está vindo do Java
 
 - propriedades privadas são chamadas de "instance variables"
     - começam com `@arroba`
