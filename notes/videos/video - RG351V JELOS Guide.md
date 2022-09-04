@@ -30,4 +30,16 @@ Create a backup for this `bios` dir.
 
 <https://youtu.be/tJR0Evx3KS0>
 
+In order to be able to transfer files via Samba, enable Samba and SSH in the **network settings** menu. If password is needed, check it in the **system settings** menu.
 
+### still want to do
+
+
+- custom hotkeys
+    - do not reset game with Select+B
+- sync my roms
+- ports
+    - shovelknight
+    - celeste- ports
+    - shovelknight
+    - celeste
