@@ -110,6 +110,19 @@ array[2..-1]
 ```
 
 
+### In a Hash, it's possible to define a default value to be returned when referencing a nonexisting key
+
+```ruby
+my_hash = Hash.new('this is my default value')
+#=> {}
+
+my_hash
+#=> {}
+
+my_hash['nonexisting key']
+#=> "this is my default value"
+```
+
 ---
 
 
@@ -123,6 +136,8 @@ Maybe because it modifies the original string... 🤔
 
 
 ### about symbols
+
+**NOTE**: I didn't solved the `test_symbols_cannot_be_concatenated`. It requires knowledge about `Exceptions`, which I don't have yet.
 
 #### Why do we convert the list of symbols to strings and then compare against the string value rather than against symbols?
 
@@ -154,4 +169,69 @@ array[4, 3]
 
 array[5, 3]
 # => nil
+```
+
+
+### about objects
+
+#### What's the difference between `.to_s` and `.inspect`?
+
+From the docs:
+
+> **to_s → string**
+> Returns a string representing obj. 
+
+> **inspect -> string**
+> Returns a string containing a human-readable representation of obj.
+
+The most notable difference I got was this:
+```ruby
+nil.to_s
+#=> ""
+
+nil.inspect
+#=> "nil"
+```
+
+#### What pattern do the object IDs for small integers follow?
+
+```ruby
+n.object_id == 2*n + 1
+```
+
+
+### about hashes
+
+#### Why might you want to use `.fetch` instead of `[]` when accessing hash keys?
+
+Using `.fetch` on a nonexisting key raises a `KeyError` exception, while `[]` just returns `nil`.
+
+```ruby
+my_hash = {1 => 123, 2 => 321, 3 => nil}
+#=> {1=>123, 2=>321, 3=>nil}
+
+my_hash[3]
+#=> nil
+
+my_hash[100]
+#=> nil
+
+my_hash.fetch(3)
+#=> nil
+
+my_hash.fetch(100)
+# (irb):66:in `fetch': key not found: 100 (KeyError)
+# ...
+```
+
+Relying on `[]` is not that accurate because `nil` is valid value inside a hash.
+```ruby
+my_hash = {'a' => 123, 'b' => 321, 'c' => nil}
+#=> {"a"=>123, "b"=>321, "c"=>nil}
+
+my_hash['d']
+#=> nil
+
+my_hash['c']
+#=> nil
 ```

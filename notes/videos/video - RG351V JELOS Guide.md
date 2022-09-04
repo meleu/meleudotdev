@@ -40,6 +40,4 @@ In order to be able to transfer files via Samba, enable Samba and SSH in the **n
 - sync my roms
 - ports
     - shovelknight
-    - celeste- ports
-    - shovelknight
     - celeste
