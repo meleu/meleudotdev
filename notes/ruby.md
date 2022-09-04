@@ -72,6 +72,8 @@ end
 
 Blocks are passed to methods. In the examples above 👆 we're giving to the method `5.times` the instructions we want to run each time.
 
+Think of blocks as anonymous functions that can take zero or more arguments.
+
 There are many methods that accept blocks, like `gsub`:
 ```ruby
 >> "augusto 'meleu' lopes".gsub("u"){ puts "Found an U!" }
