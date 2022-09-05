@@ -10,13 +10,9 @@ Book I'm reading: [[The Well-Grounded Rubyist]]
 
 ---
 
-## tutorials
+## Ruby Basics
 
-- [[Ruby in 100 Minutes]]
-- [Navigating Ruby Files with Vim](https://thoughtbot.com/upcase/navigating-ruby-files-with-vim)
-
-
-## Basic Data Types
+### Basic Data Types
 
 - Numeric
     - Integer
@@ -29,7 +25,7 @@ Book I'm reading: [[The Well-Grounded Rubyist]]
 Don't forget: everything in Ruby is an object!
 
 
-## Coding Style
+### Coding Style
 
 Variables and Methods named with `snake_case`.
 
@@ -40,7 +36,7 @@ See also:
 -  [[idiomatic ruby]].
 
 
-## Methods
+### Methods
 
 ```ruby
 def hello(name)
@@ -57,7 +53,7 @@ puts hello("meleu") # => "Hi meleu!"
 ```
 
 
-## Blocks
+### Blocks
 
 Block styles
 ```ruby
@@ -92,7 +88,7 @@ When our instructions within a block need to reference the value that they're cu
   puts "#{i}: Hello, World!"
 end
 ```
-## Conditionals
+### Conditionals
 
 ```ruby
 if age > 18
@@ -103,7 +99,7 @@ end
 ```
 
 
-## Loops
+### Loops
 
 for loops:
 ```ruby
@@ -127,6 +123,15 @@ hash.each do |key, value|
   puts "#{key} => #{value}"
 end
 ```
+
+
+---
+
+## tutorials
+
+- [[Ruby in 100 Minutes]]
+- [Navigating Ruby Files with Vim](https://thoughtbot.com/upcase/navigating-ruby-files-with-vim)
+
 
 
 ## Some ruby tricks
