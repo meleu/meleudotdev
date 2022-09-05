@@ -4,7 +4,7 @@ cards-deck: webdev::ruby
 ---
 # ruby
 
-Book I'm reading: [[The Well-Grounded Rubyist]]
+See [[A melhor maneira que encontrei para aprender Ruby]].
 
 [TOC]
 
