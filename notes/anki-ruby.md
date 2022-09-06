@@ -75,8 +75,7 @@ counts how many "char-set" there are in the string
 
 
 <!-- basicblock-start oid="ObsQm4MQUysplnS24ctorAPw" -->
-## how `Array.map` works?
-::
+## how `Array.map` works?::
 returns a new array with the results of running a block once for every element in the array (enumeration)
 ```ruby
 # raise all numbers to square
@@ -102,8 +101,8 @@ returns a new array with the results of running a block once for every element i
 <!-- basicblock-start oid="Obs3vGRaSreaEMnSyZ3mHJav" -->
 ## `String.scan` vs. `String.split`?
 ::
-- `.split` searches for the separators (no regex)
-- `.scan` searches for the items (and accepts regex)
+- `.scan` searches for the items, and accepts regex
+- `.split` searches for the separators, no regex
 ```ruby
 >> "item1--item2--itemN".split("--")
 => ["item1", "item2", "itemN"]
@@ -142,3 +141,17 @@ returns a new array with the results of running a block once for every element i
 # => [2]
 ```
 <!-- basicblock-end -->
+
+
+<!-- basicblock-start oid="ObsVRxqFtipgFulzjMJTil9Q" -->
+## create an `Array` from a `Range`
+::
+```ruby
+# n00b way
+alphabet = ('a'..'z').to_a
+
+# ninja way
+alphabet = [*'a'..'z']
+```
+<!-- basicblock-end -->
+

@@ -14,6 +14,7 @@ files-without-tags.md
 .obsidian/workspace
 .obsidian/plugins/
 .obsidian/themes/
+.trash/
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/linux,windows,macos,vim,visualstudio,obsidian

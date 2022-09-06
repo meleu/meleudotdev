@@ -49,7 +49,7 @@ main() {
   mapfile -t mdFiles < <(listMdFiles)
 
   for mdFile in "${mdFiles[@]}"; do
-    [[ -f "${mdFile}" ]] || continue
+    [[ ! -f "${mdFile}" || "${mdFile}" == "templates/"* ]] && continue
     includePublishFrontmatter "${mdFile}"
   done
 }
