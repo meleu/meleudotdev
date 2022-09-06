@@ -155,3 +155,15 @@ alphabet = [*'a'..'z']
 ```
 <!-- basicblock-end -->
 
+
+<!-- basicblock-start oid="ObsPiyXNxmiVaMBpIir4Pv19" -->
+## capture an Exception
+::
+```ruby
+begin
+  # ... code that can raise an exception...
+rescue ExceptionName => e
+  # ... code to run when getting an exception
+end
+```
+<!-- basicblock-end -->
