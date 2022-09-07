@@ -14,6 +14,11 @@ Things to consider:
 - Observe if code quality is getting better or worse over time.
 - finally, ask yourself if you really care about the project. If the pain to work with the messy code is bigger than your will to address the issue alone, maybe you should look for another project.
 
+## See Also
+
+- [[project red flags]]
+
+
 
 ## references
 
