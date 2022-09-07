@@ -5,7 +5,11 @@ dg-publish: true
 
 - <https://www.linkedin.com/learning/emmet-fast-and-efficient-web-coding/>
 - cheatsheet: <https://docs.emmet.io/cheat-sheet/>
-- very nice Emmet tutorial: <https://flaviocopes.com/emmet/>
+- very nice written Emmet tutorial: <https://flaviocopes.com/emmet/>
+
+[TOC]
+
+---
 
 ## 2 - Get Up and Running with Emmet
 
@@ -143,5 +147,40 @@ Using Lorem Ipsum:
 
 Try this and see how cool it is:
 ```
+main>article*3>h2>lorem5^p*3>lorem
+```
+
+
+## 4 - Emmet and HTML
+
+### Numbering
+
+Use the `$` dollar sign and see how cool it is:
+```html
+<!-- ul>li{item$}*5 -->
+  <ul>
+    <li>item1</li>
+    <li>item2</li>
+    <li>item3</li>
+    <li>item4</li>
+    <li>item5</li>
+  </ul>
+
+<!-- h${Heading $}*6 -->
+  <h1>Heading 1</h1>
+  <h2>Heading 2</h2>
+  <h3>Heading 3</h3>
+  <h4>Heading 4</h4>
+  <h5>Heading 5</h5>
+  <h6>Heading 6</h6>
+
+<!-- ul>li.item${item $$}*5 -->
+<ul>
+  <li class="item1">item 01</li>
+  <li class="item2">item 02</li>
+  <li class="item3">item 03</li>
+  <li class="item4">item 04</li>
+  <li class="item5">item 05</li>
+</ul>
 
 ```
