@@ -4,7 +4,7 @@ cards-deck: webdev::ruby
 ---
 # ruby
 
-See [[original-A melhor maneira que encontrei para aprender Ruby]].
+See [[A melhor maneira que encontrei para aprender Ruby]].
 
 [TOC]
 

@@ -1,13 +1,14 @@
 ---
 dg-publish: true
-title: A melhor maneira que encontrei para aprender Ruby
-subtitle: Veja o que fiz para adquirir fluência na linguagem Ruby.
-slug: aprenda-ruby
+title: The best way I found to learn Ruby
+subtitle: What I did to acquire fluency in the Ruby language
+slug: learn-ruby
 tags: ruby
 domain: meleu.hashnode.dev
+ignorePost: true
 ---
 
-# A melhor maneira que encontrei para aprender Ruby
+%%TODO: converter isso para inglês%%
 
 Esse artigo contem uma lista de coisas que estão funcionando muito bem para o meu aprendizado da linguagem Ruby. Estou compartilhando aqui pois acredito que também possa ter alguma valia para pessoas que tenham um perfil parecido.
 
