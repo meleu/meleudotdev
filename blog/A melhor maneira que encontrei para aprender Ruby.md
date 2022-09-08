@@ -1,12 +1,11 @@
 ---
+dg-publish: true
 title: A melhor maneira que encontrei para aprender Ruby
 subtitle: 
 slug: aprenda-ruby
 tags: 
   - ruby
 domain: meleu.hashnode.dev
-# remove ignorePost line when done
-ignorePost: true
 ---
 
 # A melhor maneira que encontrei para aprender Ruby
