@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: How to install & update the asdf Version Manager
 slug: asdf-vm
 tags: tools, devtools
