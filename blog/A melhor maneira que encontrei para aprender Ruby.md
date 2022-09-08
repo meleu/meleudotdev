@@ -3,8 +3,7 @@ dg-publish: true
 title: A melhor maneira que encontrei para aprender Ruby
 subtitle: Veja o que fiz para adquirir fluência na linguagem Ruby.
 slug: aprenda-ruby
-tags: 
-  - ruby
+tags: ruby
 domain: meleu.hashnode.dev
 ---
 
