@@ -85,30 +85,137 @@ OK, now that we know the syntax, let's practice!
 
 ## Challenges from exercism.org
 
-### Why exercism is so cool?
+Now I suggest to solve the challenges in the [Ruby track on exercism.org](https://exercism.org/tracks/ruby). The challenges start very simple and progress very slowly.
+
+You'll need to check these short [exercism Ruby Docs](https://exercism.org/docs/tracks/ruby) so you can configure your programming environment to work on exercism challenges.
+
+### Why is exercism so cool?
 
 **There's a conceptual sequence to follow**
 
+Start with the [exercises from the Syllabus](https://exercism.org/tracks/ruby/concepts), so you can practice with the exercises focused on specific concepts of the language.
+
+That's why I think that **for the purpose of getting used with the language**, exercism stands out from other "coding challenges" services like HackerRank and CodeWars. Those other services are also awesome, but they're more focused on "problem solving". Usually you do their challenges with a language you're comfortable with so you can improve your thinking.
+
+If you go to a service like HackerRank to *learn* Ruby, you'll probably spend more time and mental energy, as you'll need to 1) thinking about how to solve the challenge and 2) translating your thoughts into Ruby code. Of course this is an awesome service! But go for it *after* you have some fluency with the language.
+
+Let's remember our goal one more time: be fluent with Ruby as quick as possible!
+
+The challenges at exercism are better for this purpose because they're simple and you'll mostly spend time researching how to convert those simple algorithms into Ruby code.
 
 
 **The challenges use Test Driven Development (TDD)**
 
+That means that you're going to code your solutions and run the tests that will promptly tell you if your solution is correct.
+
+You'll be able to use that famous mantra: "Make it work. Make it right. Make it fast."
+
+Alright, you don't need to spend time making it fast. At this stage our mantra should be: "Make it work. Make it right. Make it idiomatic."
+
+Here's how I do it:
+
+1. I solve the challenge as fast as I can (sometimes in a ugly hacky way). All tests are passing.
+2. I do my best to clean up my code. All tests are still passing.
+3. I submit my solution, mark the challenge as solved and go check other people's code. That's when I'll be able to make my code idiomatic.
+
 
 **You'll learn a lot look other people's solutions**
 
+Once you submit your solution and all tests are passing, you'll have access to the solutions submit by other people using the exercism platform. That's an awesome way to learn the more idiomatic solutions.
 
-### tip: keep your solutions in a repository
+I've been learning a lot with this! I check their solutions and then go to the [Ruby documentation](https://ruby-doc.org/) to understand what they're doing. Sometimes I shamelessly get inspiration from other people's code and refactor my solution, run the tests, and submit my solutions again.
 
+Maybe you feel kinda guilty that you're copying someone else's solution. I know how it feels... 😅 Get rid of this thought! This is not school nor a competition, no one cares who has the best solution or who did the best one. We're here to learn as fast as possible, anything is allowed to achieve that goal!
 
+The funniest part of learning with TDD is that you can fearlessly change your code. You just have to run the tests again to make sure your code is correct!
 
+When I'm done playing with a challenge, I spend some time making notes about the new stuff I learned. And that leads us to the next topic...
+
+### tip: keep your solutions and notes in a repository
+
+I highly recommend that you keep your solutions in a git repository. If it's going to be public or private, is up to you. But create one.
+
+I have a public repository for this purpose. And I keep [this file with my notes](https://github.com/meleu/exercism/blob/master/ruby/README.md) highlighting what I learned from each exercise.
+
+During your programmer's life you'll quite frequently stumble on a problem and think "hey wait! I think I already solved this in the past!". Having a repository to where you can go and search for how you solved that problem in the past is invaluable!
 
 
 ## Ruby Koans - internalizing the fundamentals
 
+According to the [Wikipedia](https://en.wikipedia.org/wiki/Koan):
 
+> A koan is a story, dialogue, question, or statement which is used in Zen practice to provoke the "great doubt" and to practice or test a student's progress in Zen.
 
+Uhm... This sounds very abstract... 🤔
 
+In practice, the Ruby Koans are broken tests. They're intentionally broken so you can look at the code and "easily" figure out how to fix it.
 
+Here's an example of one of the most basic one (the `__` double underscore is where you need to put something to fix the test):
+```ruby
+# To understand reality, we must compare our expectations against
+# reality.
+def test_assert_equality
+  expected_value = __
+  actual_value = 1 + 1
+  
+  assert expected_value == actual_value
+end
+```
+
+I found this way of learning very funny and highly optimized.
+
+Instead of reading a wordy text explaining code, you look directly at code. You get used to read and understand Ruby code faster.
+
+If you prefer a video explaining 
+
+### "Installing" the Ruby Koans
+
+The [Ruby Koans website](http://rubykoans.com/) has a link to a zip file with the Koans. As I'm assuming you have some `git` knowledge, I suggest to get the files from [their repository](https://github.com/edgecase/ruby_koans).
+
+Here's the quick way to do that:
+
+```bash
+# clone the repo
+git clone git@github.com:edgecase/ruby_koans.git
+cd ruby_koans
+
+# check if ruby is installed
+ruby --version
+rake --version
+
+# generate the koans
+rake gen
+
+# if you want you can also regenerate the koans
+rake regen
+
+# to run all the tests in the koans' creator order:
+rake
+# it's the same as:
+ruby path_to_enlightenment.rb
+
+# you can also run a specific one, example:
+ruby about_symbols.rb
+```
+
+Most of the time spent learning with Ruby Koans is you iterating through these steps:
+
+1. run the test on the terminal and see where it's breaking
+2. edit the `about_*.rb`  file to fix the test
+3. repeat
+
+Sooner or later you'll get bored of alternating between the terminal (to run the tests) and the editor (to fix them).
+
+To make your life simpler, you can use the `observr` gem. This way:
+```shell
+# install observr gem
+gem install observr
+
+# watch changes in the .rb files
+observr ./koans/koans.watchr
+```
+
+Now you can keep a window on the terminal and another one on the editor. Every time you save your code on the editor, the terminal will show you the tests results.
 
 
 ## Things I wanna try later

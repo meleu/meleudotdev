@@ -162,12 +162,12 @@ ruby about_symbols.rb
 Grande parte do processo de aprendizado com os Ruby Koans, é você ir iterando nos seguintes passos
 
 1. executar o teste no terminal e ver aonde está falhando
-2. editar o arquivo para concertar o teste
+2. editar o arquivo para consertar o teste
 3. voltar ao passo 1
 
 Cedo ou tarde você vai ficar entendiado de ficar alternando entre o terminal pra testar e o editor de código pra ajeitar os testes.
 
-Para ajudar nessa tarefa, pidemos usar o `observr`, desse jeito:
+Para ajudar nessa tarefa, podemos usar o `observr`, desse jeito:
 ```
 # instalar o observr gem
 gem install observr
