@@ -52,7 +52,7 @@ Most of those websites are great to make you improve your computational thinking
 
 This is a great exercise, but for our goal of learning a new language, I believe that exercism.org is better.
 
-In exercism we have one thing called Syllabus.
+In exercism we have a thing called Syllabus.
 
 A Syllabus is a tree of concepts that you need to internalize to get fluency in a specific programming language ([here's an example](https://exercism.org/tracks/ruby/concepts) for the Ruby language).
 
@@ -67,7 +67,7 @@ So, that's why I think exercism is a better choice to learn a new language
 **NOTE**: Although the most famous programming languages has a Syllabus, not all languages available in the platform has one.
 
 
-## What's cool in exercism.org?
+## Cool features in exercism.org
 
 Note: the features I'm going to highlight here are not en exclusivity of exercism.
 
