@@ -59,7 +59,7 @@ If you want to more info about how Ruby is cool, I'm sure you can find tons of g
 Please please please! Once you're convinced you want to learn Ruby, stop looking for more material! This leads us to the next topic...
 
 
-## Aggressively Ignore
+## Aggressively ignore
 
 As I said, the Ruby community cares about quality. And for this reason there are tons of good material out there. So many that you would have an analysis paralysis trying to pick one from the list.
 
