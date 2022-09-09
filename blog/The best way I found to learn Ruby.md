@@ -103,7 +103,7 @@ OK, now that we know the syntax, let's practice!
 
 ## Challenges from exercism.org
 
-Now I suggest to solve the challenges in the [Ruby track on exercism.org](https://exercism.org/tracks/ruby). The challenges start very simple and progress very slowly.
+Now I suggest to solve the challenges in the [Ruby track on exercism.org](https://exercism.org/tracks/ruby). The challenges start very simple and smoothly progress.
 
 You'll need to check these short [exercism Ruby Docs](https://exercism.org/docs/tracks/ruby) so you can configure your programming environment to work on exercism challenges.
 
