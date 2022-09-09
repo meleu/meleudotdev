@@ -5,7 +5,6 @@ subtitle: What I did to acquire fluency in the Ruby language
 slug: learn-ruby
 tags: ruby
 domain: meleu.hashnode.dev
-ignorePost: true
 ---
 
 In this article I'm going to share things that are working quite well for me to learn the Ruby language.
@@ -150,7 +149,7 @@ Uhm... This sounds very abstract... 🤔
 
 In practice, the Ruby Koans are broken tests. They're intentionally broken so you can look at the code and "easily" figure out how to fix it.
 
-Here's an example of one of the most basic one (the `__` double underscore is where you need to put something to fix the test):
+Here's an example of one of the introductory koans (the `__` double underscore is where you need to put something to fix the test):
 ```ruby
 # To understand reality, we must compare our expectations against
 # reality.
@@ -162,11 +161,14 @@ def test_assert_equality
 end
 ```
 
+You just need to replace the `__` with the correct value and run the tests again.
+
 I found this way of learning very funny and highly optimized.
 
 Instead of reading a wordy text explaining code, you look directly at code. You get used to read and understand Ruby code faster.
 
-If you prefer a video explaining 
+If you're having a hard time to get started with the Ruby Koans, maybe [this video](https://youtu.be/H0jPLFE17do?t=240) can help you to get started (the relevant part starts at 4 minutes).
+
 
 ### "Installing" the Ruby Koans
 
@@ -217,15 +219,27 @@ observr ./koans/koans.watchr
 
 Now you can keep a window on the terminal and another one on the editor. Every time you save your code on the editor, the terminal will show you the tests results.
 
+When you advance from the introductory Koans, you'll notice that you need to test some stuff to understand how to fix the test. At this point you'll need to have an `irb` instance at hand to run some code and learn.
+
+**Don't forget to take notes when you learn a new concept!**
+
+
+## Conclusion
+
+In this article I shared my approach to acquire fluency in the Ruby programming language.
+
+It's an approach with the explicit goal of being fluent as quick as possible. It's highly focused on practice, which means writing and reading Ruby code.
+
+If you follow this strategy for a couple of weeks, you'll be reasonably comfortable with the Ruby language.
+
 
 ## Things I wanna try later
 
-This is a list of material that I'm planning to consume later, **after** acquiring the desired fluency.
+This is a list of material that I'm planning to consume later. Only **after** acquiring the desired fluency.
 
-I didn't yet went through them, but as they were suggested by experienced Rubyist, and I decided to share here.
+As I didn't yet went through them, I'm not endorsing this content. But as they were suggested by experienced Rubyists I know, I decided to share it here.
 
-- Practical Object-Oriented Design - book
-- Confident Ruby - book 
-- Metaprogramming Ruby 2 - 
-- [Flawless Ruby](https://graceful.dev/courses/flawless-ruby/) - the course *after* the intro-to-Ruby course
-
+- [Practical Object-Oriented Design](https://www.poodr.com/) - a book by [Sandi Metz](https://sandimetz.com/) (btw, if you see something by Sandi, pay attention that it's probably highly valuable).
+- [Confident Ruby](https://avdi.codes/books/) - book from [Avdi Grimm](https://avdi.codes/)
+- [Flawless Ruby](https://graceful.dev/courses/flawless-ruby/) - the course *after* the intro-to-Ruby course, also by Avdi Grimm
+- [Metaprogramming Ruby 2](https://pragprog.com/titles/ppmetr2/metaprogramming-ruby-2/) - book by Paolo Perrotta
