@@ -7,22 +7,6 @@ tags: ruby
 domain: meleu.hashnode.dev
 ---
 
-## Table of Contents
-
-- [Intro](#intro)
-- [TL;DR](#tldr)
-- [Requisites](#requisites)
-    - [Why Ruby?](#why-ruby)
-- [Aggressively Ignore](#aggressively-ignore)
-- [First contact with the language](#first-contact-with-the-language)
-- [Challenges from exercism.org](#challenges-from-exercismorg)
-    - [Why is exercism so cool?](#why-is-exercism-so-cool)
-    - [tip: keep your solutions and notes in a repository](#tip-keep-your-solutions-and-notes-in-a-repository)
-- [Ruby Koans - internalizing the fundamentals](#ruby-koans---internalizing-the-fundamentals)
-    - ["Installing" the Ruby Koans](#installing-the-ruby-koans)
-- [Conclusion](#conclusion)
-- [Things I wanna try later](#things-i-wanna-try-later)
-
 
 ## Intro
 
