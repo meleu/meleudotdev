@@ -94,7 +94,9 @@ Once you submit your solution and all tests are passing, you'll have access to t
 
 I've been learning a lot with this while learning Ruby! I check their solutions and then go to the [Ruby documentation](https://ruby-doc.org/) to understand what they're doing. Sometimes I shamelessly get inspiration from other people's code and refactor my solution, run the tests, and submit my solutions again.
 
-Maybe you can feel kinda guilty because you're copying someone else's solution. I know how it feels... 😅 Get rid of this thought! This is not school, there are no grades here. It's also not a competition, no one cares who has the best solution. We're here to learn as fast as possible, anything is allowed to achieve that goal!
+Maybe you can feel kinda guilty because you're copying someone else's solution. I know how it feels... 😅
+
+Get rid of this thought! This is not school, there are no grades here. It's also not a competition, no one cares who has the best solution. We're here to learn as fast as possible, anything is allowed to achieve that goal!
 
 
 ### You can ask for mentorship
