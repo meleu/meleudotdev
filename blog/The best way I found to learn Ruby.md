@@ -7,26 +7,47 @@ tags: ruby
 domain: meleu.hashnode.dev
 ---
 
+<details>
+  <summary><strong>Table of Contents</strong></summary><br>
+
+- [Intro](#intro)
+- [TL;DR](#tldr)
+- [Requisites](#requisites)
+    - [Why Ruby?](#why-ruby)
+- [Aggressively Ignore](#aggressively-ignore)
+- [First contact with the language](#first-contact-with-the-language)
+- [Challenges from exercism.org](#challenges-from-exercismorg)
+    - [Why is exercism so cool?](#why-is-exercism-so-cool)
+    - [tip: keep your solutions and notes in a repository](#tip-keep-your-solutions-and-notes-in-a-repository)
+- [Ruby Koans - internalizing the fundamentals](#ruby-koans---internalizing-the-fundamentals)
+    - ["Installing" the Ruby Koans](#installing-the-ruby-koans)
+- [Conclusion](#conclusion)
+- [Things I wanna try later](#things-i-wanna-try-later)
+
+</details>
+
+## Intro
+
 In this article I'm going to share things that are working quite well for me to learn the Ruby language.
 
 The goal here is NOT to learn programming neither learn how to build web applications. I don't even talk about Rails here.
 
 The goal here is solely and exclusively to acquire fluency in pure Ruby as quick as possible. Therefore, I'm assuming the reader already know some (any) programming language.
 
-You probably know the typical advice: "practice a lot". That's a valid one, but too vague. In this article I'm just sharing what I used to practice a lot.
+You probably know the typical advice: "practice a lot". That's a valid one, but too vague. In this article I'm sharing what I used to practice a lot.
 
 
 ## TL;DR
 
 - **Goal**: acquire basic fluency in pure Ruby as quick as possible
 - Requisites
-    - be comfortable with the command line interface
-    - familiarity with programming
-    - basics of OOP would help (but it's not mandatory)
-    - find a reason to learn Ruby
+    - Be comfortable with the command line interface
+    - Familiarity with programming
+    - Basics of OOP would help (but it's not mandatory)
+    - Find a reason to learn Ruby
 - Aggressively ignore!
 - Read [Ruby in 100 minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) to get a good overview of the syntax
-- do the challenges from the [Ruby track in exercism.org](https://exercism.org/tracks/ruby)
+- Do the challenges from the [Ruby track in exercism.org](https://exercism.org/tracks/ruby)
 - Play with the [Ruby Koans](https://github.com/edgecase/ruby_koans) to internalize some of the most fundamental concepts of language
 
 
