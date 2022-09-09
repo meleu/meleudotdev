@@ -212,7 +212,7 @@ Most of the time spent learning with Ruby Koans is you iterating through these s
 Sooner or later you'll get bored of alternating between the terminal (to run the tests) and the editor (to fix them).
 
 To make your life simpler, you can use the `observr` gem. This way:
-```shell
+```bash
 # install observr gem
 gem install observr
 
