@@ -7,8 +7,7 @@ tags: ruby
 domain: meleu.hashnode.dev
 ---
 
-<details>
-  <summary><strong>Table of Contents</strong></summary><br>
+## Table of Contents
 
 - [Intro](#intro)
 - [TL;DR](#tldr)
@@ -24,7 +23,6 @@ domain: meleu.hashnode.dev
 - [Conclusion](#conclusion)
 - [Things I wanna try later](#things-i-wanna-try-later)
 
-</details>
 
 ## Intro
 
