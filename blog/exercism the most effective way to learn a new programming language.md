@@ -42,15 +42,17 @@ I also need to mention that it's important to not be afraid of the command line.
 
 ## Why exercism and not `$otherCodingChallengeSite`?
 
-Currently there's a lot of coding challenges websites out there. In [this article](https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/) from freeCodeCamp.org you can see 21 coding challenge websites.
+Currently there's a lot of coding challenges websites out there. In [this article](https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/) from freeCodeCamp.org you can see a list of 21 of them.
 
 So why focusing on exercism.org?
 
 Very good question. And to answer this we need to be mindful about our goal: **learn a new programming language**.
 
-Most of those websites are great to make your computational thinking, your "problem solving" skill. They're usually created to challenge your thought process so you can bring a solution written in a language you're comfortable with.
+Most of those websites are great to make you improve your computational thinking, your "problem solving" skill. The exercises were usually created to challenge your thought process so you can bring a solution written in a language you're comfortable with.
 
-For our goal of learning a new language, I believe that exercism.org is better. Because for many programming languages they have a Syllabus.
+This is a great exercise, but for our goal of learning a new language, I believe that exercism.org is better.
+
+In exercism we have one thing called Syllabus.
 
 A Syllabus is a tree of concepts that you need to internalize to get fluency in a specific programming language ([here's an example](https://exercism.org/tracks/ruby/concepts) for the Ruby language).
 
