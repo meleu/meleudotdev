@@ -95,7 +95,7 @@ You'll need to check these short [exercism Ruby Docs](https://exercism.org/docs/
 
 **There's a conceptual sequence to follow**
 
-Start with the [exercises from the Syllabus](https://exercism.org/tracks/ruby/concepts), so you can practice with the exercises focused on specific concepts of the language.
+Start with the [exercises from the Ruby syllabus](https://exercism.org/tracks/ruby/concepts), so you can practice with the exercises focused on specific concepts of the language.
 
 That's why I think that **for the purpose of getting used with the language**, exercism stands out from other "coding challenges" services like HackerRank and CodeWars. Those other services are also awesome, but they're more focused on "problem solving". Usually you do their challenges with a language you're comfortable with so you can improve your thinking.
 
