@@ -1,7 +1,7 @@
 ---
 dg-publish: true
-title: exercism: The most effective way to learn a new programming language
-subtitle: Why I think exercism.org is the best way to learn any new programming language
+title: exercism: the most effective way to learn a new programming language
+subtitle: Why I think exercism.org is the best way to learn a new programming language
 slug: exercism
 tags: programming, learn coding
 domain: meleu.hashnode.dev
@@ -9,7 +9,7 @@ domain: meleu.hashnode.dev
 
 ## Intro
 
-In this article I show **my** reasons to believe that exercism.org is currently (2022) the best way to learn a *new* programming language. And why it stands out from other similar platforms of coding challenges.
+In this article I show **my** reasons to believe that exercism.org is currently (2022) the best platform to learn a *new* programming language. And why it stands out from other similar platforms of coding challenges.
 
 Expect to read some opinionated conclusions. 😇
 
@@ -22,6 +22,8 @@ It's a wonderful way to gain true fluency in your chosen programming language.
 
 To know more, check their [Getting Started doc](https://exercism.org/docs/using/getting-started) and their [FAQ](https://exercism.org/docs/using/faqs).
 
+And to check which languages they have available, check [this page here](https://exercism.org/tracks) (currently they have 61).
+
 
 ## Requisites
 
@@ -32,13 +34,13 @@ Two things:
 
 Do note that I'm not saying *"learn programming"*. I'm assuming you already know how to program in a language and want to learn a new one.
 
-Someone can argue and say that it is possible to learn programming from scratch with exercism. Sure I think it's possible, but it would require a lot of effort and willpower. If you have these requirements, definitely go for it!!! 🚀
+Someone can argue and say that it is possible to learn programming from scratch with exercism. Sure I think it's possible, but it would require a lot of effort and willpower. If you have these requirements, definitely go for it! 🚀
 
 I also need to mention that it's important to not be afraid of the command line. The exercism.org provides a way to solve the challenges directly in the browser, but to have the full experience it's important to perform some commands in the terminal.
 
 
 
-## Why exercism and not `$codingChallengeSite`?
+## Why exercism and not `$otherCodingChallengeSite`?
 
 Currently there's a lot of coding challenges websites out there. In [this article](https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/) from freeCodeCamp.org you can see 21 coding challenge websites.
 
