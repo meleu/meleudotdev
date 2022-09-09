@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: exercism: The most effective way to learn a new programming language
 subtitle: 
 slug: exercism
