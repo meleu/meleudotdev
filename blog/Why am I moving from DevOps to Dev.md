@@ -1,7 +1,7 @@
 ---
 dg-publish: false
 ---
-# Why I migrating from DevOps to Dev
+# Why am I moving from DevOps to Dev?
 
 - DevOps is a fancy name for Ops
 - Sometimes I feel like a stranger

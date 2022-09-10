@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-title: exercism: the most effective way to learn a new programming language
+title: exercism the most effective way to learn a new programming language
 subtitle: Why I think exercism.org is the best way to learn a new programming language
 slug: exercism
 tags: programming, learn coding
