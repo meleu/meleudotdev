@@ -7,19 +7,18 @@ The liveness, readiness and startup probe are configured **per container** (not 
 
 - `livenessProbe`
     - why?: to know when to restart a container.
-    - if successful: do nothing.
-    - if fails: restart the container.
-    - question: it restarts the specific container or all containers in the Pod?
+    - on success: do nothing.
+    - on failure: restarts the container.
     - default behavior: same as success
 - `readinessProbe`
     - why?: to know when a container is ready to accept traffic.
-    - if successful: tells to load balancer the Pod is ready to receive requests.
-    - if successful: tells to load balancer to not send requests to this Pod.
+    - on success: tells to load balancer the Pod is ready to receive requests.
+    - on failure: tells to load balancer to not send requests to this Pod.
     - default behavior: same as success
 - `startupProbe`
     - why?: to know when a container app has started, and then kubelet can start running the liveness and readiness probes.
-    - if successful: enables liveness and readiness probes.
-    - if fails: the container is killed and subject to the pod's `restartPolicy`
+    - on success: enables liveness and readiness probes.
+    - on failure: restarts the container
     - default behavior: same as success
 
 | probe                | liveness                                            | readiness                                             | startup                                                  |
