@@ -3,6 +3,11 @@ dg-publish: true
 ---
 ## Capítulo 6: Rótulos e Anotações
 
+
+[TOC]
+
+---
+
 Na página 92 os comandos `kubectl run` estão outdated (não servem para criar deployments).
 
 ```sh

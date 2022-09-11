@@ -3,6 +3,11 @@ dg-publish: true
 ---
 ## Capítulo 4: Comandos comuns do kubectl
 
+
+[TOC]
+
+---
+
 ### Namespaces
 
 O kubernetes utiliza *namespaces* para organizar objetos no cluster. É como se fosse uma pasta que armazena um conjunto de objetos.

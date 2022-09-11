@@ -3,6 +3,11 @@ dg-publish: true
 ---
 ## Capítulo 3: Implantação de um cluster Kubernetes
 
+
+[TOC]
+
+---
+
 Neste capítulo há instruções para criar um cluster kubernetes para começar a praticar.
 
 Instalei o minikube (devido ao curso da [Nana](DevOps%20Bootcamp%20-%20Nana.md))

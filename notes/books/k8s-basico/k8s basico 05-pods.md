@@ -1,9 +1,13 @@
 ---
 dg-publish: true
 ---
-## Capítulo 5: Pods
+# k8s basico - Capítulo 5: Pods
 
-### Raciocinando com Pods
+[TOC]
+
+---
+
+## Raciocinando com Pods
 
 - Pergunta: O que devo colocar em um Pod?
     - Resposta: Containers que precisam escalar juntos.
@@ -13,12 +17,12 @@ dg-publish: true
     - Não: melhor agrupá-los no mesmo Pod.
 
 
-### Manifesto do Pod
+## Manifesto do Pod
 
 Vários Pods podem ser colocados na mesma máquina, desde que haja recursos suficientes. No entanto, escalonar várias réplicas da mesma aplicação na mesma máquina é pior no que diz respeito à confiabilidade, pois a máquina é um domínio único de falha. Desse modo, o escalonador do Kubernetes tenta garantir que Pods da mesma aplicação sejam distribuídos em máquinas distintas.
 
 
-### Criando um Pod
+## Criando um Pod
 
 ```sh
 kubectl run kuard \
@@ -74,6 +78,23 @@ kubectl exec -it kuard ash
 kubectl cp ${podName}:/path/to/file ./local/file
 kubectl cp ./local/file ${podName}:/path/to/file
 ```
+
+
+## container probes
+
+Observação: o livro não fala de `startupProbe`.
+
+### resumo
+
+Ver também: [[k8s - container probes]].
+
+| probe                | liveness                                            | readiness                                             | startup                                                  |
+| -------------------- | --------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------------- |
+| **why?**             | when to restart a container                         | when a container is ready to receive traffic          | when kubelet can start running liveness/readiness probes |
+| **when?**            | after startupProbe and then continuously            | after startupProbe and then continuously              | after container starts / stops after success or failure  |
+| **success**          | do nothing                                          | tells the load balancer it's ready to receive traffic | tells kubelet to start running liveness/readiness probes |
+| **failure**          | container killed and restarted (see: restartPolicy) | tells load balancer to stop sending traffic           | container killed and restarted (see: restartPolicy)      |
+| **default** | same as success                                     | same as success                                       | same as success                                        |
 
 
 ### liveness probe
@@ -156,7 +177,7 @@ O kubernetes faz a seguinte distinção entre *liveness* e *readiness*:
     - **containers com falha no readiness serão removidos dos load balancers**
 
 
-### gerenciamento de recursos
+## gerenciamento de recursos
 
 Duas métricas diferentes para recursos: `requests` e `limits`.
 

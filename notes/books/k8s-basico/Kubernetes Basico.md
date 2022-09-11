@@ -3,19 +3,19 @@ dg-publish: true
 ---
 # livro: Kubernetes Básico
 
-- [[01-introducao]]
-- [[02-containers]]
-- [[03-cluster-kubernetes]]
-- [[04-kubectl]]
-- [[05-pods]]
-- [[06-labels-annotations]]
+- [[k8s basico 01-introducao]]
+- [[k8s basico 02-containers]]
+- [[k8s basico 03-cluster-kubernetes]]
+- [[k8s basico 04-kubectl]]
+- [[k8s basico 05-pods]]
+- [[k8s basico 06-labels-annotations]]
 
 
 ## Capítulo 7: Descoberta de serviços
 
-Os exemplos do livro (p. 102) não funcionam exatemente daquela forma pois `kubectl run` não é mais usado para criar deployments.
+Os exemplos do livro (p. 102) não funcionam exatamente daquela forma pois `kubectl run` não é mais usado para criar deployments.
 
-Mas adaptando, dŕa pra fazermos o seguinte para criar um Service do tipo `ClusterIP`:
+Mas adaptando, dá pra fazermos o seguinte para criar um Service do tipo `ClusterIP`:
 
 ```sh
 # criando o deployment
@@ -46,11 +46,4 @@ kubectl port-forward "${ALPACA_POD}" 48858:8080
 
 launch http://localhost:48858
 ```
-
-### demonstração do `readinessProbe`
-
-```sh
-
-```
-
 
