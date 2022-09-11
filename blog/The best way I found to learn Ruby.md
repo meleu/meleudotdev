@@ -14,7 +14,7 @@ In this article I'm going to share things that are working quite well for me to 
 
 The goal here is NOT to learn programming neither learn how to build web applications. I don't even talk about Rails here.
 
-The goal here is solely and exclusively to acquire fluency in pure Ruby as quickly ass possible. Therefore, I'm assuming the reader already know any programming language.
+The goal here is solely and exclusively to acquire fluency in pure Ruby as quickly as possible. Therefore, I'm assuming the reader already know any programming language.
 
 You probably know the typical advice: "practice a lot". That's a valid one, but too vague. In this article I'm sharing what I used to practice a lot.
 
