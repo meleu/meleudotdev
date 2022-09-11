@@ -22,9 +22,12 @@ deck: webdev::css
 
 ## CSS games
 
-- selectors: <https://https://flukeout.github.io/>
+- CSS selectors: CSS Diner <https://flukeout.github.io/>
 - flexbox: <https://flexboxfroggy.com>
 - grid: <https://cssgridgarden.com>
+- <https://codingfantasy.com/>
+- [17 games to practice CSS](https://bookercodes.hashnode.dev/css-practice?source=tw0922#heading-try-one-of-these-17-games-to-practice-css)
+- <https://csskatas.com/> - maybe cool to practice tailwind
 
 
 ## how to organize your CSS code
