@@ -6,6 +6,7 @@ dg-publish: true
 - <https://www.linkedin.com/learning/emmet-fast-and-efficient-web-coding/>
 - cheatsheet: <https://docs.emmet.io/cheat-sheet/>
 - very nice written Emmet tutorial: <https://flaviocopes.com/emmet/>
+- Emmet in VSCode documentation: <https://code.visualstudio.com/docs/editor/emmet>
 
 [TOC]
 
@@ -14,6 +15,15 @@ dg-publish: true
 ## 2 - Get Up and Running with Emmet
 
 Emmet uses CSS-like selectors. Just type the selector name and press tab.
+
+| Symbol | Meaning      | Symbol | Meaning        |
+| ------ | ------------ | ------ | -------------- |
+| >      | child        | *      | multiplication |
+| +      | sibling      | {}     | add text       |
+| ^      | climb up     | []     | add attribute  |
+| ()     | grouping     | .      | create class   |
+| $      | auto numbers | #      | create id      |
+
 
 Some examples for html:
 ```shell

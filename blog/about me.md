@@ -40,7 +40,7 @@ and a bunch of other nerdy things
 
 ## Projects I'm proud of
 
-- projects
+- OpenSource
     - meleu.sh
     - RADocs
     - RANews
