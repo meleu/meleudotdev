@@ -30,3 +30,23 @@ Why open source YOUR knowledge?
 In the tips section, I've found something that recently came to my mind:
 
 > - **Internal OSK**. Not all information should be public. But you can still do extremely well open sourcing knowledge internally in a company.
+
+
+## 39. Marketing Yourself
+
+pos. 8195
+
+![[Screenshot_2022-09-13-09-37-53-28.jpg]]
+
+> Be able to sell yourself/your idea/your project in:
+> 
+> - 1 hour
+> - 15 minutes
+> - 5 minutes
+> - 30 seconds
+> - 280 characters (a tweet)
+> - (stretch goal) 2 words
+
+### 2 words attempts
+
+meaningful coder
