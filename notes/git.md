@@ -10,6 +10,7 @@ dg-publish: true
 - <https://github.com/PauloGoncalvesBH/treinamento-git>
 - <https://egghead.io/q/git>
 - <https://blog.bitsrc.io/how-to-utilize-submodules-within-git-repos-5dfdd1c62d09> - How to Utilize Submodules within Git Repos
+- game <https://ohmygit.org>
 
 ## Basic Git Workflow
 

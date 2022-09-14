@@ -1,0 +1,186 @@
+baseURL: https://meleu.sh/
+languageCode: pt
+defaultContentLanguage: pt
+title: meleu.sh
+  
+###############################################################################
+# multilingual configs
+# https://www.regisphilibert.com/blog/2018/08/hugo-multilingual-part-1-managing-content-translation/
+###############################################################################
+languages:
+  pt:
+    languageName: "Portugues"
+    weight: 1
+# english configurations
+################################################################################
+  en:
+    languageName: English
+    weight: 2
+    homeInfoParams:
+      title: meleu.sh
+      content: |
+        Sharing knowledge about command line and shell script.
+
+        Focus on content and no distractions.
+    menu:
+      main:
+        - identifier: archive
+          name: archive
+          url: ../archive/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+        - identifier: search
+          name: search
+          url: ../search/
+          weight: 30
+        - identifier: about
+          name: about
+          url: /about/
+          weight: 99
+    editPost:
+      URL: "https://github.com/meleu/meleudotsh/edit/master/content"
+      text: "Suggest changes in this article"
+      appendFilePath: true
+# end of english configurations
+################################################################################
+
+
+###############################################################################
+# PaperMod configs
+# https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/
+# configs pendentes:
+###############################################################################
+# - post cover image:
+#   - https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/#post-cover-image
+# - otimização para SEO:
+#   - https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/#enhanced-seo
+###############################################################################
+theme: "PaperMod"
+# theme: "hugo-coder"
+
+buildDrafts: false
+buildFuture: false
+enableEmoji: true
+
+# todos os arquivos em 'content/posts/' serão servidos na raiz
+permalinks:
+  posts: /:filename
+
+# servindo o diretório 'img/' como 'static/img/'
+# só acertei essa config vendo os exemplos desse artigo aqui:
+# https://geeksocket.in/posts/hugo-modules/
+module:
+  mounts:
+    - source: img/
+      target: static/img/
+
+###############################################################################
+# menu no canto superior direito das páginas
+# https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-faq/#add-menu-to-site
+# https://gohugo.io/content-management/menus/
+###############################################################################
+menu:
+  main:
+    - identifier: historico
+      name: histórico
+      url: /historico/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: busca
+      name: busca
+      url: /busca/
+      weight: 30
+    - identifier: about
+      name: sobre
+      url: /sobre/
+      weight: 99
+###############################################################################
+
+params:
+  env: production
+  description: >
+    meleu.sh - Linha de comando e shell script. Foco no conteúdo e sem distrações.
+  author: meleu
+  images:
+    - img/por-que-shell.gif
+  assets:
+    favicon: "/favicon.ico"
+  defaultTheme: dark
+  showShareButtons: true
+  showReadingTime: true
+  showToc: true
+  tocOpen: false
+  showCodeCopyButtons: true
+  showBreadCrumbs: true
+
+  # sugerir outros posts ao final
+  # (não gostei do fato de ficar acima dos links de compartilhamento)
+  #showPostNavLinks: true
+
+  # página inicial
+  # https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/#home-info-mode
+  #############################################################################
+  homeInfoParams:
+    title: meleu.sh
+    content: |
+      Compartilhando conhecimento sobre linha de comando e shell script.
+
+      Foco no conteúdo e sem distrações.
+
+      > **Se você é iniciante em shell script [comece por aqui](/comeco)**.
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/meleushell"
+    - name: github
+      url: "https://github.com/meleu"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/meleu/"
+    - name: rss
+      url: "index.xml"
+  # TODO: adicionar link para o youtube, quanto tiver
+  #############################################################################
+
+  # google analytics
+  analytics:
+    google:
+      SiteVerificationTag: "UA-155045503-1"
+
+  # link para edição
+  # https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/#edit-link-for-posts
+  #############################################################################
+  editPost:
+    URL: "https://github.com/meleu/meleudotsh/edit/master/content"
+    text: "Sugerir mudanças neste artigo"
+    appendFilePath: true
+  #############################################################################
+
+  # config de busca
+  # https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/#search-page
+  #############################################################################
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys:
+      - title
+      - permalink
+      - summary
+      - content
+
+# config de busca
+# https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/#search-page
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
