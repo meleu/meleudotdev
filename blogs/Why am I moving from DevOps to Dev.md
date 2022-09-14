@@ -6,6 +6,7 @@ dg-publish: false
 - DevOps is a fancy name for Ops
 - Sometimes I feel like a stranger
 - Be in an environment where failing and fixing is encouraged
+- The Dev Community’s Willingness to Share Almost Anything is One of the Many Reasons I ❤️ Being a Developer
 
 ## references
 
