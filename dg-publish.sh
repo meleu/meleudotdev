@@ -49,7 +49,13 @@ main() {
   mapfile -t mdFiles < <(listMdFiles)
 
   for mdFile in "${mdFiles[@]}"; do
-    [[ ! -f "${mdFile}" || "${mdFile}" == "templates/"* ]] && continue
+    [[ -f "${mdFile}" ]] || continue
+
+    case "${mdFile}" in
+      "templates/"* | "blogs/"*)
+        continue
+        ;;
+    esac
     includePublishFrontmatter "${mdFile}"
   done
 }

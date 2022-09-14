@@ -12,7 +12,7 @@ dg-publish: true
 ```shell
 # use '-f yml' to create a config.yml
 # (otherwise it'll be toml)
-hugo new meleudotdev -f yml
+hugo new site meleudotdev -f yml
 cd meleudotdev
 git init
 
@@ -28,3 +28,7 @@ Now open the `config.yml` and add this:
 ```yaml
 theme: "PaperMod"
 ```
+
+## custom CSS
+
+`./assets/css/custom.css`
