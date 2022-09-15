@@ -45,3 +45,4 @@ vcs tem algum link sobre esse tema?
     - <https://medium.com/@edwardog/questions-to-ask-your-future-web-dev-employer-f7a161b5bc70>
 - [[O Mitico Homem-Mes]]
 - [[Practical Object-Oriented Design]]
+- See also: [Google Interview Warmup](https://grow.google/certificates/interview-warmup/)
