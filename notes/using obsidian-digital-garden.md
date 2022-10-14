@@ -63,3 +63,11 @@ Consequences of this:
 
 While the feature requested in the OP is not implemented, I'll be using that script as pre-commit git hook.
 
+## themes for the published website
+
+My favorite ones come in the top
+
+- Atom [dark]
+- Things [dark]
+- Typewriter [dark]
+- :-1: Default theme is not cool

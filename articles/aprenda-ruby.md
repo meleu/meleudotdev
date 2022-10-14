@@ -1,8 +1,9 @@
 ---
 dg-publish: true
+dg-permalink: aprenda-ruby
+language: pt
 title: A melhor maneira que encontrei para aprender Ruby
 description: O que eu fiz para ficar fluente na linguagem Ruby
-alias: Aprendendo Ruby
 tags:
   - ruby
 date: 2022-09-02T09:50:00-03:00

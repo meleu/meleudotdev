@@ -10,16 +10,31 @@
           {
             "id": "d4af9af83eca862e",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "artigos.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "515483c906327195",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "articles.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -140,17 +155,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d4af9af83eca862e",
+  "active": "515483c906327195",
   "lastOpenFiles": [
-    "books.md",
-    "private/kanban/kanban.md",
-    "traducoes.md",
     "artigos.md",
-    "artigos/aprenda-ruby.md",
-    "articles/learn-ruby.md",
+    "articles/aprenda-ruby.md",
+    "traducoes.md",
     "articles.md",
-    "repos/traducoes/aprenda-em-publico.md",
-    "repos/traducoes/aprendiz-infinito.md",
-    "repos/traducoes/notacao-big-l.md"
+    "articles/exercism.md",
+    "books.md",
+    "about.md",
+    "notes/using obsidian-digital-garden.md",
+    "notes/digital garden.md",
+    "index.md"
   ]
 }

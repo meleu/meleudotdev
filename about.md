@@ -10,13 +10,11 @@ dg-publish: true
 
 - 🐧 Linux nerd since the late 90s
 
-- 🐚 I love the shell (mainly bash) and I live in the terminal.
-
-- 🤓 I write a blog (**in portuguese**) totally focused on the terminal environment: <https://meleu.sh>
+- 🐚 I love the shell (mainly bash) and the Command Line Interface. I write a blog (**in portuguese**) totally focused on the terminal environment: <https://meleu.sh>
 
 - ️👾 Big retrograming fan. Between 2016-2021 I dedicated a big portion of my time to open source projects related to this hobby (mainly [RetroAchievements](https://retroachievements.org)).
 
-- 📚 I'm also an avid book reader, Maybe you can know more about me seeing the list of [[books]] I read.
+- 📚 Avid book reader. Maybe you can know more about me seeing the list of [[books]] I read.
 
 
 ## meleu in 2 minutes
@@ -35,7 +33,7 @@ In 2016 I started to get involved with open source projects related to my hobby:
 
 In RetroAchievements, as part of the project's leadership, I became some sort of a community manager, where I used a lot of the, so called, *soft skills*. I also produced a lot of [documentation](https://docs.retroachievements.org/) for the project.
 
-Since 2019, I started to manage Linux servers for a few customers/friends and also launched the <https://meleu.sh/> website, sharing my knowledge about shell scripting (in Portuguese).
+Since 2018, I started to manage Linux servers for a few customers/friends and also launched the <https://meleu.sh/> website, sharing my knowledge about shell scripting (in Portuguese).
 
 In 2021 I finally left the oil industry. I started my career as DevOps Engineer, mainly handling CI/CD pipelines and deploying containerized applications with Kubernetes. During that time I realized how beneficial it was for me to have a broad experience with industrial processes. It's a highly valuable knowledge to have in the DevOps world.
 
@@ -71,7 +69,7 @@ Sharing knowledge about command line and shell scripting (most of the articles a
 
 ### RetroAchievements
 
-**NOTE**: I'm not the creator of this project.
+**NOTE**: I'm **not** the creator of this project.
 
 - website: <https://retroachievements.org>
 

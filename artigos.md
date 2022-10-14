@@ -9,8 +9,11 @@ Veja também alguns [[traducoes|artigos que eu traduzi]] de outros autores.
 
 
 ```dataview
-TABLE title AS "Título" FROM "artigos"
-WHERE dg-publish = true
+TABLE title AS "Título"
+FROM "articles"
+WHERE
+  dg-publish = true
+  AND language = "pt"
 SORT file.ctime DESC
 ```
 
