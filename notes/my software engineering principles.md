@@ -10,7 +10,7 @@ dg-publish: true
 > This is how you stand out - not by doing many things never better than average.
 
 For the "commit to fewer things", I think I had a good help from these books: [[Essencialismo]]
-and [[Os 7 Hábitos das pessoas Altamente Eficazes]].
+and [[Os 7 Habitos das pessoas Altamente Eficazes]].
 
 
 ## Be an owner, not a renter

@@ -3,7 +3,7 @@ dg-publish: true
 ---
 # A Identidade
 
-- Livro de Milan Kundera (mesmo autor de [[A insustentável leveza do ser]]).
+- Livro de Milan Kundera (mesmo autor de [[A insustentavel leveza do ser]]).
 
 Legalzinho.
 

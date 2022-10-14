@@ -1,7 +1,11 @@
 ---
 dg-publish: true
+author: "Jordan Peterson"
 ---
+
 # 12 Regras Para a Vida
+
+#books/nonfiction
 
 Gostei do livro. Encontrei várias partes que não concordo, mas até mesmo discordar foi uma experiência enriquecedora.
 

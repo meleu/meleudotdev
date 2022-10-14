@@ -1,5 +1,9 @@
 ---
 dg-publish: true
+tags: books
+finished: false
+read-year: 2022
+author: "Stephen Covey"
 ---
 
 # Os 7 Hábitos das pessoas Altamente Eficazes
@@ -42,19 +46,3 @@ Durante a leitura deste livro eu percebi que já tive contato com outros que par
 
 
 
-
-
-
----
-
-### importante vs. urgente
-
-- jogar videogame 
-- estudar
-- tempo de qualidade com os familiares
-- tempo com os amigos
-- exercício fisico
-- dentista
-- finanças
-- organizar my second brain 
-- cuidar do logbots

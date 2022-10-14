@@ -39,7 +39,7 @@ O termo "serpente" aqui é uma referência a serpente que ofereceu o fruto proib
 
 > Você precisa saber aonde está indo para que limite a extensão do caos em sua vida, reestruture a ordem e traga a força divina da Esperança para o mundo.
 
-Esse trecho me lembrou o segundo hábito em [[Os 7 Hábitos das pessoas Altamente Eficazes]], e também o [[Essencialismo]].
+Esse trecho me lembrou o segundo hábito em [[Os 7 Habitos das pessoas Altamente Eficazes]], e também o [[Essencialismo]].
 
 Isso me lembra também o famoso trecho de [[Alice no País das Maravilhas]], onde Alice pergunta ao gato que caminho ela deve tomar.
 

@@ -6,7 +6,7 @@ dg-publish: true
 ## currently reading
 
 - [[As Viagens de Gulliver]]
-- [[Os 7 Hábitos das pessoas Altamente Eficazes]]
+- [[Os 7 Habitos das pessoas Altamente Eficazes]]
 - [[Personal Kanban]]
 
 ---
@@ -128,7 +128,7 @@ Maybe this list can tell a bit about who I am.
 
 ## read in the past
 
-- ⭐ [[A insustentável leveza do ser]]
+- ⭐ [[A insustentavel leveza do ser]]
 - ⭐ [[O Barão nas Árvores]]
 - [[O cavaleiro inexistente]]
 - [[O visconde partido ao meio]]

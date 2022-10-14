@@ -1,6 +1,3 @@
-[submodule "blogs/meleu.sh"]
-	path = repos/meleu.sh
-	url = git@github.com:meleu/meleudotsh.git
 [submodule "repos/traducoes"]
 	path = repos/traducoes
 	url = git@github.com:meleu/artigos-traduzidos.git
