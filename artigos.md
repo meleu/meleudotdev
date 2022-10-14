@@ -3,11 +3,9 @@ dg-publish: true
 ---
 # Artigos
 
-Lista dos artigos de minha autoria.
+A maioria dos meus artigos em português são publicados em <https://meleu.sh> e são sobre linha de comando, shell-scripting com uma pegada de DevOps. Artigos que não se enquadram nesse nicho eu acabo publicando aqui mesmo.
 
-Artigos sobre linha de comando e shell-scripting eu publico em <https://meleu.sh>.
-
-Artigos de outros autores que eu traduzi ficam [[traducoes|aqui]].
+Veja também alguns [[traducoes|artigos que eu traduzi]] de outros autores.
 
 
 ```dataview

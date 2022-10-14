@@ -5,6 +5,7 @@ dg-publish: true
 
 Traduzindo para o português artigos que permanecerão relevantes por vários anos.
 
+
 ```dataview
 TABLE 
   title as Título,

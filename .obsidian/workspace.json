@@ -13,21 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "artigos.md",
+                "file": "articles.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47229e9b584d90dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "traducoes.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "artigos.md",
+                "file": "articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "artigos.md"
+                "file": "articles.md"
               }
             }
           },
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "artigos.md",
+                "file": "articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,14 +142,14 @@
   },
   "active": "d4af9af83eca862e",
   "lastOpenFiles": [
+    "books.md",
     "private/kanban/kanban.md",
-    "artigos.md",
     "traducoes.md",
+    "artigos.md",
     "artigos/aprenda-ruby.md",
     "articles/learn-ruby.md",
     "articles.md",
     "repos/traducoes/aprenda-em-publico.md",
-    "books.md",
     "repos/traducoes/aprendiz-infinito.md",
     "repos/traducoes/notacao-big-l.md"
   ]
