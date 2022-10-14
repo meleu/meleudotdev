@@ -1,6 +1,12 @@
 ---
 dg-publish: true
+tags:
+  - books
+  - tech
+read-year: 2022
+author: "Robert Martin"
 ---
+
 # Desenvolvimento Ágil Limpo
 
 Livro do Uncle Bob

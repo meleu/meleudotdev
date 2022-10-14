@@ -11,7 +11,7 @@ I'm a Software Engineer from Brazil (currently working in the DevOps field).
 
 I love solving problems with code and meaningful human interactions.
 
-This website is my 🌱 [[digital garden]], therefore most of the contents is not for other people's consumption. I believe that **writing is thinking**, and the notes here are written for myself to aid my thinking, learning and creating. I keep them public because I see [learning in public](https://www.swyx.io/learn-in-public/) as a good practice.
+This website is my 🌱 [[digital garden]], therefore most of the contents is not for other people's consumption. I believe that **writing is thinking**, and the notes here are written for myself to aid my thinking, learning and creating. I keep them public because [learning in public](https://www.swyx.io/learn-in-public/) is a good practice.
 
 There are some things that can be interesting though, for example:
 
