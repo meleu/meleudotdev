@@ -2,6 +2,7 @@
 dg-publish: true
 ---
 # Obsidian
+
 > [!warning]
 > There are outdated notes from when I was just starting with obsidian.
 

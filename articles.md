@@ -1,9 +1,13 @@
 ---
 dg-publish: true
 ---
-# articles
+# Articles
 
 ```dataview
-TABLE title FROM "articles"
+TABLE
+  title as Title,
+  file.cday as "Created at"
+FROM "articles"
 WHERE dg-publish = true
+SORT file.ctime DESC
 ```

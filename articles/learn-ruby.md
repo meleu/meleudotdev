@@ -7,6 +7,8 @@ tags:
 date: 2022-09-08T09:48:00-03:00
 ---
 
+[[aprenda-ruby|🇧🇷🇵🇹 - Portuguese version]]
+
 ## Intro
 
 In this article I'm going to share things that are working quite well for me to learn the Ruby language.

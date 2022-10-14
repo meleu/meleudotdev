@@ -146,3 +146,4 @@ Maybe this list can tell a bit about who I am.
 - [[As cronicas do gelo e fogo]]
 - [[A Invencao de Hugo Cabret]]
 - [[O BGA - Bom Gigante Amigo]]
+- [[Clube da Luta]]

@@ -160,5 +160,14 @@
       ],
       "key": "K"
     }
-  ]
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "/"
+    }
+  ],
+  "editor:toggle-comments": []
 }
