@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repos/traducoes/README.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repos/traducoes/README.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "repos/traducoes/README.md"
+                "file": "about.md"
               }
             }
           },
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "repos/traducoes/README.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,15 +143,15 @@
   },
   "active": "b080b3f33c7e9acb",
   "lastOpenFiles": [
+    "index.md",
     "repos/traducoes/notacao-big-l.md",
     "repos/traducoes/marchas-de-aprendizagem.md",
     "repos/traducoes/aprendiz-infinito.md",
     "repos/traducoes/aprenda-em-publico-hack.md",
     "repos/traducoes/aprenda-em-publico.md",
+    "repos/traducoes/README.md",
     "moc/traducoes.md",
     "moc/articles.md",
-    "moc/artigos.md",
-    "moc/books.md",
-    "log/2022-06.md"
+    "moc/artigos.md"
   ]
 }
