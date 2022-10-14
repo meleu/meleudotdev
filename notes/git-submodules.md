@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ```bash
 # add a submodule to an existing repo
