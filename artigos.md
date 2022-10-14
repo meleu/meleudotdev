@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # artigos em português
 
 ```dataview
