@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+dg-permalink: traducoes
 ---
 # Artigos Traduzidos
 

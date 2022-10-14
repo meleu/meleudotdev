@@ -9,18 +9,18 @@ dg-show-backlinks: false
 
 I'm a Software Engineer from Brazil (currently working in the DevOps field).
 
-I love 1) solving problems with code and 2) meaningful human interactions.
+I love solving problems with code and meaningful human interactions.
 
-This website works as my 🌱 [[digital garden]]. Here you can see:
+This website is my 🌱 [[digital garden]]. I believe that writing is thinking, and the notes here are written for myself to aid my thinking, learning and creating. I keep them public because I see that [learning in public](https://www.swyx.io/learn-in-public/) is beneficial for me.
 
-- 🧑‍💻 more information [[about]] me
-- 📰 the [[articles]] I write about nerdy things (sometimes in [[artigos|portuguese]]).
+Here you can also see:
+
+- 🧑‍💻 more information [[about]] me.
+- 📰 some [[articles]] I write about nerdy things (sometimes in [[artigos|portuguese]]).
 - 📚 which [[books]] I've been reading (tech, fiction, non-fiction, whatever gets my interest).
-- ⌛ what I am focused on [[now]]
-
-I believe that writing is thinking, and the notes here are written for myself to aid my thinking, learning and creating. I keep them public because I like to [learn in public](https://www.swyx.io/learn-in-public/)
-
-The notes I believe that can be useful to others, I list [[articles|here (English)]] and [[artigos|here (Portuguese)]]. Sometimes I also like to [[traducoes|translate valuable/timeless articles to portuguese]].
+- ⌛ what I am focused on [[now]].
+- 🧰 the tools I [[uses|use]] in my daily routine.
+- 💭 random thoughts...
 
 If you're curious enough to explore this garden, keep in mind that it can be a bilingual experience.
 

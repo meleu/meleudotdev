@@ -52,7 +52,7 @@ main() {
     [[ -f "${mdFile}" ]] || continue
 
     case "${mdFile}" in
-      "templates/"* | "blogs/"*)
+      "templates/"* | "repos/"*)
         continue
         ;;
     esac
