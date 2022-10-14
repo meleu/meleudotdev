@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-# k8s
+# k8s courses
 
 - [[CKAD udemy course]]
 - [[Kubernetes for the Absolute Beginners]]

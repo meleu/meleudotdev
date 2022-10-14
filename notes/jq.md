@@ -18,3 +18,9 @@ Else is mandatory, but you can use `empty` to make it do nothing.
 jq 'if CONDITION then SOMETHING else empty end' input.json
 ```
 
+
+## add meaningful description here
+
+```
+jq '.[] | "\(.name):\(.zone)"'
+```

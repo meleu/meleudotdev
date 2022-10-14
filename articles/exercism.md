@@ -1,11 +1,12 @@
 ---
-dg-publish: false
-title: exercism the most effective way to learn a new programming language
-subtitle: Why I think exercism.org is the best way to learn a new programming language
-slug: exercism
-tags: programming, learn coding
-domain: meleu.hashnode.dev
+dg-publish: true
+title: "exercism: the most effective way to learn a new programming language"
+description: Why I think exercism.org is the best way to learn a new programming language
+tags:
+  - learning
+date: 2022-09-09T10:13:00-03:00
 ---
+
 
 ## Intro
 

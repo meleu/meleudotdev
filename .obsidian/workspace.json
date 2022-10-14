@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "7f2a45bd8fa28420",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ce4b6624321ce45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f25df5491309b1c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e68cbe8ee40dce42",
+    "type": "split",
+    "children": [
+      {
+        "id": "81058d0a2761c2bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0da2875d0547afe4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05179fa8233e8289",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "TOC",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d15356811c49306a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396.5
+  },
+  "right": {
+    "id": "0d81f502b1fbce9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aa335427558a458",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d80182949d60558",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2766f53e4af27f20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3508a0adc1fc38a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0086cbcee0d18821",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "0da2875d0547afe4",
+  "lastOpenFiles": [
+    "blogs/meleu.dev/content/drafts/from-devops-to-webdev.md",
+    "blogs/meleu.dev/content/drafts/How to create a documentation website from a github wiki.md",
+    "about.md",
+    "blogs/meleu.dev/content/about.md",
+    "blogs/meleu.dev/content/about.pt.md",
+    "articles.md",
+    "artigos.md",
+    "articles/exercism.md",
+    "articles/learn-ruby.md",
+    "artigos/aprenda-ruby.md"
+  ]
+}

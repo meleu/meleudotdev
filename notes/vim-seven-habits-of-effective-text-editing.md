@@ -10,7 +10,7 @@ My main takeaways from the text above.
 1. Move around quickly
 2. Don't type it twice
 3. Fix it when it's wrong
-4. something
+4. A file seldom comes alone
 5. Let's work together
 6. Text is structured
 7. Make it a habit
@@ -43,7 +43,7 @@ Three basic steps of learning a new shortcut movement on vim:
 3. prefer commands with text-objects to make them more repeatable (`:help text-objects`).
 4. while typing, use `ctrl-n` to get a list of suggestions of words to complete
 
-### Fix it when it's wrong
+### 3. Fix it when it's wrong
 
 Tip to quickly fix typos:
 ```vim

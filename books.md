@@ -5,8 +5,9 @@ dg-publish: true
 
 ## currently reading
 
-- [[Crime e Castigo]]
+- [[As Viagens de Gulliver]]
 - [[Os 7 Hábitos das pessoas Altamente Eficazes]]
+- [[Personal Kanban]]
 
 ---
 
@@ -23,6 +24,8 @@ Maybe this list can tell a bit about who I am.
 
 ## 2022
 
+- [[A Identidade]]
+- [[Crime e Castigo]]
 - [[Desenvolvimento Agil Limpo]]
 - [[Digital Zettelkasten - Principles, Methods, and Examples]]
 - [[Discurso sobre a servidão voluntária]]

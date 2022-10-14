@@ -14,3 +14,18 @@ RUN echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] http://packages.c
   && apt-get update -y \
   && apt-get install google-cloud-sdk -y
 ```
+
+
+## get the list of clusters
+
+```bash
+# output in human-friendly format
+gcloud container clusters list
+
+# output in json
+gcloud container clusters list --format=json
+
+# only clusters name
+gcloud container clusters list --format=json \
+  | jq '.[].name'
+```

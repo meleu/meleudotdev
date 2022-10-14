@@ -26,6 +26,17 @@ dg-publish: true
 
 ## random tips
 
+### squash commits non-interactively
+
+```bash
+# squash last 3 commits
+git reset --soft HEAD~3
+git commit -m 'new commit message'
+```
+
+https://stackoverflow.com/a/7275658/6354514
+
+
 ### how to find large commits in git history
 
 from: <https://stackoverflow.com/a/42544963/6354514>

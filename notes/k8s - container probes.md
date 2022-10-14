@@ -30,6 +30,10 @@ The liveness, readiness and startup probe are configured **per container** (not 
 | **default** | same as success                                     | same as success                                       | same as success                                        |
 
 
+## diagram with the flow of all probes
+
+![[k8s - container probes.png]]
+
 
 ## references
 

@@ -1,12 +1,11 @@
 ---
-dg-publish: false
-title: The best way I found to learn Ruby
-subtitle: What I did to acquire fluency in the Ruby language
-slug: learn-ruby
-tags: ruby
-domain: meleu.hashnode.dev
+dg-publish: true
+title: "The best way I found to learn Ruby"
+description: "What I did to acquire fluency in the Ruby language"
+tags:
+  - ruby
+date: 2022-09-08T09:48:00-03:00
 ---
-
 
 ## Intro
 

@@ -20,7 +20,7 @@ docker image pull ${image}:${tag}
 dfimage ${image}:${tag}
 ```
 
- It won't be explicit. Inconsistencies you may find:
+ It won't be explicit. Here are some inconsistencies you may find:
  
   - it'll show some hashes instead of filenames
   - it won't show the image used as a base (the image in the `FROM`)
