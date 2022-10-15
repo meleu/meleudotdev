@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "324085f26739a1a4",
+        "id": "4b76e5909efd40e0",
         "type": "tabs",
         "children": [
           {
-            "id": "5dddc874753c9fba",
+            "id": "aa9cd86362bb08ab",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -138,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5dddc874753c9fba",
+  "active": "aa9cd86362bb08ab",
   "lastOpenFiles": [
-    "notes/using obsidian-digital-garden.md",
     "index.md",
+    "README.md",
+    "repos/meleu.sh/content/drafts/vim-bash.md",
     "private/kanban/kanban.md",
+    "moc/books.md",
+    "atomic-ideas/A importância de errar.md",
+    "notes/using obsidian-digital-garden.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
     "notes/books/code-complete/Code Complete.md",
-    "moc/monthly.md",
-    "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md",
-    "templates/book note.md",
-    "notes/books/clean-agile/Desenvolvimento Agil Limpo.md",
-    "templates/post for hugo.md"
+    "moc/monthly.md"
   ]
 }
