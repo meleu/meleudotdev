@@ -92,8 +92,8 @@ Same thing as ReplicaSets, but in the field `kind:` replace `ReplicaSet` with `D
 ## cursos
 
 - [[10-kubernetes]]
-- [[notes/learning/kubernetes-for-absolute-beginners/index]]
-- [[notes/learning/kubernetes-ckad-with-tests/index]]
+- [[Kubernetes for the Absolute Beginners]]
+- [[CKAD udemy course]]
 
 
 ## livros

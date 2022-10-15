@@ -1,11 +1,16 @@
 ---
 dg-publish: true
+dg-permalink: ergodox-ez
+language: pt
+title: Teclado Ergodox EZ vale a pena?
+description: Falando da minha experiência com o teclado Ergodox EZ
 ---
+
 # Ergodox EZ
 
-Falo aqui da minha experiência com o teclado [Ergodox EZ](https://ergodox-ez.com/). Trata-se de um teclado mecânico split (dividido em duas peças, o que traz benefícios ergonômicos) e altamente customizável.
+Neste artigo falo da minha experiência com o teclado [Ergodox EZ](https://ergodox-ez.com/). Trata-se de um teclado mecânico split (dividido em duas peças, o que traz benefícios ergonômicos) e altamente customizável.
 
-Neste artigo vou falar da motivação de ter comprado esse teclado, de quanto custou, primeiras impressões. Pretendo também descrever como foi esse processo de adaptação e compartilhar algumas dicas que você pode usar caso tenha um perfil de uso parecido com o meu.
+Vou falar da motivação de ter comprado esse teclado, quanto custou, primeiras impressões, e impressões após um ano de uso. Pretendo também descrever como foi o processo de adaptação e compartilhar algumas dicas que você pode usar caso tenha um perfil de uso parecido com o meu.
 
 
 ## motivação
@@ -28,11 +33,11 @@ Após algumas pesquisadas pela interwebs, cheguei a conclusão que teclado split
 
 Foi caro. Tipo, **muito caro**. Somando teclado mais taxas de importação, deu perto de R$ 2,5k.
 
-Só comprei por que realmente apareceu uma grana extra pra torrar e eu tava nessa fissura de cuidar do meu corpitcho. Eu amo codar e e se tivesse que parar de fazer isso por problemas de causados por má ergonomia, isso me deixaria muito deprimido (muito mais do que saber que estou 2 mil reais mais pobre).
+Só comprei por que realmente apareceu uma grana extra pra torrar e eu tava nessa fissura de cuidar do meu corpitcho. Eu amo codar e e se tivesse que parar de fazer isso por problemas causados por má ergonomia, isso me deixaria muito deprimido (muito mais do que saber que estou 2 mil reais mais pobre).
 
-**Dica**: se vc se preocupa com ergonomia mas não tem condições ou vontade de desembolsar tanta grana num teclado desses, pesquise teclados split que estejam mais em conta. Falo isso porque, após uma semana utilizando o Ergodox EZ, percebo que o grande benefício ergonômico é poder digitar com as mãos afastadas uma da outra. Deixar as mãos alinhadas com os cotovelos e ombros é uma posição bem mais relaxada.
+**Dica**: se você se preocupa com ergonomia mas não tem condições ou vontade de desembolsar tanta grana num teclado desses, pesquise teclados split que estejam mais em conta. Falo isso porque, após uma semana utilizando o Ergodox EZ, percebo que o grande benefício ergonômico é poder digitar com as mãos afastadas uma da outra. Deixar as mãos alinhadas com os cotovelos e ombros é uma posição bem mais relaxada.
 
-Se você quer saber os detalhes do preço e das taxas,  a Anna escreveu [esse artigo](https://anna.flourishing.stream/pt-br/2021/03/03/importando-o-moonlander-mark-i/) com mais detalhes a respeito do preço de cada coisa.
+Se você quer saber os detalhes do preço e das taxas, a Anna escreveu [esse artigo](https://anna.flourishing.stream/pt-br/2021/03/03/importando-o-moonlander-mark-i/) com mais detalhes a respeito do preço de cada coisa.
 
 
 ## primeiras impressões
@@ -58,21 +63,28 @@ Deixar o mouse no meio é bem mais confortável do que esticar o braço pra dire
 
 ## customização
 
-[TODO: preciso elaborar mais essa parte]
-
 Ao comprar o teclado você recebe um email com links para a documentação, e no [Getting Started](https://ergodox-ez.com/pages/getting-started) tem algumas orientações básicas. Inclusive orientações de como customizar seu teclado.
 
 Não vou repetir aqui o que já está escrito na documentação, quero apenas passar algumas dicas sobre como configurar seu teclado para ficar parecido com o meu caso de uso.
 
-Algumas informações relevantes sobre perfil de uso e as consequências disso:
+Algumas informações relevantes sobre meu perfil de uso e as consequências disso:
 
 - **ABNT2 user**
-    - mindinho direito está acostumadinho a acessar `Ç`, `~` e `´`.
+    - mindinho direito está acostumadinho a acessar muitas teclas, como `Ç`, `~`, `´`, `+`, `{` e afins.
     - mindinho esquerdo acostumadinho a acessar `'`.
 - **vim user**
     - com muita frequência meu mindinho esquerdo vai lá no canto superior esquerdo pressionar o `Esc`.
 - **command line power user**
     - com muita frequência meu mindinho direito chega na direita para procurar o `Enter`
+
+Consegui customizar meu layout para a maior parte desses meus hábitos, mas nos seguintes casos eu tive que me readaptar:
+
+- pressionar `Enter` com o polegar.
+- abrir/fechar `{`chaves`}` e `[`colchetes`]` com o indicador direito.
+- `"`aspas`"` com o indicador esquerdo.
+- `Backspace` com o mindinho esquerdo (usando a tecla do `CapsLock`).
+
+Dessa lista de peculiaridades, percebi que consigo alternar tranquilamente quando preciso trabalhar no teclado laptop.
 
 
 ## Minha opinião depois de um ano usando o Ergodox EZ

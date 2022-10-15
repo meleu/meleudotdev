@@ -11,9 +11,11 @@
             "id": "aa9cd86362bb08ab",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "private/kanban/kanban.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/kanban/kanban.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/kanban/kanban.md"
+                "file": "README.md"
               }
             }
           },
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/kanban/kanban.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,13 +144,13 @@
   "lastOpenFiles": [
     "index.md",
     "README.md",
-    "repos/meleu.sh/content/drafts/vim-bash.md",
-    "private/kanban/kanban.md",
-    "moc/books.md",
-    "atomic-ideas/A importância de errar.md",
-    "notes/using obsidian-digital-garden.md",
-    "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
-    "notes/books/code-complete/Code Complete.md",
-    "moc/monthly.md"
+    "uses.md",
+    "notes/videos/video - building-a-second-brain.md",
+    "notes/favorite-problems.md",
+    "templates/new article.md",
+    "notes/learning/how-to-teach-online/How to Teach Online.md",
+    "notes/learning/rocketseat/nlw-06/Rocketseat NLW6.md",
+    "notes/learning/rocketseat/discover/02-guia-http.md",
+    "notes/learning/rocketseat/discover/Rocketseat Discover.md"
   ]
 }
