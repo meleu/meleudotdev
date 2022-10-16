@@ -2,13 +2,13 @@
 dg-publish: true
 tags:
   - books
-  - nonfiction
-read-year: 2022
+read-timestamp: 2022
 author: "Stephen Covey"
 ---
 
 # Os 7 Hábitos das pessoas Altamente Eficazes
 
+#books/nonfiction 
 
 Conceitos chave:
 

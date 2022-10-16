@@ -18,7 +18,7 @@ Maybe this list can tell a bit about who I am.
 
 **Notes**:
 
-1. The list here is uncategorized and purely chronological (I like to read fiction, non-fictional, technical books and whatever gets my interest).
+1. The list here is uncategorized and purely chronological (I like to read [[books-fiction|fiction]], [[books-nonfiction|nonfictional]], [[books-tech|technical]] books and whatever gets my interest).
 2. Most of the non-technical books are in portuguese.
 
 ---
@@ -29,7 +29,7 @@ Maybe this list can tell a bit about who I am.
 - [[Crime e Castigo]]
 - [[Desenvolvimento Agil Limpo]]
 - [[Digital Zettelkasten - Principles, Methods, and Examples]]
-- [[Discurso sobre a servidão voluntária]]
+- [[Discurso sobre a servidao voluntaria]]
 - [[12 Regras Para a Vida]]
 - [[Eu, Robô]]
 - [[1984]]
@@ -47,7 +47,6 @@ Maybe this list can tell a bit about who I am.
 - [[Como Ler Livros]]
 - [[Ghost in the Shell]]
 - [[O Livro de Deus]]
-- [[Filho Rico Filho Vencedor]]
 - [[Business Model You]]
 
 
@@ -69,7 +68,8 @@ Maybe this list can tell a bit about who I am.
 - ⭐ [[Manual de DevOps]]
 - [[System Design Interview]]
 - [[Microsserviços prontos para a produção]]
-- [[Kubernetes Basico]]
+- [[livro Kubernetes Basico]]
+- [[Filho Rico Filho Vencedor]]
 - [[O mais importante para o investidor]]
 
 
@@ -131,7 +131,7 @@ Maybe this list can tell a bit about who I am.
 
 - ⭐ [[A insustentavel leveza do ser]]
 - ⭐ [[O Barão nas Árvores]]
-- [[O cavaleiro inexistente]]
+- [[O Cavaleiro Inexistente]]
 - [[O visconde partido ao meio]]
 - [[Roube Como Um Artista]]
 - [[As aventuras de Tom Sawyer]]

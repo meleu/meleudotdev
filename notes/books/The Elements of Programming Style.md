@@ -1,7 +1,16 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2022
+author:
+  - Brian Kernighan
+  - P. J. Plauger
 ---
+
 # The Elements of Programming Style
+
+#books/tech 
 
 The look brings a lot of timeless wisdom, but unfortunately the examples are written in Fortran. 🙁
 

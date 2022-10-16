@@ -1,7 +1,16 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2021
+author:
+  - John Arundel
+  - Justin Domingus
 ---
+
 # Cloud Native DevOps with Kubernetes
+
+#books/tech 
 
 ### Chapter 1
 

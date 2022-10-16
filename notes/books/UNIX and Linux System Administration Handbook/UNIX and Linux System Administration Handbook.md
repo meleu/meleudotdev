@@ -1,7 +1,19 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2022
+author:
+  - Evi Nemeth
+  - Garth Snyder
+  - Trent R. Hein
+  - Ben Whaley
+  - Dan Mackin
 ---
+
 # UNIX and Linux System Administration Handbook
+
+#books/tech 
 
 The version I have is the 5th edition.
 

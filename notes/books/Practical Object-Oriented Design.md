@@ -1,7 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2022
+author: Sandi Metz
 ---
+
 # Practical Object-Oriented Design
+
+#books/tech 
 
 ### Being a programmer
 I've found in the first pages of this book the reason why I love to be a programmer.

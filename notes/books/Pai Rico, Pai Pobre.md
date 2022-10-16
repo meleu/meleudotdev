@@ -1,11 +1,16 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2019
+author: Robert Kiyosaki
 ---
-# Book Review: Pai Rico, Pai Pobre
 
-#livro/financas 
+# Pai Rico, Pai Pobre
+
+#books/nonfiction 
  
- Lido em 2019.
+Lido em 2019.
 
 ## Por que eu li esse livro?
 
@@ -48,6 +53,5 @@ O principal aprendizado que tirei desse livro é que primeiros devemos construir
 
 Outro pensamento importante que vi é que não devemos focar em ser feliz depois de ficar rico, devemos focar em sermos felizes ficando rico. Ficar feliz só após ficar rico muito provavelmente não vai suprir essa lacuna.
 
-## Comentários gerais
 
 

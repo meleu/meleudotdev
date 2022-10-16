@@ -19,7 +19,6 @@ These are the tools I use:
 ## hardware
 
 - computer: Anything able to run Linux and the softwares listed above.
-- keyboard: [[ergodox-ez]]
 - mouse: vertical mouse
-- standing desk
-
+- keyboard: [[ergodox-ez]]
+- desk: [[GenioDesk Pro]] standing desk

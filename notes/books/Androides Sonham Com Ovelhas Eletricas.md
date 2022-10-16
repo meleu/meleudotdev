@@ -1,9 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2019
+author: Philip K. Dick
 ---
-# Androides Sonham Com Ovelhas Eletricas
 
-#livro/scifi
+# Androides Sonham Com Ovelhas Elétricas
+
+#books/fiction 
 
 Lido em fevereiro/2019
 

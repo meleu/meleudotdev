@@ -2,12 +2,13 @@
 dg-publish: true
 tags:
   - books
-  - tech
-read-year: 2022
+read-timestamp: 2022
 author: "Steve McConnell"
 ---
 
 # Code Complete
+
+#books/tech 
 
 ## Why did I read this book?
 

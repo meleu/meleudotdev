@@ -1,8 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2021
+author: Patrick Lencioni
 ---
 
 # Os 5 Desafios das Equipes
+
+#books/nonfiction 
 
 Quando eu li eu acabei não vendo muito valor nesse livro, mas ao folheá-lo para decidir se iria doá-lo acabei me interessando pela lista das 5 disfunções das equipes.
 

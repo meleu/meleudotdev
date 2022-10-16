@@ -9,7 +9,7 @@ dg-publish: true
 
 ## books
 
-- [[Kubernetes Basico]]
+- [[livro Kubernetes Basico]]
 - [[Cloud Native DevOps with Kubernetes]]
 
 
@@ -98,6 +98,6 @@ Same thing as ReplicaSets, but in the field `kind:` replace `ReplicaSet` with `D
 
 ## livros
 
-- [[Kubernetes Basico]]
+- [[livro Kubernetes Basico]]
 - [[Padroes para Kubernetes]]
 

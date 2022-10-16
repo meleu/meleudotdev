@@ -1,9 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2019
+author: Marjin Haverbeke
 ---
-# Book Review: Eloquent JavaScript
 
-#livro/nerd #js
+# Eloquent JavaScript
+
+#books/tech 
 
 ## Por que eu li esse livro?
 

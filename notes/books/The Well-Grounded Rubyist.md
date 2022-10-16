@@ -1,7 +1,16 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2022
+author:
+  - David A. Black
+  - Joseph Leo
 ---
+
 # The Well-Grounded Rubyist
+
+#books/tech 
 
 [TOC]
 

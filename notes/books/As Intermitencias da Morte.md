@@ -1,7 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2019
+author: José Saramago
 ---
+
 # As Intermitências da Morte
+
+#books/fiction 
 
 Em um determinado país, após a virada do ano a morte parou de chegar. O que a princípio parece ser uma benção demonstra ser um grande fardo.
 

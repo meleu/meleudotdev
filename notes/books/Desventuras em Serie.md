@@ -1,8 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2013
+author: Lemony Snicket
 ---
 
-# Desventuras em Serie
+# Desventuras em Série
+
+#books/fiction 
 
 É uma série com 13 livros.
 

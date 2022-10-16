@@ -1,12 +1,13 @@
 ---
 dg-publish: true
 tags: books
-finished: false
-read-year: 2022
+read-timestamp: 2022
 author: "Yuval Noah Harari"
 ---
 
 # Sapiens
+
+#books/nonfiction 
 
 ## principal aprendizado
 

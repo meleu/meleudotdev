@@ -1,7 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2022
+author: Viktor Frankl
 ---
+
 # Em Busca de Sentido
+
+#books/nonfiction 
 
 ## principal aprendizado
 

@@ -1,7 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2019
+author: Napoleon Hill
 ---
+
 # Mais Esperto que o Diabo
+
+#books/nonfiction #books/fiction 
 
 ## Por que eu li esse livro?
 

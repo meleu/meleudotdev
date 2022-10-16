@@ -1,7 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2021
+author: Robert Kiyosaki
 ---
+
 # Filho Rico Filho Vencedor
+
+#books/nonfiction 
 
 ## Por que li esse livro?
 

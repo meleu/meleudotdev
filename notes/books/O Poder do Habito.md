@@ -1,15 +1,18 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2019
+author: Charles Duhigg
 ---
-# Book Review: O Poder do Hábito
+
+# O Poder do Hábito
+
+#books/nonfiction 
 
 ## Por que eu li esse livro?
 
-## O livro em 3 frases
-
-1. 1
-2. 2
-3. 3
+Por acreditar que hábitos economizam energia.
 
 ## Citações
 

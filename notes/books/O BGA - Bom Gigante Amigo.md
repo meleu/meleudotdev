@@ -1,8 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2013
+author: Roald Dahl
 ---
 
 # O BGA - Bom Gigante Amigo
+
+#books/fiction 
 
 Motivos pelos quais eu indico a leitura:
 

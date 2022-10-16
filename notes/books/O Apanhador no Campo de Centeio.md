@@ -1,7 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2019
+author: J. D. Salinger
 ---
-# Book Review: O Apanhador no Campo de Centeio
+
+# O Apanhador no Campo de Centeio
+
+#books/fiction 
 
 ## Por que eu li esse livro?
 
@@ -11,7 +18,7 @@ dg-publish: true
 
 1. Um rapaz que odeia todo mundo, exceto seus irmãos.
 2. Um livro sobre a passagem da adolescência para se tornar um "jovem adulto".
-3. ???
+3. Um adulto típico irá se identificar com o personagem em vários aspectos.
 
 ## Citações
 
@@ -28,7 +35,10 @@ outro trecho que achei interessante:
 
 Que o kindle é um dispositivo que vale a pena ter. :)
 
-Aprendi que "decepção com a humanidade" é um sintoma meio que universal. Eu também passei por isso nessa fase da vida (com a maturidade, depois percebemos que na verdade também somos bem decepcionantes, só que costumamos enxergar o erro dos outros mais facilmente).
+Aprendi que "decepção com a humanidade" é um sintoma meio que universal. Eu também passei por isso nessa fase da vida.
+
+Com a maturidade, percebi que na verdade também somos, nós mesmos, bem decepcionantes. O problema é que enxergamos os erros dos outros com mais facilidade do que os nossos próprios.
+
 
 ## Comentários
 

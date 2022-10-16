@@ -1,5 +1,8 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2022
 author: "Jordan Peterson"
 ---
 

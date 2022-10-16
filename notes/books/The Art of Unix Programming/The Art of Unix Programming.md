@@ -1,9 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2021
+author: Eric S. Raymond
 ---
+
 # The Art of Unix Programming
 
-#livro/nerd #unix
+#books/tech 
 
 ## Por que eu li esse livro?
 

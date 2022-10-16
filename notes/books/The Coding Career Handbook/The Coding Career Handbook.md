@@ -1,7 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2020
+author: swyx
 ---
+
 # The Coding Career Handbook
+
+#books/tech 
 
 ## 12. Specialize in the New
 

@@ -1,8 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2013
+author: George R. R. Martin
 ---
 
-# As cronicas do gelo e fogo
+# As Crônicas do Gelo e Fogo
+
+#books/fiction 
 
 Comecei a assistir a série A Game of Thrones e gostei. Fiquei embasbacado com a ambientação medival (pra quem é fã de Tolkien, é fácil gostar disso), as tramas, intrigas e tudo mais (mulépelada). O interesse cresceu e daí resolvi começar a ler os livros (As Crônicas do Gelo e Fogo). Aliás, A Game of Thrones é o nome da série da HBO, mas nos livros é o nome apenas do primeiro volume.
 

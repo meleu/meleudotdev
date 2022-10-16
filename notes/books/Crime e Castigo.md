@@ -1,8 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2022
+author: Fyodor Dostoevsky
 ---
 
 # Crime and Punishment
+
+#books/fiction 
 
 An interesting thing is that I found some similarities with [[O Apanhador no Campo de Centeio|The Catcher in the Rye]]. Specially the fact that the main character is a depressive guy, disillusioned with life.
 

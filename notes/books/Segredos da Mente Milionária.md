@@ -1,9 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2019
+author: T. Harv Eker
 ---
+
 # Segredos da Mente Milionária
 
-#livro/financas 
+#books/nonfiction 
 
 Lido em 2019.
 

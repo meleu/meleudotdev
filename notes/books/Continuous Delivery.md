@@ -1,7 +1,16 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2022
+author
+  - Jez Humble
+  - David Farley
 ---
+
 # Continuous Delivery
+
+#books/tech 
 
 ## Chapter 1 - The Problem of Delivering Software
 

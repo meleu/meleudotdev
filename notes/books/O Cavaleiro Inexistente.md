@@ -1,8 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2013
+author: Italo Calvino
 ---
 
 # O cavaleiro inexistente
+
+#books/fiction 
 
 Livro de Italo Calvino.
 

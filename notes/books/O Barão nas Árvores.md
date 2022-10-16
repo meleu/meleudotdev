@@ -1,8 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2013
+author: Italo Calvino
 ---
 
 # O Barão nas Árvores
+
+#books/fiction 
 
 Eu cheguei a este livro olhando o catálogo da Companhia das Letras. E quando me deparei com o título "O Barão nas Árvores" na mesma hora lembrei da música "Sobre as Folhas" da extinta banda pernambucana "Cordel do Fogo Encatado" (no álbum "Transfiguração"). Isso já foi suficiente para eu ficar interessado em ler o livro. Li e gostei! :)
 

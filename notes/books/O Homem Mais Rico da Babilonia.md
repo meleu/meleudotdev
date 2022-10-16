@@ -1,9 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2019
+author: George Samuel Clason
 ---
-# Book Review: O Homem Mais Rico da Babilonia
 
-#livro/financas
+# O Homem Mais Rico da Babilonia
+
+#books/nonfiction
 
 Lido em 2019.
 

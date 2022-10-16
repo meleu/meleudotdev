@@ -1,7 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2022
+author: Dave Kadavy
 ---
+
 # Digital Zettelkasten - Principles, Methods, and Examples
+
+#books/nonfiction 
 
 It's a book from [Dave Kadavy](https://kadavy.net/).
 

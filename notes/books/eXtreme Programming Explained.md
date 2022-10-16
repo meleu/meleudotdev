@@ -1,7 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2022
+author: Kent Beck
 ---
+
 # eXtreme Programming Explained
+
+#books/tech 
 
 Livro de Kent Beck
 

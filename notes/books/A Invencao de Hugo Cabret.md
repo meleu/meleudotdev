@@ -1,8 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2013
+author: Brian Selznick
 ---
 
-# A Invencao de Hugo Cabret
+# A Invenção de Hugo Cabret
+
+#books/fiction 
 
 Quem já viu o filme e sacou qual é da história, né? Tem o seu toque de suspense (o garoto tem que viver escondido), mistério (que "robô" é aquele) e uma pitada de aventura (andar sozinho pelas ruas a noite)... Mas o livro é muito mais do que aquilo visto no filme.
 

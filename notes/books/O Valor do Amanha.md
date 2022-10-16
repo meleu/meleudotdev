@@ -1,7 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2019
+author: Eduardo Giannetti
 ---
-# O Valor do Amanha
+
+# O Valor do Amanhã
+
+#books/nonfiction 
 
 ## Por que eu li esse livro?
 

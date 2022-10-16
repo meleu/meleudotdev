@@ -1,10 +1,16 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2019
+author: Robert Kiyosaki
 ---
+
 # Independência Financeira - O Guia do Pai Rico
 
-Algumas sacadas interessantes a respeito dos "4 quadrantes".
+#books/nonfiction 
 
+Algumas sacadas interessantes a respeito dos "4 quadrantes".
 
 
 

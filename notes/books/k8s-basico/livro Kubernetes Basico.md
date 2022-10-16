@@ -1,7 +1,17 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2021
+author:
+  - Brendan Burns
+  - Joe Beda
+  - Kelsey Hightower
 ---
+
 # livro: Kubernetes Básico
+
+#books/tech 
 
 - [[k8s basico 01-introducao]]
 - [[k8s basico 02-containers]]

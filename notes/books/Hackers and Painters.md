@@ -1,7 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2021
+author: Paul Graham
 ---
-# Book Review: Hackers and Painters
+
+# Hackers and Painters
+
+#books/nonfiction 
 
 ## Por que eu li esse livro?
 

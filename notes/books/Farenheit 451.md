@@ -1,9 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2019
+author: Ray Bradbury
 ---
-# Book Review: Farenheit 451
 
-#livro/distopia
+# Farenheit 451
+
+#books/fiction 
 
 Lido em fevereiro/2019
 
@@ -11,7 +16,7 @@ Lido em fevereiro/2019
 
 Iniciei o ano de 2019 com a intenção de ler sobre distopias. E esse livro acabou sendo uma excelente leitura.
 
-O livro mostra como a sociedade do espetáculo é o combustível que causa a [[Discurso sobre a servidão voluntária|servidão voluntária]].
+O livro mostra como a sociedade do espetáculo é o combustível que causa a [[Discurso sobre a servidao voluntaria|servidão voluntária]].
 
 ## Citações
 
@@ -56,5 +61,5 @@ Beatty falando sobre como surgiu a nova função dos bombeiros (queimar livros):
 
 Excesso de entretenimento é o que permite a servidão voluntária.
 
-Ver também [[Discurso sobre a servidão voluntária]].
+Ver também [[Discurso sobre a servidao voluntaria]].
 
