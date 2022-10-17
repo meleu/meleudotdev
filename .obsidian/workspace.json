@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "moc/books.md",
+                "file": "now.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moc/books.md",
+                "file": "now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moc/books.md"
+                "file": "now.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "moc/books.md",
+                "file": "now.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,15 +142,15 @@
   },
   "active": "13a505b5834d6d84",
   "lastOpenFiles": [
+    "notes/books/k8s-basico/livro Kubernetes Basico.md",
+    "now.md",
+    "README.md",
+    "moc/books.md",
     "about.md",
     "articles/livros que me influenciaram.md",
     "notes/books/Pai Rico, Pai Pobre.md",
     "notes/books/Androides Sonham Com Ovelhas Eletricas.md",
     "notes/books/Hackers and Painters.md",
-    "notes/books/O Melhor do Mundo - Seth Godin.md",
-    "notes/books/Segredos da Mente Milionária.md",
-    "notes/books/Roube Como Um Artista.md",
-    "README.md",
-    "moc/articles.md"
+    "notes/books/O Melhor do Mundo - Seth Godin.md"
   ]
 }
