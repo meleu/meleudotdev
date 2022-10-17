@@ -20,6 +20,7 @@ Maybe this list can tell a bit about who I am.
 
 1. The list here is uncategorized and purely chronological (I like to read [[books-fiction|fiction]], [[books-nonfiction|nonfictional]], [[books-tech|technical]] books and whatever gets my interest).
 2. Most of the non-technical books are in portuguese.
+3. 🇧🇷🇵🇹 Veja aqui os [[livros que me influenciaram]] e o que aprendi com eles.
 
 ---
 

@@ -18,18 +18,18 @@ Para tentar aprender como me relacionar melhor com o dinheiro e não depender de
 
 ### Principais Aprendizados
 
-#### Dinheiro vs. Amor
+**Dinheiro vs. Amor**
 
 > "O dinheiro não é mais importante que o amor". Ora, essa é uma comparação equivocada. O que é mais importante: o seu braço ou sua perna? É óbvio que ambos tem importância!
 
 Posteriormente descobri que o nome desse tipo de falácia é [falsa dicotomia](https://en.wikipedia.org/wiki/False_dilemma).
 
 
-#### Separe uma grana pra curtir
+**Separe uma grana pra curtir**
 
 Uma coisa que pode parecer surpresa pra maioria das pessoas, é que meu principal aprendizado deste livro foi:
 
-**Não adianta ser sovina!** Você também precisa gastar dinheiro para curtir a vida.
+Não adianta ser sovina! Você também precisa gastar dinheiro para curtir a vida.
 
 Nas palavras do autor:
 
@@ -41,8 +41,7 @@ O livro não fala muito disso, mas o grande perigo desse "ensinamento" é não c
 
 O grande problema é que via de regra as pessoas é não têm controle algum sobre seus gastos. Não ter noção nenhuma de pra onde seu dinheiro está indo.
 
-
-#### Vida fácil, escolhas difíceis
+**Vida fácil, escolhas difíceis**
 
 Outra coisa que foi bem marcante pra mim (e que depois vi menções a esta mesma ideia em vários outros lugares) foi sobre **vida fácil**:
 
@@ -50,8 +49,16 @@ Outra coisa que foi bem marcante pra mim (e que depois vi menções a esta mesma
 
 Eu prefiro resumir assim: Vida fácil, escolhas difíceis. Vida difícil, escolhas fáceis.
 
+Exemplos práticos (meramente ilustrativos e super-simplificados):
 
-#### Quando devo começar a me preocupar em administrar meu dinheiro?
+- O que é mais fácil: comer sorvete ou agrião?
+    - Quem terá uma vida mais fácil: quem come sorvete ou quem come agrião?
+- O que é mais fácil: jogar videogame ou ler um bom livro?
+    - Quem terá uma vida mais fácil: quem joga videogame ou quem lê?
+
+Observação: não estou fazendo nenhum juízo de valor. Aliás, eu adoro jogar videogame. O importante aqui é ter consciência de que quando eu estou (por exemplo) jogando videogame, eu estou fazendo a escolha fácil. Se o meu contexto no momento permitir, eu vou é jogar mesmo! Faça uma auto-avaliação honesta sempre que fazer essas escolhas.
+
+**Quando devo começar a me preocupar em administrar meu dinheiro?**
 
 Agora.
 

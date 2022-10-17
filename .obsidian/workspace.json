@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/livros que me influenciaram.md",
+                "file": "articles/livros que me influenciaram.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/principios.md",
+                "file": "moc/articles.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/principios.md",
+                "file": "moc/articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/principios.md"
+                "file": "moc/articles.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/principios.md",
+                "file": "moc/articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,15 +158,15 @@
   },
   "active": "39fcd46fb7bd9889",
   "lastOpenFiles": [
-    "notes/books/Androides Sonham Com Ovelhas Eletricas.md",
-    "notes/livros que me influenciaram.md",
-    "notes/books/code-complete/Code Complete.md",
+    "moc/books.md",
+    "moc/artigos.md",
+    "articles/livros que me influenciaram.md",
     "notes/books/Segredos da Mente Milionária.md",
-    "notes/books/12-regras/12 Regras Para a Vida.md",
-    "notes/books/Personal Kanban.md",
     "notes/books/Pai Rico, Pai Pobre.md",
-    "notes/books/O Valor do Amanha.md",
-    "notes/books/Roube Como Um Artista.md",
-    "notes/test-2.md"
+    "notes/books/Androides Sonham Com Ovelhas Eletricas.md",
+    "notes/books/code-complete/Code Complete.md",
+    "notes/principios.md",
+    "notes/books/12-regras/12 Regras Para a Vida.md",
+    "notes/books/Personal Kanban.md"
   ]
 }

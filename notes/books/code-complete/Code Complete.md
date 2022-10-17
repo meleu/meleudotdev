@@ -39,7 +39,7 @@ After reading the first 7 chapters I realized that this book has a lot of "proga
 
 ### Principais Aprendizados
 
-#### Heurísticas > Algoritmos
+**Heurísticas > Algoritmos**
 
 Ou falando com minhas palavras: **Perguntas são mais valiosas que respostas.**
 
@@ -47,7 +47,7 @@ Algoritmos nos fornecem soluções para um determinado problema. Heurísticas no
 
 Eu prefiro falar da seguinte forma: algoritmos nos fornecem respostas, heurísticas nos mostram quais são as perguntas. Eu acredito que as perguntas são mais valiosas pois elas mudam com menos frequência. As respostas podem variar muito dependendo do contexto, mas as perguntas permanecem as mesmas.
 
-#### Controlar a complexidade
+**Controlar a complexidade**
 
 **O principal objetivo de um profissional de software é controlar a complexidade.**
 

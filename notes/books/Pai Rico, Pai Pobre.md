@@ -18,20 +18,53 @@ Em 2019 eu estava bastante insatisfeito profissionalmente e comecei a estudar/le
 
 ### Principais Aprendizados
 
-Tenha clareza do que é um ativo e o que é um passivo. Observação: uma coisa ser classificada como ativo ou passivo depende do contexto e do uso que você faz.
+**Nunca sacrificar felicidade para ganhar mais dinheiro**
 
-- Passivo: algo que tira dinheiro do seu bolso.
-- Ativo: algo que coloca dinheiro no seu bolso.
-
-Claro que passivos muitas vezes nos trazem prazer, e é claro que todos nós gostamos disso (até mesmo os ricos). Mas primeiro construa seus ativos de forma que você consiga bancar seus passivos sem empobrecer (sem diminuir seu patrimônio).
-
-Outras citações marcantes:
-
-> Quanto mais real vocês pensarem que o dinheiro é, mais arduamente trabalharão por ele. Se perceberem que o dinheiro não é algo tangível, enriquecerão mais rápido.
+O aprendizado mais importante de todos foi:
 
 > Se você não é feliz enquanto está se tornando rico, dificilmente será feliz quando for rico.
 
-> **Ninguém fica rico no trabalho. As pessoas ficam ricas em casa.** (...) É no trabalho que você ganha dinheiro e é em casa que decide o que fazer com ele. (...) O que faz com ele é o que o torna rico ou pobre.
+Uma outra forma de abordar esse tema é: Nunca abra mão de coisas que o dinheiro não pode comprar, em troca de dinheiro.
+
+Aplicação prática deste conceito:
+
+Eu estava em dois empregos, ganhando uma boa grana. No entanto passava pouquíssimo tempo com meus filhos. Meu caçula tinha 6 anos de idade. O pensamento que me fez tomar a decisão de largar um dos empregos foi "por mais dinheiro que eu tenha, não existe quantia alguma que eu possa usar para comprar 'curtir a infância do meu filho'. Isso tem que ser feito agora."
+
+Observação: tomar cuidado para não cair na [[Segredos da Mente Milionária#Dinheiro vs. Amor|falsa dicotomia do "amor vs. dinheiro"]].
+
+**Construa ativos antes dos passivos**
+
+Tenha clareza do que é um ativo e o que é um passivo. Observação: uma coisa ser classificada como ativo ou passivo depende do contexto e do uso que você faz.
+
+- Passivo: algo que tira dinheiro do seu bolso.
+    - exemplo: casa na praia.
+- Ativo: algo que coloca dinheiro no seu bolso.
+    - exemplo: Fundos de Investimentos Imobiliários.
+
+Claro que passivos muitas vezes nos trazem prazer, e é claro que todos nós gostamos disso (até mesmo os ricos). Mas primeiro construa seus ativos de forma que você consiga bancar seus passivos sem empobrecer (sem diminuir seu patrimônio).
+
+**O dinheiro não é real!**
+
+> Quanto mais real vocês pensarem que o dinheiro é, mais arduamente trabalharão por ele. Se perceberem que o dinheiro não é algo tangível, enriquecerão mais rápido.
+
+Quanto mais precisamos de dinheiro, mais poder ele exerce sobre nós. Todos nós precisamos de dinheiro para comer, pagar água, luz, internet e afins. Mas após pagarmos por essas necessidades básicas, temos uma quantia que cabe a nós classificarmos como "dinheiro que não precisamos". É o que fazemos com essa quantia que nos torna ricos (ou mais pobres, se ficarmos adquirindo passivos).
+
+
+**Ninguém fica rico trabalhando. As pessoas ficam ricas em casa.**
+
+Claro que falando dessa forma soa mais como um *clickbait*. O conceito completo é:
+
+> É no trabalho que você ganha dinheiro e é em casa que decide o que fazer com ele. O que você faz com o seu dinheiro é o que o torna rico ou pobre.
+
+Isso abriu meus olhos para o fato de que saber administrar o dinheiro que vem pra sua mão é muito mais importante do que ficar se sacrificando pra ganhar mais e mais.
+
+Muito provavelmente, se você ganhar mais, vai acabar gastando mais. E isso vai só te manter por mais tempo na "corrida dos ratos". (Pense em um ratinho correndo dentro de uma roda. O ratinho pode se esforçar pra correr mais rápido, mas a roda nunca sai do lugar.)
+
+Claro que ganhar mais dinheiro é bom, mas use estratégias inteligentes para isso.
+
+Bons exemplo: estudar, se aprimorar, ser melhor no que faz, investir em bons cursos.
+
+Exemplos ruins: aceitar mais trabalhos do que o que você é capaz de entregar com qualidade. Isso só vai te prejudicar. A péssima qualidade do seu trabalho vai ser notada e isso vai arruinar seu networking.
 
 
 ### O livro em 3 frases

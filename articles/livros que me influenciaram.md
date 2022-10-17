@@ -10,7 +10,7 @@ description: Relação dos principais livros que influenciaram minha maneira de 
 
 Aqui está uma lista de livros que influenciaram minha maneira de encarar a vida e o principal aprendizado que tive com cada um deles.
 
-Fiz questão de não categorizar. Aqui tem livros de artes, de finanças, de programação, filosofia e até livros de ficção.
+Fiz questão de não categorizar. Aqui tem livros de artes, finanças, programação, filosofia e ficção.
 
 Todos esses temas fazem parte da minha vida como um todo e eu não faço questão alguma de tentar compartimentalizar cada tema separadamente.
 
@@ -50,4 +50,7 @@ Todos esses temas fazem parte da minha vida como um todo e eu não faço questã
 
 ## [[Androides Sonham Com Ovelhas Eletricas]]
 
+Curiosidade: esse é o livro que inspirou o filme Blade Runner.
+
 ![[Androides Sonham Com Ovelhas Eletricas#ser dono de uma fraude]]
+

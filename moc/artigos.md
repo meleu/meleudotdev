@@ -10,10 +10,12 @@ Veja também alguns [[traducoes|artigos que eu traduzi]] de outros autores.
 
 
 ```dataview
-TABLE title AS "Título"
+TABLE
+  title AS "Título",
+  file.mday AS "Última modificação"
 FROM "articles"
 WHERE
   dg-publish = true
   AND language = "pt"
-SORT file.ctime DESC
+SORT file.mtime DESC
 ```
