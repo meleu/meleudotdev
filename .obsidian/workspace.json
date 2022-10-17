@@ -27,14 +27,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "moc/articles.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moc/articles.md",
+                "file": "articles/livros que me influenciaram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moc/articles.md"
+                "file": "articles/livros que me influenciaram.md"
               }
             }
           },
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "moc/articles.md",
+                "file": "articles/livros que me influenciaram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,8 +155,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "39fcd46fb7bd9889",
+  "active": "8ba46e3d2bb414e6",
   "lastOpenFiles": [
+    "README.md",
+    "moc/articles.md",
     "moc/books.md",
     "moc/artigos.md",
     "articles/livros que me influenciaram.md",
@@ -165,8 +166,6 @@
     "notes/books/Pai Rico, Pai Pobre.md",
     "notes/books/Androides Sonham Com Ovelhas Eletricas.md",
     "notes/books/code-complete/Code Complete.md",
-    "notes/principios.md",
-    "notes/books/12-regras/12 Regras Para a Vida.md",
-    "notes/books/Personal Kanban.md"
+    "notes/principios.md"
   ]
 }
