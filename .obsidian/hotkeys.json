@@ -169,5 +169,14 @@
       "key": "/"
     }
   ],
-  "editor:toggle-comments": []
+  "editor:toggle-comments": [],
+  "obsidian-plugin-toc:create-toc": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ]
 }

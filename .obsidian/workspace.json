@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "39fcd46fb7bd9889",
+            "id": "928ec0504a8bd63a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "notes/books/O Melhor do Mundo - Seth Godin.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,15 +157,15 @@
   },
   "active": "8ba46e3d2bb414e6",
   "lastOpenFiles": [
+    "notes/books/O Melhor do Mundo - Seth Godin.md",
+    "notes/books/Pai Rico, Pai Pobre.md",
+    "articles/livros que me influenciaram.md",
+    "notes/books/Segredos da Mente Milionária.md",
+    "notes/books/Hackers and Painters.md",
+    "notes/books/Roube Como Um Artista.md",
     "README.md",
     "moc/articles.md",
     "moc/books.md",
-    "moc/artigos.md",
-    "articles/livros que me influenciaram.md",
-    "notes/books/Segredos da Mente Milionária.md",
-    "notes/books/Pai Rico, Pai Pobre.md",
-    "notes/books/Androides Sonham Com Ovelhas Eletricas.md",
-    "notes/books/code-complete/Code Complete.md",
-    "notes/principios.md"
+    "moc/artigos.md"
   ]
 }

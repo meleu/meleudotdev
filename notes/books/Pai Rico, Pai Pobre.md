@@ -24,11 +24,15 @@ O aprendizado mais importante de todos foi:
 
 > Se você não é feliz enquanto está se tornando rico, dificilmente será feliz quando for rico.
 
+Eu aplico esse ensinamento da seguinte forma: não tolerar situações de trabalho que não me trazem satisfação, mesmo que seja financeiramente lucrativo. Eu acredito que satisfação com o trabalho e lucratividade são duas coisas que devem andar lado a lado. Priorizar uma em detrimento de outra deve ser evitado ao máximo!
+
 Uma outra forma de abordar esse tema é: Nunca abra mão de coisas que o dinheiro não pode comprar, em troca de dinheiro.
 
 Aplicação prática deste conceito:
 
 Eu estava em dois empregos, ganhando uma boa grana. No entanto passava pouquíssimo tempo com meus filhos. Meu caçula tinha 6 anos de idade. O pensamento que me fez tomar a decisão de largar um dos empregos foi "por mais dinheiro que eu tenha, não existe quantia alguma que eu possa usar para comprar 'curtir a infância do meu filho'. Isso tem que ser feito agora."
+
+Gosto de dizer que dinheiro só traz felicidade até o ponto em que você consegue ter um teto, alimentar sua família e ficar livre de dívidas. Obviamente que ter essas coisas básicas traz felicidade. Mas chega um determinado ponto em que ter mais dinheiro **não** traz um aumento significativo de felicidade. É nesse momento que você tem que começar a decidir com mais sabedoria se quer "trabalhar mais pra ganhar mais dinheiro" ou "ensinar seu filho a andar de bicicleta".
 
 Observação: tomar cuidado para não cair na [[Segredos da Mente Milionária#Dinheiro vs. Amor|falsa dicotomia do "amor vs. dinheiro"]].
 
@@ -52,7 +56,7 @@ Quanto mais precisamos de dinheiro, mais poder ele exerce sobre nós. Todos nós
 
 **Ninguém fica rico trabalhando. As pessoas ficam ricas em casa.**
 
-Claro que falando dessa forma soa mais como um *clickbait*. O conceito completo é:
+Claro que falando dessa forma soa como um *clickbait*. Na verdade o conceito completo é o seguinte:
 
 > É no trabalho que você ganha dinheiro e é em casa que decide o que fazer com ele. O que você faz com o seu dinheiro é o que o torna rico ou pobre.
 
@@ -62,7 +66,7 @@ Muito provavelmente, se você ganhar mais, vai acabar gastando mais. E isso vai 
 
 Claro que ganhar mais dinheiro é bom, mas use estratégias inteligentes para isso.
 
-Bons exemplo: estudar, se aprimorar, ser melhor no que faz, investir em bons cursos.
+Bons exemplo: estudar, se aprimorar, ser melhor no que faz, investir em bons cursos. Desta forma você consegue cobrar mais por seu trabalho.
 
 Exemplos ruins: aceitar mais trabalhos do que o que você é capaz de entregar com qualidade. Isso só vai te prejudicar. A péssima qualidade do seu trabalho vai ser notada e isso vai arruinar seu networking.
 
@@ -70,7 +74,7 @@ Exemplos ruins: aceitar mais trabalhos do que o que você é capaz de entregar c
 ### O livro em 3 frases
 
 1. Ótimos insights que vão abrir sua cabeça (e seus olhos) sobre como você se relaciona com dinheiro.
-2. Entenda o que são ativos e foque em adquirí-los antes de adquirir passivos.
+2. Entenda o que são ativos e foque em adquiri-los antes de adquirir passivos.
 3. Ganhar mais dinheiro para gastar mais dinheiro não é muito inteligente. Isso só vai te manter na corrida dos ratos.
 
 ### Citações favoritas

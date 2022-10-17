@@ -10,47 +10,67 @@ description: Relação dos principais livros que influenciaram minha maneira de 
 
 Aqui está uma lista de livros que influenciaram minha maneira de encarar a vida e o principal aprendizado que tive com cada um deles.
 
-Fiz questão de não categorizar. Aqui tem livros de artes, finanças, programação, filosofia e ficção.
+Fiz questão de não categorizar por tema. Aqui tem livros de artes, finanças, programação, filosofia e ficção. Não existe uma fronteira clara mostrando onde termina um tema e começa o outro, todos eles fazem parte da minha vida como um todo.
 
-Todos esses temas fazem parte da minha vida como um todo e eu não faço questão alguma de tentar compartimentalizar cada tema separadamente.
-
-[TOC]
+Obviamente, com o tempo essa lista vai crescer.
 
 ---
 
-## [[Roube Como Um Artista]]
+Conteúdo:
+
+- [[#Roube Como Um Artista|Roube Como Um Artista]]
+- [[#Hackers and Painters|Hackers and Painters]]
+- [[#Androides Sonham Com Ovelhas Eletricas|Androides Sonham Com Ovelhas Eletricas]]
+- [[#O Valor do Amanha|O Valor do Amanha]]
+- [[#Pai Rico, Pai Pobre|Pai Rico, Pai Pobre]]
+- [[#Segredos da Mente Milionária|Segredos da Mente Milionária]]
+- [[#Code Complete|Code Complete]]
+
+
+
+
+---
+
+## Roube Como Um Artista
 
 ![[Roube Como Um Artista#Principais Aprendizados]]
 
 ---
 
-## [[O Valor do Amanha]]
+## Hackers and Painters
+
+![[Hackers and Painters#Principais Aprendizados]]
+
+
+---
+
+## Androides Sonham Com Ovelhas Eletricas
+
+Curiosidade: esse é o livro que inspirou o filme Blade Runner.
+
+![[Androides Sonham Com Ovelhas Eletricas#ser dono de uma fraude]]
+
+---
+
+## O Valor do Amanha
 
 ![[O Valor do Amanha#Principais Aprendizados]]
 
 ---
 
-## [[Pai Rico, Pai Pobre]]
+## Pai Rico, Pai Pobre
 
 ![[Pai Rico, Pai Pobre#Principais Aprendizados]]
 
 ---
 
-## [[Segredos da Mente Milionária]]
+## Segredos da Mente Milionária
 
 ![[Segredos da Mente Milionária#Principais Aprendizados]]
 
 ---
 
-## [[Code Complete]]
+## Code Complete
 
 ![[Code Complete#Principais Aprendizados]]
-
----
-
-## [[Androides Sonham Com Ovelhas Eletricas]]
-
-Curiosidade: esse é o livro que inspirou o filme Blade Runner.
-
-![[Androides Sonham Com Ovelhas Eletricas#ser dono de uma fraude]]
 

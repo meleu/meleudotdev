@@ -10,5 +10,6 @@
   "ObsidianAnkiSync",
   "obsidian-kanban",
   "dataview",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-plugin-toc"
 ]

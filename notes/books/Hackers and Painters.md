@@ -10,7 +10,7 @@ author: Paul Graham
 
 #books/nonfiction 
 
-## Por que eu li esse livro?
+### Por que eu li esse livro?
 
 Lembro que há muitos anos atrás fiquei interessado por esse livro (não lembro exatamente por qual motivo). O livro é de 2004.
 
@@ -18,10 +18,34 @@ Eu costumo gostar dos artigos que o Paul Graham publica em seu site:
 <http://paulgraham.com/>
 
 
+### Principais Aprendizados
 
-## Citações
+**Escolha suas batalhas.**
 
-### Chapter 1: Why Nerds are Unpopular
+Em tradução livre, o trecho diz o seguinte:
+
+> (...) **escolha suas batalhas.**
+> 
+> Imagine que no futuro exista um movimento para banir a cor amarela. Propostas de pintar qualquer coisa de amarela são denunciadas como "amarelistas", bem como qualquer pessoa suspeita de gostar da cor. Pessoas que gostam da cor laranja são toleradas, mas vistas como suspeitas.
+> 
+> Imagine que você perceba que não há nada de errado com o amarelo. Se você sai por aí dizendo isso, você também será denunciado como um amarelista, e você vai se ver tendo um monte de discussões com os anti-amarelistas. Se o seu objetivo na vida é reabilitar a cor amarela, isso pode ser o que você quer. Mas se você está mais interessados em outras questões, ser rotulado como um amarelista será apenas uma perturbação. *Discuta com idiotas e você se torna um idiota.*
+
+Esse trecho do livro foi muito libertador pra mim! Parece que ele descreveu com palavras claras algo que eu já praticava meio que sem querer.
+
+Certamente existem infinitos temas e pautas que me incomodam, mas quando eu paro pra pensar "Será que estou mesmo querendo brigar por isso? Quero sacrificar o tempo com minha família para ficar debatendo sobre esse tema?"
+
+Antes de entrar em discussões sobre um tema polêmico, eu me faço as seguintes perguntas:
+
+- Isso é algo que está me incomodando?
+- Isso é algo que me afeta diretamente?
+- Isso é algo que vai melhorar/piorar a minha vida?
+
+Essas perguntas me ajudam a não desperdiçar meu tempo me envolvendo em discussões infrutíferas, que muito frequentemente não muda a opinião de ninguém e só gera animosidades desnecessárias.
+
+
+### Citações
+
+#### Chapter 1: Why Nerds are Unpopular
 
 
 Sobre condições que encorajam maturidade e respeito mútuo (p.8).
@@ -34,7 +58,7 @@ Sobre critérias claros para se obter status em um determinado grupo (p.14).
 > We have a phrase to describe what happens when rankings have to be created without any meaningful criteria. We say that the situation *degenerates into a popularity contest*. And that's exactly what happens in most American schools. (...) There is no external opponent, so the kids become one another's opponents.
 
 
-### Chapter 2: Hackers and Painters
+#### Chapter 2: Hackers and Painters
 
 Arquitetura vs. Engenharia (p.19).
 
@@ -42,7 +66,7 @@ Arquitetura vs. Engenharia (p.19).
 > What and how should not be kept too separate. You're asking for trouble if you try to decide what to do without understanding how to do it. But hacking can certainly be more than just deciding how to implement some spec. At its best, it's creating the spec - though it turns out the best way to do that is to implement it.
 
 
-### Chapter 3: What you can't say
+#### Chapter 3: What you can't say
 
 Pick your battles
 
@@ -53,8 +77,4 @@ Pick your battles
 > The most important thing is to be able to think what you want, not to say what you want.
 
 
-
-## principal aprendizado
-
-**Pick your battles!**
 
