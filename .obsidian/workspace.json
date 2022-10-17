@@ -27,13 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/O Melhor do Mundo - Seth Godin.md",
+                "file": "notes/books/Androides Sonham Com Ovelhas Eletricas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/livros que me influenciaram.md",
+                "file": "notes/books/Androides Sonham Com Ovelhas Eletricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/livros que me influenciaram.md"
+                "file": "notes/books/Androides Sonham Com Ovelhas Eletricas.md"
               }
             }
           },
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "articles/livros que me influenciaram.md",
+                "file": "notes/books/Androides Sonham Com Ovelhas Eletricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,13 +156,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8ba46e3d2bb414e6",
+  "active": "928ec0504a8bd63a",
   "lastOpenFiles": [
+    "articles/livros que me influenciaram.md",
+    "notes/books/Hackers and Painters.md",
     "notes/books/O Melhor do Mundo - Seth Godin.md",
     "notes/books/Pai Rico, Pai Pobre.md",
-    "articles/livros que me influenciaram.md",
     "notes/books/Segredos da Mente Milionária.md",
-    "notes/books/Hackers and Painters.md",
     "notes/books/Roube Como Um Artista.md",
     "README.md",
     "moc/articles.md",
