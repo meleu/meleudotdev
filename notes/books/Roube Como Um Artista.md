@@ -12,23 +12,19 @@ author: Austin Kleon
 
 Lido em... não lembro (2012-2016)
 
-## Por que eu li esse livro?
+### Por que eu li esse livro?
 
 Era uma época que eu estava gostando muito de desenhar e eu acreditava que o livro ia me ajudar a superar aqueles "bloqueios de criatividade" que de vez em quando nos assombra.
 
-## O que eu aprendi?
+### Principais Aprendizados
 
-Não persiga originalidade, isso é uma ilusão. Ao invés disso copie pessoas que te inspiram e tente fazer conexões/combinações inesperadas.
+Copie seus ídolos descaradamente, mas não se esqueça de dar os devidos créditos. (ídolos = pessoas que te inspiram)
 
-Estudo seus ídolos, e os ídolos dos seus ídolos. Crie uma árvore genealógica das pessoas que te inspiram.
+**Não persiga originalidade, isso é uma ilusão.**
 
-## O livro em 3 frases
+"Não há nada de novo debaixo do sol".
 
-1. 1
-2. 2
-3. 3
+Ao invés disso "copie" as pessoas que te inspiram. Nesse processo faça combinações inesperadas. É daí que surgirá algo (com cara de) "original".
 
-## Citações
+Estude os ídolos dos seus ídolos. Crie uma árvore genealógica das pessoas que te inspiram.
 
-
-## Comentários

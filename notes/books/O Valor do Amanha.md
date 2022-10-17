@@ -10,19 +10,27 @@ author: Eduardo Giannetti
 
 #books/nonfiction 
 
-## Por que eu li esse livro?
+### Por que eu li esse livro?
 
 Um colega de trabalho estava lendo e durante uma conversa me convenceu que o livro é bom.
 
-## O livro em 1 frase
+### Principais Aprendizados
 
-O efeito dos juros está embutido em qualquer troca temporal na natureza. Não é um conceito que se aplica apenas a finanças.
+Este livro me mostrou que o efeito dos juros compostos é inerente na natureza. Está embutido em qualquer forma de troca intertemporal na natureza. Portanto não é um conceito que se aplica apenas a finanças.
 
-A minha parte favorita do livro (e que acredito que o resume muito bem) é:
+> Os juros são o **prêmio da espera** na ponta credora - os ganhos decorrentes da transferência ou cessão temporária de valores do presente para o futuro; e são o **preço da impaciência** na ponta devedora - o custo de antecipar ou importar valores do futuro para o presente.
 
-> O fenômeno dos juros é inerente a toda e qualquer forma de troca intertemporal. Os juros são o *prêmio da espera* na ponta credora (...) e são o *preço da impaciência* na ponta devedora.
+Um exemplo emblemático de como esse conceito foi importante pra mim é o fato de eu me esforçar para fazer exercícios físicos atualmente.
 
-## Citações
+Fazer exercícios físicos **não** é algo que me faz sentir prazer, no entanto eu entendo que é importante para minha saúde.
+
+Mesmo que no presente (2022, eu com 41 anos de idade) eu não sinta tão claramente a necessidade de exercícios físicos, eu sei que essa prática será muito importante para minha saúde quando eu for um idoso.
+
+Se eu antecipar o "custo" de fazer exercícios físicos pra hoje, isso me custará muito menos quando eu for um idoso.
+
+Falando de outra forma: se eu deixar pra praticar exercícios físicos somente quando for idoso, isso será muito mais "caro".
+
+### Citações
 
 > O desejo incita à ação; a percepção do tempo incita o conflito entre desejos. O animal humano adquiriu a arte de fazer planos e refrear impulsos. Ele aprendeu a antencipar ou retardar o fluxo das coisas de modo a cooptar o tempo como aliado dos seus desígnios e valores. *Isto agora* ou *aqui depois*? Desfrutar do momento ou cuidar do amanhã? Ousar ou gardar-se? São perguntas das quais não se escapa.
 
@@ -32,20 +40,4 @@ minha parte favorita:
 
 > O fenômeno dos juros é inerente a toda e qualquer forma de troca intertemporal. Os juros são o *prêmio da espera* na ponta credora - os ganhos decorrentes da transferência ou cessão temporária de valores do presente para o futuro; e são o *preço da impaciência* na ponta devedora - o custo de antecipar ou importar valores do futuro para o presente. 
 
-
-
-
-## principal aprendizado
-
-A raciocinar melhor quando preciso decidir entre o que ter/fazer agora ou no futuro.
-
-**Quando você escolhe fazer algo, você automaticamente está escolhendo não fazer todo o resto.**
-
-(Não tenho certeza se realmente li isso 👆 neste livro, mas quando lembro do livro, essa é uma das coisas que me lembro)
-
-Elaborando um pouco mais com um exemplo:
-
-Você tem um conjunto de coisas que gosta e/ou precisa fazer (exemplo: programar, ler bons livros).
-
-Algumas vezes a curiosidade nos leva a ver notícias, fatos inúteis e/ou fofocas. Quando gasto tempo com esse conteúdo, estou automaticamente escolhendo não programar, não ler um bom livro.
 

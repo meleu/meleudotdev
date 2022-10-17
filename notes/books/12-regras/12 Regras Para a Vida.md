@@ -18,10 +18,9 @@ O melhor de tudo é que li esse livro junto com minha esposa e a cada "regra" í
 
 No finalzinho da introdução encontrei um trecho interessante.
 
-
 > Se cada um de nós viver corretamente, prosperaremos coletivamente.
 
-Isso me remete a um aprendizado que tive quando li [[Segredos da Mente Milionária#^80fb35]], onde o autor diz que quando aprimoramos a nós mesmos, estamos também aprimorando o coletivo.
+Isso me remete a um aprendizado que tive quando li [[Segredos da Mente Milionária]], onde o autor diz que quando aprimoramos a nós mesmos, estamos também aprimorando o coletivo.
 
 A meu ver, aprimorarmos a nós mesmos é uma maneira muito mais efetiva de aprimorar o coletivo do que simplesmente ficar tentando consertar/melhorar os outros. Em outras palavras, aprimorar a nós mesmos gera um ROI muito maior.
 
