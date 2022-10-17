@@ -24,7 +24,7 @@ O aprendizado mais importante de todos foi:
 
 > Se você não é feliz enquanto está se tornando rico, dificilmente será feliz quando for rico.
 
-Eu aplico esse ensinamento da seguinte forma: não tolerar situações de trabalho que não me trazem satisfação, mesmo que seja financeiramente lucrativo. Eu acredito que satisfação com o trabalho e lucratividade são duas coisas que devem andar lado a lado. Priorizar uma em detrimento de outra deve ser evitado ao máximo!
+Eu aplico esse ensinamento da seguinte forma: não tolerar situações de trabalho que não me trazem satisfação, mesmo que seja financeiramente lucrativo. Eu acredito que satisfação com o trabalho e lucratividade são duas coisas que devem andar lado a lado, são duas coisas que se retroalimentam e geram um efeito bola-de-neve fenomenal. Priorizar uma coisa em detrimento de outra deve ser evitado ao máximo!
 
 Uma outra forma de abordar esse tema é: Nunca abra mão de coisas que o dinheiro não pode comprar, em troca de dinheiro.
 

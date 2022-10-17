@@ -8,7 +8,7 @@ dg-permalink: books
 
 - [[As Viagens de Gulliver]]
 - [[Os 7 Habitos das pessoas Altamente Eficazes]]
-- [[Personal Kanban]]
+
 
 ---
 
@@ -26,6 +26,7 @@ Maybe this list can tell a bit about who I am.
 
 ## 2022
 
+- [[Personal Kanban]]
 - [[A Identidade]]
 - [[Crime e Castigo]]
 - [[Desenvolvimento Agil Limpo]]
