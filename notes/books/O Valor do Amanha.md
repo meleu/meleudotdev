@@ -30,7 +30,7 @@ A minha parte favorita do livro (e que acredito que o resume muito bem) é:
 
 minha parte favorita:
 
-> O fenômeno dos juros é inerente a toda e qualquer forma de troca intertemporal. Os juros são o *prêmio da espera* na ponta credora - os ganhos decorrentes da traferência ou cessão temporária de valores do presente para o futuro; e são o *preço da impaciência* na ponta devedora - o custo de antecipar ou importar valores do futuro para o presente. 
+> O fenômeno dos juros é inerente a toda e qualquer forma de troca intertemporal. Os juros são o *prêmio da espera* na ponta credora - os ganhos decorrentes da transferência ou cessão temporária de valores do presente para o futuro; e são o *preço da impaciência* na ponta devedora - o custo de antecipar ou importar valores do futuro para o presente. 
 
 
 

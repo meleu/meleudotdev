@@ -10,15 +10,13 @@
           {
             "id": "8ba46e3d2bb414e6",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Personal Kanban.md",
+                "file": "notes/livros que me influenciaram.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
@@ -28,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "notes/books/O Valor do Amanha.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -81,12 +79,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -158,15 +156,15 @@
   },
   "active": "39fcd46fb7bd9889",
   "lastOpenFiles": [
+    "notes/test-2.md",
+    "notes/test-1.md",
+    "notes/books/O Valor do Amanha.md",
+    "notes/livros que me influenciaram.md",
     "notes/books/Personal Kanban.md",
     "notes/falacias.md",
     "private/kanban/kanban - writings.md",
     "private/kanban/kanban.md",
-    "notes/livros que me influenciaram.md",
     "notes/books/Roube Como Um Artista.md",
-    "notes/books/Independencia Financeira - O Guia do Pai Rico.md",
-    "notes/books/Pai Rico, Pai Pobre.md",
-    "notes/books/Segredos da Mente Milionária.md",
-    "moc/artigos.md"
+    "notes/books/Independencia Financeira - O Guia do Pai Rico.md"
   ]
 }

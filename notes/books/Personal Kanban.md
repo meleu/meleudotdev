@@ -66,4 +66,4 @@ Existential Overhead
 
 > Work we have to complete, or any aspect of our life that distracts us, creates existential overhead. As it mounts, our effectiveness diminishes. Visualizing work reduces the distractions of existential overhead by transforming fuzzy concepts into tangible objects that your brain can easily grasp and prioritize.
 
-This concept looks similar to the 
+This concept looks similar to something I read in [[Rapido e Devagar|Thinking Fast and Slow]]: "cognitive tension caused by the presence of unfulfilled demands".

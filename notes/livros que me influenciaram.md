@@ -8,9 +8,9 @@ description: Relação dos principais livros que influenciaram minha maneira de 
 
 # Livros que me influenciaram
 
-Aqui está uma lista dos principais livros que me influenciaram e o principal aprendizado que tive com cada um deles.
+Aqui está uma lista de livros que influenciaram minha maneira de encarar a vida e o principal aprendizado que tive com cada um deles.
 
-Como você vai perceber, não fiz questão alguma de categorizar. Aqui tem livros de artes, de finanças, de programação e até livros de ficção.
+Fiz questão de não categorizar. Aqui tem livros de artes, de finanças, de programação, filosofia e até livros de ficção.
 
 Todos esses temas fazem parte da minha vida como um todo e eu não faço questão alguma de tentar compartimentalizar cada tema separadamente.
 
@@ -33,6 +33,25 @@ Estude os ídolos dos seus ídolos. Crie uma árvore genealógica das pessoas qu
 
 ---
 
+## [[O Valor do Amanha]]
+
+Este livro me mostrou que o efeito dos juros compostos é inerente na natureza. Está embutido em qualquer forma de troca intertemporal na natureza. Portanto não é um conceito que se aplica apenas a finanças.
+
+> Os juros são o **prêmio da espera** na ponta credora - os ganhos decorrentes da transferência ou cessão temporária de valores do presente para o futuro; e são o **preço da impaciência** na ponta devedora - o custo de antecipar ou importar valores do futuro para o presente.
+
+Um exemplo emblemático de como esse conceito foi importante pra mim é o fato de eu me esforçar para fazer exercícios físicos atualmente.
+
+Fazer exercícios físicos **não** é algo que me faz sentir prazer, no entanto eu entendo que é importante para minha saúde.
+
+Mesmo que no presente (2022, eu com 41 anos de idade) eu não sinta tão claramente a necessidade de exercícios físicos, eu sei que essa prática será muito importante para minha saúde quando eu for um idoso.
+
+Se eu antecipar o "custo" de fazer exercícios físicos pra hoje, isso me custará muito menos quando eu for um idoso.
+
+Falando de outra forma: se eu deixar pra praticar exercícios físicos somente quando for idoso, isso será muito mais "caro".
+
+
+---
+
 ## [[Pai Rico, Pai Pobre]]
 
 Tenha clareza do que é um ativo e o que é um passivo. Observação: uma coisa ser classificada como ativo ou passivo depende do contexto e do uso que você faz.
@@ -46,11 +65,7 @@ Outras citações marcantes:
 
 > Quanto mais real vocês pensarem que o dinheiro é, mais arduamente trabalharão por ele. Se perceberem que o dinheiro não é algo tangível, enriquecerão mais rápido.
 
-A citação acima me lembrou o [[Sapiens]] e o tema do "mito compartilhado". Não consigo evitar de pensar que o dinheiro nada mais do que um mito compartilhado. Uma "mentirinha que todo mundo acredita" e por isso não pode ser ignorada.
-
 > Se você não é feliz enquanto está se tornando rico, dificilmente será feliz quando for rico.
-
-Essa aqui também é bastante poderosa:
 
 > **Ninguém fica rico no trabalho. As pessoas ficam ricas em casa.** (...) É no trabalho que você ganha dinheiro e é em casa que decide o que fazer com ele. (...) O que faz com ele é o que o torna rico ou pobre.
 
@@ -85,7 +100,6 @@ Outro ensinamento bastante libertador pra mim:
 > **O hábito de administrar o dinheiro é mais importante do que a quantidade de dinheiro que você tem.**
 > 
 > Quem pretende passar a controlar o dinheiro assim que "sair do buraco" se comporta da mesma forma que o obeso que diz "Vou começar a fazer exercícios e dieta depois que perder 10kg".
-
 
 
 
