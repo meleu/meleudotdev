@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "now.md",
-                "mode": "source",
+                "file": "notes/books/clean-agile/Desenvolvimento Agil Limpo - 2. O Porque da Metodologia Agil.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "now.md",
+                "file": "notes/books/clean-agile/Desenvolvimento Agil Limpo - 2. O Porque da Metodologia Agil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "now.md"
+                "file": "notes/books/clean-agile/Desenvolvimento Agil Limpo - 2. O Porque da Metodologia Agil.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "now.md",
+                "file": "notes/books/clean-agile/Desenvolvimento Agil Limpo - 2. O Porque da Metodologia Agil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,15 +142,15 @@
   },
   "active": "13a505b5834d6d84",
   "lastOpenFiles": [
-    "notes/books/k8s-basico/livro Kubernetes Basico.md",
+    "notes/books/clean-agile/Desenvolvimento Agil Limpo.md",
+    "notes/TDD-Refactoring literature.md",
     "now.md",
+    "notes/books/k8s-basico/livro Kubernetes Basico.md",
     "README.md",
     "moc/books.md",
     "about.md",
     "articles/livros que me influenciaram.md",
     "notes/books/Pai Rico, Pai Pobre.md",
-    "notes/books/Androides Sonham Com Ovelhas Eletricas.md",
-    "notes/books/Hackers and Painters.md",
-    "notes/books/O Melhor do Mundo - Seth Godin.md"
+    "notes/books/Androides Sonham Com Ovelhas Eletricas.md"
   ]
 }
