@@ -3,6 +3,7 @@ dg-publish: true
 ---
 ## Capítulo 2: Criando e executando contêineres
 
+- voltar para [[livro Kubernetes Basico]]
 
 [TOC]
 
@@ -15,7 +16,7 @@ dg-publish: true
 
 #### Armadilha 1: arquivos não são realmente apagados
 
-**Importante**: arquivos que são removidos por camadas subsequentes no sistema, na verdade continuam presents nas imagens; elas apenas se tornam inacessíveis.
+**Importante**: arquivos que são removidos por camadas subsequentes no sistema, na verdade continuam presentes nas imagens; elas apenas se tornam inacessíveis.
 
 Exemplo:
 ```
@@ -28,7 +29,7 @@ Mesmo que `ArquivoMuitoGrande` não esteja acessível na imagem final, ele conti
 
 #### Armadilha 2: cada camada é um "delta" em relação a camada anterior
 
-Sempre que você modificar uma camada intermediária, toda camada que vier depois dela será modificada. Modificar as camadas anteriores implica que elas devem ser reconstruídas, reenviadas e readiquiridas para que a imagem seja implantada novamente.
+Sempre que você modificar uma camada intermediária, toda camada que vier depois dela será modificada. Modificar as camadas anteriores implica que elas devem ser reconstruídas, reenviadas e readquiridas para que a imagem seja implantada novamente.
 
 Exemplo:
 ```
@@ -130,4 +131,4 @@ docker container run \
 docker system prune
 ```
 
-Há uma menção a uma ferramenta chamada `docker-gc` (garbage collector): <https://github.com/spotify/dockergc>
+Há uma menção a uma ferramenta chamada `docker-gc` (garbage collector): <https://github.com/spotify/dockergc> (link quebrado).

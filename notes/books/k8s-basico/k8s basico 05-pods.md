@@ -11,10 +11,14 @@ dg-publish: true
 
 - Pergunta: O que devo colocar em um Pod?
     - Resposta: Containers que precisam escalar juntos.
+    
+Como decidir se devemos colocar containers em Pods diferentes?
 
-- Pergunta: Estes containers funcionarão corretamente se estiverem em máquinas diferentes?
-    - Sim: colocar em Pods diferentes é provavelmente a melhor solução.
-    - Não: melhor agrupá-los no mesmo Pod.
+Devemos nos perguntar:
+
+- Estes containers funcionarão corretamente se estiverem em máquinas diferentes?
+    - Se sim -> colocar em Pods diferentes é provavelmente a melhor solução.
+    - Se não -> melhor agrupá-los no mesmo Pod.
 
 
 ## Manifesto do Pod
@@ -88,17 +92,18 @@ Observação: o livro não fala de `startupProbe`.
 
 Ver também: [[k8s - container probes]].
 
-| probe                | liveness                                            | readiness                                             | startup                                                  |
-| -------------------- | --------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------------- |
-| **why?**             | when to restart a container                         | when a container is ready to receive traffic          | when kubelet can start running liveness/readiness probes |
-| **when?**            | after startupProbe and then continuously            | after startupProbe and then continuously              | after container starts / stops after success or failure  |
-| **success**          | do nothing                                          | tells the load balancer it's ready to receive traffic | tells kubelet to start running liveness/readiness probes |
-| **failure**          | container killed and restarted (see: restartPolicy) | tells load balancer to stop sending traffic           | container killed and restarted (see: restartPolicy)      |
-| **default** | same as success                                     | same as success                                       | same as success                                        |
+| probe       | liveness                                            | readiness                                              | startup                                                  |
+| ----------- | --------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
+| **why?**    | to decide when to restart a container               | to decide when a container is ready to receive traffic | to allow kubelet start running liveness/readiness probes |
+| **when?**   | after startupProbe and then continuously            | after startupProbe and then continuously               | after container starts / stops after success or failure  |
+| **success** | do nothing                                          | tells the load balancer it's ready to receive traffic  | tells kubelet to start running liveness/readiness probes |
+| **failure** | container killed and restarted (see: restartPolicy) | tells load balancer to stop sending traffic            | container killed and restarted (see: restartPolicy)      |
+| **default** | same as success                                     | same as success                                        | same as success                                          |
 
 
 ### liveness probe
 
+No exemplo a seguir estamos usando `httpGet`, mas também existem outros métodos: `exec.command` e `tcpSocket`.
 ```yaml
 # ... pods definition file
 spec:
@@ -156,7 +161,6 @@ kubectl apply -f kuard-pod-health.yaml
 kubectl port-forward kuard 8080:8080
 
 # monitore-o
-
 launch http://localhost:8080
 ```
 
@@ -201,3 +205,5 @@ spec:
           memory: "256Mi"
 # ...
 ```
+
+TODO: adicionar aqui anotações sobre burstable, bestEffort e a outra situação que significa garantia que o Pod não será Evicted.

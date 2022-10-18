@@ -3,6 +3,8 @@ dg-publish: true
 ---
 ## Capítulo 1: Introdução
 
+- voltar [[livro Kubernetes Basico]]
+
 [TOC]
 
 ---
@@ -11,7 +13,7 @@ dg-publish: true
 
 Infraestrutura imutável é um conceito fundamental e importante para compreender o que o Kubernetes faz.
 
-Uma vez que um artefato (um container) é criado, ele não é modificado. Se for necessário realizar uma atualização, deve-se construir uma nova imagem de container, e o kubernetes se encarrega de colocar o novo em cima, e matar o antigo. Uma das grandes vantagens é: se o novo estiver bugado, é fácil voltar para a versão anterior.
+Uma vez que um artefato (um container) é criado, ele não é modificado. Se for necessário realizar uma atualização, deve-se construir uma nova imagem de container, e o kubernetes se encarrega de colocar o novo container em cima e matar o antigo. Uma das grandes vantagens é: se o novo estiver bugado, é fácil voltar para a versão anterior.
 
 
 ### Configuração Declarativa
@@ -20,6 +22,7 @@ Na configuração declarativa você informa qual é o estado desejado da aplica�
 
 No kubernetes usa-se configuração declarativa. Você diz o estado que deseja e o kubernetes se vira para alcançar aquele objetivo.
 
+---
 
 ### Two Pizzas Team
 

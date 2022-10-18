@@ -47,11 +47,13 @@ O formato das informações pode ser determinado pela opção `-o`:
 - `-o yaml`
 - `-o jsonpath`
 
-Obs.: conhecer [[jsonpath]] pode ser útil.
+Obs.: conhecer [[jsonpath]] é bastante útil.
 
 Exemplo:
 ```sh
-kubectl get pods my-pod -o jsonpath --template={.status.podIP}
+kubectl get pods \
+  -o jsonpath='{.items[?(@.status.reason == "Evicted")].metadata.name}'
+
 ```
 
 Para ver mais detalhes:
