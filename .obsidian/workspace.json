@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Practical Object-Oriented Design.md",
+                "file": "notes/gitlab-ci - building images with kaniko.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kaniko",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Practical Object-Oriented Design.md",
+                "file": "notes/gitlab-ci - building images with kaniko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Practical Object-Oriented Design.md"
+                "file": "notes/gitlab-ci - building images with kaniko.md"
               }
             }
           },
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Practical Object-Oriented Design.md",
+                "file": "notes/gitlab-ci - building images with kaniko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,6 +143,7 @@
   },
   "active": "3661bfad53e19200",
   "lastOpenFiles": [
+    "notes/books/Practical Object-Oriented Design.md",
     "notes/learning/devops-bootcamp/03-version-control-git.md",
     "notes/books/k8s-basico/livro Kubernetes Basico.md",
     "notes/books/k8s-basico/k8s basico 05-pods.md",
@@ -152,7 +152,6 @@
     "notes/books/k8s-basico/k8s basico 04-kubectl.md",
     "notes/books/k8s-basico/k8s basico 03-cluster-kubernetes.md",
     "notes/books/k8s-basico/k8s basico 02-containers.md",
-    "notes/books/k8s-basico/k8s basico 01-introducao.md",
-    "private/kanban/kanban.md"
+    "notes/books/k8s-basico/k8s basico 01-introducao.md"
   ]
 }
