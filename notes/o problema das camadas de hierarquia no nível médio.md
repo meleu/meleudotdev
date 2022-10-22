@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # O problema das camadas de hierarquia no nível médio
 
 > [!warning]
