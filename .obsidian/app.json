@@ -16,7 +16,7 @@
     "pt-BR"
   ],
   "defaultViewMode": "preview",
-  "readableLineLength": false,
+  "readableLineLength": true,
   "autoPairBrackets": false,
   "autoPairMarkdown": false,
   "pdfExportSettings": {

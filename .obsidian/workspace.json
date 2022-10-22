@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3661bfad53e19200",
+            "id": "0fc9c26419e92622",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/css.md",
-                "mode": "preview",
+                "file": "notes/o problema das camadas de hierarquia no nível médio.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/css.md",
+                "file": "notes/o problema das camadas de hierarquia no nível médio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/css.md"
+                "file": "notes/o problema das camadas de hierarquia no nível médio.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/css.md",
+                "file": "notes/o problema das camadas de hierarquia no nível médio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,17 +140,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3661bfad53e19200",
+  "active": "0fc9c26419e92622",
   "lastOpenFiles": [
-    "notes/books/7-habitos-eficazes/Habito Eficaz 1 - Seja Proativo.md",
-    "notes/books/Hackers and Painters.md",
-    "notes/books/7-habitos-eficazes/Os 7 Habitos - Introducao.md",
-    "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
-    "notes/gitlab-ci - building images with kaniko.md",
-    "notes/books/Practical Object-Oriented Design.md",
-    "notes/learning/devops-bootcamp/03-version-control-git.md",
-    "notes/books/k8s-basico/livro Kubernetes Basico.md",
-    "notes/books/k8s-basico/k8s basico 05-pods.md",
-    "notes/k8s - container probes.md"
+    "notes/books/clean-agile/Desenvolvimento Agil Limpo - 5. Praticas Tecnicas.md",
+    "notes/books/clean-agile/Desenvolvimento Agil Limpo.md",
+    "notes/books/Personal Kanban.md",
+    "private/kanban/kanban.md",
+    "private/kanban/kanban - courses.md",
+    "private/kanban/kanban - books.md",
+    "private/kanban/kanban - writings.md",
+    "notes/obsidian.md",
+    "notes/css.md",
+    "notes/books/7-habitos-eficazes/Habito Eficaz 1 - Seja Proativo.md"
   ]
 }

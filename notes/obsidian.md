@@ -3,88 +3,73 @@ dg-publish: true
 ---
 # Obsidian
 
-> [!warning]
-> There are outdated notes from when I was just starting with obsidian.
+<https://obsidian.md>
 
+Obsidian is a great piece of software that changed the way I manage my knowledge.
 
-## Things to do after installing
+Here are some notes of things I do after a fresh install and that I like to show people when they're seeing Obsidian for the first time.
+
+## Basic Settings
+
+These are my preferences.
 
 - Editor
-    - vim keybinding
-    - Use tabs - turn off
+    - Readable line length - turn on
     - Strict line breaks (for consistent markdown usage)
+    - Use tabs - turn off (I prefer to use spaces).
+    - Vim key binding (if you're a vim user)
 - Files & Links
     - Automatically update internal links
-    - Default location for new attachments
+    - Default location for new attachments (create an `assets` directory)
+- Appearance
+    - Advanced
+        - Show inline title - turn off (it's confusing to have the filename presented as part of the file's content)
+- Hotkeys
+    - `Alt+S` - Toggle Live Preview/Source mode
 
 
-### Plugins
+### Community Plugins
 
-- calendar
-- advanced tables
-- paste image rename
-- icon shortcodes (for emojis)
-- sliding pane
-- paste url into selection (useful for creating links)
-- vimrc
+- Paste image rename
+    - So you can automatically rename an image when you paste it into a note.
+- Calendar
+    - Useful for keeping your daily notes.
+    - Note: I don't use it on my main vault. But it's pretty useful on my work's vault, so I can keep remember what I need to say during the Standup Daily Meeting.
+- Advanced tables
+    - Useful if you create tables using markdown.
+    - Note: don't worry about it if you're a markdown newbie.
+- Icon shortcodes (for emojis)
+    - So I can use emojis like this: `:thinking_face:` -> 🤔
+- Paste url into selection
+    - So you can quickly paste a URL when a text is selected and create a link
+- Obsidian Git
+    - So you can automatically have a backup of your vault as a git repository.
 
-#### Plugins to consider
-- ~~Obsidian_to_anki~~ - development seems to be dead
-- Flashcards
+### Plugins for advanced users
+
+- dataview
+    - [Nice video showing how to use it](https://www.youtube.com/watch?v=8yjNuiSBSAM)
 - Obsidian Anki Sync
+    - To create/update Anki flashcards
+    - Note: the results are not really what I like the most, but the workflow to create/update the flashcards are smoother IMO.
+- Digital Garden
+    - To create a 🌱 [[digital garden]] like [mine one](https://meleu.netlify.app)
 
-
-
-## Synchronizing with git
-
-Use a plugin named Obsidian Git
-
-## Synchronizing with anki
-
-1. install [[anki]]
-2. **in Anki**: Install the AnkiConnect plugin
-    - Tools -> Add-ons -> Get Add-ons -> Browse for it -> AnkiConnect
-3. **in Obsidian**: Install Obsidian_to_Anki (by Pseudonium) Community Plugin
-4. Copy the json in the Obsidian_to_Anki README
-5. **in Anki**:
-    - go to Tools -> Add-ons -> AnkiConnect -> Config and paste the json
-    - restart Anki
-6. <https://www.youtube.com/watch?v=PXyv6pnVGhA>
-
-
-## video: 5 steps to study with Obsidian and how I use it for exam revision using NeuraCache and Anki 
+### Plugins I plan to try later
 
 - <https://www.youtube.com/watch?v=Bf3d7qyz17c>
 
-00:25 - overview
-02:00 - mindmap
-02:55 - study plan
-03:50 - revision notes
-05:40 - question set notes
-06:25 - question bank
-09:30 - summary
+- 00:25 - overview
+- 02:00 - mindmap
+    - help you to have an overview of the subject, and help you break it down to manage and plan.
+- 02:55 - study plan
+    - (with pomodor): helps you keep the focus on the revision notes.
+- 03:50 - revision notes
+    - help you bring in different sources and ideas about the topic.
+- 05:40 - question set notes
+    - Creating **question set notes** helps you prepare for your exam and actively thinking about the subject.
+- 06:25 - question bank
+    - Using a **question bank** like Anki helps you use spaced repetition and active recall.
+- 09:30 - summary
 
-1. **Mindmaps**: help you to have an overview of the subject, and help you break it down to manage and plan.
-2. **Study plan** (with pomodor): helps you keep the focus on the revision notes.
-3. **Revision notes**: help you bring in different sources and ideas about the topic.
-4. Creating **question set notes** helps you prepare for your exam and actively thinking about the subject.
-5. Using a **question bank** like Anki helps you use spaced repetition and active recall.
-
-## My top plugins in the Obsidian app
-
-- <https://www.youtube.com/watch?v=X61wRmfZU8Y>
-
-Remember: use ctrl-p to quickly access the plugin commands.
-
-- Mind Map
-- Sliding Pane
-    - theme: Cybertron
-- Hotkeys++
-- better word count (useful for tweets)
-- smart random note
-- advanced tables
-- paste url into selection
-- calendar
-    - check weekly notes
-- review - set a review day
-
+In [this video](https://www.youtube.com/watch?v=X61wRmfZU8Y) there's a mention to a plugin named review, where you can set a review day. Looks interesting
