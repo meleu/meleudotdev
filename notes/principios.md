@@ -5,9 +5,10 @@ dg-publish: true
 
  Altamente influenciado por [[Princípios (Ray Dalio)]], iniciei a escrever meus próprios princípios. Espero que isso me ajude a tomar melhores decisões na vida.
  
-## Vida
+## Criatividade
 
-- "Copie" seus ídolos. Descubra quem são os ídolos dos seus ídolos. Leia-os. Crie uma árvore genealógica das pessoas que te inspiram. [[Roube Como Um Artista]]
+- Copie seus ídolos, mas nunca se esqueça de dar os devidos créditos.
+- Descubra quem são os ídolos dos seus ídolos. Leia-os. Crie uma árvore genealógica das pessoas que te inspiram. [[Roube Como Um Artista]]
  
 
 ## Finanças
@@ -28,7 +29,6 @@ dg-publish: true
 ## Trabalho
 
 - Se estiver em situação financeira ruim, arrume uma maneira não-ultrajante de sair dessa condição. Em outras palavras: não seja tão exigente em buscar o trabalho dos sonhos.
-
 - **Otimizar para o aprendizado.** Aprender coisas novas ou aprimorar habilidades que já tenho é algo que eu valorizo **muito**. Procure ambientes onde as outras pessoas também tenham esse ímpeto.
     - Se você percebe que é a pessoa mais habilidosa em um determinado grupo, provavelmente está na hora de procurar outro grupo.
 

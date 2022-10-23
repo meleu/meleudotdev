@@ -11,11 +11,9 @@
             "id": "e39ad1ad5cbf9387",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "notes/principios.md",
-                "mode": "source",
-                "source": false
+                "file": "notes/kanban - apresentação latinoware.md"
               }
             }
           }
@@ -66,8 +64,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/principios.md",
+                "file": "notes/kanban - apresentação latinoware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/principios.md"
+                "file": "notes/kanban - apresentação latinoware.md"
               }
             }
           },
@@ -125,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/principios.md",
+                "file": "notes/kanban - apresentação latinoware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,6 +140,8 @@
   },
   "active": "e39ad1ad5cbf9387",
   "lastOpenFiles": [
+    "private/kanban/kanban - writings.md",
+    "notes/principios.md",
     "notes/videos/video - thinking-fast-and-slow-goto-2019.md",
     "notes/information vs. attention.md",
     "notes/decision-making.md",
@@ -150,8 +149,6 @@
     "notes/o problema das camadas hierárquicas medianas.md",
     "notes/books/clean-agile/Desenvolvimento Agil Limpo - 6. Torne-se Agil.md",
     "notes/books/clean-agile/Desenvolvimento Agil Limpo.md",
-    "notes/books/clean-agile/Desenvolvimento Agil Limpo - 5. Praticas Tecnicas.md",
-    "notes/books/Personal Kanban.md",
-    "private/kanban/kanban.md"
+    "notes/books/clean-agile/Desenvolvimento Agil Limpo - 5. Praticas Tecnicas.md"
   ]
 }
