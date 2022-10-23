@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Desenvolvimento Agil Limpo - 6. Torne-se Agil
 
 Esse trecho foi bem 🤯 *mindblowing* pra mim. E eu arriscaria que este é o principal empecilho da transformação ágil.
