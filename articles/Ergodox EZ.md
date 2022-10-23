@@ -22,7 +22,7 @@ O ponto de partida foi um artigo do [Josh Comeau](https://www.joshwcomeau.com/bl
 Um tempo depois vi uma apresentação do [swyx](https://swyx.io/) chamada [[operating-system-of-you]], onde ele menciona a seguinte citação:
 
 Scott Hanselman:
-> Take care of yourself. This job can destroy your hands, back, shoulders. Walk, talk, stand, squat, whatever. **Your hands and back and brain are your money**. Treat them right now and they'll last you 30-50 years.
+> Cuide de si mesmo. esse trabalho pode destruir suas mãos, costas e ombros. Caminhe, converse, fique de pé, agache, qualquer coisa. **Suas mãos, costas e cérebro são o seu dinheiro**. Trate-os bem agora e eles durarão de 30 a 50 anos.
 
 Pois bem... Eu particularmente não tenho hoje nenhum problema físico pra trabalhar no computador. Mas como não pretendo ter esse tipo de problema para começar a me preocupar com ele, aproveitei o fato de estar com uma grana extra na mão e investi em um equipamento que eu uso todos os dias por aproximadamente 8 horas.
 
@@ -35,7 +35,7 @@ Foi caro. Tipo, **muito caro**. Somando teclado mais taxas de importação, deu 
 
 Só comprei por que realmente apareceu uma grana extra pra torrar e eu tava nessa fissura de cuidar do meu corpitcho. Eu amo codar e e se tivesse que parar de fazer isso por problemas causados por má ergonomia, isso me deixaria muito deprimido (muito mais do que saber que estou 2 mil reais mais pobre).
 
-**Dica**: se você se preocupa com ergonomia mas não tem condições ou vontade de desembolsar tanta grana num teclado desses, pesquise teclados split que estejam mais em conta. Falo isso porque, após uma semana utilizando o Ergodox EZ, percebo que o grande benefício ergonômico é poder digitar com as mãos afastadas uma da outra. Deixar as mãos alinhadas com os cotovelos e ombros é uma posição bem mais relaxada.
+**Dica**: se você se preocupa com ergonomia mas não tem condições ou vontade de desembolsar tanta grana num teclado desses, pesquise teclados split que estejam mais em conta. Falo isso porque, após mais de um ano utilizando o Ergodox EZ, percebo que o maior benefício ergonômico é poder digitar com as mãos afastadas uma da outra. Deixar as mãos alinhadas com os cotovelos e ombros é uma posição bem mais relaxada e natural.
 
 Se você quer saber os detalhes do preço e das taxas, a Anna escreveu [esse artigo](https://anna.flourishing.stream/pt-br/2021/03/03/importando-o-moonlander-mark-i/) com mais detalhes a respeito do preço de cada coisa.
 

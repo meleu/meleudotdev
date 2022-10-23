@@ -32,7 +32,7 @@ Aplicação prática deste conceito:
 
 Eu estava em dois empregos, ganhando uma boa grana. No entanto passava pouquíssimo tempo com meus filhos. Meu caçula tinha 6 anos de idade. O pensamento que me fez tomar a decisão de largar um dos empregos foi "por mais dinheiro que eu tenha, não existe quantia alguma que eu possa usar para comprar 'curtir a infância do meu filho'. Isso tem que ser feito agora."
 
-Gosto de dizer que dinheiro só traz felicidade até o ponto em que você consegue ter um teto, alimentar sua família e ficar livre de dívidas. Obviamente que ter essas coisas básicas traz felicidade. Mas chega um determinado ponto em que ter mais dinheiro **não** traz um aumento significativo de felicidade. É nesse momento que você tem que começar a decidir com mais sabedoria se quer "trabalhar mais pra ganhar mais dinheiro" ou "ensinar seu filho a andar de bicicleta".
+Gosto de dizer que dinheiro só traz felicidade até o ponto em que você consegue ter um teto, alimentar sua família e ficar livre de dívidas. Obviamente que ter essas coisas básicas traz felicidade. Mas chega um determinado ponto em que ter mais dinheiro **não** traz um aumento significativo de felicidade. É nesse momento que você tem que começar a decidir com mais sabedoria se quer, por exemplo, "trabalhar mais pra ganhar mais dinheiro" ou "ensinar seu filho a andar de bicicleta".
 
 Observação: tomar cuidado para não cair na [[Segredos da Mente Milionária#Dinheiro vs. Amor|falsa dicotomia do "amor vs. dinheiro"]].
 
@@ -68,7 +68,7 @@ Claro que ganhar mais dinheiro é bom, mas use estratégias inteligentes para is
 
 Bons exemplo: estudar, se aprimorar, ser melhor no que faz, investir em bons cursos. Desta forma você consegue cobrar mais por seu trabalho.
 
-Exemplos ruins: aceitar mais trabalhos do que o que você é capaz de entregar com qualidade. Isso só vai te prejudicar. A péssima qualidade do seu trabalho vai ser notada e isso vai arruinar seu networking.
+Exemplos ruins: aceitar mais trabalhos do que o que você é capaz de entregar com qualidade, na intenção de ganhar mais dinheiro. Isso só vai te prejudicar. A péssima qualidade do seu trabalho vai ser notada e isso vai arruinar seu networking.
 
 
 ### O livro em 3 frases
