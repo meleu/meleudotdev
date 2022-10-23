@@ -35,6 +35,7 @@ Livro do Uncle Bob
 - [[Desenvolvimento Agil Limpo - 3. Praticas de Negocios]]
 - [[Desenvolvimento Agil Limpo - 4. Praticas de Equipe]]
 - [[Desenvolvimento Agil Limpo - 5. Praticas Tecnicas]]
+- [[Desenvolvimento Agil Limpo - 6. Torne-se Agil]]
 
 ---
 

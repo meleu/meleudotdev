@@ -10,10 +10,24 @@
           {
             "id": "0fc9c26419e92622",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/o problema das camadas de hierarquia no nível médio.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5f2c35856668b478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/books/clean-agile/Desenvolvimento Agil Limpo - 6. Torne-se Agil.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -142,15 +157,15 @@
   },
   "active": "0fc9c26419e92622",
   "lastOpenFiles": [
-    "notes/books/clean-agile/Desenvolvimento Agil Limpo - 5. Praticas Tecnicas.md",
+    "notes/books/clean-agile/Desenvolvimento Agil Limpo - 6. Torne-se Agil.md",
+    "notes/o problema das camadas de hierarquia no nível médio.md",
     "notes/books/clean-agile/Desenvolvimento Agil Limpo.md",
+    "notes/Untitled.md",
+    "notes/books/clean-agile/Desenvolvimento Agil Limpo - 5. Praticas Tecnicas.md",
     "notes/books/Personal Kanban.md",
     "private/kanban/kanban.md",
     "private/kanban/kanban - courses.md",
     "private/kanban/kanban - books.md",
-    "private/kanban/kanban - writings.md",
-    "notes/obsidian.md",
-    "notes/css.md",
-    "notes/books/7-habitos-eficazes/Habito Eficaz 1 - Seja Proativo.md"
+    "private/kanban/kanban - writings.md"
   ]
 }
