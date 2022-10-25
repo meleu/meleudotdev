@@ -11,9 +11,11 @@
             "id": "e39ad1ad5cbf9387",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "notes/kanban - apresentação latinoware.md"
+                "file": "private/bruna XP.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/kanban - apresentação latinoware.md",
+                "file": "private/bruna XP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/kanban - apresentação latinoware.md"
+                "file": "private/bruna XP.md"
               }
             }
           },
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/kanban - apresentação latinoware.md",
+                "file": "private/bruna XP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,15 +142,15 @@
   },
   "active": "e39ad1ad5cbf9387",
   "lastOpenFiles": [
+    "private/kanban/kanban - apresentação latinoware.md",
+    "notes/apresentacao - programacao defensiva em shell-script.md",
+    "private/carreira/latinoware 2022.md",
     "private/kanban/kanban - writings.md",
     "notes/principios.md",
     "notes/videos/video - thinking-fast-and-slow-goto-2019.md",
     "notes/information vs. attention.md",
     "notes/decision-making.md",
     "notes/quotes.md",
-    "notes/o problema das camadas hierárquicas medianas.md",
-    "notes/books/clean-agile/Desenvolvimento Agil Limpo - 6. Torne-se Agil.md",
-    "notes/books/clean-agile/Desenvolvimento Agil Limpo.md",
-    "notes/books/clean-agile/Desenvolvimento Agil Limpo - 5. Praticas Tecnicas.md"
+    "notes/o problema das camadas hierárquicas medianas.md"
   ]
 }
