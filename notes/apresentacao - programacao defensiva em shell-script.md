@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 assunto a sere abordado na palestra
 
 ---
