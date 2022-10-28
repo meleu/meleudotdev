@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ### The Superpowers of a Second Brain
 

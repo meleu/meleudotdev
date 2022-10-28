@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 bnegao: adminitir que o que tú crítica, é bem parecido com vc
 
 o maior perigo dos livros de auto-ajuda

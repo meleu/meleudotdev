@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2022-08.md",
+                "file": "private/carreira/Staircase/Staircase Virtues - Slab.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gladwell",
+                "query": "root level solutions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,11 +66,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2022-08.md",
+                "file": "private/carreira/Staircase/Staircase Virtues - Slab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2022-08.md"
+                "file": "private/carreira/Staircase/Staircase Virtues - Slab.md"
               }
             }
           },
@@ -124,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2022-08.md",
+                "file": "private/carreira/Staircase/Staircase Virtues - Slab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,15 +144,15 @@
   },
   "active": "e39ad1ad5cbf9387",
   "lastOpenFiles": [
+    "log/2022-10.md",
+    "notes/books/Building a Second Brain.md",
     "log/2022-09.md",
+    "log/2022-08.md",
+    "log/2022-07.md",
+    "log/2022-06.md",
     "private/carreira/latinoware 2022.md",
     "private/bruna XP.md",
     "private/kanban/kanban - apresentação latinoware.md",
-    "notes/apresentacao - programacao defensiva em shell-script.md",
-    "private/kanban/kanban - writings.md",
-    "notes/principios.md",
-    "notes/videos/video - thinking-fast-and-slow-goto-2019.md",
-    "notes/information vs. attention.md",
-    "notes/decision-making.md"
+    "notes/apresentacao - programacao defensiva em shell-script.md"
   ]
 }
