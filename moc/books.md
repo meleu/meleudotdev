@@ -6,7 +6,8 @@ dg-permalink: books
 
 ## currently reading
 
-- [[As Viagens de Gulliver]]
+- [[O Estrangeiro]]
+- [[Building a Second Brain]]
 - [[Os 7 Habitos das pessoas Altamente Eficazes]]
 
 

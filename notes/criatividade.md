@@ -1,0 +1,2 @@
+conectar ideias aparentemente desconexas
+

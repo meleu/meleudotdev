@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/bruna XP.md",
+                "file": "log/2022-08.md",
                 "mode": "preview",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/bruna XP.md",
+                "file": "log/2022-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/bruna XP.md"
+                "file": "log/2022-08.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/bruna XP.md",
+                "file": "log/2022-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,15 +142,15 @@
   },
   "active": "e39ad1ad5cbf9387",
   "lastOpenFiles": [
+    "log/2022-09.md",
+    "private/carreira/latinoware 2022.md",
+    "private/bruna XP.md",
     "private/kanban/kanban - apresentação latinoware.md",
     "notes/apresentacao - programacao defensiva em shell-script.md",
-    "private/carreira/latinoware 2022.md",
     "private/kanban/kanban - writings.md",
     "notes/principios.md",
     "notes/videos/video - thinking-fast-and-slow-goto-2019.md",
     "notes/information vs. attention.md",
-    "notes/decision-making.md",
-    "notes/quotes.md",
-    "notes/o problema das camadas hierárquicas medianas.md"
+    "notes/decision-making.md"
   ]
 }

@@ -30,14 +30,7 @@ My own list of awesome links.
 - <https://www.executeprogram.com/> - seems to be an awesome resource to effectively learn JavaScript/TypeScript (uses spaced repetition).
 
 
-
-
-
-
 ## node
 
 - <https://nodeschool.io/> - cool way to practice js & node stuff
-
-
-
 
