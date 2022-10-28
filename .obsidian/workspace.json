@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/Staircase/Staircase Virtues - Slab.md",
+                "file": "notes/videos/Evolutionary Architecture and Microservices - Rebecca Parsons.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "root level solutions",
+                "query": "conway",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 250.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/Staircase/Staircase Virtues - Slab.md",
+                "file": "notes/videos/Evolutionary Architecture and Microservices - Rebecca Parsons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/Staircase/Staircase Virtues - Slab.md"
+                "file": "notes/videos/Evolutionary Architecture and Microservices - Rebecca Parsons.md"
               }
             }
           },
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/Staircase/Staircase Virtues - Slab.md",
+                "file": "notes/videos/Evolutionary Architecture and Microservices - Rebecca Parsons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,15 +143,15 @@
   },
   "active": "e39ad1ad5cbf9387",
   "lastOpenFiles": [
+    "notes/learning/Jornada DevOps.md",
+    "notes/videos/Mastering Chaos - A Netflix Guide to Microservices.md",
+    "notes/videos/Pragmatic Microservices - Randy Shoup.md",
+    "notes/videos/The Problem with Microservices - Dave Farley.md",
+    "notes/books/Microsserviços prontos para a produção.md",
+    "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md",
+    "private/carreira/Staircase/Units of Work - Slab.md",
+    "private/carreira/Staircase/Staircase Virtues - Slab.md",
     "log/2022-10.md",
-    "notes/books/Building a Second Brain.md",
-    "log/2022-09.md",
-    "log/2022-08.md",
-    "log/2022-07.md",
-    "log/2022-06.md",
-    "private/carreira/latinoware 2022.md",
-    "private/bruna XP.md",
-    "private/kanban/kanban - apresentação latinoware.md",
-    "notes/apresentacao - programacao defensiva em shell-script.md"
+    "notes/books/Building a Second Brain.md"
   ]
 }
