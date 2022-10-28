@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/videos/Evolutionary Architecture and Microservices - Rebecca Parsons.md",
+                "file": "private/carreira/Staircase/1P_ We are a Software Company - Slab.md",
                 "mode": "preview",
                 "source": false
               }
@@ -66,12 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 374.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/videos/Evolutionary Architecture and Microservices - Rebecca Parsons.md",
+                "file": "private/carreira/Staircase/1P_ We are a Software Company - Slab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/videos/Evolutionary Architecture and Microservices - Rebecca Parsons.md"
+                "file": "private/carreira/Staircase/1P_ We are a Software Company - Slab.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/videos/Evolutionary Architecture and Microservices - Rebecca Parsons.md",
+                "file": "private/carreira/Staircase/1P_ We are a Software Company - Slab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,15 +142,15 @@
   },
   "active": "e39ad1ad5cbf9387",
   "lastOpenFiles": [
-    "notes/learning/Jornada DevOps.md",
-    "notes/videos/Mastering Chaos - A Netflix Guide to Microservices.md",
-    "notes/videos/Pragmatic Microservices - Randy Shoup.md",
-    "notes/videos/The Problem with Microservices - Dave Farley.md",
-    "notes/books/Microsserviços prontos para a produção.md",
+    "private/carreira/Staircase/1P_ We are a WoW Company - Slab.md",
     "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md",
+    "notes/books/Microsserviços prontos para a produção.md",
+    "notes/videos/The Problem with Microservices - Dave Farley.md",
+    "notes/videos/Pragmatic Microservices - Randy Shoup.md",
+    "notes/videos/Mastering Chaos - A Netflix Guide to Microservices.md",
+    "notes/learning/Jornada DevOps.md",
+    "notes/videos/Evolutionary Architecture and Microservices - Rebecca Parsons.md",
     "private/carreira/Staircase/Units of Work - Slab.md",
-    "private/carreira/Staircase/Staircase Virtues - Slab.md",
-    "log/2022-10.md",
-    "notes/books/Building a Second Brain.md"
+    "private/carreira/Staircase/Staircase Virtues - Slab.md"
   ]
 }
