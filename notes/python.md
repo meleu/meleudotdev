@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Things to take a look if/when I need to dive into Python language:
 
 - <https://learnxinyminutes.com/docs/python/> to get a quick glance at the syntax

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/python.md",
+                "file": "private/carreira/latinoware 2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/python.md",
+                "file": "private/carreira/latinoware 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/python.md"
+                "file": "private/carreira/latinoware 2022.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/python.md",
+                "file": "private/carreira/latinoware 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,11 +151,9 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "8816be7eab327739",
   "lastOpenFiles": [
+    "notes/python.md",
     "private/carreira/Staircase/1P_ We are a Software Company - Slab.md",
     "private/carreira/Staircase/1P_ We are a WoW Company - Slab.md",
     "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md",
@@ -164,7 +162,6 @@
     "notes/videos/Pragmatic Microservices - Randy Shoup.md",
     "notes/videos/Mastering Chaos - A Netflix Guide to Microservices.md",
     "notes/learning/Jornada DevOps.md",
-    "notes/videos/Evolutionary Architecture and Microservices - Rebecca Parsons.md",
-    "private/carreira/Staircase/Units of Work - Slab.md"
+    "notes/videos/Evolutionary Architecture and Microservices - Rebecca Parsons.md"
   ]
 }
