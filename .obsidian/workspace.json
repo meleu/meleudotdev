@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repos/meleu.sh/content/posts/bash-rigoroso.md",
+                "file": "notes/apresentacao - programacao defensiva em shell-script.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repos/meleu.sh/content/posts/bash-rigoroso.md",
+                "file": "notes/apresentacao - programacao defensiva em shell-script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "repos/meleu.sh/content/posts/bash-rigoroso.md"
+                "file": "notes/apresentacao - programacao defensiva em shell-script.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "repos/meleu.sh/content/posts/bash-rigoroso.md",
+                "file": "notes/apresentacao - programacao defensiva em shell-script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,7 @@
   },
   "active": "a5d370ceee7f9b2b",
   "lastOpenFiles": [
+    "repos/meleu.sh/content/posts/bash-rigoroso.md",
     "notes/apresentacao - programacao defensiva em shell-script.md",
     "about.md",
     "notes/Open Source projects I'm proud of.md",
@@ -157,7 +158,6 @@
     "notes/python.md",
     "private/carreira/Staircase/1P_ We are a Software Company - Slab.md",
     "private/carreira/Staircase/1P_ We are a WoW Company - Slab.md",
-    "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md",
-    "notes/books/Microsserviços prontos para a produção.md"
+    "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md"
   ]
 }
