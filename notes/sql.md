@@ -143,3 +143,9 @@ WHERE
 ???
 
 NOTE: rescores won't allow it to be accurate.
+
+
+---
+
+
+https://twitter.com/Aakriti_Sarma/status/1586183550260240385?s=20&t=FPX6eR-Itt6wPoX7MLGMVg
