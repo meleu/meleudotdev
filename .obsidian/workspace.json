@@ -10,13 +10,15 @@
           {
             "id": "a5d370ceee7f9b2b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/apresentacao - programacao defensiva em shell-script.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -149,15 +151,15 @@
   },
   "active": "a5d370ceee7f9b2b",
   "lastOpenFiles": [
-    "repos/meleu.sh/content/posts/bash-rigoroso.md",
+    "notes/devops.md",
     "notes/apresentacao - programacao defensiva em shell-script.md",
+    "repos/meleu.sh/content/posts/trap-err.md",
+    "repos/meleu.sh/content/posts/bash-rigoroso.md",
     "about.md",
     "notes/Open Source projects I'm proud of.md",
     "README.md",
     "private/carreira/latinoware 2022.md",
     "notes/python.md",
-    "private/carreira/Staircase/1P_ We are a Software Company - Slab.md",
-    "private/carreira/Staircase/1P_ We are a WoW Company - Slab.md",
-    "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md"
+    "private/carreira/Staircase/1P_ We are a Software Company - Slab.md"
   ]
 }

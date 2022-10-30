@@ -116,7 +116,7 @@ A apresentação é dividida em três partes:
 
 ---
 
-## Parte 1: Falhe o mais cedo possível com bash "strict mode"
+## Parte 1: Falhe o mais cedo possível (com bash "strict mode")
 
 <http://redsymbol.net/articles/unofficial-bash-strict-mode/>
 
@@ -352,3 +352,86 @@ set -u
 
 ---
 
+## Parte 2: falhe ruidosamente (com `trap`)
+
+Saiba precisamente aonde o seu script está falhando.
+
+```bash
+#!/usr/bin/env bash
+
+set -Eeo pipefail
+
+trap 'echo "${BASH_SOURCE}:${LINENO}:${FUNCNAME}"' ERR
+```
+
+%%
+Aqui nós vamos por uma abordagem, digamos, top-down.
+
+A gente pode olhar pra esse código e pensar "caraca, que doidera é essa? trap, FUNCNAME, LINENO". Pegou pesado agora hein meleu!
+
+OK galera, eu reconheço. Isso aqui não é exatamente algo muito fácil para iniciante, mas acredite em mim: o tempinho que vamos investir pra destrinchar e entender isso aqui, vai ser muito bem recompensado com muitas horas que você vai economizar quando tiver que debugar o seu script ou sua pipeline de Integração Contínua.
+
+Eu peço esse voto de confiança: continuem aqui comigo, vamos entender isso aqui e eu garanto que você será mais feliz trabalhando com bash.
+%%
+
+---
+
+## Variáveis úteis definidas pelo bash
+
+- `BASH_SOURCE`: o nome do arquivo onde esta variável está sendo referenciada.
+- `LINENO`: linha exata aonde esta variável está sendo referenciada.
+- `FUNCNAME`: nome da função onde esta variável está sendo referenciada.
+
+---
+
+```bash
+#!/usr/bin/env bash
+# script-info.sh
+
+set -eo pipefail
+
+echo "--> informações de fora da função <--"
+echo "BASH_SOURCE='${BASH_SOURCE}'"
+echo "LINENO='${LINENO}'"
+echo "FUNCNAME='${FUNCNAME}'"
+echo
+
+main() {
+  echo "--> informações de dentro da função <--"
+  echo "BASH_SOURCE='${BASH_SOURCE}'"
+  echo "LINENO='${LINENO}'"
+  echo "FUNCNAME='${FUNCNAME}'"
+  echo
+  echo "fim!"
+}
+
+main "$@"
+```
+
+---
+
+## Como o `trap` funciona?
+
+```bash
+trap COMANDO SINAL
+```
+
+%%
+O trap serve para executar um COMANDO quando é detectado um SINAL.
+
+O primeiro argumento é o COMANDO e o segundo é o SINAL.
+
+"Caramba meleu, que negócio é esse de sinal?"
+
+Não vamos gastar muito tempo aqui entrando no detalhe de como funciona gerenciamento de sinais. Então vamos simplificar da seguinte forma: o kernel permite que você envie sinais para os processos.
+
+A maneira mais famosa de enviar sinais, e que muita gente nem sabe, é através do comando `kill`.
+
+Quando você manda um `kill` e o ID de um processo, você na verdade está enviando um sinal para o kernel pra terminar aquele processo. Quando você manda um `kill -9` e o ID do processo, você está enviando um sinal pro kernel matar aquele processo imediatamente.
+
+Pois bem, o `trap` usado em um script serve para "capturar" esse sinal e executar um COMANDO quando esse sinal for recebido.
+
+
+
+
+%%
