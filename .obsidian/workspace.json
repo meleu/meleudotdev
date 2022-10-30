@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/apresentacao - programacao defensiva em shell-script.md",
+                "file": "repos/meleu.sh/content/posts/bash-rigoroso.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/apresentacao - programacao defensiva em shell-script.md",
+                "file": "repos/meleu.sh/content/posts/bash-rigoroso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/apresentacao - programacao defensiva em shell-script.md"
+                "file": "repos/meleu.sh/content/posts/bash-rigoroso.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/apresentacao - programacao defensiva em shell-script.md",
+                "file": "repos/meleu.sh/content/posts/bash-rigoroso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,12 +147,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0fd3ad51ad822106",
+  "active": "a5d370ceee7f9b2b",
   "lastOpenFiles": [
+    "notes/apresentacao - programacao defensiva em shell-script.md",
     "about.md",
     "notes/Open Source projects I'm proud of.md",
     "README.md",
-    "notes/apresentacao - programacao defensiva em shell-script.md",
     "private/carreira/latinoware 2022.md",
     "notes/python.md",
     "private/carreira/Staircase/1P_ We are a Software Company - Slab.md",

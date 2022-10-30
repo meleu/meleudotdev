@@ -177,6 +177,7 @@ Sai imediatamente se um comando termina com falha (status não-zero).
 - P: O `set -e` é POSIX? Posso usar com o `/bin/sh`?
 - R: Sim!
 
+
 ---
 
 ## lidando `|` com `|` sequências `|` de `|` pipes

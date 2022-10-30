@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Open Source projects I'm proud of
 
 
