@@ -417,6 +417,7 @@ main "$@"
 trap COMANDO SINAL
 ```
 
+
 %%
 O trap serve para executar um COMANDO quando é detectado um SINAL.
 
@@ -431,7 +432,6 @@ A maneira mais famosa de enviar sinais, e que muita gente nem sabe, é através 
 Quando você manda um `kill` e o ID de um processo, você na verdade está enviando um sinal para o kernel pra terminar aquele processo. Quando você manda um `kill -9` e o ID do processo, você está enviando um sinal pro kernel matar aquele processo imediatamente.
 
 Pois bem, o `trap` usado em um script serve para "capturar" esse sinal e executar um COMANDO quando esse sinal for recebido.
-
 
 
 
