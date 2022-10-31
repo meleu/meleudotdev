@@ -125,6 +125,7 @@ A apresentação é dividida em três partes:
 
 ## Exemplo 1
 
+
 ```bash
 #!/usr/bin/env bash
 

@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conway",
+                "query": "marp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,15 +151,15 @@
   },
   "active": "a5d370ceee7f9b2b",
   "lastOpenFiles": [
-    "notes/devops.md",
+    "notes/presentations.md",
     "notes/apresentacao - programacao defensiva em shell-script.md",
+    "assets/the-art-of-unix-programming.png",
+    "notes/devops.md",
     "repos/meleu.sh/content/posts/trap-err.md",
     "repos/meleu.sh/content/posts/bash-rigoroso.md",
     "about.md",
     "notes/Open Source projects I'm proud of.md",
     "README.md",
-    "private/carreira/latinoware 2022.md",
-    "notes/python.md",
-    "private/carreira/Staircase/1P_ We are a Software Company - Slab.md"
+    "private/carreira/latinoware 2022.md"
   ]
 }
