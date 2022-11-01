@@ -8,31 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5d370ceee7f9b2b",
+            "id": "7a8e742510b7da4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "notes/videos/video - Primo Rico - As 12 Regras do Dinheiro.md",
-                "mode": "preview",
-                "source": true
+                "file": "private/kanban/kanban - courses.md"
               }
             }
           },
           {
-            "id": "7a8e742510b7da4f",
+            "id": "1e34fc9000b4accd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "notes/videos/video - Primo Rico - As 12 Regras do Dinheiro.md",
-                "mode": "source",
-                "source": false
+                "file": "private/kanban/kanban.md"
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -100,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/videos/video - Primo Rico - As 12 Regras do Dinheiro.md",
+                "file": "private/kanban/kanban - courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/videos/video - Primo Rico - As 12 Regras do Dinheiro.md"
+                "file": "private/kanban/kanban - courses.md"
               }
             }
           },
@@ -138,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/videos/video - Primo Rico - As 12 Regras do Dinheiro.md",
+                "file": "private/kanban/kanban - courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,15 +157,15 @@
   },
   "active": "7a8e742510b7da4f",
   "lastOpenFiles": [
-    "notes/apresentacao - programacao defensiva em shell-script.md",
+    "private/kanban/kanban - books.md",
     "notes/videos/video - Primo Rico - As 12 Regras do Dinheiro.md",
+    "private/kanban/kanban.md",
+    "notes/video - Akita - Projetos, Testes e Estimativa.md",
+    "notes/Untitled.md",
+    "notes/apresentacao - programacao defensiva em shell-script.md",
     "notes/presentations.md",
     "assets/the-art-of-unix-programming.png",
     "notes/devops.md",
-    "repos/meleu.sh/content/posts/trap-err.md",
-    "repos/meleu.sh/content/posts/bash-rigoroso.md",
-    "about.md",
-    "notes/Open Source projects I'm proud of.md",
-    "README.md"
+    "repos/meleu.sh/content/posts/trap-err.md"
   ]
 }
