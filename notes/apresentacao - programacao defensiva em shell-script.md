@@ -16,6 +16,9 @@ Evitando dores de cabeça e tiros no pé.
 
 %%
 
+🙁
+
+
 Esse livro, escrito pelo Eric Raymond há cerca de 20 anos atrás, foi um livro que eu gostei muito. Eu considero uma preciosidade, por que ele contém um compilado da sabedoria acumulada dos caras que participaram e testemunharam o nascimento e a evolução do UNIX.
 
 É um livro onde encontramos várias "regras" que nortearam o desenvolvimento dessa coisinha maravilhosa que o UNIX. E uma dessas regras diz o seguinte:
