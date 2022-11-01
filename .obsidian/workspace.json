@@ -16,16 +16,6 @@
                 "file": "private/kanban/kanban - courses.md"
               }
             }
-          },
-          {
-            "id": "1e34fc9000b4accd",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "private/kanban/kanban.md"
-              }
-            }
           }
         ],
         "stacked": true
