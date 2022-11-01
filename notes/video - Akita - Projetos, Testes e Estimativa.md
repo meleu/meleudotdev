@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H_-7o_pLn1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Lidando com o desconhecido
