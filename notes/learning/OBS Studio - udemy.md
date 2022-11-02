@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Section 2. OBS Studio Interface & Settings
 
 ### 2. OBS Studio Interface
