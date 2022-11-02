@@ -46,3 +46,17 @@ The tutor suggests these options enabled
 
 ### 4. OBS Studio Sources
 
+- Webcam
+- Display 1
+- Display 2
+- an image (e.g.: for a slideshow)
+- the internal browser (if you wanna show a webpage)
+
+### 5. OBS Studio Scenes
+
+A collection of sources and how they are arranged.
+
+The interesting part here is how to configure the transitions.
+
+
+
