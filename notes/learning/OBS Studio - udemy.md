@@ -60,3 +60,10 @@ The interesting part here is how to configure the transitions.
 
 
 
+### 10. Effects
+
+There are interesting things to do in:
+
+- Right-click a source:
+    - Transform (e.g.: rotate a sourcez)
+    - Filters (e.g.: crop a source)
