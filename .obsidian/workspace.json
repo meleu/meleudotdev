@@ -11,9 +11,11 @@
             "id": "7a8e742510b7da4f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "private/kanban/kanban - courses.md"
+                "file": "notes/learning/OBS Studio - udemy.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/kanban/kanban - courses.md",
+                "file": "notes/learning/OBS Studio - udemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/kanban/kanban - courses.md"
+                "file": "notes/learning/OBS Studio - udemy.md"
               }
             }
           },
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/kanban/kanban - courses.md",
+                "file": "notes/learning/OBS Studio - udemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,6 +149,7 @@
   },
   "active": "7a8e742510b7da4f",
   "lastOpenFiles": [
+    "private/kanban/kanban - courses.md",
     "private/kanban/kanban - books.md",
     "notes/videos/video - Primo Rico - As 12 Regras do Dinheiro.md",
     "private/kanban/kanban.md",
@@ -155,7 +158,6 @@
     "notes/apresentacao - programacao defensiva em shell-script.md",
     "notes/presentations.md",
     "assets/the-art-of-unix-programming.png",
-    "notes/devops.md",
-    "repos/meleu.sh/content/posts/trap-err.md"
+    "notes/devops.md"
   ]
 }
