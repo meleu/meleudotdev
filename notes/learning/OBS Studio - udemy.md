@@ -75,3 +75,14 @@ Cool way to add a circular webcam (with a border): <https://youtu.be/lqh00nfr-UU
 
 In the Tools menu, there's the **Automatic Scene Switcher**. Useful to change scenes based on some events.
 
+
+### 14. Recording Testing
+
+![[OBS Studio - Recording configs.png]]
+
+
+### 15. Stream Testing
+
+Interesting lecture explaining simple ways to test streams on twitch and youtube.
+https://www.udemy.com/course/ultimate-beginners-guide-to-open-broadcaster-softwareobs/learn/lecture/19554984#questions
+
