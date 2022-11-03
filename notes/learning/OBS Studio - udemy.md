@@ -67,3 +67,9 @@ There are interesting things to do in:
 - Right-click a source:
     - Transform (e.g.: rotate a sourcez)
     - Filters (e.g.: crop a source)
+
+
+### 11. Tools
+
+In the Tools menu, there's the **Automatic Scene Switcher**. Useful to change scenes based on some events.
+
