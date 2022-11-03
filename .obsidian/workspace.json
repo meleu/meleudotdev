@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a8e742510b7da4f",
+            "id": "a4702fd19e459a17",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/OBS Studio - udemy.md",
+                "file": "private/video-scripts/shebang.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -70,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 374.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/OBS Studio - udemy.md",
+                "file": "private/video-scripts/shebang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/OBS Studio - udemy.md"
+                "file": "private/video-scripts/shebang.md"
               }
             }
           },
@@ -124,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/OBS Studio - udemy.md",
+                "file": "private/video-scripts/shebang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7a8e742510b7da4f",
+  "active": "a4702fd19e459a17",
   "lastOpenFiles": [
+    "notes/learning/OBS Studio - udemy.md",
+    "private/video-scripts/shebang.md",
+    "private/filhos/conversa.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
-    "notes/learning/OBS Studio - udemy.md",
     "private/kanban/kanban - courses.md",
     "private/kanban/kanban - books.md",
     "notes/videos/video - Primo Rico - As 12 Regras do Dinheiro.md",
     "private/kanban/kanban.md",
-    "notes/video - Akita - Projetos, Testes e Estimativa.md",
-    "notes/Untitled.md",
-    "notes/apresentacao - programacao defensiva em shell-script.md"
+    "notes/video - Akita - Projetos, Testes e Estimativa.md"
   ]
 }

@@ -30,7 +30,7 @@ The tutor suggests these options enabled
     - Source Alignment Snapping
         - Enable
         - Snap Sensitivity `10,0`
-        - Snap Soiurces to edge of screen
+        - Snap Sources to edge of screen
         - Snap Source to other sources
     - System Tray
         - Enable
