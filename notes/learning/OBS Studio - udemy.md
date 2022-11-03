@@ -86,3 +86,6 @@ In the Tools menu, there's the **Automatic Scene Switcher**. Useful to change sc
 Interesting lecture explaining simple ways to test streams on twitch and youtube.
 https://www.udemy.com/course/ultimate-beginners-guide-to-open-broadcaster-softwareobs/learn/lecture/19554984#questions
 
+### 19. VST Plugin
+
+An useful plugin to make adjustments in the audio.
