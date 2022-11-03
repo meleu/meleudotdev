@@ -68,6 +68,8 @@ There are interesting things to do in:
     - Transform (e.g.: rotate a sourcez)
     - Filters (e.g.: crop a source)
 
+Cool way to add a circular webcam (with a border): <https://youtu.be/lqh00nfr-UU>
+
 
 ### 11. Tools
 

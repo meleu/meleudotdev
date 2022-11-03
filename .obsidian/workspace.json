@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
-                "mode": "preview",
+                "file": "notes/learning/OBS Studio - udemy.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
+                "file": "notes/learning/OBS Studio - udemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md"
+                "file": "notes/learning/OBS Studio - udemy.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
+                "file": "notes/learning/OBS Studio - udemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,7 @@
   },
   "active": "7a8e742510b7da4f",
   "lastOpenFiles": [
+    "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
     "notes/learning/OBS Studio - udemy.md",
     "private/kanban/kanban - courses.md",
@@ -157,7 +158,6 @@
     "private/kanban/kanban.md",
     "notes/video - Akita - Projetos, Testes e Estimativa.md",
     "notes/Untitled.md",
-    "notes/apresentacao - programacao defensiva em shell-script.md",
-    "notes/presentations.md"
+    "notes/apresentacao - programacao defensiva em shell-script.md"
   ]
 }
