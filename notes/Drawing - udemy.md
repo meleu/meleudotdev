@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # The Art & Science of Drawing - Basic Skills
 
 - <https://www.udemy.com/course/the-art-and-science-of-drawing/>
