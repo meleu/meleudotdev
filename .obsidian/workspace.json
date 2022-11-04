@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4702fd19e459a17",
+            "id": "96d6d395ecea9846",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/video-scripts/shebang.md",
+                "file": "notes/Drawing - udemy.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -89,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/video-scripts/shebang.md",
+                "file": "notes/Drawing - udemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/video-scripts/shebang.md"
+                "file": "notes/Drawing - udemy.md"
               }
             }
           },
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/video-scripts/shebang.md",
+                "file": "notes/Drawing - udemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,10 +147,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a4702fd19e459a17",
+  "active": "96d6d395ecea9846",
   "lastOpenFiles": [
-    "notes/learning/OBS Studio - udemy.md",
     "private/video-scripts/shebang.md",
+    "notes/learning/OBS Studio - udemy.md",
     "private/filhos/conversa.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
