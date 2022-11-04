@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/OBS Studio - udemy.md",
+                "file": "private/video-scripts/shebang.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/OBS Studio - udemy.md",
+                "file": "private/video-scripts/shebang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/OBS Studio - udemy.md"
+                "file": "private/video-scripts/shebang.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/OBS Studio - udemy.md",
+                "file": "private/video-scripts/shebang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,9 +149,9 @@
   },
   "active": "96d6d395ecea9846",
   "lastOpenFiles": [
+    "notes/learning/OBS Studio - udemy.md",
     "notes/Drawing - udemy.md",
     "private/video-scripts/shebang.md",
-    "notes/learning/OBS Studio - udemy.md",
     "private/filhos/conversa.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
