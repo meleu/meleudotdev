@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Programa de trainee na codeminer.md",
+                "file": "notes/Drawing - udemy.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Programa de trainee na codeminer.md",
+                "file": "notes/Drawing - udemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Programa de trainee na codeminer.md"
+                "file": "notes/Drawing - udemy.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Programa de trainee na codeminer.md",
+                "file": "notes/Drawing - udemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,8 +149,8 @@
   },
   "active": "9cce60bcf342408e",
   "lastOpenFiles": [
-    "private/video-scripts/shebang.md",
     "notes/Programa de trainee na codeminer.md",
+    "private/video-scripts/shebang.md",
     "notes/learning/OBS Studio - udemy.md",
     "notes/Drawing - udemy.md",
     "private/filhos/conversa.md",

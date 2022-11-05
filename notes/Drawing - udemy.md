@@ -26,9 +26,7 @@ Suggested course order:
 
 
 
-## Section 1: Basic Skills
-
-### How to begin
+## Day 1: How to begin
 
 **Main takeaways**
 
@@ -52,3 +50,14 @@ Practice drawing light lines for 30 minutes.
 - Goals:
     - get comfortable drawing lightly.
     - discover how light is right for you
+
+
+## Day 2: Circles and Ovals
+
+- Use your shoulder
+- Keep your lines as light as possible
+- Do the circular movements before touching the paper with your pencil
+
+> When I was learning how to draw circles and ovals mys instructor told me that I needed to fill ten pages, front and back, with circles and ovals every morning for a year.
+
+
