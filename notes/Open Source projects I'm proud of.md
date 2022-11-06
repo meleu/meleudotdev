@@ -30,6 +30,7 @@ I created this project using the following technologies:
 - [GitHub wiki](https://github.com/RetroAchievements/docs/wiki/), as the place where contributors can create/update contents for the website.
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) for converting the markdown files from the wiki into the website's pages.
 - [Some scripts](https://github.com/RetroAchievements/docs) I created to glue things together.
+- [GitHub Actions](https://github.com/RetroAchievements/docs/blob/master/.github/workflows/deploy-radocs.yml), to easily deploy the website.
 
 
 ### RANews

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Filmes para assistir
 
 Cinco dias sem Nora

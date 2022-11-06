@@ -34,5 +34,6 @@ Start a new project
 mkdir rspec-course
 cd  rspec-course
 rspec --init
-
 ```
+
+The "init" will create `.rspec` and `spec/spec_helper.rb`

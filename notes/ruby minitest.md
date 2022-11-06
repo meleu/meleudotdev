@@ -56,6 +56,10 @@ ruby unicorn_test.rb
 [docs](https://devdocs.io/minitest-minitest-assertions/)
 
 - `assert_equal(expected, actual, msg = nil)` 
+- `assert(test, msg = nil)`
+    - use it instead of `assert_equal true, test`
+- `refute(test, msg = nil)`
+    - use it instead of `assert_equal false, test`
 
 
 ## Skipping a Test
