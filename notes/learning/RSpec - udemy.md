@@ -5,7 +5,12 @@ dg-publish: true
 
 - <https://www.udemy.com/course/testing-ruby-with-rspec>
 
-## Types of Tests
+[TOC]
+
+## Section 1: Introduction
+
+
+### Types of Tests
 
 Three layers of tests:
 
@@ -22,7 +27,7 @@ I also like what Kent Dods says in <https://testingjavascript.com>:
 
 ![[RSpec - udemy - testing trophy.png]]
 
-## Install RSpec and Start a Project
+### Install RSpec and Start a Project
 
 Install globally:
 ```bash
@@ -39,7 +44,7 @@ rspec --init
 The "init" will create `.rspec` and `spec/spec_helper.rb`
 
 
-## Test-Driven Development TDD
+### Test-Driven Development TDD
 
 - Write your tests first, and the tests drive your development.
 
@@ -58,7 +63,9 @@ graph LR
 > You don't have to read additional blog posts. You don't have to read additional blog posts. This is something that you can do every day. Whenever you write code, just write your tests first.
 
 
-## The `describe` method
+### The `describe` method - example group
+
+- [doc](https://relishapp.com/rspec/rspec-core/v/3-8/docs/example-groups/basic-structure-describe-it)
 
 The `describe` method creates an **example group**.
 
@@ -78,7 +85,75 @@ end
 A test is also known as an "example". And "example group" is a set of related tests.
 
 
-## The `it` method
+### The `it` method - a single example
 
-The `describe` creates an **example group**, the `it` method creates an **example**.
+- [doc](https://relishapp.com/rspec/rspec-core/v/3-8/docs/example-groups/basic-structure-describe-it)
+
+The `describe` creates an **example group**, the `it` method creates a single **example**.
+
+```ruby
+RSpec.describe 'Card' do
+  it 'has a type' do
+    
+  end
+end
+```
+
+The idea is to describe how the software should behave, instead of saying it should be implemented.
+
+**Note**: the `specify` method has the exact same meaning as `it`.
+
+
+### The `expect` method
+
+- [doc](https://www.rubydoc.info/gems/rspec-expectations/RSpec/Matchers#expect-instance_method)
+
+Doing assertions with `expect`.
+
+```ruby
+RSpec.describe 'Card' do
+  it 'has a type' do
+    card = Card.new('Ace of Spades')
+    expect(card.type).to eq('Ace of Spades')
+  end
+end
+```
+
+### Assignment 1
+
+Create an example group with a string argument of "math calculations".
+
+Inside the group, create an example with a string argument of "does basic math".
+
+Inside the example, write 4 mathematical assertions of your choice.
+
+The **expect** method should receive a valid mathematical expression (for example, 3 + 4 or 5 * 3).
+
+The **eq** method should compare the result fo the evaluation with the right answer.
+
+```ruby
+RSpec.describe 'math calculations' do
+  it 'does basic math' do
+    expect(MyMath.plus(3, 4)).to eq(7)
+    expect(MyMath.minus(3, 4)).to eq(-1)
+    expect(MyMath.multiply(3, 4)).to eq(12)
+    expect(MyMath.divide(8, 4)).to eq(2)
+  end
+end
+```
+
+
+### Running the tests and reading failures
+
+```bash
+# run all tests in the spec/
+rspec
+
+# run a specific test file (aka example group)
+rspec spec/card_spec.rb
+
+# run a specific test (aka example)
+rspec spec/card_spec.rb:2
+```
+
 
