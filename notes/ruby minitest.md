@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Intro to TDD with Ruby's minitest
 
 - <http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html>
