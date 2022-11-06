@@ -156,4 +156,107 @@ rspec spec/card_spec.rb
 rspec spec/card_spec.rb:2
 ```
 
+### Exercise
+
+Create a class based on this test suite (example group):
+```ruby
+RSpec.describe School do
+  it 'has a name' do
+    school = School.new('Beverly Hills High School')
+    expect(school.name).to eq('Beverly Hills High School')
+  end
+
+  it 'should start off with no students' do
+    school = School.new('Notre Dame High School')
+    expect(school.students).to eq([])
+  end
+end
+```
+
+### Reducing duplication - Before hook and instance variables
+
+- [docs](https://relishapp.com/rspec/rspec-core/v/3-12/docs/hooks/before-and-after-hooks)
+
+Consider this example group, with two tests, both of them instantiating a `Card`:
+
+```ruby
+RSpec.describe Card do
+  it 'has a rank' do
+    card = Card.new('Ace', 'Spades')
+    expect(card.rank).to eq('Ace')
+  end
+
+  it 'has a suit' do
+    card = Card.new('Ace', 'Spades')
+    expect(card.suit).to eq('Spades')
+  end
+end
+```
+
+In order to prevent duplication we're going to use an instance variable and assign a value to it in a `before` method:
+
+```ruby
+RSpec.describe Card do
+  before do
+    @card = Card.new('Ace', 'Spades')
+  end
+
+  it 'has a rank' do
+    expect(@card.rank).to eq('Ace')
+  end
+
+  it 'has a suit' do
+    expect(@card.suit).to eq('Spades')
+  end
+end
+```
+
+
+### Reducing duplication - Helper methods
+
+Another way to reduce duplication is to use a helper method. In this example, such method is called `card`:
+```ruby
+RSpec.describe Card do
+  def card
+    Card.new('Ace', 'Spades')
+  end
+
+  it 'has a rank' do
+    expect(card.rank).to eq('Ace')
+  end
+
+  it 'has a suit' do
+    expect(card.suit).to eq('Spades')
+  end
+end
+```
+Although it seems interesting, it can bring problems. Like the one explained below:
+```ruby
+class Card
+  # rank can be changed
+  attr_accessor :rank, :suit
+
+  def initialize(rank, suit)
+    @rank = rank
+    @suit = suit
+  end
+end
+
+RSpec.describe Card do
+  def card
+    Card.new('Ace', 'Spades')
+  end
+
+  it 'has a rank and that rank can change' do
+    expect(card.rank).to eq('Ace')
+    card.rank = 'Queen' # this is actually create a new Card
+    expect(card.rank).to eq('Queen') # again, creating a new Card
+  end
+end
+```
+
+Every time a `card` is used, it gives an impression that it's an object but it's actually a method, creating new `Card` objects everytime it's called.
+
+
+### Reducing duplication - the `let` method
 

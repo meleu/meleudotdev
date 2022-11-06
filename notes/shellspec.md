@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # ShellSpec
 
 I tried shellspec but at a first sight I didn't like it because:
