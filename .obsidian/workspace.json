@@ -10,13 +10,15 @@
           {
             "id": "85eb2a5436d1fbc3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repos/traducoes/README.md",
+                "file": "notes/learning/RSpec - udemy.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -70,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 374.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repos/traducoes/README.md",
+                "file": "notes/learning/RSpec - udemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "repos/traducoes/README.md"
+                "file": "notes/learning/RSpec - udemy.md"
               }
             }
           },
@@ -124,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "repos/traducoes/README.md",
+                "file": "notes/learning/RSpec - udemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,15 +151,15 @@
   },
   "active": "85eb2a5436d1fbc3",
   "lastOpenFiles": [
-    "repos/traducoes/aprenda-em-publico.md",
+    "notes/mermaid.md",
     "notes/learning/RSpec - udemy.md",
+    "repos/traducoes/README.md",
+    "repos/traducoes/aprenda-em-publico.md",
     "notes/Open Source projects I'm proud of.md",
     "notes/ruby minitest.md",
     "assets/Pasted image 20220902214616.png",
     "assets/Pasted image 20220613171754.png",
     "assets/Pasted image 20221105205807.png",
-    "repos/meleu.sh/img/Pasted image 20220503180644.png",
-    "notes/Drawing - udemy.md",
-    "notes/Programa de trainee na codeminer.md"
+    "repos/meleu.sh/img/Pasted image 20220503180644.png"
   ]
 }

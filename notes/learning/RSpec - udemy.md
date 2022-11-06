@@ -37,3 +37,48 @@ rspec --init
 ```
 
 The "init" will create `.rspec` and `spec/spec_helper.rb`
+
+
+## Test-Driven Development TDD
+
+- Write your tests first, and the tests drive your development.
+
+It's a top-down approach, where you first think about how you wanna use a piece of software, and then write the software.
+
+Red -> Green -> Refactor
+
+```mermaid
+graph LR
+  Red --> Green --> Refactor --> Red
+```
+
+> What are the benefits of TDD?
+> 
+> Number one, it forces you to become a better developer. Simply practicing this thing is one of the best ways that I have become a better developer and matured as a programmer, especially in my object oriented thinking.
+> You don't have to read additional blog posts. You don't have to read additional blog posts. This is something that you can do every day. Whenever you write code, just write your tests first.
+
+
+## The `describe` method
+
+The `describe` method creates an **example group**.
+
+```ruby
+RSpec.describe 'Card' do
+
+end
+```
+
+- RSpec is a  module
+- on that module we have the `describe` method
+- we give two arguments to the `describe` method:
+    - the `'Card'` string
+    - a `do-end` block
+- inside the `do-end` block is where we will write all of our tests for the `Card`.
+
+A test is also known as an "example". And "example group" is a set of related tests.
+
+
+## The `it` method
+
+The `describe` creates an **example group**, the `it` method creates an **example**.
+
