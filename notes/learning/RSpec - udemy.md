@@ -260,3 +260,13 @@ Every time a `card` is used, it gives an impression that it's an object but it's
 
 ### Reducing duplication - the `let` method
 
+- [doc](https://relishapp.com/rspec/rspec-core/v/3-12/docs/helper-methods/let-and-let)
+
+Uses memoization to create an object.
+
+```ruby
+let(:card) { Card.new('Ace', 'Spades') }
+```
+
+It uses lazy loading, therefore better than using `before`. Why? Because `before` runs before every single test, while using `let` makes that block to run only when the symbol passed to `let` is called.
+

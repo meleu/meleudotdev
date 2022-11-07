@@ -6,7 +6,6 @@ dg-permalink: books
 
 ## currently reading
 
-- [[O Estrangeiro]]
 - [[Building a Second Brain]]
 - [[Os 7 Habitos das pessoas Altamente Eficazes]]
 
@@ -27,6 +26,7 @@ Maybe this list can tell a bit about who I am.
 
 ## 2022
 
+- [[O Estrangeiro]]
 - [[Personal Kanban]]
 - [[A Identidade]]
 - [[Crime e Castigo]]

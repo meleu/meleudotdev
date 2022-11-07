@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Docker Reverse Engineering.md",
-                "mode": "preview",
+                "file": "notes/books/O Estrangeiro.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Docker Reverse Engineering.md",
+                "file": "notes/books/O Estrangeiro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Docker Reverse Engineering.md"
+                "file": "notes/books/O Estrangeiro.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Docker Reverse Engineering.md",
+                "file": "notes/books/O Estrangeiro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,15 +149,15 @@
   },
   "active": "aaf4bb88f9cf70cf",
   "lastOpenFiles": [
+    "moc/books.md",
+    "notes/Docker Reverse Engineering.md",
+    "notes/learning/RSpec - udemy.md",
     "notes/Drawing - udemy.md",
     "assets/Pasted image 20221106191051.png",
-    "notes/learning/RSpec - udemy.md",
     "notes/shellspec.md",
     "notes/mermaid.md",
     "repos/traducoes/README.md",
     "repos/traducoes/aprenda-em-publico.md",
-    "notes/Open Source projects I'm proud of.md",
-    "notes/ruby minitest.md",
-    "assets/Pasted image 20220902214616.png"
+    "notes/Open Source projects I'm proud of.md"
   ]
 }
