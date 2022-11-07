@@ -61,3 +61,19 @@ Practice drawing light lines for 30 minutes.
 > When I was learning how to draw circles and ovals mys instructor told me that I needed to fill ten pages, front and back, with circles and ovals every morning for a year.
 
 
+## Day 3: Straight Lines & The Shapes They Make
+
+Copy 3 times
+
+![[Drawing - udemy - straight lines.png]]
+
+![[Drawing - udemy - angles.png]]
+
+
+![[Drawing - udemy - triangles.png]]
+
+![[Drawing - udemy - triangles 2.png]]
+
+![[Drawing - udemy - quadrilaterals.png]]
+
+

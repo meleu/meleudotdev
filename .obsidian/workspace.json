@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3c9de077e89c1fed",
+        "id": "421c5329ceac9385",
         "type": "tabs",
         "children": [
           {
-            "id": "85eb2a5436d1fbc3",
+            "id": "aaf4bb88f9cf70cf",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md",
-                "mode": "source",
+                "file": "notes/Docker Reverse Engineering.md",
+                "mode": "preview",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -89,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md",
+                "file": "notes/Docker Reverse Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md"
+                "file": "notes/Docker Reverse Engineering.md"
               }
             }
           },
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md",
+                "file": "notes/Docker Reverse Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85eb2a5436d1fbc3",
+  "active": "aaf4bb88f9cf70cf",
   "lastOpenFiles": [
-    "notes/shellspec.md",
+    "notes/Drawing - udemy.md",
+    "assets/Pasted image 20221106191051.png",
     "notes/learning/RSpec - udemy.md",
+    "notes/shellspec.md",
     "notes/mermaid.md",
     "repos/traducoes/README.md",
     "repos/traducoes/aprenda-em-publico.md",
     "notes/Open Source projects I'm proud of.md",
     "notes/ruby minitest.md",
-    "assets/Pasted image 20220902214616.png",
-    "assets/Pasted image 20220613171754.png",
-    "assets/Pasted image 20221105205807.png"
+    "assets/Pasted image 20220902214616.png"
   ]
 }
