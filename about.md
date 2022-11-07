@@ -48,6 +48,7 @@ Since 2018, I started to manage Linux servers for a few customers/friends and al
 
 In 2021 I finally left the oil industry. I started my career as DevOps Engineer, mainly handling CI/CD pipelines and deploying containerized applications with Kubernetes. During that time I realized how beneficial it was for me to have a broad experience with industrial processes. It's a highly valuable knowledge to have in the DevOps world.
 
+---
 
 ## Interviews & Podcasts
 
@@ -57,6 +58,7 @@ Because I put a lot of effort into the [RetroAchievements](https://retroachievem
 - [RAPodcast Episode 5 - meleu](https://youtu.be/49vgbPt9MWA)
 - [RA Talks #4 - meleu](https://youtu.be/XtXbugukhAU) (in Portuguese)
 
+---
 
 ## Main technologies in my toolbox
 
@@ -76,4 +78,5 @@ Because I put a lot of effort into the [RetroAchievements](https://retroachievem
     - PHP
     - Ruby
 
+See also the [[Open Source projects I'm proud of]].
 

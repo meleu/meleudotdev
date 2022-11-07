@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # O Estrangeiro - Albert Camus
 
 Li por conta do Clube do Livro Entrelinhas.
