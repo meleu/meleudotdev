@@ -276,7 +276,7 @@ It uses lazy loading, therefore better than using `before`. Why? Because `before
 - `describe` can be nested
 - `context` is a synonym for `describe`
 
-Example:
+Example|:
 ```ruby
 RSpec.describe '#even? method' do
   context 'with even number' do
