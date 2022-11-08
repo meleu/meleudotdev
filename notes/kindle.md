@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # kindle tips
 
 ## Fix encoding with Calibre
