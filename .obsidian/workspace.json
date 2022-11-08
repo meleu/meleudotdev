@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md",
+                "file": "notes/gitlab-ci-rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md",
+                "file": "notes/gitlab-ci-rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md"
+                "file": "notes/gitlab-ci-rules.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md",
+                "file": "notes/gitlab-ci-rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,7 @@
   },
   "active": "2493385035fef59e",
   "lastOpenFiles": [
+    "notes/learning/RSpec - udemy.md",
     "private/carreira/Programa de trainee na codeminer.md",
     "notes/Open Source projects I'm proud of.md",
     "notes/codeminer42 - trainee.md",
@@ -157,7 +158,6 @@
     "repos/meleu.sh/content/about.md",
     "notes/digital garden.md",
     "notes/books/O Estrangeiro.md",
-    "moc/books.md",
-    "notes/Docker Reverse Engineering.md"
+    "moc/books.md"
   ]
 }

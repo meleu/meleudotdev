@@ -71,7 +71,7 @@ jobname:
 
 - clauses
     - `if`
-    - `changes` - when some files where changed (this is going to be useful to deploy my [[digital garden]])
+    - `changes` - when some files where changed
     - `exists`
     - (none) - default behavior
 - operators:
