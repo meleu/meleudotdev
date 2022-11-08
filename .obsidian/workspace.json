@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/gitlab-ci - building images with kaniko.md",
+                "file": "notes/kindle.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/gitlab-ci - building images with kaniko.md",
+                "file": "notes/kindle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/gitlab-ci - building images with kaniko.md"
+                "file": "notes/kindle.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/gitlab-ci - building images with kaniko.md",
+                "file": "notes/kindle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,7 @@
   },
   "active": "2493385035fef59e",
   "lastOpenFiles": [
+    "notes/gitlab-ci - building images with kaniko.md",
     "notes/digital garden.md",
     "notes/gitlab-ci-rules.md",
     "notes/learning/RSpec - udemy.md",
@@ -157,7 +158,6 @@
     "notes/codeminer42 - trainee.md",
     "about.md",
     "private/about.md",
-    "repos/meleu.sh/content/about.md",
-    "notes/books/O Estrangeiro.md"
+    "repos/meleu.sh/content/about.md"
   ]
 }
