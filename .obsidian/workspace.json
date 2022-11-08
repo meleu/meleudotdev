@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/Programa de trainee na codeminer.md",
+                "file": "notes/learning/RSpec - udemy.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/Programa de trainee na codeminer.md",
+                "file": "notes/learning/RSpec - udemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/Programa de trainee na codeminer.md"
+                "file": "notes/learning/RSpec - udemy.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/Programa de trainee na codeminer.md",
+                "file": "notes/learning/RSpec - udemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,9 +149,9 @@
   },
   "active": "2493385035fef59e",
   "lastOpenFiles": [
+    "private/carreira/Programa de trainee na codeminer.md",
     "notes/Open Source projects I'm proud of.md",
     "notes/codeminer42 - trainee.md",
-    "private/carreira/Programa de trainee na codeminer.md",
     "about.md",
     "private/about.md",
     "repos/meleu.sh/content/about.md",

@@ -270,3 +270,25 @@ let(:card) { Card.new('Ace', 'Spades') }
 
 It uses lazy loading, therefore better than using `before`. Why? Because `before` runs before every single test, while using `let` makes that block to run only when the symbol passed to `let` is called.
 
+
+### The `context` method and nested `describe`s
+
+- `describe` can be nested
+- `context` is a synonym for `describe`
+
+Example:
+```ruby
+RSpec.describe '#even? method' do
+  context 'with even number' do
+    it 'should return true' do
+      expect(4.even?).to eq(true)
+    end
+  end
+
+  context 'with odd number' do
+    it 'should return false' do
+      expect(5.even?).to eq(false)
+    end
+  end
+end
+```
