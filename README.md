@@ -3,8 +3,6 @@ dg-publish: true
 dg-home: true
 dg-show-backlinks: false
 ---
-# meleu.dev
-
 ## Hi, I'm meleu! 👋
 
 I'm a Software Engineer from Brazil (currently working in the DevOps field).

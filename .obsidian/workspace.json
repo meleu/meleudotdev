@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/kindle.md",
+                "file": "log/2022-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
-    "collapsed": true
+    "width": 374.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/kindle.md",
+                "file": "log/2022-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/kindle.md"
+                "file": "log/2022-11.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/kindle.md",
+                "file": "log/2022-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,15 +148,15 @@
   },
   "active": "2493385035fef59e",
   "lastOpenFiles": [
-    "notes/gitlab-ci - building images with kaniko.md",
-    "notes/digital garden.md",
-    "notes/gitlab-ci-rules.md",
-    "notes/learning/RSpec - udemy.md",
-    "private/carreira/Programa de trainee na codeminer.md",
-    "notes/Open Source projects I'm proud of.md",
-    "notes/codeminer42 - trainee.md",
-    "about.md",
-    "private/about.md",
-    "repos/meleu.sh/content/about.md"
+    "log/2022-07.md",
+    "log/2022-08.md",
+    "log/2022-09.md",
+    "log/2022-11.md",
+    "log/2022-10.md",
+    "log/2022-06.md",
+    "notes/books/Personal Kanban.md",
+    "private/kanban/kanban.md",
+    "README.md",
+    "notes/learning/RSpec - udemy.md"
   ]
 }

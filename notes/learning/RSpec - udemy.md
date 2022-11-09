@@ -276,7 +276,7 @@ It uses lazy loading, therefore better than using `before`. Why? Because `before
 - `describe` can be nested
 - `context` is a synonym for `describe`
 
-Example|:
+Example:
 ```ruby
 RSpec.describe '#even? method' do
   context 'with even number' do
@@ -289,6 +289,39 @@ RSpec.describe '#even? method' do
     it 'should return false' do
       expect(5.even?).to eq(false)
     end
+  end
+end
+```
+
+
+### `before` and `after` hooks
+
+The code below is pretty descriptive. Just keep in mind that "context" is a synonym to "describe" and that "example" refers to each "it" block.
+ 
+```ruby
+RSpec.describe 'before and after hooks' do
+  before(:context) do
+    puts 'Before context'
+  end
+
+  after(:context) do
+    puts 'After context'
+  end
+
+  before(:example) do
+    puts 'Before example'
+  end
+
+  after(:example) do
+    puts 'After example'
+  end
+
+  it 'is just a random example' do
+    expect(4 * 5).to eq(20)
+  end
+
+  it 'is just another random example' do
+    expect(3 - 2).to eq(1)
   end
 end
 ```
