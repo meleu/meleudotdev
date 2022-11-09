@@ -11,11 +11,9 @@
             "id": "2493385035fef59e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "log/2022-11.md",
-                "mode": "source",
-                "source": false
+                "file": "private/kanban/kanban - courses.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2022-11.md",
+                "file": "private/kanban/kanban - courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2022-11.md"
+                "file": "private/kanban/kanban - courses.md"
               }
             }
           },
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2022-11.md",
+                "file": "private/kanban/kanban - courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,14 +146,14 @@
   },
   "active": "2493385035fef59e",
   "lastOpenFiles": [
+    "private/kanban/kanban.md",
+    "log/2022-11.md",
     "log/2022-07.md",
     "log/2022-08.md",
     "log/2022-09.md",
-    "log/2022-11.md",
     "log/2022-10.md",
     "log/2022-06.md",
     "notes/books/Personal Kanban.md",
-    "private/kanban/kanban.md",
     "README.md",
     "notes/learning/RSpec - udemy.md"
   ]
