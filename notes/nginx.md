@@ -5,6 +5,36 @@ title: resumo dos meus estudos sobre NginX
 
 # Resumo dos meus estudos de NginX
 
+---
+
+- [[#Instalando|Instalando]]
+	- [[#Instalando#via `apt-get`|via `apt-get`]]
+	- [[#Instalando#from source|from source]]
+	- [[#Instalando#Iniciar NginX durante o boot com systemd|Iniciar NginX durante o boot com systemd]]
+	- [[#Instalando#Usando NginX via docker|Usando NginX via docker]]
+- [[#Conceitos básicos|Conceitos básicos]]
+	- [[#Conceitos básicos#Directive|Directive]]
+		- [[#Directive#Diretivas Normais|Diretivas Normais]]
+		- [[#Directive#Diretivas Array|Diretivas Array]]
+		- [[#Directive#Diretivas de Ação|Diretivas de Ação]]
+	- [[#Conceitos básicos#Context|Context]]
+- [[#Configuração Básica|Configuração Básica]]
+- [[#Blocos location|Blocos location]]
+- [[#Variáveis|Variáveis]]
+- [[#Redirecionamento|Redirecionamento]]
+- [[#Rewrite|Rewrite]]
+- [[#try_files|try_files]]
+- [[#Named Locations|Named Locations]]
+- [[#Worker Processes e Worker Connections|Worker Processes e Worker Connections]]
+- [[#Comprimindo dados com gzip|Comprimindo dados com gzip]]
+- [[#Segurança Básica|Segurança Básica]]
+- [[#Autenticação básica (estilo .htpasswd)|Autenticação básica (estilo .htpasswd)]]
+- [[#Rate Limiting|Rate Limiting]]
+- [[#TODO: FastCGI caching|TODO: FastCGI caching]]
+- [[#TODO: HTTP2|TODO: HTTP2]]
+
+---
+
 ## Introdução
 
 **Importante**: Esse é um resumo bem "grosseiro" do que eu venho aprendendo sobre NginX. Isso aqui não é um texto escrito com o objetivo de "ensinar", é mais um resumo bastante pessoal dos meus estudos. Não me preocupei muito em deixar tudo bem explicadinho.
