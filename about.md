@@ -52,7 +52,7 @@ In 2021 I finally left the oil industry. I started my career as DevOps Engineer,
 
 ## Interviews & Podcasts
 
-Because I put a lot of effort into the [RetroAchievements](https://retroachievements.org) project, I was interviewed on some podcasts to talk about myself and the project.
+Since I put a lot of effort into the [RetroAchievements](https://retroachievements.org) project, I was interviewed on some podcasts to talk about myself and the project.
 
 - [The SEGA Lounge - RetroAchievements with meleu](https://www.thesegalounge.com/133-retroachievements/)
 - [RAPodcast Episode 5 - meleu](https://youtu.be/49vgbPt9MWA)
