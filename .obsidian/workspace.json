@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Clean Code.md",
+                "file": "notes/Build Instagram with Ruby on Rails and TDD.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Clean Code.md",
+                "file": "notes/Build Instagram with Ruby on Rails and TDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Clean Code.md"
+                "file": "notes/Build Instagram with Ruby on Rails and TDD.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Clean Code.md",
+                "file": "notes/Build Instagram with Ruby on Rails and TDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,7 @@
   },
   "active": "e05f61f539d7ac1d",
   "lastOpenFiles": [
+    "notes/books/Clean Code.md",
     "moc/books.md",
     "notes/learning/Fundamentals of TDD - upcase.md",
     "notes/TDD-Refactoring literature.md",
@@ -157,7 +158,6 @@
     "private/kanban/kanban - courses.md",
     "private/kanban/kanban.md",
     "log/2022-11.md",
-    "log/2022-07.md",
-    "log/2022-08.md"
+    "log/2022-07.md"
   ]
 }
