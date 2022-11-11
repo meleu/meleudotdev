@@ -7,6 +7,12 @@ While reading [[Desenvolvimento Agil Limpo]] I became interested in a deep dive 
 
 In this note I'm trying to list some fundamental books about these topics.
 
+## online courses
+
+- my very first contact was with [[ruby minitest]]
+- then I went to [[RSpec - udemy]]
+- and got some interesting insightes from upcase's [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd).
+
 ## must read
 
 - Test-Drive Development: By Example - Kent Beck (iff: B393t / 005.14)

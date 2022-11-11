@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2493385035fef59e",
+            "id": "e05f61f539d7ac1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/nginx.md",
+                "file": "notes/books/Clean Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/nginx.md",
+                "file": "notes/books/Clean Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/nginx.md"
+                "file": "notes/books/Clean Code.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/nginx.md",
+                "file": "notes/books/Clean Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2493385035fef59e",
+  "active": "e05f61f539d7ac1d",
   "lastOpenFiles": [
+    "moc/books.md",
+    "notes/learning/Fundamentals of TDD - upcase.md",
+    "notes/TDD-Refactoring literature.md",
+    "notes/ruby minitest.md",
+    "notes/nginx.md",
     "private/kanban/kanban - courses.md",
     "private/kanban/kanban.md",
     "log/2022-11.md",
     "log/2022-07.md",
-    "log/2022-08.md",
-    "log/2022-09.md",
-    "log/2022-10.md",
-    "log/2022-06.md",
-    "notes/books/Personal Kanban.md",
-    "README.md"
+    "log/2022-08.md"
   ]
 }
