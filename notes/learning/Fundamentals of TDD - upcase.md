@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Fundamentals of TDD - upcase
 
 - <https://thoughtbot.com/upcase/fundamentals-of-tdd>
