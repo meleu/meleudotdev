@@ -13,5 +13,8 @@ Related repository: <https://github.com/benwalks/photogram_TDD>
 6. <https://www.devwalks.com/lets-build-instagram-with-rails-part-4-presenting-pretty-profiles/>
 7. <https://www.devwalks.com/lets-build-instagram-part-5-liking-larrys-legs-step-one/>
 8. <https://www.devwalks.com/lets-build-instagram-part-5-liking-larrys-legs-step-two/>
-9. 
-- 
+9. <https://www.devwalks.com/lets-build-instagram-part-6-notifications/>
+10. <https://www.devwalks.com/lets-build-instagram-with-ruby-on-rails-part-6-follow-all-the-people/>
+
+
+
