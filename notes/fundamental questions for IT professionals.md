@@ -14,3 +14,6 @@ How to encourage high quality work?
 
 - [[Code Complete]]
 - [[Continuous Delivery]]
+- [[Clean Code]]
+
+

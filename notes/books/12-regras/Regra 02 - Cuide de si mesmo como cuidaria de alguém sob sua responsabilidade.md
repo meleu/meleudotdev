@@ -15,7 +15,7 @@ Não sei bem o que isso tem a ver com o título da regra mas o trecho a seguir m
 
 O termo "serpente" aqui é uma referência a serpente que ofereceu o fruto proibido para Eva. É uma referência à força que nos leva a cometer atos que nos prejudicam sem que percebamos.
 
-> mesmo se tivéssemos derrotado todas as serpentes  que nos cercam, ainda assim não estaríamos seguros. Nem estamos agora. Afinal, **já vimos o inimigo, e somos ele**. A serpente habita nossa alma. (...)
+> mesmo se tivéssemos derrotado todas as serpentes que nos cercam, ainda assim não estaríamos seguros. Nem estamos agora. Afinal, **já vimos o inimigo, e somos ele**. A serpente habita nossa alma. (...)
 > *A pior de todas as serpentes possíveis é a eterna inclinação humana para o mal. A pior de todas as serpentes possíveis é a psicológica, espiritual, pessoal e interna*. Muro algum, não importa sua altura, vai mantê-la afastada.
 
 ### Tornar apto ou proteger
@@ -44,7 +44,9 @@ Esse trecho me lembrou o segundo hábito em [[Os 7 Habitos das pessoas Altamente
 Isso me lembra também o famoso trecho de [[Alice no País das Maravilhas]], onde Alice pergunta ao gato que caminho ela deve tomar.
 
 🐱 - Isso depende de para onde você quer ir.
+
 👧 - Qualquer lugar.
+
 🐱 - Então qualquer caminho serve.
 
 > **Você tem que articular os próprios princípios** para que se defenda daqueles que querem tirar vantagens indevidas, para que esteja confiante e seguro enquanto trabalha e se diverte.
