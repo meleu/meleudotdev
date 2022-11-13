@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Build Instagram with Ruby on Rails and TDD.md",
+                "file": "notes/books/O Mitico Homem-Mes.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Build Instagram with Ruby on Rails and TDD.md",
+                "file": "notes/books/O Mitico Homem-Mes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Build Instagram with Ruby on Rails and TDD.md"
+                "file": "notes/books/O Mitico Homem-Mes.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Build Instagram with Ruby on Rails and TDD.md",
+                "file": "notes/books/O Mitico Homem-Mes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,15 +149,15 @@
   },
   "active": "e05f61f539d7ac1d",
   "lastOpenFiles": [
-    "notes/books/Clean Code.md",
     "moc/books.md",
+    "notes/Build Instagram with Ruby on Rails and TDD.md",
+    "notes/books/Clean Code.md",
     "notes/learning/Fundamentals of TDD - upcase.md",
     "notes/TDD-Refactoring literature.md",
     "notes/ruby minitest.md",
     "notes/nginx.md",
     "private/kanban/kanban - courses.md",
     "private/kanban/kanban.md",
-    "log/2022-11.md",
-    "log/2022-07.md"
+    "log/2022-11.md"
   ]
 }

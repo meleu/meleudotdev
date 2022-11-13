@@ -6,8 +6,8 @@ dg-permalink: books
 
 ## currently reading
 
-- [[Building a Second Brain]]
 - [[Os 7 Habitos das pessoas Altamente Eficazes]]
+- [[O Mitico Homem-Mes]]
 
 
 ---
@@ -43,6 +43,7 @@ Maybe this list can tell a bit about who I am.
 
 #### unfinished
 
+- [[Building a Second Brain]]
 - ⭐ [[Sapiens]]
 - [[Antifragil]]
 - [[Me Poupe!]]
