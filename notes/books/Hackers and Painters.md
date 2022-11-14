@@ -37,8 +37,8 @@ Certamente existem infinitos temas e pautas que me incomodam, mas quando eu paro
 Antes de entrar em discussões sobre um tema polêmico, eu me faço as seguintes perguntas:
 
 - Isso é algo que está me incomodando?
+- Isso é algo que eu tenho como mudar/influenciar?
 - Isso é algo que me afeta diretamente?
-- Isso é algo que vai melhorar/piorar a minha vida?
 
 Essas perguntas me ajudam a não desperdiçar meu tempo me envolvendo em discussões infrutíferas, que muito frequentemente não muda a opinião de ninguém e só gera animosidades desnecessárias.
 

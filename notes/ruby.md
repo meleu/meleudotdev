@@ -131,7 +131,9 @@ end
 
 - [[Ruby in 100 Minutes]]
 - [Navigating Ruby Files with Vim](https://thoughtbot.com/upcase/navigating-ruby-files-with-vim)
-
+- http requests
+    - https://www.twilio.com/blog/5-ways-make-http-requests-ruby
+    - https://www.rubyguides.com/2018/08/ruby-http-request/
 
 
 ## Some ruby tricks
