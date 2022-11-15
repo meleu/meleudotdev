@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/gcp/GCP Fundamentals.md",
+                "file": "notes/books/O Mitico Homem-Mes.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/gcp/GCP Fundamentals.md",
+                "file": "notes/books/O Mitico Homem-Mes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/gcp/GCP Fundamentals.md"
+                "file": "notes/books/O Mitico Homem-Mes.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/gcp/GCP Fundamentals.md",
+                "file": "notes/books/O Mitico Homem-Mes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,7 @@
   },
   "active": "e05f61f539d7ac1d",
   "lastOpenFiles": [
+    "notes/learning/gcp/GCP Fundamentals.md",
     "notes/books/O Mitico Homem-Mes.md",
     "moc/books.md",
     "notes/Build Instagram with Ruby on Rails and TDD.md",
@@ -157,7 +158,6 @@
     "notes/TDD-Refactoring literature.md",
     "notes/ruby minitest.md",
     "notes/nginx.md",
-    "private/kanban/kanban - courses.md",
-    "private/kanban/kanban.md"
+    "private/kanban/kanban - courses.md"
   ]
 }
