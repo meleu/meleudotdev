@@ -32,7 +32,7 @@ No entanto, os problemas colaterais representam apenas 1/10 dos desafios de enge
 
 #### O que fazer com esse aprendizado?
 
-- Ter sempre em mente que **Gestão da Complexidade** deve ser o imperativo técnico primário do software ([[Code Complete]]).
+- Ter sempre em mente que **Gestão da Complexidade** deve ser o imperativo técnico primário do software (ver também: [[Code Complete]]).
     - Tenho exemplos que reais em que observei que ter esse imperativo em mente me ajudou a não me satisfazer com a primeira solução e continuar tentando soluções mais simples.
 
 - Estudar técnicas para criar protótipos rapidamente (exemplo: Ruby on Rails para backend, Bootstrap para UI)
