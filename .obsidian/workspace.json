@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/PL.md",
+                "file": "notes/books/Pai Rico, Pai Pobre.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spanner",
+                "query": "corrida dos ratos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/PL.md",
+                "file": "notes/books/Pai Rico, Pai Pobre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/PL.md"
+                "file": "notes/books/Pai Rico, Pai Pobre.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/PL.md",
+                "file": "notes/books/Pai Rico, Pai Pobre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,7 @@
   },
   "active": "e05f61f539d7ac1d",
   "lastOpenFiles": [
+    "private/PL.md",
     "notes/books/O Mitico Homem-Mes.md",
     "notes/learning/gcp/GCP Fundamentals.md",
     "moc/books.md",
@@ -157,7 +158,6 @@
     "notes/learning/Fundamentals of TDD - upcase.md",
     "notes/TDD-Refactoring literature.md",
     "notes/ruby minitest.md",
-    "notes/nginx.md",
-    "private/kanban/kanban - courses.md"
+    "notes/nginx.md"
   ]
 }
