@@ -5,7 +5,12 @@ dg-publish: true
 
 My current focus is to have an in-depth knowledge of Kubernetes.
 
-Also, the idea of **managing complexity** is something that recently I'm constantly thinking (while reading the [[Code Complete]] book).
+
+## Frequent Ideas
+
+- Managing complexity: the software's primary technical imperative. ([[Code Complete]])
+- How to encourage co-workers to care about the quality of their work, despite business pressure? ([[Clean Code]])
+
 
 ## Studying
 
@@ -20,7 +25,7 @@ Also, the idea of **managing complexity** is something that recently I'm constan
 ## 2022 goals
 
 - [ ] CKAD
-- [ ] [[learn-ruby]]
+- [x] [[learn-ruby]]
 - [ ] ~~do the Le Wagon bootcamp~~ (postponed to april/2023)
 - [ ] ~~GCP Associate Certificate Engineer~~ changed my mind
 

@@ -20,8 +20,8 @@ dg-publish: true
 - Estabeleça um "zero virtual" para a sua conta corrente.
     - Minha conta corrente nunca pode chegar a zero. Ela possui um zero "virtual" de X mil reais. Quando o saldo da minha conta é menor que X mil reais, eu estou me devendo dinheiro e devo me pagar o mais rápido possível. (uma ideia que tive por não ficar controlando pra onde vão meus gastos)
     - **obs**.: isso não funciona com todo mundo.
-- Focarei em construir ativos antes de começar a comprar passivos. [[Pai Rico, Pai Pobre]]
-- Não estabeleça um teto para sua receita. [[Segredos da Mente Milionária]]
+- Focarei em construir ativos antes de começar a comprar passivos. ([[Pai Rico, Pai Pobre]])
+- Não estabeleça um teto para sua receita. ([[Segredos da Mente Milionária]])
     - Como tempo é um recurso finito, trocar tempo por dinheiro é estabelecer um limite para sua receita.
     - Esse princípio me estimula a me aventurar em desenvolvimento web, onde posso desenvolver algo que vai me gerar receita simplesmente por resolver o problema de alguém. As vezes não sendo necessário a minha atuação frequente.
 

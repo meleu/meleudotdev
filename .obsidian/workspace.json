@@ -10,10 +10,24 @@
           {
             "id": "e05f61f539d7ac1d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Pai Rico, Pai Pobre.md",
+                "file": "notes/books/Clean Code.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6fc2097b069edcd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "now.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "corrida dos ratos",
+                "query": "imperative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 374.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -87,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Pai Rico, Pai Pobre.md",
+                "file": "notes/books/Clean Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Pai Rico, Pai Pobre.md"
+                "file": "notes/books/Clean Code.md"
               }
             }
           },
@@ -125,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Pai Rico, Pai Pobre.md",
+                "file": "notes/books/Clean Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,15 +164,15 @@
   },
   "active": "e05f61f539d7ac1d",
   "lastOpenFiles": [
+    "now.md",
+    "notes/principios.md",
+    "notes/Questions a DevOps should ask.md",
+    "notes/books/Clean Code.md",
+    "notes/books/Pai Rico, Pai Pobre.md",
     "private/PL.md",
     "notes/books/O Mitico Homem-Mes.md",
     "notes/learning/gcp/GCP Fundamentals.md",
     "moc/books.md",
-    "notes/Build Instagram with Ruby on Rails and TDD.md",
-    "notes/books/Clean Code.md",
-    "notes/learning/Fundamentals of TDD - upcase.md",
-    "notes/TDD-Refactoring literature.md",
-    "notes/ruby minitest.md",
-    "notes/nginx.md"
+    "notes/Build Instagram with Ruby on Rails and TDD.md"
   ]
 }
