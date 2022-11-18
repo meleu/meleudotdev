@@ -27,13 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "now.md",
+                "file": "notes/principios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "756093a1ed70126d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Principles of a Software Engineer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "imperative",
+                "query": "managing complexity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Clean Code.md",
+                "file": "notes/Principles of a Software Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Clean Code.md"
+                "file": "notes/Principles of a Software Engineer.md"
               }
             }
           },
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Clean Code.md",
+                "file": "notes/Principles of a Software Engineer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,12 +175,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e05f61f539d7ac1d",
+  "active": "756093a1ed70126d",
   "lastOpenFiles": [
-    "now.md",
     "notes/principios.md",
-    "notes/Questions a DevOps should ask.md",
     "notes/books/Clean Code.md",
+    "now.md",
+    "notes/Questions a DevOps should ask.md",
     "notes/books/Pai Rico, Pai Pobre.md",
     "private/PL.md",
     "notes/books/O Mitico Homem-Mes.md",
