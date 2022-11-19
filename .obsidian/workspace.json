@@ -46,7 +46,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Principles of a Software Engineer.md",
+                "file": "notes/books/Clean Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Principles of a Software Engineer.md"
+                "file": "notes/books/Clean Code.md"
               }
             }
           },
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Principles of a Software Engineer.md",
+                "file": "notes/books/Clean Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,8 +174,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "756093a1ed70126d",
+  "active": "e05f61f539d7ac1d",
   "lastOpenFiles": [
+    "notes/Principles of a Software Engineer.md",
     "notes/principios.md",
     "notes/books/Clean Code.md",
     "now.md",
@@ -185,7 +185,6 @@
     "private/PL.md",
     "notes/books/O Mitico Homem-Mes.md",
     "notes/learning/gcp/GCP Fundamentals.md",
-    "moc/books.md",
-    "notes/Build Instagram with Ruby on Rails and TDD.md"
+    "moc/books.md"
   ]
 }
