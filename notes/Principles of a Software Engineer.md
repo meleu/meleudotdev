@@ -6,15 +6,16 @@ dg-publish: true
 My principles related to my profession.
 
 - **Primary technical imperative: Managing Complexity**
-    - 🇧🇷 Complexidade causa:
-        - dificuldade de comunicação entre os membros da equipe, que leva a deficiências no produto, aumento dos custos, atraso de cronograma
-        - dificuldade de enumerar e entender todos os estados possíveis de um programa, e daí vem a falta de confiabilidade.
-        - dificuldade de ampliar os programas com novas funções sem criar efeitos colaterais.
-        - estados não percebidos, que acabam por criar vulnerabilidades de segurança
+    - Complexity causes:
+        - harder communication between team members, which leads to deficiencies in the product, **increased costs**, and **delayed schedule**.
+        - difficulty in list and understand all possible states of a program, which causes lack of confidence.
+        - difficulty to evolve the software without creating side effects.
+        - unnoticed states, which leads to security vulnerabilities
 
 - I want the reading of code to be easy, even if it makes the writing harder.
     - We read code much more than we write.
     - In order to write code we need to read code (evidence that easy to read is priority over writing AND easier to read means easier to write)
+    - **I want my code to be a quick skim, not an intense study.**
 
 
 ## Influence
