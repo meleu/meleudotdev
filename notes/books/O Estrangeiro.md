@@ -1,7 +1,14 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: 2022
+author: Albert Camus
 ---
-# O Estrangeiro - Albert Camus
+
+# O Estrangeiro
+
+#books/fiction 
 
 Li por conta do Clube do Livro Entrelinhas.
 

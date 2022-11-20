@@ -2,7 +2,7 @@
 dg-publish: true
 tags:
   - books
-read-timestamp: 2022-11
+read-timestamp: 2022
 author: Robert Martin
 ---
 

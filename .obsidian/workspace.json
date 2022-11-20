@@ -15,8 +15,8 @@
               "type": "markdown",
               "state": {
                 "file": "notes/books/Clean Code.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               },
               "pinned": true
             }
@@ -27,13 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Principles of a Software Engineer.md",
+                "file": "notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Clean Code.md",
+                "file": "notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Clean Code.md"
+                "file": "notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade.md"
               }
             }
           },
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Clean Code.md",
+                "file": "notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,17 +163,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e05f61f539d7ac1d",
+  "active": "756093a1ed70126d",
   "lastOpenFiles": [
-    "notes/Principles of a Software Engineer.md",
     "notes/books/Clean Code.md",
+    "notes/books/O Estrangeiro.md",
+    "notes/Principles of a Software Engineer.md",
     "notes/principios.md",
     "now.md",
     "notes/Questions a DevOps should ask.md",
     "notes/books/Pai Rico, Pai Pobre.md",
     "private/PL.md",
     "notes/books/O Mitico Homem-Mes.md",
-    "notes/learning/gcp/GCP Fundamentals.md",
-    "moc/books.md"
+    "notes/learning/gcp/GCP Fundamentals.md"
   ]
 }

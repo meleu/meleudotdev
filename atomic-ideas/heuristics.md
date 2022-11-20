@@ -3,6 +3,7 @@ dg-publish: true
 ---
 # Heuristics vs. Algorithms, or why questions are more important than the answers
 
+> You might think of heuristics as the guides for the trials in "trial and error."
 
 Heristic is a way to think how to discover a solution rather than having a solution.
 
