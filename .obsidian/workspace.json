@@ -27,8 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade.md",
+                "file": "atomic-ideas/heuristics.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9dd14da7354c4f36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade.md",
+                "file": "atomic-ideas/heuristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade.md"
+                "file": "atomic-ideas/heuristics.md"
               }
             }
           },
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade.md",
+                "file": "atomic-ideas/heuristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,15 +177,15 @@
   },
   "active": "756093a1ed70126d",
   "lastOpenFiles": [
+    "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md",
+    "notes/books/code-complete/Code Complete.md",
+    "atomic-ideas/heuristics.md",
+    "notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade.md",
     "notes/books/Clean Code.md",
     "notes/books/O Estrangeiro.md",
     "notes/Principles of a Software Engineer.md",
     "notes/principios.md",
     "now.md",
-    "notes/Questions a DevOps should ask.md",
-    "notes/books/Pai Rico, Pai Pobre.md",
-    "private/PL.md",
-    "notes/books/O Mitico Homem-Mes.md",
-    "notes/learning/gcp/GCP Fundamentals.md"
+    "notes/Questions a DevOps should ask.md"
   ]
 }
