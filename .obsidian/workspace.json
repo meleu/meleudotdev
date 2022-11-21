@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atomic-ideas/heuristics.md",
+                "file": "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atomic-ideas/heuristics.md"
+                "file": "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atomic-ideas/heuristics.md",
+                "file": "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,11 +175,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "756093a1ed70126d",
+  "active": "9dd14da7354c4f36",
   "lastOpenFiles": [
+    "atomic-ideas/heuristics.md",
     "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md",
     "notes/books/code-complete/Code Complete.md",
-    "atomic-ideas/heuristics.md",
     "notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade.md",
     "notes/books/Clean Code.md",
     "notes/books/O Estrangeiro.md",
