@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md",
+                "file": "notes/books/Clean Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md"
+                "file": "notes/books/Clean Code.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md",
+                "file": "notes/books/Clean Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
