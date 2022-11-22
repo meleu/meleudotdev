@@ -93,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +174,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9dd14da7354c4f36",
+  "active": "0da2875d0547afe4",
   "lastOpenFiles": [
     "atomic-ideas/heuristics.md",
     "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md",

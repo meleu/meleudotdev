@@ -185,6 +185,7 @@ Pick one word per concept and be consistent!
 > In an imaginary application called "Gas Station Deluxe", it is a bad idea to prefix every class with `GSD`. Frankly, you are working against your tools. You type `G` and press the completion key and are rewarded with a mile-long list of every class in the system. Is that wise? Why make it harder for the IDE to help you?
 
 
+## Functions
 
-
+"Cada função é um degrau de abstração."
 
