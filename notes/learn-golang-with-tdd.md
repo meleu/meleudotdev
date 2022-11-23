@@ -29,6 +29,10 @@ dg-publish: true
 - `t.Errorf` prints a message when a test fails.
 - `%q` means "string surrounded with double quotes", in the string format context 
 
+### Doubts
+
+- why sometimes `varName := value` and other times `varName = value`?
+
 ### Didn't work
 
 ```bash
