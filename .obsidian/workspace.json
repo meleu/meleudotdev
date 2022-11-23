@@ -8,33 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e05f61f539d7ac1d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/books/Clean Code.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "aa19dfd69e9cf204",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/Red Hat.md",
+                "file": "notes/learn-golang-with-tdd.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -102,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/Red Hat.md",
+                "file": "notes/learn-golang-with-tdd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/Red Hat.md"
+                "file": "notes/learn-golang-with-tdd.md"
               }
             }
           },
@@ -140,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/Red Hat.md",
+                "file": "notes/learn-golang-with-tdd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,15 +149,15 @@
   },
   "active": "aa19dfd69e9cf204",
   "lastOpenFiles": [
+    "notes/golang.md",
+    "notes/TDD-Refactoring literature.md",
     "notes/books/Clean Code.md",
+    "private/carreira/Red Hat.md",
     "private/assets/docker-sources.pdf",
     "atomic-ideas/Gripes always go up.md",
     "atomic-ideas/heuristics.md",
     "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md",
     "notes/books/code-complete/Code Complete.md",
-    "notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade.md",
-    "notes/books/O Estrangeiro.md",
-    "notes/Principles of a Software Engineer.md",
-    "notes/principios.md"
+    "notes/books/12-regras/Regra 02 - Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade.md"
   ]
 }
