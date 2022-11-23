@@ -17,6 +17,7 @@ deck: webdev::css
 - <https://css-for-js.dev/> - [paid] this seems to be an awesome course (CSS aimed to JS developers).
 - <https://cssgrid.io/> - CSS grid layout.
 - <https://flexbox.io/> - Flexbox layout.
+- <https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/>
 
 
 
