@@ -9,13 +9,6 @@ dg-publish: true
 
 ---
 
-## Few rules to writing tests
-
-- file name must be `${something}_test.go`
-- the test function must start with `Test`
-- test function takes only one argument `t *testing.T`
-- in order to use `*testing.T` type you need to `import "testing"`
-
 
 ## Hello, World
 
@@ -24,10 +17,18 @@ dg-publish: true
 
 - `if` works like other programming languages, without `(`parenthesis`)`
 - blocks are defined with `{`curly braces`}`
-- variables are assigned like in Pascal: `varName := value`
-    - I noticed that there's no type definition when assigning variables
+- variables are ~~assigned~~ declared like this: `varName := value`
+    - I [researched](https://stackoverflow.com/a/36513229/6354514) and realized that `:=` is used when we want to omit the type of the variable (it's automatically detected based on the value)
 - `t.Errorf` prints a message when a test fails.
 - `%q` means "string surrounded with double quotes", in the string format context 
+
+#### Few rules to writing tests
+
+- file name must be `${something}_test.go`
+- the test function must start with `Test`
+- test function takes only one argument `t *testing.T`
+- in order to use `*testing.T` type you need to `import "testing"`
+
 
 ### Doubts
 
