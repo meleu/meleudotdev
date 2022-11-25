@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa19dfd69e9cf204",
+            "id": "91ade553d09ec424",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "private/kanban/kanban.md"
-              }
+                "file": "atomic-ideas/managing complexity.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
@@ -47,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "managing complexity",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +68,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/kanban/kanban.md",
+                "file": "atomic-ideas/managing complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/kanban/kanban.md"
+                "file": "atomic-ideas/managing complexity.md"
               }
             }
           },
@@ -123,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/kanban/kanban.md",
+                "file": "atomic-ideas/managing complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aa19dfd69e9cf204",
+  "active": "91ade553d09ec424",
   "lastOpenFiles": [
     "notes/learn-golang-with-tdd.md",
+    "atomic-ideas/managing complexity.md",
+    "notes/books/code-complete/Code Complete.md",
+    "now.md",
+    "notes/books/code-complete/Code Complete - Checklist - Requirements.md",
+    "private/kanban/kanban.md",
     "notes/golang.md",
     "notes/TDD-Refactoring literature.md",
     "notes/books/Clean Code.md",
-    "private/carreira/Red Hat.md",
-    "private/assets/docker-sources.pdf",
-    "atomic-ideas/Gripes always go up.md",
-    "atomic-ideas/heuristics.md",
-    "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md",
-    "notes/books/code-complete/Code Complete.md"
+    "private/carreira/Red Hat.md"
   ]
 }
