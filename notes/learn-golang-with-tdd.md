@@ -12,15 +12,22 @@ dg-publish: true
 
 ## Hello, World
 
+- <https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world>
 
 ### What I learned
 
 - `if` works like other programming languages, without `(`parenthesis`)`
 - blocks are defined with `{`curly braces`}`
 - variables are ~~assigned~~ declared like this: `varName := value`
-    - I [researched](https://stackoverflow.com/a/36513229/6354514) and realized that `:=` is used when we want to omit the type of the variable (it's automatically detected based on the value)
+    - I [researched](https://stackoverflow.com/a/36513229/6354514) and realized that
+        - ` := ` for [short variable declarations](https://go.dev/ref/spec#Short_variable_declarations)
+        - ` = ` for [variable declarations](https://go.dev/ref/spec#Variable_declarations) and [assignments](https://go.dev/ref/spec#Assignment_statements).
 - `t.Errorf` prints a message when a test fails.
-- `%q` means "string surrounded with double quotes", in the string format context 
+- `%q` means "string surrounded with double quotes", in the string format context
+- `func greetingPrefix(language string) (prefix string)` creates a **named return value**
+      - this creates a variable called `prefix` in the function
+          - it will be assigned the "zero" value. In this case (`string`): `""`
+- in Go, public functions start with a capital letter and private ones start with a lowercase.
 
 #### Few rules to writing tests
 
@@ -29,10 +36,6 @@ dg-publish: true
 - test function takes only one argument `t *testing.T`
 - in order to use `*testing.T` type you need to `import "testing"`
 
-
-### Doubts
-
-- why sometimes `varName := value` and other times `varName = value`?
 
 ### Didn't work
 
@@ -46,7 +49,7 @@ godoc -http :8000
 ```
 
 
-### Code
+### Starting a module
 
 create the `hello` module:
 ```bash

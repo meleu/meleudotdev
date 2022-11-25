@@ -59,8 +59,8 @@ graph LR
 
 > What are the benefits of TDD?
 > 
-> Number one, it forces you to become a better developer. Simply practicing this thing is one of the best ways that I have become a better developer and matured as a programmer, especially in my object oriented thinking.
-> You don't have to read additional blog posts. You don't have to read additional blog posts. This is something that you can do every day. Whenever you write code, just write your tests first.
+> It forces you to become a better developer. Simply practicing this thing is one of the best ways that I have become a better developer and matured as a programmer, especially in my object oriented thinking.
+> You don't have to read additional blog posts. This is something that you can do every day. Whenever you write code, just write your tests first.
 
 
 ### The `describe` method - example group
@@ -99,7 +99,7 @@ RSpec.describe 'Card' do
 end
 ```
 
-The idea is to describe how the software should behave, instead of saying it should be implemented.
+The idea is to describe how the software should behave, instead of saying how it should be implemented.
 
 **Note**: the `specify` method has the exact same meaning as `it`.
 
