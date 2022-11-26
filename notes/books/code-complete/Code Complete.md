@@ -18,21 +18,23 @@ After reading the first 7 chapters I realized that this book has a lot of "proga
 
 ---
 
+## Most valuable learnings
+
+- [[Code Complete - 5.2. Sotfware's Primary Technical Imperative - Managing Complexity|Top Priority: Manage Complexity]] - what should I always keep in mind while working with software?
+- [[Code Complete - 2. Metaphors for a Richer Understanding of Software Development#Algorithm vs. Heuristic|Algorithm vs. Heuristic]] - what should I keep in mind when I'm studying other people's work?
+- [[Code Complete - 3.2. Determine the Kind of Software You're Working On|Determine the Kind of Software You're Working On]] - what should I expect if I join this project?
+
+
+---
+
 ## My notes
 
 - [[Code Complete - 0. Preface]]
 - [[Code Complete - 1. Welcome to Software Construction]]
 - [[Code Complete - 2. Metaphors for a Richer Understanding of Software Development]]
 - [[Code Complete - 3.2. Determine the Kind of Software You're Working On]]
-
-
----
-
-
-## Most valuable learnings
-
-- [[Code Complete - 2. Metaphors for a Richer Understanding of Software Development#Algorithm vs. Heuristic|Algorithm vs. Heuristic]]
-- [[Code Complete - 3.2. Determine the Kind of Software You're Working On|Determine the Kind of Software You're Working On]]
+- [[Code Complete - 5. Design in Construction]]
+    - [[Code Complete - 5.2. Sotfware's Primary Technical Imperative - Managing Complexity]]
 
 
 ---

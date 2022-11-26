@@ -8,7 +8,7 @@ In software literature there are many references from the "great masters" talkin
 
 ## Problems caused by complexity
 
-From [[O Mitico Homem-Mes]] (Mythical Man Month).
+From [[O Mitico Homem-Mes]] (The Mythical Man Month).
 
 - Complexity causes:
     - harder communication between team members, which leads to deficiencies in the product, **increased costs**, and **delayed schedule**.
@@ -21,16 +21,7 @@ From [[O Mitico Homem-Mes]] (Mythical Man Month).
 
 From [[Code Complete]].
 
-> Once you understand that all other technical goals in software are secondary to managing complexity, many design considerations become straightforward.
-
-I noticed how this thought influenced me when I check commit diffs. If the code is not simpler, I'm not satisfied.
-
-> You might think of this 
-
-
-One of the reasons for project failure:
-
-> When projects fail for reasons that are primarily technical, the reason is often uncontrolled complexity. The software is allowed to grow so complex that no one really knows what it does. When a project reaches the point at which no one completely understands the impact that code changes in one area will have on other areas, progress grinds to a halt.
+![[Code Complete - 5.2. Sotfware's Primary Technical Imperative - Managing Complexity]]
 
 
 ## Lehman's Law of Increasing Complexity
@@ -48,7 +39,7 @@ We **must** keep managing the complexity of the system as the knowledge of our d
 
 We should never use this 👆 as an excuse to tolerate "artificial" complexity.
 
-This law refers to the "minimal amount of complexity" in a system. Such complexity cannot be reduced, but "shifted" from a step in the value chain to another. Despite this law, you must always keep your eyes open and avoid increasing the "artificial" complexity (the complexity caused by bad design, bad coding practices, etc.).
+This law refers to the "minimal amount of complexity" in a system. Such complexity cannot be reduced, but "shifted" from a step in the value stream to another. Despite this law, you must always keep your eyes open and avoid increasing the "artificial" complexity (the complexity caused by bad design, bad coding practices, etc.).
 
 
 ## references

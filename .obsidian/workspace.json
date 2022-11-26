@@ -20,8 +20,57 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "46f6f8c41112f750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/books/code-complete/Code Complete.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "980675d24881c9ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Code Complete - 5. Design in Construction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a1d62e4c7cf3410",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/books/code-complete/Code Complete - 5.2. Sotfware's Primary Technical Imperative - Managing Complexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8439a25a466a97de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -90,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atomic-ideas/managing complexity.md",
+                "file": "notes/books/code-complete/Code Complete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atomic-ideas/managing complexity.md"
+                "file": "notes/books/code-complete/Code Complete.md"
               }
             }
           },
@@ -128,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atomic-ideas/managing complexity.md",
+                "file": "notes/books/code-complete/Code Complete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,17 +199,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "91ade553d09ec424",
+  "active": "46f6f8c41112f750",
   "lastOpenFiles": [
-    "notes/Principles of a Software Engineer.md",
-    "atomic-ideas/managing complexity.md",
-    "notes/books/O Mitico Homem-Mes.md",
+    "notes/Code Complete - 5. Design in Construction.md",
+    "notes/books/code-complete/Code Complete - 5.2. Sotfware's Primary Technical Imperative - Managing Complexity.md",
     "notes/books/code-complete/Code Complete.md",
+    "notes/books/code-complete/Code Complete - 3.2. Determine the Kind of Software You're Working On.md",
+    "atomic-ideas/managing complexity.md",
+    "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md",
+    "notes/Principles of a Software Engineer.md",
+    "notes/books/O Mitico Homem-Mes.md",
     "notes/learn-golang-with-tdd.md",
-    "now.md",
-    "notes/books/code-complete/Code Complete - Checklist - Requirements.md",
-    "private/kanban/kanban.md",
-    "notes/golang.md",
-    "notes/TDD-Refactoring literature.md"
+    "now.md"
   ]
 }
