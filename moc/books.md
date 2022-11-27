@@ -7,8 +7,7 @@ dg-permalink: books
 ## currently reading
 
 - [[Os 7 Habitos das pessoas Altamente Eficazes]]
-- [[O Mitico Homem-Mes]]
-
+- ⭐ [[Clean Code]]
 
 ---
 
@@ -43,6 +42,7 @@ Maybe this list can tell a bit about who I am.
 
 #### unfinished
 
+- [[O Mitico Homem-Mes]]
 - [[Building a Second Brain]]
 - ⭐ [[Sapiens]]
 - [[Antifragil]]
@@ -118,7 +118,6 @@ Maybe this list can tell a bit about who I am.
 - ⭐ [[Rápido e Devagar]]
 - [[Essencialismo]]
 - [[Trabalhe 4 Horas por Semana]]
-- ⭐ [[Clean Code]]
 - [[Startup de $100]]
 - [[Como Organizar sua Vida Financeira - Cerbasi]]
 - [[Como fazer amigos e influenciar pessoas]]

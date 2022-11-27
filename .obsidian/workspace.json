@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "8740797e352e4359",
+        "id": "a00ae76e9261e392",
         "type": "tabs",
         "children": [
           {
-            "id": "1567c3a4a543c3b5",
+            "id": "b30eaac03486b369",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/bash.md",
-                "mode": "preview",
+                "file": "moc/books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43f1e55d860ace86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/books/clean-code/Clean Code - 3. Functions.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -66,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/bash.md",
+                "file": "moc/books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/bash.md"
+                "file": "moc/books.md"
               }
             }
           },
@@ -126,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/bash.md",
+                "file": "moc/books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1567c3a4a543c3b5",
+  "active": "b30eaac03486b369",
   "lastOpenFiles": [
+    "notes/books/clean-code/Clean Code.md",
+    "notes/books/clean-code/Clean Code - 3. Functions.md",
+    "notes/books/clean-code/Clean Code - 1. Clean Code.md",
+    "notes/books/clean-code/Clean Code - 2. Meaningful Names.md",
+    "notes/books/The Art of Unix Programming/The Art of Unix Programming.md",
+    "notes/bash.md",
     "notes/bash-ideas.md",
-    "notes/books/Clean Code.md",
     "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md",
     "atomic-ideas/managing complexity.md",
-    "notes/books/code-complete/Code Complete.md",
-    "notes/Code Complete - 5. Design in Construction.md",
-    "notes/books/code-complete/Code Complete - 5.2. Sotfware's Primary Technical Imperative - Managing Complexity.md",
-    "notes/books/code-complete/Code Complete - 3.2. Determine the Kind of Software You're Working On.md",
-    "notes/Principles of a Software Engineer.md",
-    "notes/books/O Mitico Homem-Mes.md"
+    "notes/books/code-complete/Code Complete.md"
   ]
 }
