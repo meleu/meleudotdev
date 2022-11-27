@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Clean Code.md",
-                "mode": "source",
-                "source": true
+                "file": "notes/bash.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Clean Code.md",
+                "file": "notes/bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Clean Code.md"
+                "file": "notes/bash.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Clean Code.md",
+                "file": "notes/bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,6 +150,8 @@
   },
   "active": "1567c3a4a543c3b5",
   "lastOpenFiles": [
+    "notes/bash-ideas.md",
+    "notes/books/Clean Code.md",
     "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md",
     "atomic-ideas/managing complexity.md",
     "notes/books/code-complete/Code Complete.md",
@@ -157,8 +159,6 @@
     "notes/books/code-complete/Code Complete - 5.2. Sotfware's Primary Technical Imperative - Managing Complexity.md",
     "notes/books/code-complete/Code Complete - 3.2. Determine the Kind of Software You're Working On.md",
     "notes/Principles of a Software Engineer.md",
-    "notes/books/O Mitico Homem-Mes.md",
-    "notes/learn-golang-with-tdd.md",
-    "now.md"
+    "notes/books/O Mitico Homem-Mes.md"
   ]
 }

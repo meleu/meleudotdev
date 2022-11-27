@@ -195,6 +195,11 @@ Some rules for functions:
 - Read code from top to bottom
 - Use descriptive names
 - Use as less arguments as you can (ideally zero)
+- Have no side effects
+
+> Anything that forces you to check the function signature is equivalent to a double-take. It's a cognitive break and should be avoided.
+
+
 
 ### Small!
 
@@ -232,6 +237,10 @@ The functions should be small.
 
 > Don't be afraid to make a name long. A long descriptive name is better than a short enigmatic name. A long descriptive name is better than a long descriptive comment.
 
+> Choosing good names for a function can go a long way toward explaining the intent of the function and the order and intent of the arguments.
+> 
+> (...) For Example, `assertEquals` might be better written as `assertExpectedEqualsActual(expected, actual).` This strongly mitigates the problem of having to remember the ordering of the arguments.
+
 
 
 ### Function Arguments
@@ -240,5 +249,28 @@ The functions should be small.
 
 Besides the "easy to read and understand" reason, another one that I liked while reading the book is that "the more arguments a function has, the harder it is to write tests for it".
 
+#### Flag Arguments
+
+> Flag arguments are ugly. Passing a boolean into a function is a truly terrible practice. It immediately complicates the signature of the method, **loudly proclaiming that this function does more than one thing**. It does one thing if the flag is true and another if the flag is false!
+
+The solution is to create different functions for each behavior.
+
+
+#### Output Arguments
+
+> Output arguments are harder to understand than input arguments. When we read a function, we are used to the idea of information going *in* to the function through arguments and *out* through return value. We don't usually expect information to be going out through the arguments. So output arguments often cause us to do a double-take.
+> 
+> (...) Using an output argument instead of a return value for a transformation is confusing. If a function is going to transform its input argument, the transformation should appear as the return value.
+
+
+### Have No Side Effects
+
+> Side effects are lies. Your function promises to do one thing, but it also does other *hidden* things.
+
+In the book (p. 44) it shows an example of a `checkPassword()` functions that also does `Session.initialize()`, which is considered a side-effect. A function that promises to check the password should not initialize a session.
+
+### Command Query Separation
+
+> Functions should either **do something** or **answer something**, but not both. Either your function should change the state of an object, or it should return some information about that object. Doing both often leads to confusion.
 
 
