@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "moc/books.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43f1e55d860ace86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/books/clean-code/Clean Code - 3. Functions.md",
+                "file": "log/2022-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
-    "collapsed": true
+    "width": 374.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moc/books.md",
+                "file": "log/2022-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moc/books.md"
+                "file": "log/2022-11.md"
               }
             }
           },
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "moc/books.md",
+                "file": "log/2022-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,15 +148,15 @@
   },
   "active": "b30eaac03486b369",
   "lastOpenFiles": [
+    "log/2022-10.md",
+    "log/2022-09.md",
+    "log/2022-08.md",
+    "log/2022-06.md",
+    "log/2022-11.md",
+    "private/kanban/kanban - books.md",
+    "moc/books.md",
     "notes/books/clean-code/Clean Code.md",
     "notes/books/clean-code/Clean Code - 3. Functions.md",
-    "notes/books/clean-code/Clean Code - 1. Clean Code.md",
-    "notes/books/clean-code/Clean Code - 2. Meaningful Names.md",
-    "notes/books/The Art of Unix Programming/The Art of Unix Programming.md",
-    "notes/bash.md",
-    "notes/bash-ideas.md",
-    "notes/books/code-complete/Code Complete - 2. Metaphors for a Richer Understanding of Software Development.md",
-    "atomic-ideas/managing complexity.md",
-    "notes/books/code-complete/Code Complete.md"
+    "notes/books/clean-code/Clean Code - 1. Clean Code.md"
   ]
 }

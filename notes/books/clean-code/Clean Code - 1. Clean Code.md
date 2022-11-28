@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Clean Code - 1. Clean Code
 
 [TOC]
