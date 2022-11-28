@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/clean-code/Clean Code - 3. Functions.md",
+                "file": "notes/Questions a DevOps should ask.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/clean-code/Clean Code - 3. Functions.md",
+                "file": "notes/Questions a DevOps should ask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/clean-code/Clean Code - 3. Functions.md"
+                "file": "notes/Questions a DevOps should ask.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/clean-code/Clean Code - 3. Functions.md",
+                "file": "notes/Questions a DevOps should ask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,7 @@
   },
   "active": "b30eaac03486b369",
   "lastOpenFiles": [
+    "notes/books/clean-code/Clean Code - 3. Functions.md",
     "notes/books/clean-code/Clean Code.md",
     "log/2022-11.md",
     "log/2022-10.md",
@@ -157,7 +158,6 @@
     "log/2022-06.md",
     "private/kanban/kanban - books.md",
     "moc/books.md",
-    "notes/books/clean-code/Clean Code - 3. Functions.md",
     "notes/books/clean-code/Clean Code - 1. Clean Code.md"
   ]
 }

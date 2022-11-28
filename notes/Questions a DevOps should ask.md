@@ -4,9 +4,10 @@ dg-publish: true
 # Questions a DevOps should ask
 
 ### technical
+
 - How long would it take to deploy a change that involves just one single line of code?
     - Do you do this in a repeatable, reliable basis?
-
+- Which branching strategy are used?
 
 ### cultural
 
