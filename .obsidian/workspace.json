@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2022-11.md",
+                "file": "notes/books/clean-code/Clean Code - 3. Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 374.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2022-11.md",
+                "file": "notes/books/clean-code/Clean Code - 3. Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2022-11.md"
+                "file": "notes/books/clean-code/Clean Code - 3. Functions.md"
               }
             }
           },
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2022-11.md",
+                "file": "notes/books/clean-code/Clean Code - 3. Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,14 +149,14 @@
   },
   "active": "b30eaac03486b369",
   "lastOpenFiles": [
+    "notes/books/clean-code/Clean Code.md",
+    "log/2022-11.md",
     "log/2022-10.md",
     "log/2022-09.md",
     "log/2022-08.md",
     "log/2022-06.md",
-    "log/2022-11.md",
     "private/kanban/kanban - books.md",
     "moc/books.md",
-    "notes/books/clean-code/Clean Code.md",
     "notes/books/clean-code/Clean Code - 3. Functions.md",
     "notes/books/clean-code/Clean Code - 1. Clean Code.md"
   ]
