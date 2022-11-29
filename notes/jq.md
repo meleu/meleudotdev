@@ -5,22 +5,23 @@ dg-publish: true
 
 ## minify JSON with jq
 
-```
+```shell
 # --compact-output | -c
-$ date -c input.json
+$ jq -c input.json
 ```
 
 ## if with no else
 
 Else is mandatory, but you can use `empty` to make it do nothing.
 
-```
+```shell
 jq 'if CONDITION then SOMETHING else empty end' input.json
 ```
 
 
-## add meaningful description here
+## return empty string if result is `null`
 
-```
-jq '.[] | "\(.name):\(.zone)"'
+```shell
+# use '// empty' at the end of the expression
+jq '.EXPRESSION // empty' input.json
 ```
