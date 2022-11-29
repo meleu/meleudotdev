@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/jq.md",
+                "file": "notes/gitlab-ci - building images with kaniko.md",
                 "mode": "source",
                 "source": true
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/jq.md",
+                "file": "notes/gitlab-ci - building images with kaniko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/jq.md"
+                "file": "notes/gitlab-ci - building images with kaniko.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/jq.md",
+                "file": "notes/gitlab-ci - building images with kaniko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,7 @@
   },
   "active": "b30eaac03486b369",
   "lastOpenFiles": [
+    "notes/jq.md",
     "notes/Questions a DevOps should ask.md",
     "notes/books/clean-code/Clean Code - 3. Functions.md",
     "notes/books/clean-code/Clean Code.md",
@@ -157,7 +158,6 @@
     "log/2022-09.md",
     "log/2022-08.md",
     "log/2022-06.md",
-    "private/kanban/kanban - books.md",
-    "moc/books.md"
+    "private/kanban/kanban - books.md"
   ]
 }
