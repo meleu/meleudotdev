@@ -15,7 +15,7 @@
               "state": {
                 "file": "notes/gitlab-ci - building images with kaniko.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
