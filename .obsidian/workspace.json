@@ -11,8 +11,12 @@
             "id": "841ef61c260b0c36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "private/petrobras/permanencia na AMS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -66,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
-    "collapsed": true
+    "width": 374.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "private/petrobras/permanencia na AMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "private/petrobras/permanencia na AMS.md"
+              }
             }
           },
           {
@@ -118,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "private/petrobras/permanencia na AMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
