@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a00ae76e9261e392",
+        "id": "294454b71ef422d7",
         "type": "tabs",
         "children": [
           {
-            "id": "b30eaac03486b369",
+            "id": "841ef61c260b0c36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/gitlab-ci - building images with kaniko.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/gitlab-ci - building images with kaniko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/gitlab-ci - building images with kaniko.md"
-              }
+              "state": {}
             }
           },
           {
@@ -125,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/gitlab-ci - building images with kaniko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b30eaac03486b369",
+  "active": "841ef61c260b0c36",
   "lastOpenFiles": [
+    "notes/gitlab-ci.md",
+    "private/filhos/sobre preocupacoes com Davi.md",
+    "notes/gitlab-ci - building images with kaniko.md",
     "notes/jq.md",
     "notes/Questions a DevOps should ask.md",
     "notes/books/clean-code/Clean Code - 3. Functions.md",
     "notes/books/clean-code/Clean Code.md",
     "log/2022-11.md",
     "log/2022-10.md",
-    "log/2022-09.md",
-    "log/2022-08.md",
-    "log/2022-06.md",
-    "private/kanban/kanban - books.md"
+    "log/2022-09.md"
   ]
 }
