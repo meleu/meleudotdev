@@ -11,9 +11,11 @@
             "id": "841ef61c260b0c36",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "private/kanban/kanban.md"
+                "file": "private/PL.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/kanban/kanban.md",
+                "file": "private/PL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/kanban/kanban.md"
+                "file": "private/PL.md"
               }
             }
           },
@@ -124,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/kanban/kanban.md",
+                "file": "private/PL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,15 +150,15 @@
   },
   "active": "841ef61c260b0c36",
   "lastOpenFiles": [
-    "private/kanban/kanban - courses.md",
+    "notes/fundamental questions for IT professionals.md",
     "private/kanban/kanban.md",
+    "private/kanban/kanban - courses.md",
     "private/filhos/sobre preocupacoes com Davi.md",
     "private/petrobras/permanencia na AMS.md",
     "notes/gitlab-ci.md",
     "notes/gitlab-ci - building images with kaniko.md",
     "notes/jq.md",
     "notes/Questions a DevOps should ask.md",
-    "notes/books/clean-code/Clean Code - 3. Functions.md",
-    "notes/books/clean-code/Clean Code.md"
+    "notes/books/clean-code/Clean Code - 3. Functions.md"
   ]
 }
