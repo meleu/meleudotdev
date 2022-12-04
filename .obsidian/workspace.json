@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/postman.md",
+                "file": "notes/learning/postman - pluralsight.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/postman.md",
+                "file": "notes/learning/postman - pluralsight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/postman.md"
+                "file": "notes/learning/postman - pluralsight.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/postman.md",
+                "file": "notes/learning/postman - pluralsight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
