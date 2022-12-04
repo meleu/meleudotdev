@@ -5,6 +5,12 @@ dg-publish: true
 
 - <https://app.pluralsight.com/courses/83210591-dc61-4fda-a344-4e138ab0074e/table-of-contents>
 
+[TOC]
+
+
+---
+
+
 ## Getting Started
 
 ```shell
@@ -58,3 +64,20 @@ Note, in the video it's using an old UI. Currently the "Capture requests" button
 
 ![[postman - capture requests.png]]
 
+
+## Testing Requests
+
+- [official docs](https://learning.postman.com/docs/writing-scripts/test-scripts/)
+
+```js
+pm.test("Status code is 200", function () {
+  pm.response.to.have.status(200);
+});
+
+pm.test("Status code name has string", function () {
+  pm.response.to.have.status("Created");
+});
+```
+
+Postman's test syntax:
+`pm.test(testDescriptionString, testFunction)`
