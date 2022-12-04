@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "841ef61c260b0c36",
+            "id": "abc5a12f19d7c85a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/PL.md",
+                "file": "notes/postman.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/PL.md",
+                "file": "notes/postman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/PL.md"
+                "file": "notes/postman.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/PL.md",
+                "file": "notes/postman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,8 +148,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "841ef61c260b0c36",
+  "active": "abc5a12f19d7c85a",
   "lastOpenFiles": [
+    "notes/books/O Monge e o Executivo.md",
+    "private/PL.md",
     "notes/fundamental questions for IT professionals.md",
     "private/kanban/kanban.md",
     "private/kanban/kanban - courses.md",
@@ -157,8 +159,6 @@
     "private/petrobras/permanencia na AMS.md",
     "notes/gitlab-ci.md",
     "notes/gitlab-ci - building images with kaniko.md",
-    "notes/jq.md",
-    "notes/Questions a DevOps should ask.md",
-    "notes/books/clean-code/Clean Code - 3. Functions.md"
+    "notes/jq.md"
   ]
 }
