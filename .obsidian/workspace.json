@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/Ergodox EZ.md",
+                "file": "private/carreira/Staircase/1P_ We are a Software Company - Slab.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,13 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
-    "collapsed": true
+    "width": 374.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/Ergodox EZ.md",
+                "file": "private/carreira/Staircase/1P_ We are a Software Company - Slab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/Ergodox EZ.md"
+                "file": "private/carreira/Staircase/1P_ We are a Software Company - Slab.md"
               }
             }
           },
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "articles/Ergodox EZ.md",
+                "file": "private/carreira/Staircase/1P_ We are a Software Company - Slab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,15 +148,15 @@
   },
   "active": "abc5a12f19d7c85a",
   "lastOpenFiles": [
+    "private/carreira/Staircase/1P_ We are a Manufacturing Company - Slab.md",
+    "private/carreira/Staircase/Units of Work - Slab.md",
+    "private/carreira/Staircase/Staircase Virtues - Slab.md",
+    "articles/Ergodox EZ.md",
     "notes/learning/postman - pluralsight.md",
     "notes/books/O Monge e o Executivo.md",
     "private/PL.md",
     "notes/fundamental questions for IT professionals.md",
     "private/kanban/kanban.md",
-    "private/kanban/kanban - courses.md",
-    "private/filhos/sobre preocupacoes com Davi.md",
-    "private/petrobras/permanencia na AMS.md",
-    "notes/gitlab-ci.md",
-    "notes/gitlab-ci - building images with kaniko.md"
+    "private/kanban/kanban - courses.md"
   ]
 }
