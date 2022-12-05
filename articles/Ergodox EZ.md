@@ -8,6 +8,18 @@ description: Falando da minha experiência com o teclado Ergodox EZ
 
 # Ergodox EZ
 
+- [[#intro|intro]]
+- [[#motivação|motivação]]
+- [[#preço|preço]]
+- [[#primeiras impressões|primeiras impressões]]
+- [[#customização|customização]]
+- [[#opinião depois de um ano de uso|opinião depois de um ano de uso]]
+
+
+---
+
+## intro
+
 Neste artigo falo da minha experiência com o teclado [Ergodox EZ](https://ergodox-ez.com/). Trata-se de um teclado mecânico split (dividido em duas peças, o que traz benefícios ergonômicos) e altamente customizável.
 
 Vou falar da motivação de ter comprado esse teclado, quanto custou, primeiras impressões, e impressões após um ano de uso. Pretendo também descrever como foi o processo de adaptação e compartilhar algumas dicas que você pode usar caso tenha um perfil de uso parecido com o meu.
@@ -87,7 +99,7 @@ Consegui customizar meu layout para a maior parte desses meus hábitos, mas nos 
 Dessa lista de peculiaridades, percebi que consigo alternar tranquilamente quando preciso trabalhar no teclado laptop.
 
 
-## Minha opinião depois de um ano usando o Ergodox EZ
+## opinião depois de um ano de uso
 
 Continuo achando muito top e acredito que fiz um excelente investimento! Se um dia esse teclado der defeito, é muito provável que eu compre um outro teclado split e ortolinear.
 
