@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/copy container image from one registry to another.md",
+                "file": "notes/Python Development Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/copy container image from one registry to another.md",
+                "file": "notes/Python Development Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/copy container image from one registry to another.md"
+                "file": "notes/Python Development Setup.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/copy container image from one registry to another.md",
+                "file": "notes/Python Development Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,8 +150,8 @@
   },
   "active": "0ef14959d8e554e9",
   "lastOpenFiles": [
-    "private/carreira/Staircase/staircase interview with Guarino.md",
     "notes/copy container image from one registry to another.md",
+    "private/carreira/Staircase/staircase interview with Guarino.md",
     "private/carreira/Staircase/study for staircase.md",
     "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md",
     "notes/Python Development Setup.md",
