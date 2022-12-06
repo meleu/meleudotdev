@@ -3,6 +3,8 @@ dg-publish: false
 ---
 # Python Development Setup
 
+<https://realpython.com/vim-and-python-a-match-made-in-heaven/>
+
 
 ## references
 
