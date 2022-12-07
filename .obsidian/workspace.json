@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ef14959d8e554e9",
+            "id": "76e4383653563565",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Python Development Setup.md",
+                "file": "notes/learning/python - ztm.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Python Development Setup.md",
+                "file": "notes/learning/python - ztm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Python Development Setup.md"
+                "file": "notes/learning/python - ztm.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Python Development Setup.md",
+                "file": "notes/learning/python - ztm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,13 +148,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ef14959d8e554e9",
+  "active": "76e4383653563565",
   "lastOpenFiles": [
+    "notes/Python Development Setup.md",
     "notes/copy container image from one registry to another.md",
     "private/carreira/Staircase/staircase interview with Guarino.md",
     "private/carreira/Staircase/study for staircase.md",
     "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md",
-    "notes/Python Development Setup.md",
     "private/kanban/kanban.md",
     "private/carreira/Staircase/interview with Guarino.md",
     "private/carreira/Staircase/1P_ We are a WoW Company - Slab.md",
