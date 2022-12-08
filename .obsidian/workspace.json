@@ -15,7 +15,7 @@
               "state": {
                 "file": "notes/Python Tutorial.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }

@@ -7,6 +7,8 @@ Following the [official tutorial](https://docs.python.org/3/tutorial/).
 
 ## informal introduction
 
+<https://docs.python.org/3/tutorial/introduction.html>
+
 ### numbers
 
 - Number types: 
@@ -131,4 +133,61 @@ Strings can also be sliced:
 Strings are immutable.
 
 You can get the length of a string with `len()`
+
+## more control flow tools
+
+### defining  functions
+
+<https://docs.python.org/3/tutorial/controlflow.html#defining-functions>
+
+```python
+def fib(n):
+    """Print a Fibonacci series up to n."""
+    a, b = 0, 1
+    while a < n:
+        print(a, end=' ')
+        a, b = b, a+b
+    print()
+```
+
+The first statement of the function body can optionally be a string literal to be used as the function's documentation, the [docstring](https://docs.python.org/3/tutorial/controlflow.html#tut-docstrings). It's good practice to include docstrings, so make a habit of it.
+
+
+### more on defining functions
+
+<https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions>
+
+#### keyword arguments
+
+This function:
+```python
+def parrot(voltage, state='a stiff', action='voom', type='Norwegian Blue'):
+    print("-- This parrot wouldn't", action, end=' ')
+    print("if you put", voltage, "volts through it.")
+    print("-- Lovely plumage, the", type)
+    print("-- It's", state, "!")
+```
+
+can be called in any of the following ways:
+```python
+# 1 positional argument
+parrot(1000)
+
+# 1 keyword argument
+parrot(voltage=1000)
+
+# 2 keyword arguments
+parrot(voltage=1000000, action='VOOOOOM')
+
+# 2 keyword arguments
+parrot(action='VOOOOOM', voltage=1000000)
+
+# 3 positional arguments
+parrot('a million', 'bereft of life', 'jump')
+
+# 1 positional, 1 keyword
+parrot('a thousand', state='pushing up the daisies')
+```
+
+
 
