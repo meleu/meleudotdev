@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Python Tutorial.md",
+                "file": "notes/simple-http-server.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Python Tutorial.md",
+                "file": "notes/simple-http-server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Python Tutorial.md"
+                "file": "notes/simple-http-server.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Python Tutorial.md",
+                "file": "notes/simple-http-server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,15 +150,15 @@
   },
   "active": "8ccb1b1ca9dc27e4",
   "lastOpenFiles": [
+    "notes/Deployment Strategies Defined.md",
+    "notes/learning/k8s/kubernetes-ckad-with-tests/03.01-Commands and Arguments in Docker.md",
+    "notes/Python Tutorial.md",
     "notes/python.md",
     "private/carreira/Red Hat.md",
     "notes/learning/python - ztm.md",
     "notes/Python Development Setup.md",
     "notes/copy container image from one registry to another.md",
     "private/carreira/Staircase/staircase interview with Guarino.md",
-    "private/carreira/Staircase/study for staircase.md",
-    "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md",
-    "private/kanban/kanban.md",
-    "private/carreira/Staircase/interview with Guarino.md"
+    "private/carreira/Staircase/study for staircase.md"
   ]
 }
