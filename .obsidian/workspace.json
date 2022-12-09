@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/simple-http-server.md",
+                "file": "notes/gitlab-ci - building images with kaniko.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "crane",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/simple-http-server.md",
+                "file": "notes/gitlab-ci - building images with kaniko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/simple-http-server.md"
+                "file": "notes/gitlab-ci - building images with kaniko.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/simple-http-server.md",
+                "file": "notes/gitlab-ci - building images with kaniko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,6 +150,8 @@
   },
   "active": "8ccb1b1ca9dc27e4",
   "lastOpenFiles": [
+    "notes/docker best practices.md",
+    "notes/simple-http-server.md",
     "notes/Deployment Strategies Defined.md",
     "notes/learning/k8s/kubernetes-ckad-with-tests/03.01-Commands and Arguments in Docker.md",
     "notes/Python Tutorial.md",
@@ -157,8 +159,6 @@
     "private/carreira/Red Hat.md",
     "notes/learning/python - ztm.md",
     "notes/Python Development Setup.md",
-    "notes/copy container image from one registry to another.md",
-    "private/carreira/Staircase/staircase interview with Guarino.md",
-    "private/carreira/Staircase/study for staircase.md"
+    "notes/copy container image from one registry to another.md"
   ]
 }

@@ -18,7 +18,7 @@ Create a custom kaniko image with [crane](https://github.com/google/go-container
 ```Dockerfile
 FROM gcr.io/go-containerregistry/crane:v0.8.0 as crane
 
-FROM gcr.io/kaniko-project/executor:v1.8.0-debug
+FROM gcr.io/kaniko-project/executor:v1.9.1-debug
 
 COPY --from=crane /ko-app/crane /usr/local/bin/
 ```
