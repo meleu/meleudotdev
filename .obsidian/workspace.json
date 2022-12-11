@@ -10,11 +10,25 @@
           {
             "id": "8ccb1b1ca9dc27e4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "private/carreira/Staircase/staircase interview with Guarino.md",
                 "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "cd10269447063952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Questions a DevOps should ask.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -149,15 +163,15 @@
   },
   "active": "8ccb1b1ca9dc27e4",
   "lastOpenFiles": [
+    "notes/Questions a DevOps should ask.md",
+    "private/carreira/Staircase/staircase interview with Guarino.md",
+    "private/carreira/Staircase/study for staircase.md",
+    "notes/aws-lambda.md",
     "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md",
     "private/carreira/Staircase/1P_ We are a WoW Company - Slab.md",
     "private/carreira/Staircase/1P_ We are a Software Company - Slab.md",
     "private/carreira/Staircase/1P_ We are a Manufacturing Company - Slab.md",
     "private/carreira/Staircase/Units of Work - Slab.md",
-    "private/carreira/Staircase/Delivery Cadence - Slab.md",
-    "private/carreira/Staircase/1P_ We are Athletes - Slab.md",
-    "private/carreira/Staircase/staircase interview with Guarino.md",
-    "notes/gitlab-ci - building images with kaniko.md",
-    "notes/docker best practices.md"
+    "private/carreira/Staircase/Delivery Cadence - Slab.md"
   ]
 }
