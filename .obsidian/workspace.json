@@ -34,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/Staircase/staircase interview with Guarino.md",
+                "file": "private/cambly/Anita/Anita - Reverse Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/Staircase/staircase interview with Guarino.md"
+                "file": "private/cambly/Anita/Anita - Reverse Interview.md"
               }
             }
           },
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/Staircase/staircase interview with Guarino.md",
+                "file": "private/cambly/Anita/Anita - Reverse Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,11 +162,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8ccb1b1ca9dc27e4",
+  "active": "cd10269447063952",
   "lastOpenFiles": [
+    "private/carreira/Staircase/staircase interview with Guarino.md",
     "private/cambly/Anita/Anita - Reverse Interview.md",
     "notes/project red flags.md",
-    "private/carreira/Staircase/staircase interview with Guarino.md",
     "notes/Questions a DevOps should ask.md",
     "private/carreira/Staircase/study for staircase.md",
     "notes/aws-lambda.md",
