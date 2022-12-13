@@ -10,6 +10,20 @@
           {
             "id": "bf547d01df0cad77",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-short-version.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0a37861b0b037352",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-1.md",
+                "file": "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-short-version.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-1.md"
+                "file": "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-short-version.md"
               }
             }
           },
@@ -125,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-1.md",
+                "file": "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-short-version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +163,8 @@
   },
   "active": "bf547d01df0cad77",
   "lastOpenFiles": [
+    "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-1.md",
+    "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-short-version.md",
     "notes/aws-lambda.md",
     "private/cambly/Anita/Anita - Reverse Interview.md",
     "private/carreira/Staircase/staircase interview with Guarino.md",
@@ -156,8 +172,6 @@
     "notes/Questions a DevOps should ask.md",
     "private/carreira/Staircase/study for staircase.md",
     "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md",
-    "private/carreira/Staircase/1P_ We are a WoW Company - Slab.md",
-    "private/carreira/Staircase/1P_ We are a Software Company - Slab.md",
-    "private/carreira/Staircase/1P_ We are a Manufacturing Company - Slab.md"
+    "private/carreira/Staircase/1P_ We are a WoW Company - Slab.md"
   ]
 }
