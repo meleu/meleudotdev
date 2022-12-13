@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Ignite Lab - 1 - Fundamentos do Nest.js & Prisma
 
 
