@@ -24,13 +24,15 @@
           {
             "id": "0a37861b0b037352",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],

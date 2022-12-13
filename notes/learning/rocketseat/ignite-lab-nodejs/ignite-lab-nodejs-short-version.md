@@ -23,6 +23,9 @@ cd notifications-service
 npm install prisma -D
 npm install @prisma/client
 npx prisma init --datasource-provider SQLite
+
+# validator stuff
+npm install class-validator class-transformer
 ```
 
 Install the Prisma plugin in the VSCode.
@@ -30,11 +33,13 @@ Install the Prisma plugin in the VSCode.
 
 ## Prisma schema
 
+`prisma/schema.prisma`
 ```
 model Notification {
   id String @id
   recipientId String
   content String
+  category String
   readAt DateTime?
   createdAt DateTime @default(now())
 
@@ -82,7 +87,7 @@ export class PrismaService extends PrismaClient implements OnModuleInit {
 // import some stuff...
 
 @Module({
-  imports: [HttpModule],
+  imports: [],
   controllers: [AppController],
   providers: [PrismaService],
 })
@@ -120,7 +125,7 @@ export class AppController {
 
 ```shell
 # test it with
-npm runm start:dev
+npm run start:dev
 
 # check localhost:3000/notifications
 # should return an empty array

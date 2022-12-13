@@ -83,7 +83,7 @@ Em 1 hora e 2 minutos.
 
 Documentação relacionada no Nest: <https://docs.nestjs.com/recipes/prisma>
 
-Conforme mencionado [aqui](/https://docs.nestjs.com/recipes/prisma#use-prisma-client-in-your-nestjs-services), criar o arquivo `src/prisma.service.ts`:
+Conforme mencionado [aqui](https://docs.nestjs.com/recipes/prisma#use-prisma-client-in-your-nestjs-services), criar o arquivo `src/prisma.service.ts`:
 ```typescript
 
 import { INestApplication, Injectable, OnModuleInit } from '@nestjs/common';
@@ -106,6 +106,9 @@ export class PrismaService extends PrismaClient implements OnModuleInit {
 1:04:25 - em `app.module.ts`, importar o `PrismaService`:
 ```ts
 // import some stuff...
+
+// aos 49 minutos ele fala desse HttpModule
+// como um exemplo. Acho que ficou como leftover.
 
 @Module({
   imports: [HttpModule],
@@ -143,7 +146,7 @@ export class AppController {
 
 ```shell
 # test it with
-npm runm start:dev
+npm run start:dev
 
 # check localhost:3000/notifications
 # should return an empty array
@@ -207,6 +210,11 @@ Voltar no `app.controller.ts`
       },
     });
   }
+```
+
+Test notification creation sending this json as body:
+```json
+
 ```
 
 
