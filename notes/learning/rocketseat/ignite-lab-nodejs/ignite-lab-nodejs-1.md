@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # Ignite Lab - 1 - Fundamentos do Nest.js & Prisma
 
+Chave: `# BACK-END`
+
 
 Começa em 25 minutos.
 
@@ -150,4 +152,61 @@ npm runm start:dev
 
 ## Insomnia
 
-Parei em 1:08:15, usar o Insomnia para testar...
+Em 1:08:15, usar o Insomnia para testar...
+
+
+## Validação dos dados enviados no POST
+
+
+```shell
+npm install class-validator class-transformer
+```
+
+Para validar, é necessário adicionar o seguinte no `main.ts`:
+```ts
+async function bootstrap() {
+  const app = await NestFactory.create(AppModule);
+
+  // adicionar a linha abaixo 👇
+  app.useGlobalPipes(new ValidationPipe());
+
+  await app.listen(3000);
+}
+```
+
+
+Em 1:13:50 - `src/create-notification-body.ts`:
+```ts
+export class CreateNotificationBody {
+  @IsNotEmpty()
+  @IsUUID()
+  recipientId: string;
+
+  @IsNotEmpty()
+  @Length(5, 240)
+  content: string;
+
+  @IsNotEmpty()
+  category: string;
+}
+```
+
+Voltar no `app.controller.ts` 
+
+```ts
+  @Post()
+  async create(@Body() body: CreateNotificationBody) {
+    const { recipientId, content, category } = body;
+
+    await this.prisma.notification.create({
+      data: {
+        id: randomUUID(),
+        content,
+        category,
+        recipientId,
+      },
+    });
+  }
+```
+
+
