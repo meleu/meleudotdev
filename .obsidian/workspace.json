@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "294454b71ef422d7",
+        "id": "7ef53aadd32ceab3",
         "type": "tabs",
         "children": [
           {
-            "id": "8ccb1b1ca9dc27e4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/carreira/Staircase/staircase interview with Guarino.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "cd10269447063952",
+            "id": "bf547d01df0cad77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/cambly/Anita/Anita - Reverse Interview.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -102,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/cambly/Anita/Anita - Reverse Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "private/cambly/Anita/Anita - Reverse Interview.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/cambly/Anita/Anita - Reverse Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,14 +139,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cd10269447063952",
+  "active": "bf547d01df0cad77",
   "lastOpenFiles": [
-    "private/carreira/Staircase/staircase interview with Guarino.md",
+    "notes/aws-lambda.md",
     "private/cambly/Anita/Anita - Reverse Interview.md",
+    "private/carreira/Staircase/staircase interview with Guarino.md",
     "notes/project red flags.md",
     "notes/Questions a DevOps should ask.md",
     "private/carreira/Staircase/study for staircase.md",
-    "notes/aws-lambda.md",
     "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md",
     "private/carreira/Staircase/1P_ We are a WoW Company - Slab.md",
     "private/carreira/Staircase/1P_ We are a Software Company - Slab.md",
