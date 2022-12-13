@@ -11,8 +11,12 @@
             "id": "bf547d01df0cad77",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-1.md"
+              }
             }
           },
           {
@@ -118,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
