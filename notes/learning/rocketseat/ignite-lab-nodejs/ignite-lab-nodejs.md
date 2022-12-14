@@ -1,14 +1,16 @@
 ---
 dg-publish: true
 ---
-# Ignite Lab - 1 - Fundamentos do Nest.js & Prisma
+# Ignite Lab NodeJS
+
+## Aula 1 - Fundamentos do Nest.js & Prisma
 
 Chave: `# BACK-END`
 
 
 Começa em 25 minutos.
 
-## Introdução do NestJS
+### Introdução do NestJS
 
 Documentação do NestJS: <https://docs.nestjs.com/>
 
@@ -34,7 +36,7 @@ Dar uma olhada na estrutura de arquivos e diretórios. Dar uma zoiada no `src/ma
 > Se você vai trabalhar com Nest é importante saber de **inversão de dependência** e de **injeção de dependência**.
 
 
-## Introdução do Prisma
+### Introdução do Prisma
 
 Começa aos 50 minutos.
 
@@ -77,7 +79,7 @@ npx prisma migrate dev
 npx prisma studio
 ```
 
-## Integrando o Prisma no Nest
+### Integrando o Prisma no Nest
 
 Em 1 hora e 2 minutos.
 
@@ -153,12 +155,12 @@ npm run start:dev
 ```
 
 
-## Insomnia
+### Insomnia
 
 Em 1:08:15, usar o Insomnia para testar...
 
 
-## Validação dos dados enviados no POST
+### Validação dos dados enviados no POST
 
 
 ```shell
@@ -214,7 +216,149 @@ Voltar no `app.controller.ts`
 
 Test notification creation sending this json as body:
 ```json
-
+{
+  "recipientId": "UUID -> Version 4",
+  "content": "asdfg",
+  "category": "fdsa"
+}
 ```
 
 
+
+## Aula 2 - Domínio, casos de uso e regras de negócio
+
+14:10
+
+create directories:
+
+- `src/`
+    - `application/`
+        - `entities/`
+    - `infra/`
+
+
+29:53 - adjust `tsconfig.json`:
+
+> [!note]
+> colocar no começo
+
+```json
+{
+  //...
+  "strict": true,
+  "strictNullChecks": true,
+  // ...
+}
+```
+
+31 minutos - `src/application/entities/notification.ts`:
+```ts
+export interface NotificationProps {
+  recipientId: string;
+  content: Content; // classe Content criada abaixo
+  category: string;
+  readAt?: Date | null;
+  createdAt: Date
+}
+
+export class Notification {
+  private props: NotificationProps;
+
+  constructor(props: NotificationProps) {
+    this.props = props;
+  }
+
+  public set recipientId(recipientId: string) {
+    this.props.recipientId = recipientId;
+  }
+
+  public get recipientId(): string {
+    return this.props.recipientId;
+  }
+
+  // repetir para content e category
+
+  public set readAt(readAt: Date | null | undefined) {
+    this.props.readAt = readAt;
+  }
+
+  public get readAt(): Date | null | undefined {
+    return this.props.readAt;
+  }
+
+  public get createdAt(): Date {
+    return this.props.createdAt;
+  }
+  // createdAt não tem setter!
+}
+```
+
+34:30 - `src/application/entities/content.ts`
+```ts
+export class Content {
+  private readonly content: string;
+
+  constructor(content: string) {
+    const isContentLengthValid = this.validateContentLength(content);
+
+    if (!isContentLengthValid) {
+      throw new Error('Content length error.');
+    }
+
+    this.content = content;
+  }
+
+  get value(): string {
+    return this.content;
+  }
+
+  private validateContentLength(content: string): boolean {
+    return content.length >= 5 && content.length <= 240;
+  }
+  
+}
+
+```
+
+36 minutos - Remover configs do jest de dentro do `package.json` (lá pela linha 58):
+
+> [!note]
+> colocar no começo
+
+Cria um arquivo `jest.config.ts`:
+```ts
+export default {
+  // cola o conteúdo copiado do 'package.json'
+}
+```
+
+37 minutos - configs do `eslint`
+
+
+41:58 - testes de validação do content, `src/application/entities/content.spec.ts`:
+```ts
+import { Content } from './content';
+
+describe('Notification content', ()  => {
+  it('should be able to create a notification content', () => {
+    const content = new Content('Você recebeu uma solicitação de amizade');
+    expect(content).toBeTruthy();
+  });
+  
+  it('should not be able to create a notification content with less than 5 chars', () => {
+    expect(() => new Content('aaa')).toThrow();
+  });
+  
+  it('should not be able to create a notification content with more than 240 chars', () => {
+    expect(() => new Content('a'.repeat(241)).toThrow();
+  });
+});
+```
+
+Run the tests:
+```shell
+npm run test:watch
+```
+
+
+PAREI EM 43 MINUTOS!!!
