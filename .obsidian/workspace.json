@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a37861b0b037352",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "4a05cc782d2679e4",
             "type": "leaf",
             "state": {
@@ -34,7 +20,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 374.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -162,7 +148,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a05cc782d2679e4",
+  "active": "05179fa8233e8289",
   "lastOpenFiles": [
     "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs.md",
     "notes/aws-lambda.md",
