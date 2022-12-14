@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/petrobras/permanencia na AMS.md",
+                "file": "notes/learning/python-fastapi-workshop.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/petrobras/permanencia na AMS.md",
+                "file": "notes/learning/python-fastapi-workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/petrobras/permanencia na AMS.md"
+                "file": "notes/learning/python-fastapi-workshop.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/petrobras/permanencia na AMS.md",
+                "file": "notes/learning/python-fastapi-workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,8 +148,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05179fa8233e8289",
+  "active": "4a05cc782d2679e4",
   "lastOpenFiles": [
+    "private/petrobras/permanencia na AMS.md",
     "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs.md",
     "notes/aws-lambda.md",
     "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-short-version.md",
@@ -158,7 +159,6 @@
     "notes/project red flags.md",
     "notes/Questions a DevOps should ask.md",
     "private/carreira/Staircase/study for staircase.md",
-    "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md",
-    "private/carreira/Staircase/1P_ We are a WoW Company - Slab.md"
+    "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md"
   ]
 }
