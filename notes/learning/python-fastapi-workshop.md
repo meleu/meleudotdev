@@ -442,7 +442,22 @@ echo = false
 
 `pamps/config.py`
 ```py
-import 
+import os
+
+from dynaconf import Dynaconf
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+
+settings = Dynaconf(
+    envvar_prefix="pamps",
+    preload=[os.path.join(HERE, "default.toml")],
+    settings_files=["settings.toml", ".secrets.toml"],
+    environments=["development", "production", "testing"],
+    env_switcher="pamps_env",
+    load_dotenv=False
+)
+
+
 ```
 
 `pamps/db.py`:
@@ -502,7 +517,12 @@ docker compose exec api /bin/bash
 # uma vez dentro do container...
 alembic revision --autogenerate -m initial
 # verifique o arquivo 'migrations/versions/${hash}_initial.py'
+```
 
+> [!note]
+> Ao executar o comando acima eu recebi um erro dizendo que o DB `pamps` não existia. Tive que entrar no container do db e executar o `create-databases.sh` manualmente.
+
+```shell
 # criando as tabelas
 alembic upgrade head
 ```
@@ -521,3 +541,9 @@ with Session(engine) as session:
 
 
 
+## interface CLI
+
+`cli.py`
+```py
+# copiar a partir de 4:45
+```
