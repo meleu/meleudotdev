@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a05cc782d2679e4",
+            "id": "8f0ff6c3c19bd65f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/Staircase/staircase interview with Guarino.md",
+                "file": "private/carreira/Staircase/thiago-couto-staircase.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/Staircase/staircase interview with Guarino.md",
+                "file": "private/carreira/Staircase/thiago-couto-staircase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/Staircase/staircase interview with Guarino.md"
+                "file": "private/carreira/Staircase/thiago-couto-staircase.md"
               }
             }
           },
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/Staircase/staircase interview with Guarino.md",
+                "file": "private/carreira/Staircase/thiago-couto-staircase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a05cc782d2679e4",
+  "active": "8f0ff6c3c19bd65f",
   "lastOpenFiles": [
+    "private/carreira/Staircase/staircase interview with Guarino.md",
+    "private/carreira/Staircase/study for staircase.md",
     "notes/learning/python-fastapi-workshop.md",
     "private/petrobras/permanencia na AMS.md",
     "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs.md",
     "notes/aws-lambda.md",
     "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-short-version.md",
     "private/cambly/Anita/Anita - Reverse Interview.md",
-    "private/carreira/Staircase/staircase interview with Guarino.md",
     "notes/project red flags.md",
-    "notes/Questions a DevOps should ask.md",
-    "private/carreira/Staircase/study for staircase.md"
+    "notes/Questions a DevOps should ask.md"
   ]
 }
