@@ -685,7 +685,7 @@ class User(SQLModel, table=True):
 ```
 
 
-Vamos no `pamps/cli.py` adicionar uma furnção para criar um novo usuário:
+Vamos no `pamps/cli.py` adicionar uma função para criar um novo usuário:
 ```py
 @main.command()
 def create_user(email: str, username: str, password: str):
