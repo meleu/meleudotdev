@@ -543,7 +543,458 @@ with Session(engine) as session:
 
 ## interface CLI
 
-`cli.py`
+`pamps/cli.py`
 ```py
-# copiar a partir de 4:45
+import typer
+from rich.console import Console
+from rich.table import Table
+from sqlmodel import Session, select
+
+from .config import settings
+from .db import engine
+from .models import User
+
+main = typer.Typer(name="Pamps CLI")
+
+
+@main.command()
+def shell():
+    """Opens interactive shell"""
+    _vars = {
+        "settings": settings,
+        "engine": engine,
+        "select": select,
+        "session": Session(engine),
+        "User": User,
+    }
+    typer.echo(f"Auto imports: {list(_vars.keys())}")
+    try:
+        from IPython import start_ipython
+
+        start_ipython(
+            argv=["--ipython-dir=/tmp", "--no-banner"], user_ns=_vars
+        )
+    except ImportError:
+        import code
+
+        code.InteractiveConsole(_vars).interact()
+
+
+@main.command()
+def user_list():
+    """Lists all users"""
+    table = Table(title="Pamps users")
+    fields = ["username", "email"]
+    for header in fields:
+        table.add_column(header, style="magenta")
+
+    with Session(engine) as session:
+        users = session.exec(select(User))
+        for user in users:
+            table.add_row(user.username, user.email)
+
+    Console().print(table)
+```
+
+Conectar no container e testar os comandos
+```shell
+# certifique-se de que os containers estão em cima
+docker compose up
+
+docker compose exec api /bin/bash
+
+# uma vez dentro do container...
+# testar o comando pamps
+pamps --help
+pamps user-list
+```
+
+
+## password hash
+
+`pamps/default.toml`:
+```toml
+[default.security]
+# set secret key in .secrets.toml
+# SECRET_KEY = ""
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 30
+REFRESH_TOKEN_EXPIRE_MINUTES = 600
+```
+
+`.secrets.toml`:
+```toml
+[development]
+dynaconf_merge = true
+
+[development.security]
+# command para gerar uma chave:
+# openssl rand -hex 32
+SECRET_KEY = "995f7bbc6c825e936be096cee21f97bcbd8076881a13ef43b2205c53ad370937"
+```
+
+`pamps/security.py`:
+```py
+from passlib.context import CryptContext
+
+from pamps.config import settings
+
+pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
+
+SECRET_KEY = settings.security.secret_key
+ALGORITHM = settings.security.algorithm
+
+
+def verify_password(plain_password, hashed_password) -> bool:
+    """Verifies a hash against a password"""
+    return pwd_context.verify(plain_password, hashed_password)
+
+
+def get_password_hash(password) -> str:
+    """Generates a hash from plain text"""
+    return pwd_context.hash(password)
+
+
+class HashedPassword(str):
+    """Takes a plain text password and hashes it.
+    use this as a field in your SQLModel
+    class User(SQLModel, table=True):
+        username: str
+        password: HashedPassword
+    """
+
+    @classmethod
+    def validate(cls, v):
+        """Accepts a plain text password and returns a hashed password."""
+        if not isinstance(v, str):
+            raise TypeError("string required")
+
+        hashed_password = get_password_hash(v)
+        return cls(hashed_password)
+```
+
+Voltamos ao `pamps/models/user.py` para alterar a definição do `password`:
+```py
+# adicionar esse import
+from pamps.security import HashedPassword
+
+
+class User(SQLModel, table=True):
+    # ...
+    password: HashedPassword
+```
+
+
+Vamos no `pamps/cli.py` adicionar uma furnção para criar um novo usuário:
+```py
+@main.command()
+def create_user(email: str, username: str, password: str):
+    """Create user"""
+    with Session(engine) as session:
+        user = User(email=email, username=username, password=password)
+        session.add(user)
+        session.commit()
+        session.refresh(user)
+        typer.echo(f"created {username} user")
+        return user
+``` 
+
+
+Volta ao terminal conectado ao container:
+```shell
+pamps --help
+# confira se a opção create-user foi adicionada
+
+# ver o help do create-user
+pamps create-user --help
+
+# criando um usuário
+pamps create-user admin@admin.com admin 1234
+```
+
+## API de usuários
+
+
+### `pamps/models/user.py`
+
+```py
+from typing import Optional
+from sqlmodel import Field, SQLModel
+from pamps.security import HashedPassword
+from pydantic import BaseModel
+
+
+class User(SQLModel, table=True):
+    """Represents the User Model"""
+    id: Optional[int] = Field(
+        default=None,
+        primary_key=True
+    )
+    email: str = Field(
+        unique=True,
+        nullable=False
+    )
+    username: str = Field(
+        unique=True,
+        nullable=False
+    )
+    avatar: Optional[str] = None
+    bio: Optional[str] = None
+    password: str = Field(nullable=False)
+
+
+class UserResponse(BaseModel):
+    """Serializer for User Response"""
+    
+    username: str
+    avatar: Optional[str] = None
+    bio: Optional[str] = None
+
+
+class UserRequest(BaseModel):
+    """Serializer for User request payload"""
+    
+    email: str
+    username: str
+    password: str
+    avatar: Optional[str] = None
+    bio: Optional[str] = None
+```
+
+
+PAREI em 4 minutos
+
+
+
+
+## token jwt
+
+### `pamps/auth.py`:
+
+```py
+"""Token absed auth"""
+from datetime import datetime, timedelta
+from typing import Callable, Optional, Union
+
+from fastapi import Depends, HTTPException, Request, status
+from fastapi.security import OAuth2PasswordBearer
+from jose import JWTError, jwt
+from pydantic import BaseModel
+from sqlmodel import Session, select
+
+from pamps.config import settings
+from pamps.db import engine
+from pamps.models.user import User
+from pamps.security import verify_password
+
+SECRET_KEY = settings.security.secret_key
+ALGORITHM = settings.security.algorithm
+
+
+oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
+
+
+class Token(BaseModel):
+    access_token: str
+    refresh_token: str
+    token_type: str
+
+
+class RefreshToken(BaseModel):
+    refresh_token: str
+
+
+class TokenData(BaseModel):
+    username: Optional[str] = None
+
+
+def create_access_token(
+    data: dict, expires_delta: Optional[timedelta] = None
+) -> str:
+    """Creates a JWT Token from user data"""
+    to_encode = data.copy()
+    if expires_delta:
+        expire = datetime.utcnow() + expires_delta
+    else:
+        expire = datetime.utcnow() + timedelta(minutes=15)
+    to_encode.update({"exp": expire, "scope": "access_token"})
+    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)
+    return encoded_jwt
+
+
+def create_refresh_token(
+    data: dict, expires_delta: Optional[timedelta] = None
+) -> str:
+    """Refresh an expired token"""
+    to_encode = data.copy()
+    if expires_delta:
+        expire = datetime.utcnow() + expires_delta
+    else:
+        expire = datetime.utcnow() + timedelta(minutes=15)
+    to_encode.update({"exp": expire, "scope": "refresh_token"})
+    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)
+    return encoded_jwt
+
+
+def authenticate_user(
+    get_user: Callable, username: str, password: str
+) -> Union[User, bool]:
+    """Authenticate the user"""
+    user = get_user(username)
+    if not user:
+        return False
+    if not verify_password(password, user.password):
+        return False
+    return user
+
+
+def get_user(username) -> Optional[User]:
+    """Get user from database"""
+    query = select(User).where(User.username == username)
+    with Session(engine) as session:
+        return session.exec(query).first()
+
+
+def get_current_user(
+    token: str = Depends(oauth2_scheme), request: Request = None, fresh=False
+) -> User:
+    """Get current user authenticated"""
+    credentials_exception = HTTPException(
+        status_code=status.HTTP_401_UNAUTHORIZED,
+        detail="Could not validate credentials",
+        headers={"WWW-Authenticate": "Bearer"},
+    )
+
+    if request:
+        if authorization := request.headers.get("authorization"):
+            try:
+                token = authorization.split(" ")[1]
+            except IndexError:
+                raise credentials_exception
+
+    try:
+        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
+        username: str = payload.get("sub")
+
+        if username is None:
+            raise credentials_exception
+        token_data = TokenData(username=username)
+    except JWTError:
+        raise credentials_exception
+    user = get_user(username=token_data.username)
+    if user is None:
+        raise credentials_exception
+    if fresh and (not payload["fresh"] and not user.superuser):
+        raise credentials_exception
+
+    return user
+
+
+async def get_current_active_user(
+    current_user: User = Depends(get_current_user),
+) -> User:
+    """Wraps the sync get_active_user for sync calls"""
+    return current_user
+
+
+AuthenticatedUser = Depends(get_current_active_user)
+
+
+async def validate_token(token: str = Depends(oauth2_scheme)) -> User:
+    """Validates user token"""
+    user = get_current_user(token=token)
+    return user
+```
+
+
+### `pamps/routes/auth.py`
+
+```py
+from datetime import timedelta
+
+from fastapi import APIRouter, Depends, HTTPException, status
+from fastapi.security import OAuth2PasswordRequestForm
+
+from pamps.auth import (
+    RefreshToken,
+    Token,
+    User,
+    authenticate_user,
+    create_access_token,
+    create_refresh_token,
+    get_user,
+    validate_token,
+)
+from pamps.config import settings
+
+ACCESS_TOKEN_EXPIRE_MINUTES = settings.security.access_token_expire_minutes
+REFRESH_TOKEN_EXPIRE_MINUTES = settings.security.refresh_token_expire_minutes
+
+router = APIRouter()
+
+
+@router.post("/token", response_model=Token)
+async def login_for_access_token(
+    form_data: OAuth2PasswordRequestForm = Depends(),
+):
+    user = authenticate_user(get_user, form_data.username, form_data.password)
+    if not user or not isinstance(user, User):
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Incorrect username or password",
+            headers={"WWW-Authenticate": "Bearer"},
+        )
+
+    access_token_expires = timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
+    access_token = create_access_token(
+        data={"sub": user.username, "fresh": True},
+        expires_delta=access_token_expires,
+    )
+
+    refresh_token_expires = timedelta(minutes=REFRESH_TOKEN_EXPIRE_MINUTES)
+    refresh_token = create_refresh_token(
+        data={"sub": user.username}, expires_delta=refresh_token_expires
+    )
+
+    return {
+        "access_token": access_token,
+        "refresh_token": refresh_token,
+        "token_type": "bearer",
+    }
+
+
+@router.post("/refresh_token", response_model=Token)
+async def refresh_token(form_data: RefreshToken):
+    user = await validate_token(token=form_data.refresh_token)
+
+    access_token_expires = timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
+    access_token = create_access_token(
+        data={"sub": user.username, "fresh": False},
+        expires_delta=access_token_expires,
+    )
+
+    refresh_token_expires = timedelta(minutes=REFRESH_TOKEN_EXPIRE_MINUTES)
+    refresh_token = create_refresh_token(
+        data={"sub": user.username}, expires_delta=refresh_token_expires
+    )
+
+    return {
+        "access_token": access_token,
+        "refresh_token": refresh_token,
+        "token_type": "bearer",
+    }
+```
+
+### `pamps/routes/__init__.py`
+
+```py
+from fastapi import APIRouter
+
+from .user import router as user_router
+from .auth import router as auth_router
+
+main_router = APIRouter()
+
+main_router.include_router(auth_router, tags=["auth"]
+main_router.include_router(user_router, prefix="/user", tags=["user"])
 ```
