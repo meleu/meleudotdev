@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Open Source projects I'm proud of.md",
+                "file": "notes/learning/python-fastapi-workshop.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Open Source projects I'm proud of.md",
+                "file": "notes/learning/python-fastapi-workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Open Source projects I'm proud of.md"
+                "file": "notes/learning/python-fastapi-workshop.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Open Source projects I'm proud of.md",
+                "file": "notes/learning/python-fastapi-workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,6 +149,7 @@
   },
   "active": "8f0ff6c3c19bd65f",
   "lastOpenFiles": [
+    "notes/Open Source projects I'm proud of.md",
     "notes/learning/python-fastapi-workshop.md",
     "notes/git - how to know when a file was deleted.md",
     "notes/git.md",
@@ -157,7 +158,6 @@
     "private/carreira/Staircase/study for staircase.md",
     "private/petrobras/permanencia na AMS.md",
     "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs.md",
-    "notes/aws-lambda.md",
-    "notes/learning/rocketseat/ignite-lab-nodejs/ignite-lab-nodejs-short-version.md"
+    "notes/aws-lambda.md"
   ]
 }

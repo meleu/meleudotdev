@@ -413,8 +413,10 @@ from .user import User
 __all__ = ["SQLModel", "User"]
 ```
 
+
  > ![note]
 > Instalando um cliente de SQL.
+
 
 Instalando o Antares a partir [destas instruções aqui](https://github.com/antares-sql/antares-ppa):
 ```shell
