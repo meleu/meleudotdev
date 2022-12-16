@@ -6,7 +6,7 @@ dg-publish: true
 ---
 
 - [[#RetroAchievements - project/community management|RetroAchievements - project/community management]]
-- [[#RADocs - documentation pipeline|RADocs - documentation pipeline]]
+- [[#RADocs - docs & docs website pipeline|RADocs - docs & docs website pipeline]]
 - [[#RANews - webdesign/webdevelopment|RANews - webdesign/webdevelopment]]
 - [[#RABot - Discord Bot|RABot - Discord Bot]]
 
@@ -21,14 +21,14 @@ dg-publish: true
 
 What I did:
 
-- contributed with the implementation of the RetroAchievements feature in the RetroArch (basically building/testing implementation in various architectures while coding was mostly done by [Leiradel](https://github.com/leiradel)).
+- contributed with the implementation of the RetroAchievements feature in the RetroArch (building/testing implementation in various architectures).
 - contributed with code for the [backend](https://github.com/RetroAchievements/RAWeb).
 - server maintenance (Linux/NginX).
 - created the [documentation project](https://docs.retroachievements.org/).
 - community management
 
 
-## RADocs - documentation pipeline
+## RADocs - docs & docs website pipeline
 
 - website: <https://docs.retroachievements.org>
 

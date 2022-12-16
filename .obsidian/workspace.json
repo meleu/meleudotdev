@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/python-fastapi-workshop.md",
+                "file": "notes/Open Source projects I'm proud of.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/python-fastapi-workshop.md",
+                "file": "notes/Open Source projects I'm proud of.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/python-fastapi-workshop.md"
+                "file": "notes/Open Source projects I'm proud of.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/python-fastapi-workshop.md",
+                "file": "notes/Open Source projects I'm proud of.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,9 +149,9 @@
   },
   "active": "8f0ff6c3c19bd65f",
   "lastOpenFiles": [
+    "notes/learning/python-fastapi-workshop.md",
     "notes/git - how to know when a file was deleted.md",
     "notes/git.md",
-    "notes/learning/python-fastapi-workshop.md",
     "private/carreira/Staircase/thiago-couto-staircase.md",
     "private/carreira/Staircase/staircase interview with Guarino.md",
     "private/carreira/Staircase/study for staircase.md",
