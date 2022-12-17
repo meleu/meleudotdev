@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/python-fastapi-workshop.md",
+                "file": "notes/aws-lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/python-fastapi-workshop.md",
+                "file": "notes/aws-lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/python-fastapi-workshop.md"
+                "file": "notes/aws-lambda.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/python-fastapi-workshop.md",
+                "file": "notes/aws-lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,8 +149,8 @@
   },
   "active": "8f0ff6c3c19bd65f",
   "lastOpenFiles": [
-    "notes/Open Source projects I'm proud of.md",
     "notes/learning/python-fastapi-workshop.md",
+    "notes/Open Source projects I'm proud of.md",
     "notes/git - how to know when a file was deleted.md",
     "notes/git.md",
     "private/carreira/Staircase/thiago-couto-staircase.md",
