@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ef53aadd32ceab3",
+        "id": "9a916e0d32f87e73",
         "type": "tabs",
         "children": [
           {
-            "id": "8f0ff6c3c19bd65f",
+            "id": "aa352eaa5370d86c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8f0ff6c3c19bd65f",
+  "active": "aa352eaa5370d86c",
   "lastOpenFiles": [
-    "notes/technologies to study.md",
     "private/carreira/Staircase/thiago-couto-staircase.md",
-    "notes/aws-lambda.md",
-    "notes/learning/python-fastapi-workshop.md",
-    "notes/Open Source projects I'm proud of.md",
-    "notes/git - how to know when a file was deleted.md",
-    "notes/git.md",
     "private/carreira/Staircase/staircase interview with Guarino.md",
+    "private/carreira/Staircase/join-staircase.md",
+    "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md",
+    "private/carreira/Staircase/Delivery Cadence - Slab.md",
+    "private/carreira/Staircase/Units of Work - Slab.md",
     "private/carreira/Staircase/study for staircase.md",
-    "private/petrobras/permanencia na AMS.md"
+    "private/carreira/Staircase/Staircase Virtues - Slab.md",
+    "private/carreira/Staircase/1P_ We are Athletes - Slab.md",
+    "private/carreira/Staircase/1P_ We are a Manufacturing Company - Slab.md"
   ]
 }

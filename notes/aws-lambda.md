@@ -11,3 +11,12 @@ dg-publish: true
 
 
 
+---
+
+## Serverless Framework
+
+- <https://www.serverless.com/>
+
+```shell
+npm install -g serverless
+```
