@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
+                "file": "private/carreira/Staircase/join-staircase.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
+                "file": "private/carreira/Staircase/join-staircase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md"
+                "file": "private/carreira/Staircase/join-staircase.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
+                "file": "private/carreira/Staircase/join-staircase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,9 +148,9 @@
   },
   "active": "aa352eaa5370d86c",
   "lastOpenFiles": [
+    "notes/learning/AWS SAM Framework and AWS Lambda.md",
     "notes/Docker Installation.md",
     "notes/docker.md",
-    "notes/learning/AWS SAM Framework and AWS Lambda.md",
     "notes/aws-lambda.md",
     "private/carreira/Staircase/thiago-couto-staircase.md",
     "private/carreira/Staircase/staircase interview with Guarino.md",
