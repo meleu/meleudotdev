@@ -87,3 +87,116 @@ Followed the installations from [the docs here](https://docs.aws.amazon.com/serv
 brew tap aws/tap
 brew install aws-sam-cli
 ```
+
+
+
+## 4. AWS SAM Framework in depth
+
+AWS SAM stands for **Serverless Application Model**, it's used to define your serverless application
+
+AWS SAM consists of the following components:
+
+- **AWS SAM Template Specification** - you write properties to a file to describe functions, APIs, permissions, etc.
+- **AWS SAM CLI** - to invoke function, packages and deploy serverless applications to AWS Cloud and so on.
+
+AWS SAM CLI aims to ease the pain of creating, deploying managing and debugging lambda functions.
+
+
+### Creating and Running our first AWS SAM Application
+
+```shell
+# initialize and follow the instructions for a HelloWorld
+sam init
+# that will create a directory with the name of the app
+
+# assuming the app name is 'sam-hello-world'
+# open the project in vscode
+code sam-hello-world
+
+# building the project
+sam build
+
+# invoking the function locally
+sam local invoke
+```
+
+I had this issue to run the function locally (even with Docker Desktop running):
+```
+$ sam local invoke
+Error: Running AWS SAM projects locally requires Docker. Have you got it installed and running?
+```
+
+Solved following the instructions [here in the issue tracker](https://github.com/aws/aws-sam-cli/issues/4329#issuecomment-1289588827).
+```shell
+# check the docker context
+# (it was 'desktop-linux')
+docker info | grep -i context
+
+# get the DOCKER_ENDPOINT for 'desktop-linux'
+docker context ls
+
+# run the 'sam' command with DOCKER_HOST properly filled
+DOCKER_HOST=unix:///home/meleu/.docker/desktop/docker.sock sam local invoke
+```
+
+What was awesome from this technique is that the function was not even deployed to AWS. Everything ran locally!
+
+
+### Deploying the AWS SAM App
+
+```shell
+sam deploy --guided
+```
+
+Answers used during the course:
+![[aws-sam-deploy-guided.png]]
+
+After it finishes, test the endpoint created.
+
+
+### Hosting the API locally
+
+```shell
+sam local start-api
+```
+
+Then test it by sending a GET request to `localhost:3000/hello`.
+
+### Invoke your Lambda Function directly
+
+Check the `Resources` in the `template.yaml` file. In this case we want to invoke the `HelloWorldFunction`:
+
+```shell
+sam local invoke "HelloWorldFunction"
+
+# in the video he used this
+sam local invoke "HelloWorldFunction" -e events/event.json
+# I didn't get why exactly the 
+# '-e events/event.json' is needed
+```
+
+
+### Deleting the Stack
+
+```shell
+# list the stacks you have
+aws cloudformation list-stacks
+
+# delete the one created in the previous sections
+aws cloudformation delete-stack \
+  --stack-name ${appName}
+  --region ${awsRegion}
+```
+
+
+
+## 5. AWS SAM and AWS Toolkit in VSCode
+
+In VSCode, `> AWS: Create Lambda SAM Application` and follow the instructions on the screen to create a Hello World with Python
+
+It'll create a directory with the app files.
+
+Again, a VSCode command: `> AWS: Deploy SAM Application`.
+
+
+
