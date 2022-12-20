@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/aws-lambda.md",
+                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/aws-lambda.md",
+                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/aws-lambda.md"
+                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/aws-lambda.md",
+                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,24 +140,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "aa352eaa5370d86c",
   "lastOpenFiles": [
+    "notes/Docker Installation.md",
+    "notes/docker.md",
+    "notes/learning/AWS SAM Framework and AWS Lambda.md",
+    "notes/aws-lambda.md",
     "private/carreira/Staircase/thiago-couto-staircase.md",
     "private/carreira/Staircase/staircase interview with Guarino.md",
     "private/carreira/Staircase/join-staircase.md",
     "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md",
     "private/carreira/Staircase/Delivery Cadence - Slab.md",
-    "private/carreira/Staircase/Units of Work - Slab.md",
-    "private/carreira/Staircase/study for staircase.md",
-    "private/carreira/Staircase/Staircase Virtues - Slab.md",
-    "private/carreira/Staircase/1P_ We are Athletes - Slab.md",
-    "private/carreira/Staircase/1P_ We are a Manufacturing Company - Slab.md"
+    "private/carreira/Staircase/Units of Work - Slab.md"
   ]
 }
