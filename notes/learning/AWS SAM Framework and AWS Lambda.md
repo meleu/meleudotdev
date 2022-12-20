@@ -198,5 +198,82 @@ It'll create a directory with the app files.
 
 Again, a VSCode command: `> AWS: Deploy SAM Application`.
 
+In my system, for some reason, that 👆 command is not present. Then I deployed via CLI: `sam deploy --guided`.
 
 
+
+
+
+
+## 6. AWS SAM Deep Dive - SAM Specifications
+
+```shell
+sam init
+# 1 - quickstart
+# 2 - serverless api
+# 3 - nodejs16
+# n - no X-Ray
+# Project name: test-sam-app
+
+# then build the project
+cd test-sam-app
+sam build
+```
+
+
+### YAML Crash Course
+
+I learned something useful in this lecture: the `&` and `*` notations in a YAML file.
+
+Example: this input:
+```yaml
+author: &jPaul
+  name: James
+  lastName: Paul
+
+books:
+  - 1923:
+      author: *jPaul
+  - My Biography:
+      author: *jPaul
+```
+
+Generates this JSON output:
+```json
+{
+  "author": {
+    "lastName": "Paul", 
+    "name": "James"
+  },
+  "books": [
+    {
+      "1923": {
+        "author": {
+          "lastName": "Paul", 
+          "name": "James"
+        }
+      }
+    }, 
+    {
+      "My Biography": {
+        "author": {
+          "lastName": "Paul", 
+          "name": "James"
+        }
+      }
+    }
+  ]
+}
+```
+
+
+### AWS Lambda and SAM Framework Core Concepts
+
+- Function
+    - independent unit of deployment
+    - best practice: does a single job.
+        - save user to DynamoDB
+        - convert large image into a thumbnail
+- Events
+- Resources
+- Services
