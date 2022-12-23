@@ -8,15 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa352eaa5370d86c",
+            "id": "a7b53a3bc894d891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/rocketseat/gostack-bootcamp/level-02/02.3-backend-authentication.md",
+                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "e3d90a4a4ac3ef0a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/anki-aws.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
@@ -88,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/rocketseat/gostack-bootcamp/level-02/02.3-backend-authentication.md",
+                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/rocketseat/gostack-bootcamp/level-02/02.3-backend-authentication.md"
+                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md"
               }
             }
           },
@@ -126,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/rocketseat/gostack-bootcamp/level-02/02.3-backend-authentication.md",
+                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,17 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa352eaa5370d86c",
+  "active": "a7b53a3bc894d891",
   "lastOpenFiles": [
+    "notes/anki-aws.md",
     "notes/learning/AWS SAM Framework and AWS Lambda.md",
+    "notes/anki-ruby.md",
+    "notes/aws-lambda.md",
+    "notes/learning/rocketseat/gostack-bootcamp/level-02/02.3-backend-authentication.md",
     "private/carreira/Staircase/join-staircase.md",
     "notes/Docker Installation.md",
     "notes/docker.md",
-    "notes/aws-lambda.md",
     "private/carreira/Staircase/thiago-couto-staircase.md",
-    "private/carreira/Staircase/staircase interview with Guarino.md",
-    "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md",
-    "private/carreira/Staircase/Delivery Cadence - Slab.md",
-    "private/carreira/Staircase/Units of Work - Slab.md"
+    "private/carreira/Staircase/staircase interview with Guarino.md"
   ]
 }
