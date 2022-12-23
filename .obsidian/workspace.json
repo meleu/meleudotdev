@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9a916e0d32f87e73",
+        "id": "29b435c20b34724b",
         "type": "tabs",
         "children": [
           {
-            "id": "a7b53a3bc894d891",
+            "id": "64cc4e542bc61e27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
+                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "e3d90a4a4ac3ef0a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/anki-aws.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
             }
           }
         ],
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
+                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md"
+                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md"
               }
             }
           },
@@ -140,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
+                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7b53a3bc894d891",
+  "active": "64cc4e542bc61e27",
   "lastOpenFiles": [
-    "notes/migracao com chroot.md",
     "notes/learning/AWS SAM Framework and AWS Lambda.md",
+    "notes/migracao com chroot.md",
     "notes/anki-aws.md",
     "notes/anki-ruby.md",
     "notes/aws-lambda.md",
