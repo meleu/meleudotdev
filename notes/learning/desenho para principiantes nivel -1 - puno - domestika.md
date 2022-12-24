@@ -14,6 +14,7 @@ Influências:
 - Quentin Blake
 - Saul Steinberg
 - Quino
+- George Grosz
 
 Quatro fases do aprendizagem:
 
