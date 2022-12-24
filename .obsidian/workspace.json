@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51203640ba9e9fa7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -159,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64cc4e542bc61e27",
+  "active": "51203640ba9e9fa7",
   "lastOpenFiles": [
     "notes/learning/AWS SAM Framework and AWS Lambda.md",
     "notes/migracao com chroot.md",
