@@ -15,7 +15,7 @@
               "state": {
                 "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -145,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {

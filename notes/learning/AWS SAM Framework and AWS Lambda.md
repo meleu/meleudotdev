@@ -208,6 +208,7 @@ In my system, for some reason, that 👆 command is not present. Then I deployed
 
 
 
+
 ## 6. AWS SAM Deep Dive - SAM Specifications
 
 ```shell
@@ -349,6 +350,164 @@ Resources:
               - "lambda:*"
             Resource:
              "*"
+```
+
+
+### Environment Variables
+
+Useful to provide external configuration to your functions.
+
+We just need to edit our `template.yaml`:
+```yaml
+# if defined Globals, the variable
+# is accessible by all functions
+Globals:
+  Function:
+    Environment:
+      Variables:
+        KEY: "VALUE"
+
+# you can also define env variables
+# at function's level
+Resources:
+  ${FunctionName}:
+    Properties:
+      Environment:
+        Variables:
+          KEY: "VALUE"
+```
+
+
+### VPC for Lambda Functions
+
+VPC = Virtual Private Clouds
+
+Many companies use VPC to privately deploy their applications. By default Lambda functions are **NOT** launched in a VPC.
+
+You can launch Lambda in your VPC, so it can security access EC2 instances, RDS instances or any other instance in your VPC.
+
+You can also assign security groups to your Lambda functions as well, for enhanced network security!
+
+You can choose to deploy your Lambda function in any subnets you like. This will allow your Lambda function to inherit a private IP from that subnet.
+
+**Get the `${subnetID}`**:
+
+To get the subnet ID go to AWS Console and search for `VPC`, click on it. Then go to `Your VPCs`, chose one. Then click on `Subnets`. You'll see the list of Subnets with their respective IDs
+
+**Get the `${securityGroup}`**:
+
+Also in the VPC screen, left sidebar, Security -> Security groups. Select a security group or create a new one.
+
+Add this to your `template.yaml`:
+```yaml
+Globals:
+  Function:
+    VpcConfig:
+      SecurityGroupIds:
+        - "${securityGroup}"
+      SubnetIds:
+        - "${subnetID}"
+```
+
+
+
+### AWS SAM and CloudFormation
+
+
+![[AWS SAM Framework - SAM Templates and CloudFormation.png]]
+
+
+### AWS Lambda Pricing
+
+<https://aws.amazon.com/lambda/pricing/>
+
+Current pricing, as of Feb 2022:
+
+- Pay per **calls**:
+    - Frist 1,000,000 requests are free
+    - $0.20 per million requests thereafter
+- Pay per **duration**:
+    - 400,000 GB-seconds of compute time per month FREE
+    - == 400,000 second if function is 1GB RAM
+    - == 3,200,000 second if function is 128MB RAM
+    - you need to understand what your functions need for it to run and adjust accordingly
+
+Moral of the story: it's usually **very cheap** to run AWS Lambda, that's why it's very popular.
+
+You pay as you go - if your app doesn't use the Lambda functions, or they don't get trigger, then you don't get billed for them!
+
+
+## 7. AWS SAM Template Anatomy
+
+```yaml
+# Transform is required
+# identifies the CloudFormation template
+Transform: AWS::Serverless-2016-10-31
+
+# Globals is optional
+# defines common properties to all serverless functions/APIs
+Globals:
+  # set of globals
+
+Description:
+  # String
+
+Metadata:
+  # template metadata
+
+# Parameters is optional
+# declare values to pass to the template at runtime
+# - can refer these from the Resources and Outputs
+Parameters:
+  # set of parameters
+
+Mappings:
+  # set of mappings
+
+Conditions:
+  # set of conditions
+
+# Resources is required
+# defines all resources for your serverless app
+Resources:
+  # set of resources
+
+Outputs:
+  # set of outputs
+
+```
+
+
+### AWS SAM Resource Types
+
+```
+AWS::Serverless::Api
+AWS::Serverless::Application
+AWS::Serverless::Function
+AWS::Serverless::HttpApi
+AWS::Serverless::LayerVersion
+AWS::Serverless::SimpleTable
+AWS::Serverless::StateMachine
+```
+
+See the full list here:
+<https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html>
+
+Example for `SimpleTable`
+```yaml
+PeopleTable:
+  Type: AWS::Serverless::SimpleTable
+  Properties:
+    TableName: people-table
+    PrimaryKey:
+      Type: String
+      Name: id
+    ProvisionedThroughput:
+      WriteCapacityUnits: 5
+      ReadCapacityUnits: 5
+    Tags:
+      Department: HR-dpt
+      AppType: Serverless
 ```
 
 
