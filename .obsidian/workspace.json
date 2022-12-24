@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
+                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51203640ba9e9fa7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
+                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md"
+                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md"
               }
             }
           },
@@ -137,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
+                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51203640ba9e9fa7",
+  "active": "64cc4e542bc61e27",
   "lastOpenFiles": [
+    "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
     "notes/learning/AWS SAM Framework and AWS Lambda.md",
     "notes/migracao com chroot.md",
     "notes/anki-aws.md",
@@ -180,7 +170,6 @@
     "notes/learning/rocketseat/gostack-bootcamp/level-02/02.3-backend-authentication.md",
     "private/carreira/Staircase/join-staircase.md",
     "notes/Docker Installation.md",
-    "notes/docker.md",
-    "private/carreira/Staircase/thiago-couto-staircase.md"
+    "notes/docker.md"
   ]
 }

@@ -307,3 +307,48 @@ sam init
 # X-Ray: no
 # name: sam-time-memory
 ```
+
+Go to the `hello_world/app.py` and add something like this:
+```py
+# ...
+import time
+
+def lambda_handler(event, context):
+    time.sleep(4)
+    # ...
+```
+
+This will make the function sleep for 4 seconds.
+
+Open the `template.yaml` and notice that `Globals.Function.Timeout` is set to `3`.
+
+Build and run the function and see it failing due to timeout:
+```shell
+sam build && sam local invoke
+```
+
+You can also set the timeout for a specific function using  `Resources.${FunctionName}.Properties.Timeout`. In fact, this is how to override the value from the `Globals`.
+
+Play with these values and see what happens.
+
+
+### IAM Permissions for Lambda Functions
+
+By default a Lambda function doesn't have permissions to access other services (example: access to S3 buckets or DynamoDB data). To solve this we need to provide an IAM policy.
+
+In this example we're giving to our function permission to list lambda functions. In the `template.yaml` we must add this to `Resources.${FunctionName}.Properties`:
+```yaml
+Resources:
+  ${FunctionName}:
+    Properties:
+      Policies:
+        Version: "2012-10-17"
+        Statement:
+          - Effect: "Allow"
+            Action:
+              - "lambda:*"
+            Resource:
+             "*"
+```
+
+
