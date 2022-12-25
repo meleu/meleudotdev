@@ -511,3 +511,41 @@ PeopleTable:
 ```
 
 
+## 8. AWS Step Functions - Introduction
+
+What are AWS Step Functions?
+
+A service that allows developer build visual workflows for business processes. It orchestrate data flow in an automated environment
+
+Step Functions are based on **state machines** and **tasks**.
+
+Example: check if username and email provided are valid, if so, then allow users to open a new Account.
+
+**Benefits**
+
+- Build and deploy fast
+    - Use the Workflow Studio to simply drag-and-drop (🤔 - is this really a benefit?)
+    - Express complex business logic as low-code, event-driven workflows
+    - Connect services (aws), systems or people quickly
+- Write less integration code
+    - Ready to use resources and services available
+- Reliable and Scalable
+    - Used for small projects as well as large
+    - Reliable - has built-in try/catch, retry and rollback capabilities for error handling
+
+- Step Functions are based on:
+    - State machines
+    - Tasks (takes input and produces output)
+
+- State Types
+    - **Pass**: pushes input to output
+    - **Task**: takes input and produces output
+    - **Choice**: allows the user to use Branching Logic based on the input
+    - **Wait**: adds delays to State Machine Execution
+    - **Success**: has an expected finish-line: dead-end that stops execution successfully
+    - **Fail**: has an expected dead-end that stops execution failure
+    - **Parallel**: implements parallel branches in execution - use  can start multiple states at once
+    - **Mapping** (Dynamic): runs a set of steps for every input item
+
+pricing: <https://aws.amazon.com/step-functions/pricing/>
+
