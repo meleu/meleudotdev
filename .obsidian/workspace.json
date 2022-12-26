@@ -10,15 +10,13 @@
           {
             "id": "ee03c0b3ad19bab6",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/ra/megaman.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
@@ -27,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/mermaid.md",
+                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ra/megaman.md",
+                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/ra/megaman.md"
+                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md"
               }
             }
           },
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/ra/megaman.md",
+                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee03c0b3ad19bab6",
+  "active": "a35c875b6c8a02df",
   "lastOpenFiles": [
-    "notes/mermaid.md",
     "notes/ra/megaman.md",
+    "notes/mermaid.md",
     "notes/AWS Serverless.md",
     "notes/learning/AWS SAM Framework and AWS Lambda.md",
     "notes/aws-lambda.md",
