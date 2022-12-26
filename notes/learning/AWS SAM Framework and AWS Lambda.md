@@ -537,7 +537,7 @@ Example: check if username and email provided are valid, if so, then allow users
     - State machines
     - Tasks (takes input and produces output)
 
-- State Types
+- State Types (8 state types)
     - **Pass**: pushes input to output
     - **Task**: takes input and produces output
     - **Choice**: allows the user to use Branching Logic based on the input
@@ -548,4 +548,79 @@ Example: check if username and email provided are valid, if so, then allow users
     - **Mapping** (Dynamic): runs a set of steps for every input item
 
 pricing: <https://aws.amazon.com/step-functions/pricing/>
+
+
+### Creating our first Step Function
+
+AWS Console > Step Functions > Get Started > click on "Design your own workflow here"
+
+Choose authoring method > Write workflow in code > review and accept the "Hello World" example > Next
+
+- Specify details
+    - define a name
+    - Permissions: Create new role
+    - Logging: OFF
+    - click Create state machine
+
+In the next screen, scroll down and take a look at the "Definition" tab. Once you're happy, click in "Start execution".
+
+After execution, take a look at the "Execution event history".
+
+
+### Adding a Wait State using Workflow Studio
+
+Click in "Edit state machine" and then click in "Workflow Studio". Add a "Wait" step to do nothing for 7 seconds. Execute it and review the results
+
+
+### Set Wait State in the code
+
+"Edit state machine" again, and in the `Silence` state change `Seconds` to `SecondsPath` and set it to `"$.waitTime"`.
+
+Then Start the execution but edit the input to something like this:
+```json
+{
+  "waitTime": 8
+}
+```
+
+Run it and review the results.
+
+Edit the `SecondsPath` again and set it to `"$"` (a single dollar sign between double quotes) and Start the execution with the default input. Run and review the results.
+
+(it fails because the input of the `Silence` state is the output of the previous one, which is `Hello`)
+
+If we delete the `Hello.Result: "Hello"`, the input coming to `Hello` is going to be the default `Result`.
+
+
+### Choice State Example
+
+Choice: Allows the user to use Branching Logic based on the input
+
+Create a new state machine > Design your workflow visually
+
+Pass -> Choice -> Rule #1 -> Add conditions
+
+```
+$.dinnerChoice is of type Boolean
+```
+
+```
+$.foodType matches string "chinese"
+```
+
+Create the following:
+
+![[AWS SAM Framework - Step Function Choice.png]]
+
+![[AWS SAM Framework - Step Function Choice-1.png]]
+
+
+
+## 9. Step Functions and State Machine Using VS Code Toolkit
+
+
+### Create Step Functions using AWS SAM CLI and VS Code
+
+VS Code > `Ctrl+Shift+P` > `> AWS: Create a new Step Functions state machine`
+
 

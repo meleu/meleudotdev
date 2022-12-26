@@ -25,7 +25,7 @@ Outros pontos interessantes:
     - (**observação**: essas palavras são minhas e não estou muito confiante nessa afirmação)
 - Agilidade gera dados.
 - Estes dados servem para:
-    - Ajudar os gerentes a escolher o que ele quer priorizar (bom, rápido, barato e concluído)
+    - Ajudar os gerentes a escolher o que priorizar (bom, rápido, barato e concluído)
     - Tornar as expectativas de tempo de entrega mais realistas.
         - Mudanças nessas expectativas devem ser informadas o mais cedo possível
         - Se o cronograma não for negociável, decidir exatamente quais features são realmente imprescindíveis.

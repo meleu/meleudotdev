@@ -37,6 +37,19 @@ I'm struggling to beat Copy Robot damageless. Collecting some videos here:
     - 30:00 - Final Battle
 
 
+## megaman 2
+
+Weakness graph:
+```mermaid
+graph LR
+  air --> crash
+  metal --> metal
+  metal --> flash
+  metal --> bubble
+  flash --> quick
+  bubble --> heat
+```
+
 
 ## references
 
