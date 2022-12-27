@@ -623,4 +623,190 @@ Create the following:
 
 VS Code > `Ctrl+Shift+P` > `> AWS: Create a new Step Functions state machine`
 
+## 10. Real World Example 1 - S3 Thumbnail Service
 
+```shell
+sam init
+# 1. quick start templates
+# 1. hello world
+# y. Python and zip
+# n. X-Ray
+# python-thumbnail
+
+cd python-thumbnail
+mv hello_world handler
+```
+
+`template.yaml`:
+```yaml
+Globals:
+  Function:
+    Timeout: 60
+    CodeUri: handler/
+    Runtime: python3.9
+    Architectures:
+      - x86_64
+    Environment:
+      Variables:
+        THUMBNAIL_SIZE: 128
+        REGION_NAME: "us-west-2"
+
+Resources:
+  CreateThumbnailFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: app.s3_thumbnail_generator
+      Policies:
+        - Version: '2012-10-17'
+          Statement:
+            - Effect: Allow
+              Action: 's3:*'
+              Resource: '*'
+      Events:
+        CreateThumbnailEvent:
+          Type: S3
+          Properties:
+            Bucket: !Ref SrcBucket
+            Events: s3:ObjectCreated:*
+  SrcBucket:
+    Type: AWS::S3::Bucket
+
+```
+
+`handler/app.py`:
+```py
+from datetime import datetime
+import boto3
+from io import BytesIO
+from PIL import Image, ImageOps
+import os
+import uuid
+import json
+
+s3 = boto3.client('s3')
+size = int(os.getenv('THUMBNAIL_SIZE'))
+
+def s3_thumbnail_generator(event, context):
+  print("Event::", event)
+
+  # TODO: couldn't this be parsed as JSON?
+  bucket = event['Records'][0]['s3']['bucket']['name']
+  key = event['Records'][0]['s3']['object']['key']
+  img_size = event['Records'][0]['s3']['object']['size']
+
+  if (not key.endswith("_thumbnail.png")):
+    image = get_s3_image(bucket, key)
+    thumbnail = image_to_thumbnail(image)
+    thumbnail_key = new_filename(key)
+    url = upload_to_s3(bucket, thumbnail_key, thumbnail, img_size)
+    return url
+
+
+def get_s3_image(bucket, key):
+  response = s3.get_object(Bucket=bucket, Key=key)
+  imagecontent = response['Body'].read()
+
+  file = BytesIO(imagecontent)
+  return Image.open(file)
+
+
+def image_to_thumbnail(image):
+  return ImageOps.fit(image, (size, size), Image.ANTIALIAS)
+
+
+def new_filename(key):
+  key_split = key.rsplit('.', 1)
+  return key_split[0] + "_thumbnail.png"
+
+
+def upload_to_s3(bucket, key, image, img_size):
+  # saving image into a BytesIO object to avoid writing to disk
+  out_thumbnail = BytesIO()
+
+  # specify file type (MANDATORY)
+  image.save(out_thumbnail, 'PNG')
+  out_thumbnail.seek(0)
+
+  response = s3.put_object(
+    ACL='public-read',
+    Body=out_thumbnail,
+    Bucket=bucket,
+    ContentType='image/png',
+    Key=key
+  )
+  print(response)
+
+  url = '{}/{}/{}/'.format(s3.meta.endpoint_url, bucket, key)
+
+  # save image url to db:
+  #s3_save_thumbnail_url_to_dynamo(url_path=url, img_size=img_size)
+
+  return url
+
+```
+
+```shell
+sam build
+# sam local invoke
+sam deploy --guided
+# python-thumbnail
+# n. confirm before deploy
+# y. allow role creation
+# default for the rest
+```
+
+Check in AWS Console and check if `python-thumbnail` was created for the following services:
+
+- CloudFormation
+- Lambda Functions
+- IAM > Roles
+- S3 bucket
+
+Upload an image an go to CloudWatch > Log groups and check if your image upload was logged. You'll see an error in the Lambda function logs.
+
+From here the instructor starts talking about Lambda Layers... I didn't understand very well the concept, just going with the flow...
+
+Repo with useful layers: <https://github.com/keithrozario/Klayers>
+
+Go to the `Get latest ARN for all packages in region` and choose one that has the `Pillow`.
+
+In my case I've found it here: <https://api.klayers.cloud/api/v2/p3.9/layers/latest/us-east-1/json>. And searched for `pillow`.
+
+Found this: 
+```
+"arn:aws:lambda:us-east-1:770693421928:layer:Klayers-p39-pillow:1"
+```
+
+**Adding Layer via Web Interface**
+
+Go to the Lambda Function and click on Layers and then in the button to add layer.
+
+![[AWS SAM Framework - add layer.png]]
+
+![[AWS SAM Framework - add layer-1.png]]
+
+**Adding Layer via `template.yaml`**
+
+```yaml
+Globals:
+  Function:
+    Layers:
+      - "arn:aws:lambda:us-east-1:770693421928:layer:Klayers-p39-pillow:1"
+```
+
+```shell
+sam build
+sam deploy
+```
+
+Check in your AWS Console > Lambda Function if the layer was properly added. Then go to S3 and upload an image again.
+
+%%
+Outputs:
+  ThumbnailAPI:
+    Description: "... Thumbnail function"
+    Value: !Sub "... /Prod/images/
+  CreateThumbnailFunction:
+    Description: "CreateThumbnailFunction Lambda Function ARN"
+    Value: !GetAtt CreateThumbnailFunction.Arn
+%%
