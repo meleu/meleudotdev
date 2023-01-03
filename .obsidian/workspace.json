@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
-                "mode": "preview",
+                "file": "moc/books.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
+                "file": "moc/books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md"
+                "file": "moc/books.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
+                "file": "moc/books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,15 +160,15 @@
   },
   "active": "a35c875b6c8a02df",
   "lastOpenFiles": [
+    "notes/learning/Serverless Architechture on AWS - pluralsight.md",
+    "notes/learning/AWS SAM Framework and AWS Lambda.md",
     "notes/ra/megaman.md",
     "notes/mermaid.md",
     "notes/AWS Serverless.md",
-    "notes/learning/AWS SAM Framework and AWS Lambda.md",
     "notes/aws-lambda.md",
     "notes/learning/aws-serverless-workshop.md",
     "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
     "notes/migracao com chroot.md",
-    "notes/anki-aws.md",
-    "notes/anki-ruby.md"
+    "notes/anki-aws.md"
   ]
 }
