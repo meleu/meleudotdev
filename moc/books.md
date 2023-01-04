@@ -6,8 +6,8 @@ dg-permalink: books
 
 ## currently reading
 
-- [[Os 7 Habitos das pessoas Altamente Eficazes]]
-- ⭐ [[Clean Code]]
+- [[Startup Enxuta]] (portuguese version of "Lean Startup")
+- [[O Valor do Amanha]]
 
 ---
 
@@ -23,8 +23,16 @@ Maybe this list can tell a bit about who I am.
 
 ---
 
+## 2023
+
+### unfunished
+
+
+
+
 ## 2022
 
+- [[Os 7 Habitos das pessoas Altamente Eficazes]]
 - [[O Estrangeiro]]
 - [[Personal Kanban]]
 - [[A Identidade]]
@@ -42,6 +50,7 @@ Maybe this list can tell a bit about who I am.
 
 #### unfinished
 
+- ⭐ [[Clean Code]]
 - [[O Mitico Homem-Mes]]
 - [[Building a Second Brain]]
 - ⭐ [[Sapiens]]
