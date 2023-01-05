@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repos/traducoes/aprenda-em-publico.md",
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repos/traducoes/aprenda-em-publico.md",
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "repos/traducoes/aprenda-em-publico.md"
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "repos/traducoes/aprenda-em-publico.md",
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,6 +160,7 @@
   },
   "active": "a35c875b6c8a02df",
   "lastOpenFiles": [
+    "repos/traducoes/aprenda-em-publico.md",
     "moc/books.md",
     "notes/learning/Serverless Architechture on AWS - pluralsight.md",
     "notes/learning/AWS SAM Framework and AWS Lambda.md",
@@ -168,7 +169,6 @@
     "notes/AWS Serverless.md",
     "notes/aws-lambda.md",
     "notes/learning/aws-serverless-workshop.md",
-    "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
-    "notes/migracao com chroot.md"
+    "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md"
   ]
 }
