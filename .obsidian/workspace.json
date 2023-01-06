@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
+                "file": "notes/Docker Reverse Engineering.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d71f028ba24143fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "repos/exercism the most effective way to learn a new programming language.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
+                "file": "repos/exercism the most effective way to learn a new programming language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md"
+                "file": "repos/exercism the most effective way to learn a new programming language.md"
               }
             }
           },
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
+                "file": "repos/exercism the most effective way to learn a new programming language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,17 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a35c875b6c8a02df",
+  "active": "d71f028ba24143fd",
   "lastOpenFiles": [
+    "articles/exercism.md",
+    "private/peso-altura-familia.md",
+    "notes/Docker Reverse Engineering.md",
+    "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
     "repos/traducoes/aprenda-em-publico.md",
     "moc/books.md",
     "notes/learning/Serverless Architechture on AWS - pluralsight.md",
     "notes/learning/AWS SAM Framework and AWS Lambda.md",
     "notes/ra/megaman.md",
-    "notes/mermaid.md",
-    "notes/AWS Serverless.md",
-    "notes/aws-lambda.md",
-    "notes/learning/aws-serverless-workshop.md",
-    "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md"
+    "notes/mermaid.md"
   ]
 }
