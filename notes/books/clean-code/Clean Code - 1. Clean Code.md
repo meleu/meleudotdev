@@ -50,3 +50,9 @@ We read code much more than we write. In fact there's no way to write code witho
 > Leave the campground cleaner than you found it.
 
 Replace *campground* with *code* above. 🙂
+
+---
+
+## links
+
+http://on-agile.blogspot.com/2007/04/why-you-wont-fix-it-later.html

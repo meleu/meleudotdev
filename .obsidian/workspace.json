@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a35c875b6c8a02df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Docker Reverse Engineering.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d71f028ba24143fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repos/exercism the most effective way to learn a new programming language.md",
+                "file": "notes/exercism - 12in23 challenge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4efe7b32bd4ee92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Descomplicando o Terraform.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repos/exercism the most effective way to learn a new programming language.md",
+                "file": "notes/Descomplicando o Terraform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "repos/exercism the most effective way to learn a new programming language.md"
+                "file": "notes/Descomplicando o Terraform.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "repos/exercism the most effective way to learn a new programming language.md",
+                "file": "notes/Descomplicando o Terraform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,8 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d71f028ba24143fd",
+  "active": "f4efe7b32bd4ee92",
   "lastOpenFiles": [
+    "notes/exercism - 12in23 challenge.md",
+    "repos/exercism the most effective way to learn a new programming language.md",
     "articles/exercism.md",
     "private/peso-altura-familia.md",
     "notes/Docker Reverse Engineering.md",
@@ -181,8 +183,6 @@
     "repos/traducoes/aprenda-em-publico.md",
     "moc/books.md",
     "notes/learning/Serverless Architechture on AWS - pluralsight.md",
-    "notes/learning/AWS SAM Framework and AWS Lambda.md",
-    "notes/ra/megaman.md",
-    "notes/mermaid.md"
+    "notes/learning/AWS SAM Framework and AWS Lambda.md"
   ]
 }

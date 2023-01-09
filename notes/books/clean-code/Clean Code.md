@@ -26,3 +26,9 @@ author: Robert Martin
 
 
 ![[Clean Code - 3. Functions#Chapter 3. Functions - Main Takeaways]]
+
+---
+
+## links
+
+https://github.com/JuanCrg90/Clean-Code-Notes
