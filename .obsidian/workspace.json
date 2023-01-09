@@ -10,13 +10,15 @@
           {
             "id": "f4efe7b32bd4ee92",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/learning/Descomplicando o Terraform.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -49,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jwt",
+                "query": "sam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,15 +163,15 @@
   },
   "active": "f4efe7b32bd4ee92",
   "lastOpenFiles": [
-    "notes/exercism - 12in23 challenge.md",
+    "notes/learning/AWS SAM Framework and AWS Lambda.md",
     "notes/learning/Descomplicando o Terraform.md",
+    "notes/learning/devops-bootcamp/06-artifact-repository-manager-with-nexus.md",
+    "notes/learning/hashicorp-vault/hashicorp-certified-vault-associate-pluralsight/04-authenticating-to-vault.md",
+    "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/02-introducing-hashicorp-vault.md",
+    "notes/learning/hashicorp-vault/hashicorp-certified-vault-associate-pluralsight/02-intro-to-vault.md",
+    "notes/learning/rocketseat/gostack-bootcamp/level-02/02.3-backend-authentication.md",
+    "notes/exercism - 12in23 challenge.md",
     "repos/exercism the most effective way to learn a new programming language.md",
-    "articles/exercism.md",
-    "private/peso-altura-familia.md",
-    "notes/Docker Reverse Engineering.md",
-    "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
-    "repos/traducoes/aprenda-em-publico.md",
-    "moc/books.md",
-    "notes/learning/Serverless Architechture on AWS - pluralsight.md"
+    "articles/exercism.md"
   ]
 }
