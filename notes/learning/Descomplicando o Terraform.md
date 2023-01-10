@@ -52,5 +52,10 @@ terraform {
 
 Executar o terraform a partir de um container
 ```shell
-docker container run -it -v $PWD:/app -w /app --entrypoint sh hashicorp/terraform:light
+docker container run \
+  -it \
+  -v $PWD:/app \
+  -w /app \
+  --entrypoint sh \
+  hashicorp/terraform:light
 ```
