@@ -59,3 +59,18 @@ docker container run \
   --entrypoint sh \
   hashicorp/terraform:light
 ```
+
+O Access Key ID e Secret Access Key que foi gerado em uma aula anterior, deverá ser colocado em uma variável de ambiente.
+
+```shell
+export AWS_ACCESS_KEY_ID=...
+export AWS_SECRET_ACCESS_KEY=...
+
+# now we're ready for...
+terraform init
+```
+
+
+### Comandos Básicos
+
+![[Descomplicando o Terraform - comandos basicos.png]]
