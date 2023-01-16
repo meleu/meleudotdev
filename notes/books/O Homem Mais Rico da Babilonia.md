@@ -25,9 +25,9 @@ Estava começando a me interessar por finanças pessoais e muitas pessoas recome
 
 ## Citações favoritas
 
-> O ouro traz para seu possuidor responsabilidade e uma nova maneira de agir com os companheiros. Traz o medo de perdê-lo e até de ser enganado. Traz uma sensação de poder e disponibilidade para praticar o bem. **Pode ainda fazer com que suas melhores inteções lhe arranjem belas dificuldades**.
+> O ouro traz para seu possuidor responsabilidade e uma nova maneira de agir com os companheiros. Traz o medo de perdê-lo e até de ser enganado. Traz uma sensação de poder e disponibilidade para praticar o bem. **Pode ainda fazer com que suas melhores intenções lhe arranjem belas dificuldades**.
 
-> É natural. Os homens sempre querem mais ouro do que têm e gostariam de ver aquele que o ganha facilmente dividilo com eles.
+> É natural. Os homens sempre querem mais ouro do que têm e gostariam de ver aquele que o ganha facilmente dividi-lo com eles.
 
 
 ## O que eu aprendi?

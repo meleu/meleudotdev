@@ -22,3 +22,14 @@ There are also some things that might be interesting to you, for example:
 If you're curious enough to explore this garden, keep in mind that it can be a bilingual experience (English and Portuguese).
 
 - **See also: <https://meleu.sh>** (in Portuguese)
+
+---
+
+## Recently modified notes
+
+```dataview
+TABLE dateformat(file.mtime, "yyyy-MM-dd - HH:mm") AS "Last modified"
+FROM -"private"
+SORT file.mtime DESC
+LIMIT 25
+```

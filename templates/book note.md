@@ -7,3 +7,5 @@ author: %%insert the author%%
 ---
 
 # {{title}}
+
+## main takeaway

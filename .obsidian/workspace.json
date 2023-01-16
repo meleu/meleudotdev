@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "29b435c20b34724b",
+        "id": "6f67e92a24e0270c",
         "type": "tabs",
         "children": [
           {
-            "id": "32f31517c0fc3b7d",
+            "id": "34cdfaeaf8e29706",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
-                "mode": "preview",
+                "file": "notes/books/Bom  Demais Para Ser Ignorado.md",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "cb39b8609f99308e",
+            "id": "da0c5e709355e174",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "moc/books.md",
-                "mode": "preview",
+                "file": "notes/books/O Homem Mais Rico da Babilonia.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -81,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moc/books.md",
+                "file": "notes/books/O Homem Mais Rico da Babilonia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moc/books.md"
+                "file": "notes/books/O Homem Mais Rico da Babilonia.md"
               }
             }
           },
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "moc/books.md",
+                "file": "notes/books/O Homem Mais Rico da Babilonia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,17 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb39b8609f99308e",
+  "active": "da0c5e709355e174",
   "lastOpenFiles": [
-    "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
-    "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
-    "notes/learning/Descomplicando o Terraform.md",
-    "notes/learning/AWS SAM Framework and AWS Lambda.md",
-    "notes/learning/devops-bootcamp/06-artifact-repository-manager-with-nexus.md",
-    "notes/learning/hashicorp-vault/hashicorp-certified-vault-associate-pluralsight/04-authenticating-to-vault.md",
-    "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/02-introducing-hashicorp-vault.md",
-    "notes/learning/hashicorp-vault/hashicorp-certified-vault-associate-pluralsight/02-intro-to-vault.md",
-    "notes/learning/rocketseat/gostack-bootcamp/level-02/02.3-backend-authentication.md",
-    "notes/exercism - 12in23 challenge.md"
+    "notes/books/Bom  Demais Para Ser Ignorado.md",
+    "articles/livros que me influenciaram.md",
+    "templates/book note.md",
+    "notes/books/Roube Como Um Artista.md",
+    "notes/simple-http-server.md",
+    "README.md",
+    "notes/Ghost in the Shell.md",
+    "notes/technologies to study.md",
+    "moc/books-tech.md",
+    "moc/books.md"
   ]
 }

@@ -32,11 +32,15 @@ Conteúdo:
 
 ## Roube Como Um Artista
 
+Sobre criatividade.
+
 ![[Roube Como Um Artista#Principais Aprendizados]]
 
 ---
 
 ## Hackers and Painters
+
+Sobre melhor uso do seu tempo, no que se refere a gastar tempo se envolvendo em discussões.
 
 ![[Hackers and Painters#Principais Aprendizados]]
 
@@ -45,13 +49,17 @@ Conteúdo:
 
 ## Androides Sonham Com Ovelhas Eletricas
 
-Curiosidade: esse é o livro que inspirou o filme Blade Runner.
+Sobre a relação entre mentira e auto-estima.
+
+(Curiosidade: esse é o livro que inspirou o filme Blade Runner.)
 
 ![[Androides Sonham Com Ovelhas Eletricas#ser dono de uma fraude]]
 
 ---
 
 ## O Valor do Amanha
+
+Título explicitamente auto-explicativo. Sobre como valorizamos algo em função do tempo (agora ou no futuro?).
 
 ![[O Valor do Amanha#Principais Aprendizados]]
 
