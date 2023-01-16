@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
+                "file": "moc/books.md",
                 "mode": "preview",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
+                "file": "moc/books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md"
+                "file": "moc/books.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
+                "file": "moc/books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,6 +176,7 @@
   },
   "active": "cb39b8609f99308e",
   "lastOpenFiles": [
+    "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
     "notes/learning/Descomplicando o Terraform.md",
     "notes/learning/AWS SAM Framework and AWS Lambda.md",
@@ -184,7 +185,6 @@
     "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/02-introducing-hashicorp-vault.md",
     "notes/learning/hashicorp-vault/hashicorp-certified-vault-associate-pluralsight/02-intro-to-vault.md",
     "notes/learning/rocketseat/gostack-bootcamp/level-02/02.3-backend-authentication.md",
-    "notes/exercism - 12in23 challenge.md",
-    "repos/exercism the most effective way to learn a new programming language.md"
+    "notes/exercism - 12in23 challenge.md"
   ]
 }
