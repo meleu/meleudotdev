@@ -1,6 +1,15 @@
 ---
 dg-publish: true
+tags:
+  - books
+read-timestamp: %%insert the year%%
+author: Tiago Forte
 ---
+
+# Building a Second Brain
+
+Course: <https://www.buildingasecondbrain.com/course>
+
 
 ### The Superpowers of a Second Brain
 
