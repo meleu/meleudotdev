@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "da0c5e709355e174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/books/O Homem Mais Rico da Babilonia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -102,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/O Homem Mais Rico da Babilonia.md",
+                "file": "notes/books/Bom  Demais Para Ser Ignorado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/O Homem Mais Rico da Babilonia.md"
+                "file": "notes/books/Bom  Demais Para Ser Ignorado.md"
               }
             }
           },
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/O Homem Mais Rico da Babilonia.md",
+                "file": "notes/books/Bom  Demais Para Ser Ignorado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da0c5e709355e174",
+  "active": "34cdfaeaf8e29706",
   "lastOpenFiles": [
+    "now.md",
+    "notes/learning/AWS SAM Framework and AWS Lambda.md",
+    "README.md",
     "notes/books/Bom  Demais Para Ser Ignorado.md",
+    "notes/kindle.md",
+    "notes/books/O Homem Mais Rico da Babilonia.md",
     "articles/livros que me influenciaram.md",
     "templates/book note.md",
     "notes/books/Roube Como Um Artista.md",
-    "notes/simple-http-server.md",
-    "README.md",
-    "notes/Ghost in the Shell.md",
-    "notes/technologies to study.md",
-    "moc/books-tech.md",
-    "moc/books.md"
+    "notes/simple-http-server.md"
   ]
 }

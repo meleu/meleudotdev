@@ -20,9 +20,7 @@ Quando se trata de criar um trabalho que você ama, seguir sua paixão não é u
 
 O livro parte do princípio de que "seguir sua paixão" é um conselho ruim para encontrar um trabalho que te dê satisfação.
 
-Pode parecer contra-intuitivo, mas o autor oferece várias evidências de como isso pode trazer sofrimento. Ele também mostra pessoas que possuem carreiras incríveis, e que realmente amam o que fazem, mas que para chegar aonde chegaram não foram pelo caminho do "seguir sua paixão".
-
-O livro lista várias casos de pessoas com trabalhos empolgantes, mas que para chegar até esse estágio precisaram acumular bastante XP. Não houve atalho, não houve "seguir uma paixão".
+Pode parecer contra-intuitivo, mas o autor oferece várias evidências de como isso pode trazer sofrimento. Ele também mostra pessoas que possuem carreiras notáveis, e que realmente amam o que fazem, mas que para chegar aonde chegaram não foram pelo caminho do "seguir sua paixão". Ao invés disso essas pessoas precisaram acumular bastante XP (que ele chama de capital de carreira). Não houve atalho, não houve "seguir uma paixão".
 
 O exemplo do Steve Jobs é bem emblemático. Apesar dele dizer em sua famosa palestra que "A única maneira de fazer um ótimo trabalho é amar o que faz", vemos em sua biografia que o seu sucesso não se deve exatamente a esta abordagem.
 
@@ -36,4 +34,6 @@ Existem alguns exemplos que podem confundir, como músicos e esportistas, que no
 
 Uma pessoa com mentalidade do artesão visa o progresso. O objetivo é entregar um resultado cada vez melhor. Músicos/esportistas com carreiras incríveis não são apenas apaixonados por música/esporte, eles são apaixonados por se aprimorarem no que fazem.
 
-continua...
+
+## principais ideias
+

@@ -3,7 +3,7 @@ dg-publish: true
 ---
 # What I'm into *now*
 
-My current focus is to have an in-depth knowledge of Kubernetes.
+My current focus is to have integrate TDD techniques in my workflow. Have it as a second nature. To achieve this I need to invest time in [[TDD-Refactoring literature]].
 
 
 ## Frequent Ideas
@@ -14,18 +14,13 @@ My current focus is to have an in-depth knowledge of Kubernetes.
 
 ## Studying
 
-- [ ] [[Docker Mastery - udemy]]
-- [ ] [[Docker for NodeJS]]
-- [ ] [[CKAD udemy course]]
-- [ ] [[livro Kubernetes Basico]]
-- [x] [[GitLab CICD - Nana course|GitLab-CI - Nana]] - ✅ done!
-- [ ] ~~[[GCP|Google Cloud Provider - Pluralsight]]~~ ❌ changed my mind
+- [ ] [[AWS SAM Framework and AWS Lambda]]
+- [ ] [[RSpec - udemy]]
+- [ ] [[Fundamentals of TDD - upcase]]
 
 
-## 2022 goals
+## 2023 goals
 
-- [ ] CKAD
-- [x] [[learn-ruby]]
-- [ ] ~~do the Le Wagon bootcamp~~ (postponed to april/2023)
-- [ ] ~~GCP Associate Certificate Engineer~~ changed my mind
+- [ ] play with 12 programming languages - [[exercism - 12in23 challenge]]
+- [ ] do the Le Wagon bootcamp
 

@@ -31,5 +31,5 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 TABLE dateformat(file.mtime, "yyyy-MM-dd - HH:mm") AS "Last modified"
 FROM -"private"
 SORT file.mtime DESC
-LIMIT 25
+LIMIT 15
 ```
