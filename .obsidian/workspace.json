@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34cdfaeaf8e29706",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/books/Bom Demais Para Ser Ignorado.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a62d9c66a13e17c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "moc/books.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "72955de9e0d24a65",
             "type": "leaf",
             "state": {
@@ -46,7 +20,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -187,9 +160,9 @@
   },
   "active": "72955de9e0d24a65",
   "lastOpenFiles": [
-    "notes/books/Bom Demais Para Ser Ignorado.md",
-    "notes/books/O Programador Apaixonado.md",
     "moc/books.md",
+    "notes/books/O Programador Apaixonado.md",
+    "notes/books/Bom Demais Para Ser Ignorado.md",
     "moc/books-fiction.md",
     "notes/lyt - PKM Power.md",
     "notes/books/Building a Second Brain.md",
