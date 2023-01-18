@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a62d9c66a13e17c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "moc/books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -89,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Bom  Demais Para Ser Ignorado.md",
+                "file": "moc/books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Bom  Demais Para Ser Ignorado.md"
+                "file": "moc/books.md"
               }
             }
           },
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Bom  Demais Para Ser Ignorado.md",
+                "file": "moc/books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,11 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34cdfaeaf8e29706",
+  "active": "a62d9c66a13e17c0",
   "lastOpenFiles": [
+    "notes/books/Bom  Demais Para Ser Ignorado.md",
     "notes/lyt - PKM Power.md",
     "notes/books/Building a Second Brain.md",
-    "notes/books/Bom  Demais Para Ser Ignorado.md",
     "now.md",
     "notes/learning/AWS SAM Framework and AWS Lambda.md",
     "README.md",

@@ -63,4 +63,4 @@ No ramo de tecnologia não é tão fácil prever quais serão as tecnologias que
 > "atividade feita, tipicamente por um professor, para o única propósito de melhorar eficazmente os aspectos específicos do desempenho individual"\
 > ~ Anders Ericsson
 
-> No contexto de construção de carreira, a maioria dos 
+> No contexto de construção de carreira, a maioria dos trabalhadores do conhecimento evita esse estilo de desenvolvimento de habilidades, porque é desconfortável.

@@ -6,7 +6,6 @@ dg-permalink: books
 
 ## currently reading
 
-- [[Bom  Demais Para Ser Ignorado]]
 - [[Startup Enxuta]] (portuguese version of "Lean Startup")
 - [[O Valor do Amanha]]
 
