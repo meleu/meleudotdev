@@ -6,7 +6,7 @@ dg-permalink: books
 
 ## currently reading
 
-- [[Startup Enxuta]] (portuguese version of "Lean Startup")
+- [[O Programador Apaixonado]]
 - [[O Valor do Amanha]]
 
 ---
@@ -25,8 +25,12 @@ Maybe this list can tell a bit about who I am.
 
 ## 2023
 
+- [[Bom Demais Para Ser Ignorado]]
+
+
 ### unfunished
 
+- [[Startup Enxuta]] (portuguese version of "Lean Startup")
 
 
 

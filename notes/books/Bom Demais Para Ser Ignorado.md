@@ -6,7 +6,7 @@ read-timestamp: 2023
 author: Cal Newport
 ---
 
-# Bom  Demais Para Ser Ignorado
+# Bom Demais Para Ser Ignorado
 
 ## Principal Aprendizado
 

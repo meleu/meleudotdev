@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Bom  Demais Para Ser Ignorado.md",
+                "file": "notes/books/Bom Demais Para Ser Ignorado.md",
                 "mode": "source",
                 "source": false
               },
@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72955de9e0d24a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/books/O Programador Apaixonado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moc/books.md",
+                "file": "notes/books/O Programador Apaixonado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moc/books.md"
+                "file": "notes/books/O Programador Apaixonado.md"
               }
             }
           },
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "moc/books.md",
+                "file": "notes/books/O Programador Apaixonado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,17 +185,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a62d9c66a13e17c0",
+  "active": "72955de9e0d24a65",
   "lastOpenFiles": [
-    "notes/books/Bom  Demais Para Ser Ignorado.md",
+    "notes/books/Bom Demais Para Ser Ignorado.md",
+    "notes/books/O Programador Apaixonado.md",
+    "moc/books.md",
+    "moc/books-fiction.md",
     "notes/lyt - PKM Power.md",
     "notes/books/Building a Second Brain.md",
     "now.md",
     "notes/learning/AWS SAM Framework and AWS Lambda.md",
     "README.md",
-    "notes/kindle.md",
-    "notes/books/O Homem Mais Rico da Babilonia.md",
-    "articles/livros que me influenciaram.md",
-    "templates/book note.md"
+    "notes/kindle.md"
   ]
 }
