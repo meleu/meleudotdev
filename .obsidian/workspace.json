@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e7192ba7f9982e29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/cool ai services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Rust.md",
+                "file": "notes/cool ai services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Rust.md"
+                "file": "notes/cool ai services.md"
               }
             }
           },
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Rust.md",
+                "file": "notes/cool ai services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72955de9e0d24a65",
+  "active": "e7192ba7f9982e29",
   "lastOpenFiles": [
-    "notes/().md",
     "notes/Rust.md",
+    "notes/().md",
     "notes/books/O Programador Apaixonado.md",
     "moc/books.md",
     "notes/books/Bom Demais Para Ser Ignorado.md",
