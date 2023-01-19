@@ -19,7 +19,9 @@ Contra argumento sobre crescer o interesse em Rust: nos surveys do github (ou se
 
 ### Plano de estudos
 
-Quando eu for começar minhas aventuras com Rust pretendo, obviamente, começar com o Exercism.
+Quando eu for começar minhas aventuras com Rust pretendo:
 
-Este conteúdo aqui parece ser bem bom para pegar em seguida: <https://www.zero2prod.com/>
+1. Talvez começar por esse vídeo aqui pra dar aquele pontapé inicial: [Rust 101 Crash Course: Learn Rust (6 HOURS!) + 19 Practice Exercises | Zero To Mastery](https://youtu.be/lzKeecy4OmQ)
+2. Praticar no [Exercism](https://exercism.org/tracks/rust).
+3. Seguir com esse livro aqui: <https://www.zero2prod.com/>
 
