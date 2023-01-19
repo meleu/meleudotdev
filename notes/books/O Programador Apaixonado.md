@@ -16,8 +16,6 @@ Muita dica útil para a carreira de Desenvolvedor.
 
 ## Escolhendo seu mercado
 
-Ver também: [[Pragmatic Programmer]] - programar por coincidência.
-
 Sua carreira é um negócio, e seu produto é o conjunto de serviços que você tem a oferecer.
 
 Perguntas a serem feitas:
@@ -43,18 +41,18 @@ Exemplos
 3. Mesma coisa para **administração de sistemas**. É uma área que evoluiu bastante. O conceito de infraestrutura imutável mudou a maneira como administramos nossos servidores e instalamos software. Muito conhecimento foi abstraído por ferramentas como terraform, ansible, docker e kubernetes.
 4. Ainda sobre administração de sistemas, hoje em dia temos Function as a Service. Abstraindo todas a camadas inferiores de infraestrutura e fazendo com que você se preocupe apenas com sua lógica de negócio.
 
-Em todos os exemplos listados acima, tais trabalhos ainda são necessários e realizados por alguém. Mas são realizados por pessoas altamente especializadas naquilo, competindo com mais um monte de gente especializada naquilo. Portanto o valor da hora trabalhada dessas pessoas tende a diminuir.
+Em todos os exemplos listados acima, tais trabalhos ainda são necessários e realizados por alguém. Mas são realizados por pessoas altamente especializadas naquilo, competindo com mais um monte de gente especializada naquilo cobrando muito pouco (geralmente indianos). Portanto o valor da hora trabalhada dessas pessoas tende a diminuir.
 
 Esse tipo de conversa também me traz perguntas como:
 
-##### Qual linguagem/framework/stack/tecnologia devo estudar?
+##### Qual linguagem / framework / stack / tecnologia devo estudar?
 
 Algumas coisas são muito incertas, mas existem outras que eu acredito que permanecerão relevantes por muito tempo.
 
 Tentando listar do mais básico do básico até decisões de mais alto nível.
 
 - datilografia
-    - meio óbvio né? apesar de saber que existem alternativas de como "inserir código em computador", acredito que o teclado permanecerá o uso mais popular por mais algumas décadas.
+    - meio óbvio né? apesar de saber que existem alternativas de como "inserir código em computador", acredito que o teclado permanecerá sendo o método mais popular por mais algumas décadas.
 - Se sentir confortável na linha de comando.
     - vulgarmente conhecido como "saber usar o Linux"
     - bash / sed / grep / e afins
@@ -62,7 +60,7 @@ Tentando listar do mais básico do básico até decisões de mais alto nível.
     - pode parecer "opinionated", mas eu observo uma "explosão" na minha produtividade quando uso o vim (e quando vejo colegas realizando algumas tarefas editando texto observo o quanto eles estão se arrastando para fazer algo que no vim eu faria "na velocidade do pensamento")
     - embasando minha opinião: o vim existe há décadas e permanece relevante. O neovim, que tem uma comunidade de desenvolvimento mais ativa, está lentamente tomando o espaço do vim. Portanto aprender a usar vim/neovim não será um tempo desperdiçado.
 - docker/containers
-    - a tecnologia do containers permanecerá relevante por algumas décadas. Tempo investido estudando containers certamente será um tempo muito bem investido.
+    - a tecnologia de containers permanecerá relevante por algumas décadas. Tempo investido estudando containers certamente será um tempo muito bem investido.
 - linguagem de programação
     - eu tenho as minhas preferências, mas, seja lá qual for a linguagem, é importante que ela tenha as seguintes características:
     - um linter
@@ -100,7 +98,7 @@ Sobre o trabalho de web designers no início da internet nos anos 90:
 
 > Conforme as pessoas perceberam os valores cobrados por esses web designers, mais e mais pessoas começaram a pegar livros de HTML e aprender a tecnologia por conta própria.
 
-Tenho a impressão que se substituirmos "web designers" por "arquitetos DevOps" e "HTML" por "Kubernetes" teremos um retrato do cenário atual. 😅
+Tenho a impressão que se substituirmos "web designers" por "arquitetos DevOps", e "HTML" por "Kubernetes", teremos um retrato do cenário atual. 😅
 
 Uma coisa que parece óbvia, mas que mesmo assim gostei de perceber é que:
 
