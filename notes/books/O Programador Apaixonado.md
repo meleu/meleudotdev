@@ -108,9 +108,32 @@ Uma coisa que parece óbvia, mas que mesmo assim gostei de perceber é que:
 - A medida que o preço abaixa, a procura aumenta (mais empresas querem/podem pagar pelo serviço).
 - Esse ciclo vai se repetindo até que oferta/procura/preço atingem um certo ponto de equilíbrio.
 
-O trecho a seguir ilustra isso:
+O trecho a seguir ilustra um cenário onde ocorreu esse "equilíbrio":
 
 > Em um determinado momento, a inundação de web designers de médio e baixo custo regrediu. Web designers menos talentosos foram substituídos por usuários finais e outro pessoal de TI que não necessariamente dominava HTML. Nesse ponto, a oferta, demanda e o preço de desenvolvimento chegaram a um equilíbrio.
 
 
+Outra coisa interessante a se pensar sobre oferta/demanda é que pode ser que tenhamos uma impressão que perderemos nossos empregos quando uma determinada tecnologia for dominada pelo mercado *offshore* (aka indianos).
+
+Na verdade a consequência desse influxo de profissionais vai fazer aumentar a oferta, consequentemente, baixar o preço, e consequentemente **aumentar** a demanda. Ocorre que teremos mais vagas, e não menos! No entanto essas vagas pagarão pouco!
+
+> Programadores Java e .NET são baratos e existem aos montes na Índia, junto dos DBAs Oracle. Tecnologias menos populares são pouco adotadas pelas empresas de offshore. **Durante a escolha de um conjunto de tecnologias para focar em sua carreira, você deve entender os efeitos da oferta crescente e menores preços.**
+
+Esse raciocínio foi o que me deu o empurrãozinho que faltava para eu começar a estudar [[Rust]].
+
+Esse raciocínio nos leva a um questionamento importante para se ter em mente:
+
+Quando você está se candidatando para um trabalho, **você quer que o seu diferencial seja o seu preço menor ou sua maior habilidade?**
+
+Se você usa uma tecnologia amplamente difundida você esterá competindo com que empresas *offshore* que possuem um batalhão de pessoas com esse conhecimento. Daí que para competir com eles provavelmente o seu diferencial será o preço.
+
+> focar em tecnologias de nicho é uma estratégia que, embora não necessariamente torne a competição menos feroz (há menos empregos para ir atrás), muda o foco da concorrência de preço para habilidade.
+
+Há uma outra maneira de competir por habilidade...
+
+> Para que o *offshore* funcione bem, muitas empresas percebem a necessidade de manter uma quantidade de desenvolvedores de alto nível, que definam os padrões da empresa, garantam a qualidade e provenham liderança técnica.
+
+Portanto você tem que dar um jeito de demonstrar que você é extremamente habilidoso naquela tecnologia, a ponto de liderar a massa de profissionais *offshore*. É importante criar essa reputação de ser uma autoridade no assunto.
+
+Um problema disso, que eu já vivenciei, é você ir trabalhar em uma empresa de tecnologia que não é gerida por pessoas que entendem a importância das boas práticas. É o caso de um empreendedor, com alguma (mesmo que pequena) experiência com tecnologia começa a vender o serviço de tecnologia (portanto, uma empresa que oferece serviços *offshore*). Se você trabalhar nessa empresa, vai querer que os managers tenham um background técnico e entendam a importância da aplicação de boas práticas. Isso nem sempre é comum.
 

@@ -25,3 +25,13 @@ Quando eu for começar minhas aventuras com Rust pretendo:
 2. Praticar no [Exercism](https://exercism.org/tracks/rust).
 3. Seguir com esse livro aqui: <https://www.zero2prod.com/>
 
+Talvez:
+
+- [50 Rust Projects - youtube playlist](https://youtube.com/playlist?list=PL5dTjWUk_cPYuhHm9_QImW7_u4lr5d6zO)
+
+
+
+
+https://youtube.com/playlist?list=PLjSf4DcGBdiGCNOrCoFgtj0KrUq1MRUME
+
+https://www.alura.com.br/curso-online-rust-linguagem-programacao-performatica-segura
