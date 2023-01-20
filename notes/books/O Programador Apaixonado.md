@@ -89,6 +89,7 @@ Achei interessante ao menos tomar ciência desse "nicho de mercado".
 
 - liste tecnologias recentes, médias e antigas baseada no mercado atual. Antigas à esquerda, mais modernas à direita. Tente mapear aonde você está.
 
+---
 
 ### Oferta e demanda
 
@@ -121,7 +122,7 @@ Na verdade a consequência desse influxo de profissionais vai fazer aumentar a o
 
 Esse raciocínio foi o que me deu o empurrãozinho que faltava para eu começar a estudar [[Rust]].
 
-Esse raciocínio nos leva a um questionamento importante para se ter em mente:
+Um questionamento importante para se ter em mente:
 
 Quando você está se candidatando para um trabalho, **você quer que o seu diferencial seja o seu preço menor ou sua maior habilidade?**
 
@@ -135,5 +136,12 @@ Há uma outra maneira de competir por habilidade...
 
 Portanto você tem que dar um jeito de demonstrar que você é extremamente habilidoso naquela tecnologia, a ponto de liderar a massa de profissionais *offshore*. É importante criar essa reputação de ser uma autoridade no assunto.
 
-Um problema disso, que eu já vivenciei, é você ir trabalhar em uma empresa de tecnologia que não é gerida por pessoas que entendem a importância das boas práticas. É o caso de um empreendedor, com alguma (mesmo que pequena) experiência com tecnologia começa a vender o serviço de tecnologia (portanto, uma empresa que oferece serviços *offshore*). Se você trabalhar nessa empresa, vai querer que os managers tenham um background técnico e entendam a importância da aplicação de boas práticas. Isso nem sempre é comum.
+Um problema disso, que eu já vivenciei, é você ir trabalhar em uma empresa de tecnologia que não é gerida por pessoas que entendem a importância das boas práticas.
+
+É o caso de um empreendedor, com alguma (mesmo que pequena) experiência com tecnologia começa a vender o serviço de tecnologia (portanto, uma empresa que oferece serviços *offshore*). Se você trabalhar nessa empresa, vai querer que os managers tenham um background técnico e entendam a importância da aplicação de boas práticas. Isso nem sempre é comum.
+
+Ver também [Great Hackers, de Paul Graham](http://www.paulgraham.com/gh.html)
+
+---
+
 

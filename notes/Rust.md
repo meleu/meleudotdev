@@ -19,7 +19,8 @@ Ainda nesse tema, vi um comentário interessante que reforça a ideia:
 
 Isso me deixa assim: 😍
 
-Contra argumento sobre crescer o interesse em Rust: nos surveys do github (ou seria stackoverflow?) o Rust vem sendo ano após ano sendo apontado como a linguagem mais prazerosa de se trabalhar.
+Se é uma linguagem para resolver problemas difíceis, acredito que isso diminuirá o número de "pessoas que não querem resolver problemas difíceis" que eu tenho que me relacionar no dia a dia.
+
 
 ### Plano de estudos
 
