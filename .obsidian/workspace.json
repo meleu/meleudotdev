@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b16b217b22ff981e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Rust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -102,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Rust.md",
+                "file": "notes/learning/Rust Crash Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Rust.md"
+                "file": "notes/learning/Rust Crash Course.md"
               }
             }
           },
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Rust.md",
+                "file": "notes/learning/Rust Crash Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,11 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b16b217b22ff981e",
+  "active": "b861b692f7825041",
   "lastOpenFiles": [
+    "notes/Rust.md",
     "notes/books/O Programador Apaixonado.md",
     "notes/learning/Rust Crash Course.md",
-    "notes/Rust.md",
     "notes/cool ai services.md",
     "notes/().md",
     "moc/books.md",
