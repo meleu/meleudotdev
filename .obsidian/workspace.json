@@ -8,20 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b861b692f7825041",
+            "id": "c2ca3d0c5f7d22b1",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/Rust Crash Course.md",
+                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "181d92e3cbb7bcad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/4 fases da aprendizagem.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -72,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
-    "collapsed": true
+    "width": 374.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -89,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/Rust Crash Course.md",
+                "file": "notes/4 fases da aprendizagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/Rust Crash Course.md"
+                "file": "notes/4 fases da aprendizagem.md"
               }
             }
           },
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/Rust Crash Course.md",
+                "file": "notes/4 fases da aprendizagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,17 +170,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "b861b692f7825041",
+  "active": "181d92e3cbb7bcad",
   "lastOpenFiles": [
-    "notes/books/A Identidade.md",
-    "notes/learning/Rust Crash Course.md",
+    "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
+    "notes/4 fases da aprendizagem.md",
+    "log/2022-12.md",
+    "log/2023-01.md",
+    "log/2022-11.md",
+    "log/2022-07.md",
+    "notes/books/Bom Demais Para Ser Ignorado.md",
     "notes/books/O Programador Apaixonado.md",
-    "notes/bug-report.md",
-    "now.md",
-    "notes/Rust.md",
-    "notes/kindle.md",
-    "notes/cool ai services.md",
-    "notes/().md",
-    "moc/books.md"
+    "notes/learning/ztm-efficient-learning.md",
+    "notes/learning/aprendendo a aprender.md"
   ]
 }

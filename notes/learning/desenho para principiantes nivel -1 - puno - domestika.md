@@ -16,7 +16,7 @@ Influências:
 - Ben Shahn
 - George Grosz
 
-Quatro fases do aprendizagem:
+Quatro fases da aprendizagem:
 
 1. **Incompetência inconsciente**: quando nem sabe o que você não sabe.
 2. **Incompetência consciente**: quando aprende o suficiente para perceber que não sabe. ⚠️ A maioria das pessoas desiste aqui.

@@ -78,7 +78,11 @@ Sobre curva de adoção de uma tecnologia. Pegar o hype ou fazer manutenção de
 
 > As duas pontas da curva de adoção devem provar serem lucrativas.
 
-Pegar o hype é sempre legal. Paga-se muito bem. Mas também há o risco de investir em uma tecnologia que não vai vingar.
+Pegar o hype é sempre legal. Paga-se muito bem. Mas você precisa estar pronto para atuar quando a tecnologia realmente vingar e começarem a surgir vagas. Portanto há o risco de investir tempo para aprender uma tecnologia que não vai vingar.
+
+Se esperar aparecer vagas para começar a aprender, você terá que competir com outras pessoas que também estão aprendendo para preencher tais vagas, portanto você não terá uma vantagem competitiva.
+
+Por isso a importância de aprender rapidamente (ver [[aprendendo a aprender]] e [[ztm-efficient-learning]]).
 
 O autor também mencionado que há um papel a ser preenchido por desenvolvedores: **o asilo da tecnologia**. Lidar com sistemas legados, fazer com que eles se comuniquem com sistemas mais modernos, ou até mesmo reescrevê-los...
 
@@ -140,8 +144,72 @@ Um problema disso, que eu já vivenciei, é você ir trabalhar em uma empresa de
 
 É o caso de um empreendedor, com alguma (mesmo que pequena) experiência com tecnologia começa a vender o serviço de tecnologia (portanto, uma empresa que oferece serviços *offshore*). Se você trabalhar nessa empresa, vai querer que os managers tenham um background técnico e entendam a importância da aplicação de boas práticas. Isso nem sempre é comum.
 
-Ver também [Great Hackers, de Paul Graham](http://www.paulgraham.com/gh.html)
+Isso me lembra uma coisa mencionada por Paul Graham em [Great Hackers](http://www.paulgraham.com/gh.html).
+
+> Hackers like to work for people with high standards. But it's not enough just to be exacting. You have to insist on the right things. Which usually means that you have to be a hacker yourself. I've seen occasional articles about how to manage programmers. Really there should be two articles: one about what to do if you are yourself a programmer, and one about what to do if you're not. And the second could probably be condensed into two words: give up.
+
 
 ---
 
+### Escrever código não é suficiente
+
+O argumento aqui é que não devemos simplesmente escrever código, precisamos nos aprofundar em uma determinada área de negócio.
+
+Se você se tornar, por exemplo, o programador de referência para desenvolver softwares para o setor imobiliário, isso será um grande diferencial.
+
+Eu acredito que eu tenho uma grande oportunidade de me aprofundar na área de logística, já que tenho grandes amigos atuando e com bastante experiência nessa área.
+
+> Você pode ser "apenas um programador", mas ser capaz de falar com seus clientes do negócio na linguagem de seu domínio de negócio é uma habilidade única.
+
+Eu também pensei em outros tópicos que eu poderia ser um especialista sem precisar subir tanto para a camada de negócios, mas sim no tipo de aplicação desenvolvida. Exemplos:
+
+- chatbots (já fiz o RABot e o logbots)
+    - [teloxide](https://docs.rs/teloxide/latest/teloxide/) - Rust framework to build telegram bots
+- conversão de dados para planilhas Excel para o logbots.app (não me lembro de muita coisa, apenas listando algo que eu poderia me aprofundar)
+    - [Rust Excel reader](https://docs.rs/office/latest/office/)
+
+> Se você é um músico, quando adicionar algo ao seu repertório, não significa apenas que você tocou a música uma vez. Significa que você finalmente conhece a música.
+
+É importante pensar em quais domínios eu devo investir meu tempo. Eis algumas divagações:
+
+- Games?
+    - Eu até curto, mas percebo que não tenho a mesma vibe das comunidades gamers. Existe muita negatividade e bullshitagem.
+- Healthcare?
+    - Acredito ser bastante relevante, duradoura e lucrativa, mas nem sempre divertido...
+- Finanças?
+    - Também pare ser bastante relevante, duradoura e lucrativa. Também não parece ser muito divertido, mas muito útil! Saber lidar com dinheiro sempre é útil! 🤑
+- Logística?
+    - Eu teria um excelente consultor/mentor sobre essa área. Pode ser uma boa!
+
+Seja lá qual for a área que escolher, fique antenado no que acontece nesses mercados/nichos. Leia os sites, revistas, vídeos sobre o tema.
+
+
+---
+
+
+### Seja o pior
+
+Isso já é o meu lema há muito tempo, mas ainda assim consegui pescar alguns insights valiosos nesse capítulo.
+
+Uma dica muito boa de procurar projetos open source com pessoas que estejam em um nível acima do seu:
+
+> Encontre uma situação para você ser o pior. Você pode não se dar ao luxo de mudar de equipe, ou até mesmo de empresa, só porque quer trabalhar com pessoas melhores. Em vez disso, encontre um projeto para trabalhar como voluntário em que você possa trabalhar com outros desenvolvedores, que vão torná-lo melhor por osmose.
+> 
+> (...) Escolha um projeto *open source* de que você goste e cujos desenvolvedores parecem estar em um nível acima do seu. Vá até a lista de tarefas do projeto ou o histórico da lista de discussão, escolha uma funcionalidade ou uma correção de bug importante e escreva o código!
+
+---
+
+### Invista em sua inteligência
+
+Basicamente um encorajamento a experimentar tecnologias novas.
+
+Meu resumo prático: vá em exercism.org e escolha uma linguagem que desperte sua curiosidade. Comece a resolver os desafios e interaja com a comunidade.
+
+Realmente isso é valioso e enriquecedor, mesmo que você não chegue a utilizar a tecnologia no seu trabalho "oficial", você ficará mais inteligente.
+
+Eu pessoalmente acredito que esse valor é mais percebido internamente, pela própria pessoa. Ou seja, não é algo muito "propagandeável" (a não ser que o seu possível futuro empregador seja técnico o suficiente para saber o valor de você ter passado um tempo estudando Assembly, Lua ou Vim Script).
+
+> Minha explicação é que, ou as pessoas boas buscam a diversidade, pois elas amam aprender coisas novas, ou ser forçado em experiências e ambientes mais exóticos criava programadores mais maduros e preparados. Eu acredito que seja um pouco dos dois. (...)
+> 
+> Para mim, como um gerente de contratação, a primeira razão é que isso mostra que você está interessado. Se eu sei que você aprendeu alguma coisa por causa do autodesenvolvimento e (melhor ainda) pura diversão, eu sei que você está animado e motivado sobre a sua profissão.
 

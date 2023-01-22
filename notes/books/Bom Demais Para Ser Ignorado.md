@@ -12,6 +12,15 @@ author: Cal Newport
 
 Quando se trata de criar um trabalho que você ama, seguir sua paixão não é um conselho útil.
 
+Tentando fazer um resumo super simplista de como tento colocar em prática os aprendizados desse livro:
+
+> Escolha uma atividade que alguém paga para você fazer e que você não sofra ao fazer. Aprimore-se nas maneiras que você realiza essa tarefa. Com o tempo a tarefa será muito fácil e você será "bom demais para ser ignorado".
+
+Para conseguir fazer 👆 isso, é necessário ter a "mentalidade do artesão" (o que eu ofereço para mundo), e fugir da "mentalidade da paixão" (o que o mundo tem para me oferecer).
+
+
+
+
 
 ## despejando minhas palavras
 
