@@ -213,3 +213,8 @@ Eu pessoalmente acredito que esse valor é mais percebido internamente, pela pr�
 > 
 > Para mim, como um gerente de contratação, a primeira razão é que isso mostra que você está interessado. Se eu sei que você aprendeu alguma coisa por causa do autodesenvolvimento e (melhor ainda) pura diversão, eu sei que você está animado e motivado sobre a sua profissão.
 
+
+---
+
+
+https://medium.com/@chadfowler/clone-yourself-the-step-by-step-guide-to-finding-freedom-at-work-11fdccf2f50b

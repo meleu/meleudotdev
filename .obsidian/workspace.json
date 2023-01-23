@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/4 fases da aprendizagem.md",
+                "file": "now.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/4 fases da aprendizagem.md",
+                "file": "now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/4 fases da aprendizagem.md"
+                "file": "now.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/4 fases da aprendizagem.md",
+                "file": "now.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,10 +172,10 @@
   },
   "active": "181d92e3cbb7bcad",
   "lastOpenFiles": [
-    "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
-    "notes/4 fases da aprendizagem.md",
-    "log/2022-12.md",
     "log/2023-01.md",
+    "notes/4 fases da aprendizagem.md",
+    "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
+    "log/2022-12.md",
     "log/2022-11.md",
     "log/2022-07.md",
     "notes/books/Bom Demais Para Ser Ignorado.md",
