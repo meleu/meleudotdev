@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2ca3d0c5f7d22b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "181d92e3cbb7bcad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "now.md",
-                "mode": "source",
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "now.md",
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "now.md"
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md"
               }
             }
           },
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "now.md",
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,15 +159,15 @@
   },
   "active": "181d92e3cbb7bcad",
   "lastOpenFiles": [
+    "private/dicas de series.md",
+    "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
+    "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
+    "now.md",
     "log/2023-01.md",
     "notes/4 fases da aprendizagem.md",
     "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
     "log/2022-12.md",
     "log/2022-11.md",
-    "log/2022-07.md",
-    "notes/books/Bom Demais Para Ser Ignorado.md",
-    "notes/books/O Programador Apaixonado.md",
-    "notes/learning/ztm-efficient-learning.md",
-    "notes/learning/aprendendo a aprender.md"
+    "log/2022-07.md"
   ]
 }
