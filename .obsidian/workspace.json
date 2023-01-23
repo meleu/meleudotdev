@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
-                "mode": "preview",
-                "source": false
+                "file": "repos/meleu.sh/TODO.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
+                "file": "repos/meleu.sh/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md"
+                "file": "repos/meleu.sh/TODO.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
+                "file": "repos/meleu.sh/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,15 +159,15 @@
   },
   "active": "181d92e3cbb7bcad",
   "lastOpenFiles": [
-    "private/dicas de series.md",
+    "notes/bash-ideas.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
+    "private/dicas de series.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
     "now.md",
     "log/2023-01.md",
     "notes/4 fases da aprendizagem.md",
     "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
     "log/2022-12.md",
-    "log/2022-11.md",
-    "log/2022-07.md"
+    "log/2022-11.md"
   ]
 }

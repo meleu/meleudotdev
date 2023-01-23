@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-# bash ideas - useful scripts to be written (and eventually used)
+# bash ideas
 
 - gitignore - a function that gets a `.gitignore` file from <https://gitignore.io/>. Command: `curl -L https://gitignore.io/api/linux,windows`
 
