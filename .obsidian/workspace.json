@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/pubsub.md",
+                "file": "notes/learning/Rust Crash Course.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 374.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/pubsub.md",
+                "file": "notes/learning/Rust Crash Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/pubsub.md"
+                "file": "notes/learning/Rust Crash Course.md"
               }
             }
           },
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/pubsub.md",
+                "file": "notes/learning/Rust Crash Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,6 +160,7 @@
   },
   "active": "181d92e3cbb7bcad",
   "lastOpenFiles": [
+    "notes/pubsub.md",
     "repos/meleu.sh/TODO.md",
     "notes/bash-ideas.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
@@ -167,7 +169,6 @@
     "now.md",
     "log/2023-01.md",
     "notes/4 fases da aprendizagem.md",
-    "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
-    "log/2022-12.md"
+    "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md"
   ]
 }

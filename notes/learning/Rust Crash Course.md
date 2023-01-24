@@ -92,4 +92,97 @@ if a > 200 {
 
 ### Repetition using loops
 
-Stopped at 33:45 here: <https://youtu.be/lzKeecy4OmQ?t=2025>
+- types of loops
+    - `loop` - infinite loop
+    - `while` - conditional loop
+ - both types can exit using `break` 
+
+`loop` example:
+```rust
+let mut a = 0;
+
+loop {
+  if a == 5 {
+    break;
+  }
+
+  println!("{:?}", a);
+  a = a + 1;
+}
+```
+
+`while` example:
+```rust
+let mut a = 0;
+
+while a != 5 {
+  println!("{:?}", a);
+  a = a + 1;
+}
+```
+
+
+### Tool installation
+
+- rustup: <https://rustup.rs/>
+- Visual Studio Code
+
+
+### practice
+
+Download files from: <https://links.zerotomastery.io/rust-crash-course>
+
+`cargo` commands:
+
+```shell
+# run a specific file
+# (needs to be at the same directory as Cargo.toml
+cargo run --bin ${file}
+
+# run without compiling messages
+carg run --bin ${file} -q # or --quiet
+```
+
+The exercises a1, a2, a3a and a3b are pretty trivial.
+
+### Match expressions
+
+[Here at 1:17:00](https://youtu.be/lzKeecy4OmQ?t=4620)
+
+- similar to `if..else`
+- exhaustive
+    - all options must be accounted for
+- looks like a "switch case" statement
+
+- `match` vs `if..else`
+    - `match` will be checked by the compiler
+        - if a new possibility is added, you will be notified when this occurs
+    - `if..else` is *not* checked by the compiler
+        - if a new possibility is added, your code may contain a bug
+
+**NOTE**: prefer `match` over `if..else` when working with a single variable. It's more robust.
+
+example with boolean:
+```rust
+fn main() {
+  let some_bool = true;
+  match some_bool {
+    true => println!("it's true"),
+    false => println!("it's false"),
+  }
+}
+```
+
+example with int:
+```rust
+fn main() {
+  let some_int = 3;
+  match some_int {
+    1 => println!("it's 1"),
+    2 => println!("it's 2"),
+    3 => println!("it's 3"),
+    // underscore _ works like 'default' in C
+    _ => println!("it's something else"),
+  }
+}
+```
