@@ -186,3 +186,8 @@ fn main() {
   }
 }
 ```
+
+
+### practice loop
+
+Stopped [at 1:34:09](https://youtu.be/lzKeecy4OmQ?t=5649).
