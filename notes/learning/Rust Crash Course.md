@@ -188,9 +188,40 @@ fn main() {
 ```
 
 
-### practice loop
+## Working With Data
 
-Stopped [at 1:34:09](https://youtu.be/lzKeecy4OmQ?t=5649).
+### enum
+
+- data that can be one of multiple different possibilities
+    - each possibility is called a "variant"
+- provides information about your program to the compiler
+    - more robust programs when paired with `match`
+
+
+```rust
+enum Direction {
+  Up,
+  Down,
+  Left,
+  Right,
+}
+
+fn which_way(go: Direction) {
+  // remember, with match all possibilities
+  // must be satisfied. Therefore, if you
+  // add a new item to the Direction enum,
+  // the compiler will complain if you don't
+  // add it to the match block below.
+  match go {
+    Direction::Up => "up",
+    Direction::Down => "down",
+    Direction::Left => "left",
+    Direction::Right => "right",
+  }
+}
+```
+
+
 
 
 ---

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/cross-browser testing tool.md",
+                "file": "notes/Rust.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/cross-browser testing tool.md",
+                "file": "notes/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/cross-browser testing tool.md"
+                "file": "notes/Rust.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/cross-browser testing tool.md",
+                "file": "notes/Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,15 +160,15 @@
   },
   "active": "181d92e3cbb7bcad",
   "lastOpenFiles": [
+    "notes/exercism - 12in23 challenge.md",
+    "notes/learning/Rust Crash Course.md",
+    "notes/cross-browser testing tool.md",
     "notes/Rust.md",
     "private/PL.md",
     "notes/ChatGPT.md",
-    "notes/learning/Rust Crash Course.md",
     "notes/pubsub.md",
     "repos/meleu.sh/TODO.md",
     "notes/bash-ideas.md",
-    "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
-    "private/dicas de series.md",
-    "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md"
+    "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md"
   ]
 }
