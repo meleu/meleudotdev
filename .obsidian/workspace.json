@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Rust.md",
+                "file": "notes/cross-browser testing tool.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Rust.md",
+                "file": "notes/cross-browser testing tool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Rust.md"
+                "file": "notes/cross-browser testing tool.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Rust.md",
+                "file": "notes/cross-browser testing tool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,9 +160,9 @@
   },
   "active": "181d92e3cbb7bcad",
   "lastOpenFiles": [
+    "notes/Rust.md",
     "private/PL.md",
     "notes/ChatGPT.md",
-    "notes/Rust.md",
     "notes/learning/Rust Crash Course.md",
     "notes/pubsub.md",
     "repos/meleu.sh/TODO.md",
