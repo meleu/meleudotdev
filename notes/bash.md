@@ -13,10 +13,26 @@ dg-publish: true
 - <https://github.com/dylanaraps/pure-bash-bible> - pure bash bible
 - <http://redsymbol.net/articles/unofficial-bash-strict-mode/> - bash strict mode explanation
 
+## books
+
+- bash specific
+    - bash Cookbook
+    - Learning the bash Shell
+    - bash Idioms
+    - Cybersecurity Ops with bash
+    - Classic Shell Scripting
+- misc
+    - Linux Pocket Guide - essential commands
+    - Effective awk Programming
+    - grep Pocket Reference
+    - UNIX Power Tools
+    - Network Programmability and Automation (more about Python)
+
 
 ## inspiration
 
 - <https://github.com/alexanderepstein/Bash-Snippets> - **THIS IS AN EXTREMELY VALUABLE RESOURCE**
+
 
 ## links
 
