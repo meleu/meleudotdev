@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/bash.md",
+                "file": "notes/books/Bom Demais Para Ser Ignorado.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/bash.md",
+                "file": "notes/books/Bom Demais Para Ser Ignorado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/bash.md"
+                "file": "notes/books/Bom Demais Para Ser Ignorado.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/bash.md",
+                "file": "notes/books/Bom Demais Para Ser Ignorado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,6 +159,7 @@
   },
   "active": "d68e2368a15dab8c",
   "lastOpenFiles": [
+    "notes/bash.md",
     "notes/Aprenda Rust - Bruno Rocha.md",
     "notes/Rust.md",
     "notes/exercism - 12in23 challenge.md",
@@ -167,7 +168,6 @@
     "private/PL.md",
     "notes/ChatGPT.md",
     "notes/pubsub.md",
-    "repos/meleu.sh/TODO.md",
-    "notes/bash-ideas.md"
+    "repos/meleu.sh/TODO.md"
   ]
 }
