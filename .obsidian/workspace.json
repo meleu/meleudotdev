@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "181d92e3cbb7bcad",
+            "id": "d68e2368a15dab8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Rust.md",
+                "file": "notes/bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Rust.md",
+                "file": "notes/bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Rust.md"
+                "file": "notes/bash.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Rust.md",
+                "file": "notes/bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,17 +157,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "181d92e3cbb7bcad",
+  "active": "d68e2368a15dab8c",
   "lastOpenFiles": [
+    "notes/Aprenda Rust - Bruno Rocha.md",
+    "notes/Rust.md",
     "notes/exercism - 12in23 challenge.md",
     "notes/learning/Rust Crash Course.md",
     "notes/cross-browser testing tool.md",
-    "notes/Rust.md",
     "private/PL.md",
     "notes/ChatGPT.md",
     "notes/pubsub.md",
     "repos/meleu.sh/TODO.md",
-    "notes/bash-ideas.md",
-    "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md"
+    "notes/bash-ideas.md"
   ]
 }

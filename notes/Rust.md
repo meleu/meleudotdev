@@ -36,3 +36,4 @@ Talvez:
 - [50 Rust Projects - youtube playlist](https://youtube.com/playlist?list=PL5dTjWUk_cPYuhHm9_QImW7_u4lr5d6zO)
 - [Aprenda Rust - Bruno Rocha](https://youtube.com/playlist?list=PLjSf4DcGBdiGCNOrCoFgtj0KrUq1MRUME)
 - [Curso de Rust na alura](https://www.alura.com.br/curso-online-rust-linguagem-programacao-performatica-segura)
+  
