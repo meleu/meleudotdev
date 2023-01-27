@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Bom Demais Para Ser Ignorado.md",
+                "file": "notes/vim.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Bom Demais Para Ser Ignorado.md",
+                "file": "notes/vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Bom Demais Para Ser Ignorado.md"
+                "file": "notes/vim.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Bom Demais Para Ser Ignorado.md",
+                "file": "notes/vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,6 +159,8 @@
   },
   "active": "d68e2368a15dab8c",
   "lastOpenFiles": [
+    "notes/vimwiki.md",
+    "notes/books/Bom Demais Para Ser Ignorado.md",
     "notes/bash.md",
     "notes/Aprenda Rust - Bruno Rocha.md",
     "notes/Rust.md",
@@ -166,8 +168,6 @@
     "notes/learning/Rust Crash Course.md",
     "notes/cross-browser testing tool.md",
     "private/PL.md",
-    "notes/ChatGPT.md",
-    "notes/pubsub.md",
-    "repos/meleu.sh/TODO.md"
+    "notes/ChatGPT.md"
   ]
 }

@@ -15,10 +15,10 @@ By reading the contents of [this repository](https://github.com/dahu/learnvim) I
 - learn how to navigate the documentation
     - `ctrl-]` to follow a vimdoc link
     - `ctrl-o` or `ctrl-t` to go back
-- `:help quickref` skim over quickref just to know it exists and what's there (it's like a cheatsheet)
 - learn about text-objects
     - `:help Q_to` cheatsheet
     - `:help text-objects` - verbose
+- `:help quickref` skim over quickref just to know it exists and what's there (it's like a cheatsheet)
 - when lurking other people's `.vimrc`, a one-sentence description of the options assigned with `set` can be seen in `:help option-list`
 
 ## things I wanna do
