@@ -187,3 +187,42 @@ Qualquer caracter Unicode, ou seja, aceita emojis!
 ### Compostos
 
 <https://youtu.be/IEFrj4znVIU?t=920>
+
+#### tupla
+
+- tamanho único
+- tipagem mista
+- acesso aos items com `.` ponto: ex.: `my_tuple.0`
+- útil para desserialização de um objeto
+
+```rust
+// declaração com inferência de tipo
+let numbers = (1, 2, 3);
+let my_stuff = (1, 2.3, false);
+
+// declaração com tipagem explícita
+let numbers: (i32, i32, i32) = (1, 2, 3);
+let my_stuff (i32, f64, bool) = (1, 2.3, false);
+
+// desserialiazação
+let (a, b, c) = numbers;
+```
+
+#### array
+
+- elementos do mesmo tipo
+- acesso aos items igual outras linguagens: `my_array[0]`
+- fazer slice com `&my_array[1..2]`
+    - no intervalo `1..2`, o `1` é inclusive e o `2` é exclusivo.
+    - `..2` se omitir o início, considere `0`
+    - `1..` se omitir o final, considere que é até o fim
+
+```rust
+// inferência de tipo
+let numbers = [1, 2, 3];
+
+// tipagem explícita
+let numbers: [i32:3] = [1, 2, 3];
+```
+
+
