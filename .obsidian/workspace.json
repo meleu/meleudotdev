@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Aprenda Rust - Bruno Rocha.md",
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 1 - Seja Proativo.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Aprenda Rust - Bruno Rocha.md",
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 1 - Seja Proativo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Aprenda Rust - Bruno Rocha.md"
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 1 - Seja Proativo.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Aprenda Rust - Bruno Rocha.md",
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 1 - Seja Proativo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,15 +159,15 @@
   },
   "active": "d68e2368a15dab8c",
   "lastOpenFiles": [
-    "notes/Assembly com SNES e MegaDrive.md",
+    "notes/learning/Rust Crash Course.md",
     "notes/Aprenda Rust - Bruno Rocha.md",
+    "notes/Assembly com SNES e MegaDrive.md",
     "notes/vim.md",
     "notes/vimwiki.md",
     "notes/books/Bom Demais Para Ser Ignorado.md",
     "notes/bash.md",
     "notes/Rust.md",
     "notes/exercism - 12in23 challenge.md",
-    "notes/learning/Rust Crash Course.md",
     "notes/cross-browser testing tool.md"
   ]
 }
