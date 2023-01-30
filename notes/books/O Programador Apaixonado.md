@@ -130,7 +130,7 @@ Um questionamento importante para se ter em mente:
 
 Quando você está se candidatando para um trabalho, **você quer que o seu diferencial seja o seu preço menor ou sua maior habilidade?**
 
-Se você usa uma tecnologia amplamente difundida você esterá competindo com que empresas *offshore* que possuem um batalhão de pessoas com esse conhecimento. Daí que para competir com eles provavelmente o seu diferencial será o preço.
+Se você usa uma tecnologia amplamente difundida você estará competindo com empresas *offshore* que possuem um batalhão de pessoas com esse conhecimento. Daí que para competir com eles provavelmente o seu diferencial será o preço.
 
 > focar em tecnologias de nicho é uma estratégia que, embora não necessariamente torne a competição menos feroz (há menos empregos para ir atrás), muda o foco da concorrência de preço para habilidade.
 

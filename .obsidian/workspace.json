@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Os 7 Habitos - Introducao.md",
+                "file": "notes/git.md",
                 "mode": "preview",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
-    "collapsed": true
+    "width": 374.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Os 7 Habitos - Introducao.md",
+                "file": "notes/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Os 7 Habitos - Introducao.md"
+                "file": "notes/git.md"
               }
             }
           },
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Os 7 Habitos - Introducao.md",
+                "file": "notes/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,15 +159,15 @@
   },
   "active": "d68e2368a15dab8c",
   "lastOpenFiles": [
-    "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 1 - Seja Proativo.md",
+    "notes/books/7-habitos-eficazes/Os 7 Habitos - Introducao.md",
+    "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
     "notes/learning/Rust Crash Course.md",
     "notes/Aprenda Rust - Bruno Rocha.md",
     "notes/Assembly com SNES e MegaDrive.md",
     "notes/vim.md",
     "notes/vimwiki.md",
     "notes/books/Bom Demais Para Ser Ignorado.md",
-    "notes/bash.md",
-    "notes/Rust.md"
+    "notes/bash.md"
   ]
 }
