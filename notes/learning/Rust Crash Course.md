@@ -249,3 +249,35 @@ fn my_function() {
   let tall = my_box.height;
 }
 ```
+
+
+### tuples
+
+- a type of "record"
+- store data anonymously (no need to name fields)
+- useful to return pairs of data from functions
+- can be destructured easily into variables
+- accepts different types
+
+```rust
+
+// declaração com inferência de tipo
+let numbers = (1, 2, 3);
+let my_stuff = (1, 2.3, false);
+
+// declaração com tipagem explícita
+let numbers: (i32, i32, i32) = (1, 2, 3);
+let my_stuff (i32, f64, bool) = (1, 2.3, false);
+
+// desserialiazação
+let (a, b, c) = numbers;
+
+fn one_two_three() -> (i32, i32, i32) {
+  (1, 2, 3)
+}
+
+let numbers = one_two_three();
+let (x, y, z) = one_two_three();
+```
+
+```
