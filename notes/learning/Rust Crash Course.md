@@ -188,6 +188,11 @@ fn main() {
 ```
 
 
+### Expressions
+
+https://youtu.be/lzKeecy4OmQ?t=9364
+
+
 ## Working With Data
 
 ### enum
@@ -258,6 +263,7 @@ fn my_function() {
 - useful to return pairs of data from functions
 - can be destructured easily into variables
 - accepts different types
+- to access items of a tuple use the `.` dot followed by the index (kinda unusual notation). example: `my_tuple.0`
 
 ```rust
 
@@ -280,4 +286,5 @@ let numbers = one_two_three();
 let (x, y, z) = one_two_three();
 ```
 
-```
+
+Continuar em [[#Expressions]]
