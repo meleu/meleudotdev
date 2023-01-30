@@ -225,4 +225,27 @@ fn which_way(go: Direction) {
 
 ### struct
 
-<https://youtu.be/lzKeecy4OmQ?t=7524>
+- a type containing multiple pieces of data
+- each piece of data is called a "field"
+- all fields MUST be populated
+- make working with data easier
+
+Example:
+```rust
+struct ShippingBox {
+  depth: i32,
+  width: i32,
+  height: i32,
+}
+
+fn my_function() {
+  let my_box = ShippingBox {
+    depth: 3,
+    width: 2,
+    height: 5,
+  };
+
+  // access individual fields with a '.' dot
+  let tall = my_box.height;
+}
+```

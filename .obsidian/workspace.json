@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d68e2368a15dab8c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "private/kanban/kanban.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "cbfeeaadf200f00b",
+            "id": "533d50759dbbe382",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "private/kanban/kanban - courses.md"
+                "file": "notes/learning/Rust Crash Course.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/kanban/kanban - courses.md",
+                "file": "notes/learning/Rust Crash Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/kanban/kanban - courses.md"
+                "file": "notes/learning/Rust Crash Course.md"
               }
             }
           },
@@ -136,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/kanban/kanban - courses.md",
+                "file": "notes/learning/Rust Crash Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,17 +158,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "cbfeeaadf200f00b",
+  "active": "533d50759dbbe382",
   "lastOpenFiles": [
+    "notes/Rust.md",
+    "private/kanban/kanban.md",
+    "private/kanban/kanban - courses.md",
     "private/kanban/kanban - writings.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
-    "notes/Rust.md",
-    "private/kanban/kanban.md",
     "repos/meleu.sh/TODO.md",
     "notes/bash-ideas.md",
     "notes/books/Personal Kanban.md",
-    "notes/Python Development Setup.md",
-    "notes/git tricks.md"
+    "notes/Python Development Setup.md"
   ]
 }
