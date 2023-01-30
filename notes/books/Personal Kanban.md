@@ -18,9 +18,11 @@ I saw mentions to it in the [[Manual de DevOps|DevOps Handbook]] and became inte
 
 ## Main takeaways
 
-- Visualize your work
+The two rules of Personal Kanban:
+
+- **Visualize your work**
     - Work unseen is work uncontrolled.
-- Control your Work In Progress (WIP)
+- **Control your Work In Progress (WIP)**
     - We can't do more work than we can handle.
 
 Other important things mentioned in the book:

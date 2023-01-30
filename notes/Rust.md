@@ -3,9 +3,7 @@ dg-publish: true
 ---
 # Rust
 
-Nunca escrevi e nem ao menos li uma única linha de código Rust, mas já estou bastante interessado em estudar, e em breve trabalhar com, essa linguagem!
-
-3 motivos:
+Estou com um forte desejo de investir um tempo estudando Rust. Eis os motivos:
 
 1. vejo que tem vagas
 2. vejo gente falando que Rust é "difícil"
