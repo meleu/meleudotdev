@@ -23,11 +23,9 @@
             "id": "cbfeeaadf200f00b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
-                "mode": "source",
-                "source": false
+                "file": "private/kanban/kanban - courses.md"
               }
             }
           }
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
+                "file": "private/kanban/kanban - courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md"
+                "file": "private/kanban/kanban - courses.md"
               }
             }
           },
@@ -138,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
+                "file": "private/kanban/kanban - courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,6 +171,8 @@
   },
   "active": "cbfeeaadf200f00b",
   "lastOpenFiles": [
+    "private/kanban/kanban - writings.md",
+    "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
     "notes/Rust.md",
     "private/kanban/kanban.md",
@@ -180,8 +180,6 @@
     "notes/bash-ideas.md",
     "notes/books/Personal Kanban.md",
     "notes/Python Development Setup.md",
-    "notes/git tricks.md",
-    "notes/git.md",
-    "notes/books/7-habitos-eficazes/Habito Eficaz 1 - Seja Proativo.md"
+    "notes/git tricks.md"
   ]
 }
