@@ -108,5 +108,6 @@ fn main() {
   let mut slogan = String::new();
   slogan.push_str("We hit the ground");
   slogan.push(' ');
+  slogan = slogan + "every time";
 }
 ```
