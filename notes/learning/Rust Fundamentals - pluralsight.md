@@ -174,4 +174,18 @@ fn main() {
 
 ### logical
 
-- `1 == 1` for equal
+- equal: `1 == 1`
+- not equal: `1 != 2`
+- and: `true && true`
+- or: `false || true`
+
+
+### bitwise operators
+
+- and: `&`
+- or: `|`
+- xor: `^`
+- left shift: `<<`
+- right shift: `>>`
+
+
