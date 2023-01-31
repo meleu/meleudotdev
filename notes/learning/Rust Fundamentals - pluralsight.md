@@ -49,6 +49,8 @@ let location: [f32;2] = [0.0, 0.1];
 
 ### Strings
 
+- [video](https://app.pluralsight.com/course-player?clipId=962406ba-2b5e-4153-a484-d8efa0fb2ea2)
+
 Strings are complex in Rust as compared to many other languages. This is a trade off that Rust has made to support its core principals:
 
 - Speed
@@ -111,3 +113,65 @@ fn main() {
   slogan = slogan + "every time";
 }
 ```
+
+
+## Variables
+
+```rust
+fn main() {
+  // explicitly saying data type
+  let explicit_type: i32 = 42;
+  let inferred_type = 3.14;
+}
+```
+
+
+Casting Variable Data Types
+
+```rust
+fn main() {
+  let float: f32 = 17.2;
+  let unsigned_int: u8 = 5;
+  // use u8 as f32
+  let cast_u8 = unsigned_int as f32;
+
+  // int to char
+  let number: u8 = 65;
+  let letter = number as char;
+
+  // float to char is an ERROR
+  let number: f32 = 65.0;
+  let letter = number as char; // ERROR!
+}
+```
+
+Shadowing:
+
+> Defining a variable with the same name as another variable that's already been declared is called shadowing.
+
+```rust
+fn main() {
+  let my_var = 123;
+  {
+    let my_var = 321; // shadowing my_var
+    println!("{}", my_var);
+  }
+}
+```
+
+## Operators
+
+### math
+
+- typical `+ - * /` operators
+- `%` for the remainder
+- for power: 
+    - `i32::pow(n, p)`
+        - an integer can only have an integer exponent
+    - `f32::powi(n, p)` or `f32::powf(n, p)`
+        - `powi` for int exponent, and `powf` for float exponent
+
+
+### logical
+
+- `1 == 1` for equal

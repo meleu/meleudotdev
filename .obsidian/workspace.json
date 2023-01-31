@@ -144,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,15 +159,15 @@
   },
   "active": "082963b5e69ed775",
   "lastOpenFiles": [
-    "notes/Rust.md",
+    "notes/learning/Aprenda Rust - Bruno Rocha.md",
+    "notes/js-roadmap.md",
     "notes/learning/Rust Fundamentals - pluralsight.md",
+    "notes/Rust.md",
     "notes/learning/Rust Crash Course.md",
-    "notes/Aprenda Rust - Bruno Rocha.md",
     "private/kanban/kanban.md",
     "private/kanban/kanban - courses.md",
     "private/kanban/kanban - writings.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
-    "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
-    "repos/meleu.sh/TODO.md"
+    "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md"
   ]
 }
