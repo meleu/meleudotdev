@@ -259,7 +259,7 @@ fn my_function() {
 ### tuples
 
 - a type of "record"
-- store data anonymously (no need to name fields)
+- we consider it an "anonymous struct", meaning: a struct with no name where the fields are also unnamed.
 - useful to return pairs of data from functions
 - can be destructured easily into variables
 - accepts different types

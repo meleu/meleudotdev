@@ -31,7 +31,9 @@ Quando eu for começar minhas aventuras com Rust pretendo:
 
 Talvez:
 
+- [[Rust Fundamentals - pluralsight]]
 - [50 Rust Projects - youtube playlist](https://youtube.com/playlist?list=PL5dTjWUk_cPYuhHm9_QImW7_u4lr5d6zO)
 - [Aprenda Rust - Bruno Rocha](https://youtube.com/playlist?list=PLjSf4DcGBdiGCNOrCoFgtj0KrUq1MRUME)
+- [Rust Course - FreeCodeCamp](https://youtu.be/MsocPEZBd-M) - simple calculator project based (looks cool).
 - [Curso de Rust na alura](https://www.alura.com.br/curso-online-rust-linguagem-programacao-performatica-segura)
   
