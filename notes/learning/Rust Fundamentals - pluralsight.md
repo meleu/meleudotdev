@@ -189,3 +189,110 @@ fn main() {
 - right shift: `>>`
 
 
+## Control Flow
+
+### if / else
+
+A string can be compared as other data types:
+```rust
+if word == "Duck" {
+  println!("Quack!");
+}
+```
+
+### enum
+
+```rust
+enum NavigationAids {
+  NDB,
+  VOR,
+  VORDME,
+}
+
+fn main() {
+  println!("NDB:\t{}", NavigationAids::NDB as u8); // 0
+  println!("VOR:\t{}", NavigationAids::VOR as u8); // 1
+  println!("VORDME:\t{}", NavigationAids::VORDME as u8); // 2
+}
+```
+
+If you change a value of a field in an `enum`, the following fields will have a next greater value.
+
+Examples:
+
+![[Rust Fundamentals - pluralsight - enum-value1.png]]
+
+![[Rust Fundamentals - pluralsight - enum-value2.png]]
+
+### Option
+
+> [!note]
+> **Rust does not have a 'null' data type.**
+
+Option is an enumeration which has two values: Some and None.
+
+```rust
+fn main() {
+  let phrase = String::from("Duck Airlines");
+  let letter = phrase.chars().nth(15); // out of bound
+
+  let value = match letter {
+    Some(character) => character.to_string(),
+    None => String::from("No Value")
+  };
+
+  println!("{}", value);
+}
+```
+
+
+### match
+
+> Rust `match` operator is similar to `switch` statement in other languages.
+
+### loop / while
+
+- `loop` is infinite loop (needs `break`)
+- `while` - no secrets here
+
+### for
+
+example
+```rust
+for index in 1..11 {
+  println!("{}", index);
+}
+```
+
+Note about ranges
+- `1..10` - goes from 1 to 9 (the last value is exclusive)
+- `1..=10` - goes from 1 to 10 (the equal sign makes last value inclusive)
+
+The `for` is useful to loop through an `Iterator`.
+
+> For now, you can consider a `Trait` as an interface.
+
+```rust
+trait Iterator {
+  type Item;
+  fn next(&mut self) -> Option<Self::Item>;
+}
+```
+
+
+We can get an iterator from an array using the `.iter()` method, like here:
+```rust
+fn main() {
+  let duck_aircraft = [
+    "Boeing 737",
+    "Boeing 767",
+    "Boeing 787",
+    "Airbus 319",
+    "Airbus 320",
+  ];
+
+  for aircracft in duck_aircraft.iter() {
+    println!("{}", aircraft);
+  }
+}
+```
