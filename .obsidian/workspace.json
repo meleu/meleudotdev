@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Estrutura Curso de DevOps.md",
+                "file": "notes/Estrutura Curso DevOps.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Estrutura Curso de DevOps.md",
+                "file": "notes/Estrutura Curso DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Estrutura Curso de DevOps.md"
+                "file": "notes/Estrutura Curso DevOps.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Estrutura Curso de DevOps.md",
+                "file": "notes/Estrutura Curso DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
