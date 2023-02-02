@@ -226,7 +226,7 @@ Examples:
 
 ### Option
 
-> [!note]
+> [!important]
 > **Rust does not have a 'null' data type.**
 
 Option is an enumeration which has two values: Some and None.
@@ -296,3 +296,32 @@ fn main() {
   }
 }
 ```
+
+
+## Ownership and Borrowing
+
+Keep these points in mind:
+
+- Who owns the data?
+- Passing by reference or by value
+- Is it mutable?
+
+> [!important]
+> Ownership and Borrowing only apply to data on the heap
+
+> [!important]
+> In Rust, there can be one and only one owner of data at a time, at any given memory location.
+
+```rust
+fn main() {
+  let original = String::from("original value");
+  println!("original: \t\"{}\"", original);
+
+  let next = original; // original hand over its value to next
+  println!("original: \t\"{}\"", original);
+}
+```
+
+![[Rust Fundamentals - pluralsight - borrow-error.png]]
+
+
