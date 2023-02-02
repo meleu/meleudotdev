@@ -92,7 +92,7 @@ dg-publish: true
     - _to be done_...
 - Prometheus
     - _to be done_...
-- _**Se chegar até aqui já tá bom pacaralio!!!*_
+- _**Se chegar até aqui já tá bom pacaralio!!!**_
 
 
 
