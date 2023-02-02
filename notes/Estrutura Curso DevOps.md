@@ -3,6 +3,25 @@ dg-publish: true
 ---
 # Estrutura Curso de DevOps
 
+- [[#O que é DevOps?|O que é DevOps?]]
+- [[#Sistemas Operacionais e Básico de Linux|Sistemas Operacionais e Básico de Linux]]
+- [[#Networking|Networking]]
+- [[#_**NOT SURE**_: já falar sobre Cloud Providers?|_**NOT SURE**_: já falar sobre Cloud Providers?]]
+- [[#Desenvolvimento de Sofware Moderno - Aplicações Web|Desenvolvimento de Sofware Moderno - Aplicações Web]]
+- [[#git|git]]
+- [[#ferramentas de build e gestão de dependências|ferramentas de build e gestão de dependências]]
+- [[#_**NOT SURE**_: falar de repositório de artefatos? (Nexus)|_**NOT SURE**_: falar de repositório de artefatos? (Nexus)]]
+- [[#containers e docker|containers e docker]]
+- [[#CI/CD pipelines|CI/CD pipelines]]
+- [[#Orquestração de Containers com Kubernetes|Orquestração de Containers com Kubernetes]]
+- [[#Kubernetes gerenciado pelo Cloud Provider|Kubernetes gerenciado pelo Cloud Provider]]
+- [[#Terraform|Terraform]]
+- [[#Ansible|Ansible]]
+- [[#Prometheus|Prometheus]]
+- [[#_**Se chegar até aqui já tá bom pacaralio!!!**_|_**Se chegar até aqui já tá bom pacaralio!!!**_]]
+
+---
+
 
 ## O que é DevOps?
 - Como e por que surgiu?
