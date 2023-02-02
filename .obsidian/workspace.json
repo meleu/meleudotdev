@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ee18f8c309d4e0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Estrutura Curso de DevOps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/Rust Fundamentals - pluralsight.md",
+                "file": "notes/Estrutura Curso de DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/Rust Fundamentals - pluralsight.md"
+                "file": "notes/Estrutura Curso de DevOps.md"
               }
             }
           },
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/Rust Fundamentals - pluralsight.md",
+                "file": "notes/Estrutura Curso de DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,11 +171,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "082963b5e69ed775",
+  "active": "0ee18f8c309d4e0a",
   "lastOpenFiles": [
+    "notes/learning/Rust Fundamentals - pluralsight.md",
     "notes/learning/Aprenda Rust - Bruno Rocha.md",
     "notes/js-roadmap.md",
-    "notes/learning/Rust Fundamentals - pluralsight.md",
     "notes/Rust.md",
     "notes/learning/Rust Crash Course.md",
     "private/kanban/kanban.md",
