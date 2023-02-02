@@ -300,6 +300,8 @@ fn main() {
 
 ## Ownership and Borrowing
 
+[video](https://app.pluralsight.com/course-player?clipId=25963a31-b1f2-435b-95d9-329b798057d5)
+
 Keep these points in mind:
 
 - Who owns the data?
@@ -308,6 +310,9 @@ Keep these points in mind:
 
 > [!important]
 > Ownership and Borrowing only apply to data on the heap
+
+
+### Ownership
 
 > [!important]
 > In Rust, there can be one and only one owner of data at a time, at any given memory location.
@@ -324,4 +329,22 @@ fn main() {
 
 ![[Rust Fundamentals - pluralsight - borrow-error.png]]
 
+When we do `let next = original`, then `original` no longer exist.
 
+> [!important]
+> This is the reason Rust code is both safe and fast. All analysis can be done at compile time rather than runtime.
+
+
+### Borrowing
+
+[video](https://app.pluralsight.com/course-player?clipId=1d08434f-b5ba-4d6c-9b86-dd8e49c5f2f2)
+
+Borrowing allows another variable to take temporary ownership of data without deallocating the original variable.
+
+We can borrow a value using the `&` ampersand.
+
+```rust
+let next = &original;
+```
+
+There's more about borrowing in the video...
