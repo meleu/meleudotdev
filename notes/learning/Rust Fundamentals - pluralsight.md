@@ -420,6 +420,172 @@ fn main() {
   let hello_name = |name: String| {
     println!("Hello {}!", name);
   };
+  hello(String::from("meleu");
 
+  // -----
+
+  // returning data from a closure
+  let hellof = |name: String| -> String {
+    format!("Hello {}", name)
+  };
+  let phrase = hello(String::from("meleu");
+  println!("{}", phrase);
+}
+```
+
+
+### Error Handling
+
+[video](https://app.pluralsight.com/course-player?clipId=ded50bea-7c70-4dd4-8c87-c8ff7564efe2)
+
+Recoverable vs. Unrecoverable Errors
+
+Two options to handle errors:
+
+1. Handle the error
+2. Propagate the error
+
+
+## More resources
+
+- [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- [The DRY Principle: Benefits and Costs with Examples](https://thevaluable.dev/dry-principle-cost-benefit-example/)
+
+
+## Data Structures and Traits
+
+### struct
+
+```rust
+struct Waypoint {
+  name: String,
+  latitude: f64,
+  longitude: f64,
+}
+
+fn main() {
+  let kcle = Waypoint {
+    name: "KCLE".to_string(),
+    latitude: 41.4075,
+    longitude: -81.851111,
+  };
+
+  let kslc = Waypoint {
+    // copy from the kcle, but overwrite
+    // the name
+    name: "KSLC".to_string(),
+    ..kcle
+  }
+}
+```
+
+
+### impl
+
+Object Oriented encapsulation: data and methods are contained within a class.
+
+Rust Associated methods: methods are separate from the data that the methods use.
+
+```rust
+struct Waypoint {
+  name: String,
+  latitude: f64,
+  longitude: f64,
+}
+
+// this is the data
+struct Segment {
+  start: Waypoint,
+  end: Waypoint,
+}
+
+// this is the implementation of the methods
+impl Segment {
+  fn new(start: Waypoin, end: Waypoint) -> Self {
+    Self { start, end }
+  }
+
+  fn distance(&self) -> f32 {
+    // add logic to calculate the distance
+    // between 'start' and 'end'
+  }
+}
+
+fn main() {
+  // ...
+  let point1 = Waypoint {
+    // ...
+  }
+  let point2 = Waypoint {
+    // ...
+  }
+
+  // calling new from 'impl Segment'
+  let point1_2 = Segment::new(point1, point2);
+  // now 'point1_2' is an implementation of Segment
+  // and has access to its methods
+  let distance = point1_2.distance(); // note: no args
+  
+}
+```
+
+
+### Traits
+
+Traits define a shared behavior among structs.
+
+Traits are analogous to interfaces in object-oriented languages.
+
+```rust
+struct Boeing {
+  required_crew: u8,
+  range: u16,
+}
+
+struct Airbus {
+  required_crew: u8,
+  range: u16
+}
+
+// trait acts like an interface
+trait Flight {
+  fn is_legal(
+    &self,
+    required_crew: u8,
+    available_crew: u8,
+    range: u16,
+    distance: u16
+  ) -> bool;
+}
+
+// implementation of the "interface" Flight
+// for the Boeing struct
+impl Flight for Boeing {
+  fn is_legal(
+    &self,
+    required_crew: u8,
+    available_crew: u8,
+    range: u16,
+    distance: u16
+  ) -> bool {
+    // actual implementation of the method
+    // goes here...
+  }
+}
+
+
+// implementation of the "interface" Flight
+// for the Airbus struct
+impl Flight for Airbus {
+  fn is_legal(
+    &self,
+    required_crew: u8,
+    available_crew: u8,
+    range: u16,
+    distance: u16
+  ) -> bool {
+    // actual implementation of the method
+    // goes here...
+  }
 }
 ```
