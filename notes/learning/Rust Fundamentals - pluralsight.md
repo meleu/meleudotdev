@@ -348,3 +348,78 @@ let next = &original;
 ```
 
 There's more about borrowing in the video...
+
+
+## Functions
+
+[video talking about how to use functions with ownership & borrowing](https://app.pluralsight.com/course-player?clipId=4fb4df39-d5e3-4c58-a3dd-08c7d0ffc31c).
+
+```rust
+fn function_name(arg1: type, argN: type) -> return_type {
+  // body of the function
+}
+```
+
+Passing arguments to a function:
+
+- Pass by value
+    - pass the actual value
+    - value is on the stack
+- Pass by reference
+    - pass a pointer to the value
+    - value is on the heap
+
+```rust
+fn main() {
+  let mut original = String::from("original value");
+  println!("main(): \t\"{}\"", original);
+  
+  print_original(&original);
+  change_original(&mut original);
+}
+
+// remember String is on the heap,
+// then you need to pass by reference (with '&')
+fn print_original(original: &String) {
+  println!("print_original: \t\"{}\"", original);
+}
+
+fn change_original(original: &mut String) {
+  let next = original; // original no longer owns the memory
+  *next = String::from("next value");
+  println!("change_original: \t\"{}\"", next);  
+}
+```
+
+### Closure
+
+Closure is a function that doesn't have a name (aka anonymous function).
+
+Closure with no arguments:
+```rust
+fn main() {
+  // two pipes defines a closure (anonymous function)
+  || {
+    println!("Hey. This is the closure.");
+  }; // <-- don't forget the ';'
+  // this 👆 is actually useless, as we don't
+  // have a way to call that closure.
+
+  // -----
+
+  // assign a closure to a variable
+  let hello = || {
+    println!("Hello World!");
+  };
+  hello();
+  // prints "Hello World!"
+
+  // -----
+
+  // passing arguments to a closure
+  let hello_name = |name: String| {
+    println!("Hello {}!", name);
+  };
+
+}
+```
