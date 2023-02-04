@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f3fde38a8d8f99f",
+            "id": "b7465bd74cacd8ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/Rust Fundamentals - pluralsight.md",
+                "file": "notes/learning/rocketseat/ignite-nodejs-2023/ignite - nodejs - projeto 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "warning",
+                "query": "line:(pense e enriqueca)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/Rust Fundamentals - pluralsight.md",
+                "file": "notes/learning/rocketseat/ignite-nodejs-2023/ignite - nodejs - projeto 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/Rust Fundamentals - pluralsight.md"
+                "file": "notes/learning/rocketseat/ignite-nodejs-2023/ignite - nodejs - projeto 1.md"
               }
             }
           },
@@ -125,12 +125,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/Rust Fundamentals - pluralsight.md",
+                "file": "notes/learning/rocketseat/ignite-nodejs-2023/ignite - nodejs - projeto 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "06e95cd814ad4bf1",
+        "type": "tabs",
+        "children": [
           {
             "id": "0fd3ad51ad822106",
             "type": "leaf",
@@ -139,12 +146,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 225.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,17 +164,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "0da2875d0547afe4",
+  "active": "b7465bd74cacd8ac",
   "lastOpenFiles": [
-    "private/traduzir.md",
-    "private/repetidor.md",
-    "private/raw private.md",
-    "private/ranking das caipirinhas.md",
-    "private/video-scripts/shebang.md",
-    "private/famiglia/feedback pro grao-mestre.md",
-    "private/famiglia/duas mega-senas.md",
-    "private/famiglia/cursos para DevOps.md",
-    "private/famiglia/climao-pos-1-on-1.md",
-    "private/peso-altura-familia.md"
+    "notes/Discord Bot.md",
+    "notes/learning/rocketseat/ignite-nodejs-2023/ignite - nodejs - projeto 1.md",
+    "private/Pense e Enriqueca - pratica 1.md",
+    "notes/raw notes.md",
+    "private/cambly/Rediet/Rediet.md",
+    "notes/books/Pense e Enriqueca.md",
+    "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
+    "moc/books.md",
+    "notes/learning/Rust Fundamentals - pluralsight.md",
+    "private/traduzir.md"
   ]
 }

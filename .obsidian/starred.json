@@ -2,6 +2,11 @@
   "items": [
     {
       "type": "file",
+      "title": "Pense e Enriqueca - pratica 1",
+      "path": "private/Pense e Enriqueca - pratica 1.md"
+    },
+    {
+      "type": "file",
       "title": "now",
       "path": "now.md"
     },
@@ -9,11 +14,6 @@
       "type": "file",
       "title": "books",
       "path": "moc/books.md"
-    },
-    {
-      "type": "file",
-      "title": "Rediet",
-      "path": "private/cambly/Rediet/Rediet.md"
     },
     {
       "type": "file",
