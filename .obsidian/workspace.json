@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/rocketseat/ignite-nodejs-2023/ignite - nodejs - projeto 1.md",
+                "file": "notes/git - trunk based branching strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(pense e enriqueca)",
+                "query": "til",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
-    "collapsed": true
+    "width": 374.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/rocketseat/ignite-nodejs-2023/ignite - nodejs - projeto 1.md",
+                "file": "notes/git - trunk based branching strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/rocketseat/ignite-nodejs-2023/ignite - nodejs - projeto 1.md"
+                "file": "notes/git - trunk based branching strategy.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/rocketseat/ignite-nodejs-2023/ignite - nodejs - projeto 1.md",
+                "file": "notes/git - trunk based branching strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,10 +164,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "b7465bd74cacd8ac",
+  "active": "05179fa8233e8289",
   "lastOpenFiles": [
-    "notes/Discord Bot.md",
     "notes/learning/rocketseat/ignite-nodejs-2023/ignite - nodejs - projeto 1.md",
+    "notes/Discord Bot.md",
     "private/Pense e Enriqueca - pratica 1.md",
     "notes/raw notes.md",
     "private/cambly/Rediet/Rediet.md",
