@@ -31,6 +31,81 @@ Requires familiarity with:
 
 ## Basics
 
+> [!note]
+> - Compute offerings:
+>     - Compute Engine
+>     - Kubernetes Engine
+>     - App Engine - *serverless*
+>     - Cloud Run (run a single container) - *serverless*
+>     - Cloud Functions - *serverless*
+> - Storage offerings
+>     - Cloud Storage - unstructured objects (like S3 bucket)
+>     - Filestore - traditional file sharing
+>     - Cloud SQL
+>     - Cloud Spanner - Massively scalable and expensive 💸
+>     - Bigtable - analytical
+>     - Firestore - client side webapps
+>     - Firestore Realtime Database - sync/real time
+>     - Memorystore - cache (like Redis?)
+>     - BigQuery - Data Warehouse
+> - Networking offerings
+>     - VPC
+>     - VPC Network Peering - connect VPCs
+>     - Cloud VPN - connect with on-premises
+>     - Cloud Interconnect - connect with on-premises
+>     - Peering - connect with on-premises
+> - Migration
+>     - VMware Engine
+>     - Migrate for Compute Engine
+>     - Migrate for Anthos - VM to containers in GKE
+>     - Transfer Appliance - physical data transfer
+> - Authentication
+>     - Managed Service for Microsoft AD
+>     - Cloud Identity
+> - AI & Machine Learning
+>     - Sight
+>     - Language
+>     - Conversation
+>     - Structured Data
+>     - Cloud AutoML
+>     - AI Platform
+> - Data Analytics
+>     - Ingest
+>     - Store
+>     - Process
+>     - Visualize
+> - Internet of Things
+> - DevOps
+>     - Cloud Build - CI/CD
+>     - Cloud Source Repositories - version control
+>       - Artifact Registry - container images, dependency packages
+> - Global Networking
+>     - Cloud CDN
+>     - Cloud Load Balancing
+>     - Cloud Armor - security, prevent DDoS
+> - Security
+>     - Cloud IAM
+>     - Key Management Service
+>     - Secret Manager
+>     - Data Los Prevention
+> - Management Services
+>     - Cloud Operations
+>         - Monitoring
+>         - Logging
+>         - Error Reporting
+>         - Trace
+>         - Debugger
+>         - Profiler
+>     - Security Command Center
+>     - Cloud Deployment Manager - automate creation of GCP resources
+> - Regions and Zones
+>     - a Region has several Zones
+>     - Zone: independent part of a data center
+> - Interacting with GCP
+>     - Web Console
+>     - Google Shell
+>     - SDK - `gcloud`
+
 For most applications you need 3 three core elements:
 
 - Compute
@@ -144,4 +219,121 @@ Connecting a VPC to an on-premises network:
 - Peering
 
 
+### Using GCP Console
 
+Ways to interact with GCP:
+
+- Web interface (aka Console)
+- SDK (gcloud, gsutil, bq, kubectl)
+- Google Cloud Shell
+
+#### Zones
+
+A zone is essentially an independent part of a data center and has its own:
+
+- power
+- cooling
+- network
+- security infrastructure
+
+A region has around 3 zones.
+
+> [!important]
+> Zones are inside a region
+
+### Creating a VM
+
+Nothing really new.
+
+Just note that:
+
+Spot VMs are the latest version of Preemptible VMs.
+
+### Using the CLI
+
+```shell
+# create a VM
+gcloud compute instances create \
+  instance-name \
+  --zone=us-central1-a
+
+
+# deploy an app using App Engine
+#
+# see instructions here:
+# https://github.com/cloudacademy/gcp-overview#using-the-cli
+#
+# clone a demo app
+git clone https://github.com/GoogleCloudPlatform/python-docs-samples
+
+# go to the directory with the app
+cd python-docs-samples/appengine/standard_python3/hello_world
+
+# deploy it to app engine
+gcloud app deploy
+```
+
+Surprisingly, to disable the app you need to go to the App Engine through the web console.
+
+
+### Other Services Overview
+
+- Migrate for Compute Engine
+    - Move your VMs from other Cloud Providers (or physical machines) to the Google's Compute Engine
+- Migrate for Anthos
+    - Move from virtual machines to containers. [[Convert a VM into a container]].
+- Transfer Appliance
+    - Transfers huge amount of data.
+- Managed Service for Microsoft Active Directory
+- Cloud Identity
+- AI & Machine Learning
+    - Sight
+    - Language
+    - Conversation
+    - Structured Data
+    - Cloud AutoML
+- Data Analytics
+    - Ingest
+    - Store
+    - Process
+    - Visualize
+    - Cloud Composer
+    - Data Fusion (similar to Cloud Composer, but it's graphical/no-code)
+- Internet of Things
+    - IoT Core
+- DevOps
+    - Cloud Build
+- Cloud CDN
+    - Cloud Load Balancer
+    - Cloud Armor
+    - Cloud IAM
+    - Cloud Key Management
+
+
+### Designing a Solution
+
+
+#### Website
+
+> If you only need to set up a static website (that is, one that doesn’t have any server-side code), then believe it or not, you don’t even need to use any sort of compute service. You can just upload your website to Cloud Storage and point the DNS record for your website to it. You don’t even need to use Google’s Cloud DNS service to make this work. If your website domain is already registered with another domain registrar, then you can just update your website’s DNS record there.
+
+More complex webapp
+
+![[GCP Cloud Developer Certification - web hosting.png]]
+
+
+### Management Services
+
+- Cloud Operations Suite (formerly Stackdriver)
+    - Cloud Monitoring
+    - Cloud Logging
+    - Error Reporting
+    - Cloud Trace
+    - Cloud Debugger
+    - Cloud Profiler
+
+Security Command Center
+
+#### Cloud Deployment Manager:
+
+Used when you have a resource (such as a VM) and want to deploy newly identical resources.

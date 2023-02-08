@@ -15,7 +15,7 @@
               "state": {
                 "file": "notes/learning/gcp/GCP Cloud Developer Certification.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -166,15 +166,15 @@
   },
   "active": "4c060de4c2274a9f",
   "lastOpenFiles": [
+    "repos/meleu.sh/TODO.md",
+    "notes/Untitled.md",
+    "notes/learning/gcp/GCP Cloud Developer Certification.md",
+    "notes/Convert a VM into a container.md",
     "notes/git - trunk based branching strategy.md",
     "notes/learning/rocketseat/ignite-nodejs-2023/ignite - nodejs - projeto 1.md",
     "notes/Discord Bot.md",
     "private/Pense e Enriqueca - pratica 1.md",
     "notes/raw notes.md",
-    "private/cambly/Rediet/Rediet.md",
-    "notes/books/Pense e Enriqueca.md",
-    "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
-    "moc/books.md",
-    "notes/learning/Rust Fundamentals - pluralsight.md"
+    "private/cambly/Rediet/Rediet.md"
   ]
 }
