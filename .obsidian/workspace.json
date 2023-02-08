@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "781af3950efddf0c",
+            "id": "4c060de4c2274a9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/learning/gcp/GCP Cloud Developer Certification.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -84,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/git - trunk based branching strategy.md",
+                "file": "notes/learning/gcp/GCP Cloud Developer Certification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/git - trunk based branching strategy.md"
+                "file": "notes/learning/gcp/GCP Cloud Developer Certification.md"
               }
             }
           },
@@ -122,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/git - trunk based branching strategy.md",
+                "file": "notes/learning/gcp/GCP Cloud Developer Certification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,8 +165,9 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "05179fa8233e8289",
+  "active": "4c060de4c2274a9f",
   "lastOpenFiles": [
+    "notes/git - trunk based branching strategy.md",
     "notes/learning/rocketseat/ignite-nodejs-2023/ignite - nodejs - projeto 1.md",
     "notes/Discord Bot.md",
     "private/Pense e Enriqueca - pratica 1.md",
@@ -171,7 +176,6 @@
     "notes/books/Pense e Enriqueca.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
     "moc/books.md",
-    "notes/learning/Rust Fundamentals - pluralsight.md",
-    "private/traduzir.md"
+    "notes/learning/Rust Fundamentals - pluralsight.md"
   ]
 }
