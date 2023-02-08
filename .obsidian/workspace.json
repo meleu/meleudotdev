@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "776e74a6993fc06f",
+        "id": "45282a2d474d1d00",
         "type": "tabs",
         "children": [
           {
-            "id": "b7465bd74cacd8ac",
+            "id": "781af3950efddf0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/git - trunk based branching strategy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -49,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "til",
+                "query": "line:(\"today i learned\")",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 374.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
