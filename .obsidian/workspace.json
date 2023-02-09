@@ -66,13 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
-    "collapsed": true
+    "width": 374.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -166,15 +164,15 @@
   },
   "active": "4c060de4c2274a9f",
   "lastOpenFiles": [
+    "private/carreira/zazmic/development.idgital.com.md",
+    "notes/learning/gcp/GCP Cloud Developer Certification.md",
     "repos/meleu.sh/TODO.md",
     "notes/Untitled.md",
-    "notes/learning/gcp/GCP Cloud Developer Certification.md",
     "notes/Convert a VM into a container.md",
     "notes/git - trunk based branching strategy.md",
     "notes/learning/rocketseat/ignite-nodejs-2023/ignite - nodejs - projeto 1.md",
     "notes/Discord Bot.md",
     "private/Pense e Enriqueca - pratica 1.md",
-    "notes/raw notes.md",
-    "private/cambly/Rediet/Rediet.md"
+    "notes/raw notes.md"
   ]
 }
