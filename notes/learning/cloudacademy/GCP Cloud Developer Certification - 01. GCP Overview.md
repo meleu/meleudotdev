@@ -1,7 +1,8 @@
 ---
 dg-publish: true
 ---
-# GCP Professional Cloud Developer Exam Prep
+# GCP Cloud Developer Certification - 01. GCP Overview
+
 
 ## Intro
 
