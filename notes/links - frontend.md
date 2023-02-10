@@ -21,6 +21,9 @@ HTML + CSS + JavaScript
 - <https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript#use_async_or_defer> - in depth guide about optimizing the loading time of javascript files.
 - <https://michalsnik.github.io/aos/> - animate on scroll library.
 
+## inspiration
+
+- <https://html5up.net/> - simple designs to study.
 
 ## colors
 - <https://coolors.co/> - The super fast color palettes generator

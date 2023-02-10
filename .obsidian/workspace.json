@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/GCP Cloud Developer Certification - 02. Designing an Infrastructure.md",
+                "file": "notes/links - frontend.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(\"today i learned\")",
+                "query": "swyx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/GCP Cloud Developer Certification - 02. Designing an Infrastructure.md",
+                "file": "notes/links - frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/GCP Cloud Developer Certification - 02. Designing an Infrastructure.md"
+                "file": "notes/links - frontend.md"
               }
             }
           },
@@ -125,14 +126,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/GCP Cloud Developer Certification - 02. Designing an Infrastructure.md",
+                "file": "notes/links - frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "06e95cd814ad4bf1",
@@ -165,15 +165,15 @@
   },
   "active": "b9e6be23e23e1018",
   "lastOpenFiles": [
-    "notes/learning/cloudacademy/GCP Cloud Developer Certification - 01. GCP Overview.md",
+    "notes/Web Design in 4 minutes.md",
     "notes/GCP Cloud Developer Certification - 02. Designing an Infrastructure.md",
+    "notes/markdown to mobi.md",
+    "repos/meleu.sh/content/drafts/join-bash.en.md",
+    "repos/traducoes/aprenda-em-publico.md",
+    "notes/books/The Coding Career Handbook/The Coding Career Handbook.md",
+    "moc/books-tech.md",
+    "notes/learning/cloudacademy/GCP Cloud Developer Certification - 01. GCP Overview.md",
     "private/carreira/zazmic/development.idgital.com.md",
-    "repos/meleu.sh/TODO.md",
-    "notes/Convert a VM into a container.md",
-    "notes/git - trunk based branching strategy.md",
-    "notes/learning/rocketseat/ignite-nodejs-2023/ignite - nodejs - projeto 1.md",
-    "notes/Discord Bot.md",
-    "private/Pense e Enriqueca - pratica 1.md",
-    "notes/raw notes.md"
+    "repos/meleu.sh/TODO.md"
   ]
 }
