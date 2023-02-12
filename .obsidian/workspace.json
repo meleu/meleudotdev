@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/links - frontend.md",
+                "file": "notes/GCP Cloud Developer Certification - 02. Designing an Infrastructure.md",
                 "mode": "source",
                 "source": true
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/links - frontend.md",
+                "file": "notes/GCP Cloud Developer Certification - 02. Designing an Infrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/links - frontend.md"
+                "file": "notes/GCP Cloud Developer Certification - 02. Designing an Infrastructure.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/links - frontend.md",
+                "file": "notes/GCP Cloud Developer Certification - 02. Designing an Infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,6 +165,7 @@
   },
   "active": "b9e6be23e23e1018",
   "lastOpenFiles": [
+    "notes/links - frontend.md",
     "notes/Web Design in 4 minutes.md",
     "notes/GCP Cloud Developer Certification - 02. Designing an Infrastructure.md",
     "notes/markdown to mobi.md",
@@ -173,7 +174,6 @@
     "notes/books/The Coding Career Handbook/The Coding Career Handbook.md",
     "moc/books-tech.md",
     "notes/learning/cloudacademy/GCP Cloud Developer Certification - 01. GCP Overview.md",
-    "private/carreira/zazmic/development.idgital.com.md",
-    "repos/meleu.sh/TODO.md"
+    "private/carreira/zazmic/development.idgital.com.md"
   ]
 }

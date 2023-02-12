@@ -9,7 +9,7 @@ dg-publish: true
     - Compute
     - Storage
     - Network
-    - High Availability Design
+- High Availability Design
 - Security
     - Authentication and permissions
     - Data encryption
@@ -19,7 +19,7 @@ dg-publish: true
 
 ## Case Study
 
-Great Inside Company
+### Great Inside Company
 
 - Company Overview
     - SaaS interior design app
@@ -33,7 +33,7 @@ Great Inside Company
     - Ensure PCI DSS compliance (what's this???)
     - Improve disaster recovery solution
 
-Existing tech environment
+### Existing tech environment
 
 - Databases
     - MySQL - for the app
@@ -46,7 +46,7 @@ Existing tech environment
     - ActiveDirectory
     - File server for internal documents, etc.
 
-Requirements
+### Requirements
 
 - Business requirements
     - scale easily
@@ -58,3 +58,4 @@ Requirements
     - encrypt all data
     - high availability
     - disaster recovery in a few hours
+
