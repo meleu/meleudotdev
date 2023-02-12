@@ -15,7 +15,7 @@
               "state": {
                 "file": "notes/GCP Cloud Developer Certification - 02. Designing an Infrastructure.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -83,23 +83,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d80182949d60558",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "notes/GCP Cloud Developer Certification - 02. Designing an Infrastructure.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "2766f53e4af27f20",
             "type": "leaf",
             "state": {
@@ -138,6 +121,23 @@
         "id": "06e95cd814ad4bf1",
         "type": "tabs",
         "children": [
+          {
+            "id": "4d80182949d60558",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/GCP Cloud Developer Certification - 02. Designing an Infrastructure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
           {
             "id": "0fd3ad51ad822106",
             "type": "leaf",
