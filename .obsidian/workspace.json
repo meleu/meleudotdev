@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9e6be23e23e1018",
+            "id": "5887f6ba8ae483e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,17 +163,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "b9e6be23e23e1018",
+  "active": "5887f6ba8ae483e1",
   "lastOpenFiles": [
+    "private/carreira/cloudacademy meeting.md",
+    "notes/GCP Cloud Developer Certification - 02. Designing an Infrastructure.md",
     "notes/links - frontend.md",
     "notes/Web Design in 4 minutes.md",
-    "notes/GCP Cloud Developer Certification - 02. Designing an Infrastructure.md",
     "notes/markdown to mobi.md",
     "repos/meleu.sh/content/drafts/join-bash.en.md",
     "repos/traducoes/aprenda-em-publico.md",
     "notes/books/The Coding Career Handbook/The Coding Career Handbook.md",
     "moc/books-tech.md",
-    "notes/learning/cloudacademy/GCP Cloud Developer Certification - 01. GCP Overview.md",
-    "private/carreira/zazmic/development.idgital.com.md"
+    "notes/learning/cloudacademy/GCP Cloud Developer Certification - 01. GCP Overview.md"
   ]
 }
