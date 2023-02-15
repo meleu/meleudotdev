@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/cloudacademy/Planning and Configuring a GCP Solution.md",
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/cloudacademy/Planning and Configuring a GCP Solution.md"
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/cloudacademy/Planning and Configuring a GCP Solution.md",
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/cloudacademy/Planning and Configuring a GCP Solution.md",
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,15 +165,15 @@
   },
   "active": "17f5948079b1825e",
   "lastOpenFiles": [
+    "notes/docker best practices.md",
+    "notes/learning/docker-for-nodejs/Docker for NodeJS - 3. Node Dockerfile Best Practices.md",
+    "notes/learning/cloudacademy/Planning and Configuring a GCP Solution.md",
     "notes/learning/cloudacademy/GCP Cloud Developer - 02. Designing an Infrastructure.md",
     "notes/learning/cloudacademy/GCP for SysAdmins.md",
-    "notes/learning/cloudacademy/Planning and Configuring a GCP Solution.md",
     "notes/learning/cloudacademy/GCP Cloud Developer - 01. GCP Overview.md",
     "notes/learning/gcp/GCP.md",
     "notes/learning/cloudacademy/Intro to gcloud.md",
     "notes/learning/cloudacademy/Basic GCP Environment.md",
-    "notes/learning/gcp/GCP Fundamentals - pluralsight.md",
-    "notes/learning/cloudacademy/GCP Cloud Developer.md",
-    "notes/learning/AWS SAM Framework and AWS Lambda.md"
+    "notes/learning/gcp/GCP Fundamentals - pluralsight.md"
   ]
 }
