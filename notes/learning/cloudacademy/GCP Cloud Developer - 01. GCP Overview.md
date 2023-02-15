@@ -88,7 +88,7 @@ Requires familiarity with:
 >     - Cloud IAM
 >     - Key Management Service
 >     - Secret Manager
->     - Data Los Prevention
+>     - Data Loss Prevention
 > - Management Services
 >     - Cloud Operations
 >         - Monitoring

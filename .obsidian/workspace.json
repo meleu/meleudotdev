@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "45282a2d474d1d00",
+        "id": "30a536785dafe151",
         "type": "tabs",
         "children": [
           {
-            "id": "5887f6ba8ae483e1",
+            "id": "17f5948079b1825e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
+                "file": "notes/learning/cloudacademy/Planning and Configuring a GCP Solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,12 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
+    "width": 432.5,
     "collapsed": true
   },
   "right": {
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md"
+                "file": "notes/learning/cloudacademy/Planning and Configuring a GCP Solution.md"
               }
             }
           },
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
+                "file": "notes/learning/cloudacademy/Planning and Configuring a GCP Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/AWS SAM Framework and AWS Lambda.md",
+                "file": "notes/learning/cloudacademy/Planning and Configuring a GCP Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,17 +163,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "5887f6ba8ae483e1",
+  "active": "17f5948079b1825e",
   "lastOpenFiles": [
-    "notes/docker-slim.md",
-    "notes/learning/AWS SAM Framework and AWS Lambda.md",
-    "notes/aws-lambda.md",
-    "notes/learning/devops-bootcamp/08-jenkins-ci-cd.md",
-    "notes/docker.md",
-    "notes/Docker Reverse Engineering.md",
-    "notes/Docker Installation.md",
-    "notes/gitlab-ci - building images with kaniko.md",
-    "notes/GCP Cloud Developer Certification - 02. Designing an Infrastructure.md",
-    "private/carreira/cloudacademy meeting.md"
+    "notes/learning/cloudacademy/GCP Cloud Developer - 02. Designing an Infrastructure.md",
+    "notes/learning/cloudacademy/GCP for SysAdmins.md",
+    "notes/learning/cloudacademy/Planning and Configuring a GCP Solution.md",
+    "notes/learning/cloudacademy/GCP Cloud Developer - 01. GCP Overview.md",
+    "notes/learning/gcp/GCP.md",
+    "notes/learning/cloudacademy/Intro to gcloud.md",
+    "notes/learning/cloudacademy/Basic GCP Environment.md",
+    "notes/learning/gcp/GCP Fundamentals - pluralsight.md",
+    "notes/learning/cloudacademy/GCP Cloud Developer.md",
+    "notes/learning/AWS SAM Framework and AWS Lambda.md"
   ]
 }
