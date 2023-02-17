@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "66d888facf0303f8",
+        "id": "2a8897a56c4a3456",
         "type": "tabs",
         "children": [
           {
-            "id": "d4f09d4dcd7b1b87",
+            "id": "6599f960025efa1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/videos/video - Vim as your editor.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -86,9 +82,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/videos/video - Vim as your editor.md"
-              }
+              "state": {}
             }
           },
           {
@@ -108,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/videos/video - Vim as your editor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/videos/video - Vim as your editor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,10 +155,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "d4f09d4dcd7b1b87",
+  "active": "6599f960025efa1b",
   "lastOpenFiles": [
-    "notes/i3wm.md",
     "notes/videos/video - Vim as your editor.md",
+    "notes/i3wm.md",
     "private/PL.md",
     "notes/videos/video - Akita - Projetos, Testes e Estimativa.md",
     "notes/videos/video - I will teach you to be rich - talks at Google.md",

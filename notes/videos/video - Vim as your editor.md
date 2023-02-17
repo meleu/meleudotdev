@@ -95,4 +95,9 @@ print("hello")
 - install packer: <https://github.com/wbthomason/packer.nvim#quickstart>
 - install telescope: <https://github.com/nvim-telescope/telescope.nvim#getting-started>
 
+OK, I got a bit lost. But the main takeaway for me is:
+
+- install telescope
+- install treesitter
+- install LSP (whatever that is)
 
