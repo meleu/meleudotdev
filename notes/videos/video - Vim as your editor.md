@@ -52,3 +52,13 @@ A paragraph is text separated by a blank line
 - `}` - go to the line below the paragraph
 - `{` - go to the line above the paragraph
 
+
+## Advanced Motions P2
+
+[video](https://youtu.be/uL9oOZStezw)
+
+When in visual mode, `o` makes you alternate between the beginning and the end of the selection.
+
+Use `p` for paragraph text object!!!! Example:
+
+- `>ip` increase indentation of the paragraph.

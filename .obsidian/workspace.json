@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dba6c1a7a7e3f458",
+        "id": "66d888facf0303f8",
         "type": "tabs",
         "children": [
           {
-            "id": "ed1770c9684042c0",
+            "id": "d4f09d4dcd7b1b87",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/videos/video - Vim as your editor.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -165,10 +163,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "ed1770c9684042c0",
+  "active": "d4f09d4dcd7b1b87",
   "lastOpenFiles": [
-    "private/PL.md",
     "notes/videos/video - Vim as your editor.md",
+    "private/PL.md",
     "notes/videos/video - Akita - Projetos, Testes e Estimativa.md",
     "notes/videos/video - I will teach you to be rich - talks at Google.md",
     "log/2023-02.md",
