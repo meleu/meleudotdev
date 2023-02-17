@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "30a536785dafe151",
+        "id": "dba6c1a7a7e3f458",
         "type": "tabs",
         "children": [
           {
-            "id": "17f5948079b1825e",
+            "id": "ed1770c9684042c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37c55f723c653b14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "log/2023-02.md",
+                "file": "notes/videos/video - Vim as your editor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -83,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -99,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023-02.md"
+                "file": "notes/videos/video - Vim as your editor.md"
               }
             }
           },
@@ -120,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023-02.md",
+                "file": "notes/videos/video - Vim as your editor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023-02.md",
+                "file": "notes/videos/video - Vim as your editor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,17 +163,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "37c55f723c653b14",
+  "active": "ed1770c9684042c0",
   "lastOpenFiles": [
-    "log/2023-01.md",
+    "notes/videos/video - Akita - Projetos, Testes e Estimativa.md",
+    "notes/videos/video - I will teach you to be rich - talks at Google.md",
+    "notes/videos/video - Vim as your editor.md",
     "log/2023-02.md",
+    "log/2023-01.md",
+    "notes/Learning the vi and vim Editors.md",
     "log/2022-12.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
-    "notes/docker best practices.md",
-    "notes/learning/docker-for-nodejs/Docker for NodeJS - 3. Node Dockerfile Best Practices.md",
-    "notes/learning/cloudacademy/Planning and Configuring a GCP Solution.md",
-    "notes/learning/cloudacademy/GCP Cloud Developer - 02. Designing an Infrastructure.md",
-    "notes/learning/cloudacademy/GCP for SysAdmins.md"
+    "notes/docker best practices.md"
   ]
 }
