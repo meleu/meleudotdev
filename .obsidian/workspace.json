@@ -10,13 +10,15 @@
           {
             "id": "ed1770c9684042c0",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/videos/video - Vim as your editor.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -165,15 +167,15 @@
   },
   "active": "ed1770c9684042c0",
   "lastOpenFiles": [
+    "private/PL.md",
+    "notes/videos/video - Vim as your editor.md",
     "notes/videos/video - Akita - Projetos, Testes e Estimativa.md",
     "notes/videos/video - I will teach you to be rich - talks at Google.md",
-    "notes/videos/video - Vim as your editor.md",
     "log/2023-02.md",
     "log/2023-01.md",
     "notes/Learning the vi and vim Editors.md",
     "log/2022-12.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
-    "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
-    "notes/docker best practices.md"
+    "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md"
   ]
 }
