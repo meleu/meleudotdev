@@ -62,3 +62,37 @@ When in visual mode, `o` makes you alternate between the beginning and the end o
 Use `p` for paragraph text object!!!! Example:
 
 - `>ip` increase indentation of the paragraph.
+
+
+## Neovim RC From Scratch
+
+[video](https://youtu.be/w7i4amO_zaE)
+
+```shell
+mkdir -p ~/.config/nvim
+cd ~/.config/nvim
+mkdir -p lua/theprimeagen
+```
+
+`~/.config/nvim/lua/theprimeagen/init.lua`:
+```lua
+print("hello from the primeagen")
+```
+
+`~/.config/nvim/lua/theprimeagen/remap.lua`:
+```lua
+vim.g.mapleader = " "
+vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
+```
+
+
+`~/.config/nvim/init.lua`
+```lua
+require("theprimeagen")
+print("hello")
+```
+
+- install packer: <https://github.com/wbthomason/packer.nvim#quickstart>
+- install telescope: <https://github.com/nvim-telescope/telescope.nvim#getting-started>
+
+
