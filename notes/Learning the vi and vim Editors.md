@@ -12,6 +12,8 @@ author:
 
 Notes about new things I learned in the book (only the new things).
 
+---
+
 ## Chapter 2: Simple Editing
 
 ### General Form of vi Commands (p26)

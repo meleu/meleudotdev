@@ -11,8 +11,12 @@
             "id": "6599f960025efa1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/Learning the vi and vim Editors.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/Learning the vi and vim Editors.md"
+              }
             }
           },
           {
@@ -102,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Learning the vi and vim Editors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Learning the vi and vim Editors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
