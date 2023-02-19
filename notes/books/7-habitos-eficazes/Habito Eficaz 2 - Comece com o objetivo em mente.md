@@ -11,18 +11,6 @@ Ainda na metáfora... Se o hábito 1 diz que você é o programador, o hábito 2
 
 O capítulo também tem alguns insights bem maneiros.
 
-### Mutável vs. Imutável
-
-Esse trecho me lembrou muito o [[12 Regras Para a Vida]], quando se fala sobre [[Regra 01 - Costas eretas, ombros para trás#A natureza da natureza]] (é o caos dentro da ordem).
-
-> As pessoas não podem conviver com a mudança se não houver um centro imutável dentro delas. A chave para faculdade de mudar é a sensação imutável do que somos, do que fazemos e do que valorizamos.
-
-Daí a importância de termos:
-
-- [[Princípios (Ray Dalio)]], para guiar nossas decisões.
-- Reserva de Emergência, para que possamos arriscar mais.
-
-
 ### Liderar vs. Gerenciar
 
 No livro ele usa uma metáfora usando um exemplo onde precisamos abrir caminho numa mata fechada. O líder é aquele que vai na frente desbravando e abrindo a trilha. Os gerentes são aqueles que vêm depois, tentando otimizar os processos de abrir caminho na mata fechada.
@@ -43,6 +31,20 @@ Fonte de:
 - Orientação
 - Sabedoria
 - Poder
+
+### Mutável vs. Imutável
+
+
+
+Esse trecho me lembrou muito o [[12 Regras Para a Vida]], quando se fala sobre [[Regra 01 - Costas eretas, ombros para trás#A natureza da natureza]] (é o caos dentro da ordem).
+
+> As pessoas não podem conviver com a mudança se não houver um centro imutável dentro delas. A chave para faculdade de mudar é a sensação imutável do que somos, do que fazemos e do que valorizamos.
+
+Daí a importância de termos:
+
+- [[Princípios (Ray Dalio)]], para guiar nossas decisões.
+- Reserva de Emergência, para que possamos arriscar mais.
+
 
 
 ### Sugestões de aplicação

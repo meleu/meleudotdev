@@ -7,3 +7,4 @@ dg-publish: true
  - [[Basic GCP Environment]]
  - [[Intro to gcloud]]
  - [[Planning and Configuring a GCP Solution]]
+ - [[GCP Systems Operations]]
