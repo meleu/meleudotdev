@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6599f960025efa1b",
+            "id": "c589b1a638beccbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Learning the vi and vim Editors.md",
+                "file": "notes/learning/gcp/GCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"/var/run\"",
+                "query": "coldline",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Learning the vi and vim Editors.md"
+                "file": "notes/learning/gcp/GCP.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Learning the vi and vim Editors.md",
+                "file": "notes/learning/gcp/GCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Learning the vi and vim Editors.md",
+                "file": "notes/learning/gcp/GCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,17 +162,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "6599f960025efa1b",
+  "active": "c589b1a638beccbb",
   "lastOpenFiles": [
+    "notes/learning/cloudacademy/GCP Cloud Developer.md",
+    "notes/learning/cloudacademy/GCP Cloud Developer - 01. GCP Overview.md",
+    "notes/learning/cloudacademy/GCP for SysAdmins.md",
+    "notes/learning/cloudacademy/Planning and Configuring a GCP Solution.md",
+    "notes/learning/gcp/GCP Fundamentals - pluralsight.md",
+    "notes/Learning the vi and vim Editors.md",
     "notes/videos/video - Vim as your editor.md",
     "notes/i3wm.md",
     "private/PL.md",
-    "notes/videos/video - Akita - Projetos, Testes e Estimativa.md",
-    "notes/videos/video - I will teach you to be rich - talks at Google.md",
-    "log/2023-02.md",
-    "log/2023-01.md",
-    "notes/Learning the vi and vim Editors.md",
-    "log/2022-12.md",
-    "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md"
+    "notes/videos/video - Akita - Projetos, Testes e Estimativa.md"
   ]
 }

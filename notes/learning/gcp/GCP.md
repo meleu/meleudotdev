@@ -5,3 +5,4 @@ dg-publish: true
 
 - [[GCP Fundamentals - pluralsight]]
 - [[GCP Cloud Developer]]
+- Getting Started with Google Cloud Learning Path: <https://www.cloudskillsboost.google/journeys/8>
