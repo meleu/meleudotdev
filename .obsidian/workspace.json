@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
+                "file": "notes/npm.md",
                 "mode": "preview",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md"
+                "file": "notes/npm.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
+                "file": "notes/npm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
+                "file": "notes/npm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 257.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,6 +164,8 @@
   },
   "active": "d82647db1c5cf62c",
   "lastOpenFiles": [
+    "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
+    "notes/material para missao pessoal.md",
     "notes/learning/cloudacademy/GCP Systems Operations.md",
     "notes/learning/cloudacademy/GCP for SysAdmins.md",
     "notes/learning/gcp/GCP.md",
@@ -171,8 +173,6 @@
     "moc/books.md",
     "private/about.md",
     "private/repetidor.md",
-    "private/traduzir.md",
-    "private/coisas a adquirir apos virar dev.md",
-    "private/dicas de series.md"
+    "private/traduzir.md"
   ]
 }

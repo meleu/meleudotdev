@@ -35,10 +35,10 @@ Fonte de:
 ### Mutável vs. Imutável
 
 
+> As pessoas não podem conviver com a mudança se não houver um centro imutável dentro delas. A chave para faculdade de mudar é a sensação imutável do que somos, do que fazemos e do que valorizamos.
 
 Esse trecho me lembrou muito o [[12 Regras Para a Vida]], quando se fala sobre [[Regra 01 - Costas eretas, ombros para trás#A natureza da natureza]] (é o caos dentro da ordem).
 
-> As pessoas não podem conviver com a mudança se não houver um centro imutável dentro delas. A chave para faculdade de mudar é a sensação imutável do que somos, do que fazemos e do que valorizamos.
 
 Daí a importância de termos:
 
