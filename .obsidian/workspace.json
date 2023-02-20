@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/npm.md",
-                "mode": "preview",
+                "file": "notes/books/O Valor do Amanha.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/npm.md"
+                "file": "notes/books/O Valor do Amanha.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/npm.md",
+                "file": "notes/books/O Valor do Amanha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/npm.md",
+                "file": "notes/books/O Valor do Amanha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,15 +164,15 @@
   },
   "active": "d82647db1c5cf62c",
   "lastOpenFiles": [
+    "articles/livros que me influenciaram.md",
+    "notes/books/O Valor do Amanha.md",
+    "notes/npm.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
     "notes/material para missao pessoal.md",
     "notes/learning/cloudacademy/GCP Systems Operations.md",
     "notes/learning/cloudacademy/GCP for SysAdmins.md",
     "notes/learning/gcp/GCP.md",
     "notes/books about communication skills.md",
-    "moc/books.md",
-    "private/about.md",
-    "private/repetidor.md",
-    "private/traduzir.md"
+    "moc/books.md"
   ]
 }
