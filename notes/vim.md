@@ -4,7 +4,7 @@ dg-publish: true
 # vim
 
 - [[vim-upcase]]
-- [[neovim-upcase]]
+- [[neovim]]
 - [[vim-seven-habits-of-effective-text-editing]]
 - [[vim-macros]]
 

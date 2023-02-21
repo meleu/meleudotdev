@@ -1,14 +1,14 @@
 ---
 dg-publish: true
 ---
-# NeoVim - upcase
+# NeoVim
 
 - <https://thoughtbot.com/upcase/videos/meet-neovim>
 
-| vim        | neovim                    |
-| ---------- | ------------------------- |
-| `~/.vim/`  | `~/.config/nvim/`         |
-| `~/.vimrc` | `~/.config/nvim/init.vim` |
+| vim        | neovim                                   |
+| ---------- | ---------------------------------------- |
+| `~/.vim/`  | `~/.config/nvim/`                        |
+| `~/.vimrc` | `~/.config/nvim/init.vim` (or `init.lua) |
 
 In order to make neovim load your vim configs:
 ```vim
@@ -25,3 +25,12 @@ source ~/.vimrc
 " enough to nvim talk with the system clipboard
 set clipboard+=unnamedplus
 ```
+
+
+
+## `init.lua` loading `.vimrc`
+
+```lua
+vim.cmd('source ~/.vimrc')
+```
+
