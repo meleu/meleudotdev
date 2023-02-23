@@ -14,7 +14,7 @@ My current focus is to have integrate TDD techniques in my workflow. Have it as 
 
 ## Studying
 
-- [ ] [[Rust]]
+- [x] [[Rust]]
 - [ ] [[RSpec - udemy]]
 - [ ] [[Fundamentals of TDD - upcase]]
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Cloud Native Infrastructure.md",
+                "file": "notes/books/O Valor do Amanha.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coldline",
+                "query": "cron ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Cloud Native Infrastructure.md"
+                "file": "notes/books/O Valor do Amanha.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Cloud Native Infrastructure.md",
+                "file": "notes/books/O Valor do Amanha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Cloud Native Infrastructure.md",
+                "file": "notes/books/O Valor do Amanha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,15 +165,21 @@
   },
   "active": "d82647db1c5cf62c",
   "lastOpenFiles": [
+    "notes/learning/gcp/GCP Fundamentals.md",
+    "notes/video - I will teach you to be rich - talks at Google.md",
+    "notes/video - Akita - Projetos, Testes e Estimativa.md",
+    "notes/neovim-upcase.md",
+    "private/dicas de series.md",
+    "notes/books/O Valor do Amanha.md",
+    "notes/vim.md",
+    "notes/learning/k8s/kubernetes-ckad-with-tests/06-pod-design.md",
+    "notes/books/A insustentavel leveza do ser.md",
+    "notes/Cloud Native Infrastructure.md",
     "notes/books/Cloud Native DevOps with Kubernetes.md",
     "notes/neovim.md",
-    "notes/books/O Valor do Amanha.md",
     "articles/livros que me influenciaram.md",
     "notes/npm.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
-    "notes/material para missao pessoal.md",
-    "notes/learning/cloudacademy/GCP Systems Operations.md",
-    "notes/learning/cloudacademy/GCP for SysAdmins.md",
-    "notes/learning/gcp/GCP.md"
+    "notes/material para missao pessoal.md"
   ]
 }

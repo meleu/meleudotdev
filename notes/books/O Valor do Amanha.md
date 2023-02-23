@@ -47,7 +47,7 @@ minha parte favorita:
 
 Mortalidade aqui se refere a "morrer de velhice".
 
-Pra mim foi um interessante perceber que na reprodução assexuada um indivíduo se torna outros dois novo indivíduos. Podemos até dizer que o indivíduo original deixou de existir, mas não podemos dizer que ele morreu.
+Pra mim foi interessante perceber que na reprodução assexuada um indivíduo se torna outros dois novo indivíduos. Podemos até dizer que o indivíduo original deixou de existir, mas não podemos dizer que ele morreu.
 
 Obviamente que ocorrem mortes por escassez de recursos (alimentos ou ambiente propício a vida), mas a morte por velhice não acontece.
 
