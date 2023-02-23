@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/O Valor do Amanha.md",
+                "file": "notes/learning/cloudacademy/GCP Cloud Developer - 01. GCP Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cron ",
+                "query": "nearline",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/O Valor do Amanha.md"
+                "file": "notes/learning/cloudacademy/GCP Cloud Developer - 01. GCP Overview.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/O Valor do Amanha.md",
+                "file": "notes/learning/cloudacademy/GCP Cloud Developer - 01. GCP Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/O Valor do Amanha.md",
+                "file": "notes/learning/cloudacademy/GCP Cloud Developer - 01. GCP Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,12 +165,14 @@
   },
   "active": "d82647db1c5cf62c",
   "lastOpenFiles": [
+    "notes/learning/cloudacademy/GCP Systems Operations.md",
+    "notes/learning/cloudacademy/GCP for SysAdmins.md",
     "notes/learning/gcp/GCP Fundamentals.md",
+    "notes/books/O Valor do Amanha.md",
     "notes/video - I will teach you to be rich - talks at Google.md",
     "notes/video - Akita - Projetos, Testes e Estimativa.md",
     "notes/neovim-upcase.md",
     "private/dicas de series.md",
-    "notes/books/O Valor do Amanha.md",
     "notes/vim.md",
     "notes/learning/k8s/kubernetes-ckad-with-tests/06-pod-design.md",
     "notes/books/A insustentavel leveza do ser.md",

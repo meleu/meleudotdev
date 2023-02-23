@@ -86,4 +86,109 @@ If you have several instances, it's not a good idea to expose all of them to the
 - for a boot disk, shutdown the instance
 - if you can't umount, use `sync` and `fsfreeze`
 
-PAREI AQUI: <https://cloudacademy.com/course/google-cloud-platform-systems-operations/instance-groups/?context_id=56&context_resource=lp>
+
+### Instance Groups
+
+- Manage groups of instances
+- Perform simple management tasks, including:
+    - Monitor CPU, disk, and network traffic across the group
+    - Reboot all instances in the group
+- Two types:
+    - Managed: template defining the instances
+    - Unmanaged: collection of instances not necessarily identical
+
+### Cloud SQL
+
+Basic stuff...
+
+### Metadata
+
+Present in Compute Engine tab.
+
+- A set of key/value pairs containing info related to the running instance or project
+- Project level settings
+    - API keys
+    - Connection strings
+    - Access tokens
+- Instance level settings
+    - Tags
+    - Zones
+    - Flag to determine if the instance is pre-emptible
+    - hostname
+
+
+### Startup / Shutdown Scripts
+
+Scripts that run when an instance is starting up (or shutting down).
+
+All startup script output is written to `/var/log/daemon.log`.
+See also `/var/log/startupscript.log`.
+
+Common uses:
+
+- installing a provisioning client:
+    - chef
+    - puppet
+    - ansible?
+- run security checklist
+- bootstrap batch processing node
+
+Shutdown script:
+
+- run as a "best-effort"
+- Triggered by:
+    - instances.delete / instances.stop
+    - When Compute Engine stops a pre-emptible instance
+    - normal shutdown...
+- use cases
+    - backup logs
+    - copying data to cloud storage
+    - clean terminating apps
+
+
+### Auto Scaling
+
+- Compute Engine API
+- Auto scale the number of instances in a **managed instance group**
+    - helps reduce costs by shutting down instances when not required
+- one autoscaler per managed instance group
+
+
+Policies
+
+- policy determines autoscaler behavior
+- options:
+    - Average CPU utilization
+    - HTTP load balancing serving capacity (defined in the backend service)
+    - Stackdriver standard and custom metrics
+
+### Load Balancer
+
+- 3 types:
+    - TCP
+    - UDP
+    - HTTP
+- Network Load balancer
+    - TCP and UDP
+    - Balance load based on incoming IP protocol data:
+        - IP address
+        - Port
+        - Protocol type
+    - Allows packet inspection
+    - Does NOT support cross-region balancing
+    - Can maintain session affinity (useful for stateful apps)
+- HTTP Load Balancer
+    - Distributes HTTP(S) traffic among groups of instances based on:
+        - Proximity to the user
+        - Request URL - URL rules route requests to instances
+    - Requires instance groups
+    - Supports session affinity
+    - Supports connection draining
+
+> [!note]
+> Cloud Load Balancer is going to be a key component in any Compute Engine based, highly available workload. So take the time to test it out and get to know it.
+
+
+### Cool demo showing Load Balancer configs
+
+[video](https://cloudacademy.com/course/google-cloud-platform-systems-operations/putting-it-all-together-1/?context_id=56&context_resource=lp)
