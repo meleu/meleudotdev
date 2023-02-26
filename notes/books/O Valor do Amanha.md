@@ -16,7 +16,7 @@ Um colega de trabalho estava lendo e durante uma conversa me convenceu que o liv
 
 ### Principais Aprendizados
 
-Este livro me mostrou que o efeito dos juros compostos é inerente na natureza. Está embutido em qualquer forma de troca intertemporal na natureza. Portanto não é um conceito que se aplica apenas a finanças.
+Este livro me mostrou que o efeito dos juros é inerente da natureza. Está embutido em qualquer forma de troca intertemporal. Portanto não é um conceito que se aplica apenas a finanças.
 
 > Os juros são o **prêmio da espera** na ponta credora - os ganhos decorrentes da transferência ou cessão temporária de valores do presente para o futuro; e são o **preço da impaciência** na ponta devedora - o custo de antecipar ou importar valores do futuro para o presente.
 
@@ -32,7 +32,7 @@ Falando de outra forma: se eu deixar pra praticar exercícios físicos somente q
 
 ### Citações
 
-> O desejo incita à ação; a percepção do tempo incita o conflito entre desejos. O animal humano adquiriu a arte de fazer planos e refrear impulsos. Ele aprendeu a antencipar ou retardar o fluxo das coisas de modo a cooptar o tempo como aliado dos seus desígnios e valores. *Isto agora* ou *aqui depois*? Desfrutar do momento ou cuidar do amanhã? Ousar ou gardar-se? São perguntas das quais não se escapa.
+> O desejo incita à ação; a percepção do tempo incita o conflito entre desejos. O animal humano adquiriu a arte de fazer planos e refrear impulsos. Ele aprendeu a antencipar ou retardar o fluxo das coisas de modo a cooptar o tempo como aliado dos seus desígnios e valores. *Isto agora* ou *aquilo depois*? Desfrutar do momento ou cuidar do amanhã? Ousar ou guardar-se? São perguntas das quais não se escapa.
 
 > As trocas no tempo são uma via de mão dupla. A posição credora - *pagar agora, viver depois* - é aquela em que abrimos mão de algo no presente em prol de algo esperado no futuro. O custo precede o benefício. No outro sentido temos a posição devedora - *viver agora, pagar depois*. São todas as situações em que valores ou benefícios usufruídos mais cedo acarretam algum tipo de ônus ou custo a ser pago mais à frente.
 
@@ -98,7 +98,6 @@ Eu acho essa pergunta, "Quem usa quem?" enviesada para a mesquinhez. Contanto qu
 
 O ponto alto desse capítulo é o conceito de "desconto hiperbólico", descrito mais abaixo...
 
-
 #### citação
 
 > "Aquele que deseja mas não age, fomenta pestilência."
@@ -123,12 +122,12 @@ Neste capítulo é mostrado um experimento muito interessante realizado com pomb
 
 A conclusão do experimento (de maneira extremamente simplificada) pode ser resumida assim:
 
-- menos agora vs. mais no futuro - preferência pelo "menos agora"
-- menos no futuro vs. mais num futuro ainda mais distante - conseguimos pensar melhor nos benefícios da espera
+- ao ter que decidir entre menos agora vs. mais no futuro, há uma tendência de preferir "menos agora"
+- ao ter que decidir entre menos no futuro vs. mais num futuro ainda mais distante, conseguimos pensar melhor nos benefícios da espera
 
 O experimento que mostra o poder que o "aqui agora" exerce nas nossas decisões.
 
-Tentando falar de maneira mais técnica: quando temos que decidir por uma soma de benefícios que varia de acordo com o intervalo de espera para obtê-los, tendemos a ser mais impacientes quando o intervalo de espera é ínfimo (agora).
+Tentando falar de maneira mais técnica: quando temos que decidir por uma soma de benefícios que varia de acordo com o intervalo de espera para obtê-los, tendemos a ser mais impacientes quanto menor o intervalo de espera.
 
 #### O leopardo africano e a importância da "reserva de emergência"
 
