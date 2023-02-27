@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/cloudacademy/GCP Cloud Developer - 01. GCP Overview.md",
-                "mode": "source",
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/cloudacademy/GCP Cloud Developer - 01. GCP Overview.md"
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md"
               }
             }
           },
@@ -108,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/cloudacademy/GCP Cloud Developer - 01. GCP Overview.md",
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/cloudacademy/GCP Cloud Developer - 01. GCP Overview.md",
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +166,7 @@
   },
   "active": "d82647db1c5cf62c",
   "lastOpenFiles": [
+    "notes/learning/cloudacademy/GCP Cloud Developer - 01. GCP Overview.md",
     "notes/learning/cloudacademy/GCP Systems Operations.md",
     "notes/learning/cloudacademy/GCP for SysAdmins.md",
     "notes/learning/gcp/GCP Fundamentals.md",
