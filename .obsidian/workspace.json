@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
-                "mode": "preview",
+                "file": "notes/nodejs.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md"
+                "file": "notes/nodejs.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
+                "file": "notes/nodejs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
+                "file": "notes/nodejs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +166,7 @@
   },
   "active": "d82647db1c5cf62c",
   "lastOpenFiles": [
+    "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
     "notes/learning/cloudacademy/GCP Cloud Developer - 01. GCP Overview.md",
     "notes/learning/cloudacademy/GCP Systems Operations.md",
     "notes/learning/cloudacademy/GCP for SysAdmins.md",

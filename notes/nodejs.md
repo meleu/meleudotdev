@@ -3,40 +3,16 @@ dg-publish: true
 ---
 # Node JS
 
-## Node Version Manager
+Cool playlist with Node.JS contents related to DevOps topics (containers, CI pipelines, etc.).
 
-It's preferable to use `nvm` instead of installing nodejs from the distro's package manager: <https://github.com/nvm-sh/nvm>
+https://youtube.com/playlist?list=PL5Dc_611BqV1kvspy-QqAk_xMniaojPRt
 
-Once it's installed, just run: `nvm install --lts`
+## Why you should always set `NODE_ENV` in your production node.js docker images
 
+[video](https://youtu.be/FFAWp9qoX4M)
 
-## `ERR_FEATURE_UNAVAILABLE_ON_PLATFORM`
+1. Size
+2. Security
+3. Performance
 
-I got this error while using node v14 on Linux:
-```
-TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
-```
-
-And it's apparently related to this stackoverflow question: <https://stackoverflow.com/questions/61806341/how-to-fix-the-feature-watch-recursively-is-unavailable-on-the-current-platform>
-
-The problem seems to be related to a breaking change added to NodeJS v14, and one of the solutions proposed is giving the `--poll` argument to `ts-node-dev`.
-
-I decided to just install and use Node v12:
-```
-nvm install v12.20.0
-```
-
-
-## nice packages/libraries
-
-- express
-- multer
-- typeorm
-- sqlite3
-- yup - validation
-- monk - talk to the mongodb
-- helmet - basic security
-- morgan - HTTP request logger
-- cors - CORS
-- nanoid - URL-friendly unique string ID generator
-
+When using `NODE_ENV=production` npm doesn't install the devDependencies. Looks like it has the very same result as using `--production` option.
