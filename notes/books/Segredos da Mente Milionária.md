@@ -88,7 +88,7 @@ Por que conta da diversão?
 
 #### Dinheiro vs. Amor
 
-> Quem tem mentalidade pobre valida a sua própria inépcia financeira com comparações irrelevantes. Afirma: "O dinheiro não mais importante que o amor". Ora, essa é uma comparação equivocada. O que é mais importante: o seu braço ou sua perna? É óbvio que ambos tem importância!
+> Quem tem mentalidade pobre valida a sua própria inépcia financeira com comparações irrelevantes. Afirma: "O dinheiro não é mais importante que o amor". Ora, essa é uma comparação equivocada. O que é mais importante: o seu braço ou sua perna? É óbvio que ambos tem importância!
 
 Isso é uma [falsa dicotomia](https://en.wikipedia.org/wiki/False_dilemma).
 
