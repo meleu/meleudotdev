@@ -27,7 +27,7 @@ As I mentioned in [my intro](https://codingcareer.circle.so/c/intros/greetings-f
 
 You know that excitement of young people, right? OK, I'm not that young, but, as a newcomer in the DevOps field, I was really excited! Before actually moving to this job I read everything about DevOps, not only about the tools, but about the "DevOps culture" (Dev + Ops working together, with shared goals).
 
-So, I started that job wanting to anything to make Developers more productive. One little specific example, in order to make the pipeline faster, I was wanting to create a persistent volume to cache the dependencies. For a big Telecom company, the cost of this volume would be derisory, but the bureaucracy process to request it and get an approval is an herculean job.
+So, I started that job wanting to do anything to make Developers more productive. One little specific example, in order to make the pipeline faster, I was wanting to create a persistent volume to cache the dependencies. For a big Telecom company, the cost of this volume would be derisory, but the bureaucracy process to request it and get an approval is an herculean job.
 
 My inexperience made me believe that I would be able to simply create a volume and talk to my boss about the benefits of it, and he would obviously agree that such a small cost would bring a big benefit in not only making the pipeline faster but saving network bandwidth.
 
