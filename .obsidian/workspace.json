@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0b43658486b3f42",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -164,7 +175,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "d82647db1c5cf62c",
+  "active": "b0b43658486b3f42",
   "lastOpenFiles": [
     "notes/nodejs.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
