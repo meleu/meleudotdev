@@ -7,6 +7,18 @@ dg-publish: true
 
 ---
 
+### git bisect run
+
+This is life changing!
+
+```shell
+git bisect start
+git bisect bad HEAD
+git bisect good ${goodCommitHash}
+git bisect run ${commandToCheckCommitIsGood}
+```
+
+
 ### checkout old commit and make it a new commit
 
 From [StackOverflow](https://stackoverflow.com/a/3382249/6354514).
