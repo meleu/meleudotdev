@@ -8,18 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e54e2b0a53c8a9e1",
+            "id": "e3556ac5ed6a1972",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/carreira/eazl course - linkedin - resume - cv.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e4299fe2f3d2d4ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "moc/books.md",
+                "file": "private/carreira/Staircase/staircase resume - cv.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "59b43f620c776003",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/carreira/Staircase/Units of Work - Slab.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -66,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moc/books.md"
+                "file": "private/carreira/Staircase/staircase resume - cv.md"
               }
             }
           },
@@ -109,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "moc/books.md",
+                "file": "private/carreira/Staircase/staircase resume - cv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moc/books.md",
+                "file": "private/carreira/Staircase/staircase resume - cv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,10 +190,24 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "e54e2b0a53c8a9e1",
+  "active": "e4299fe2f3d2d4ec",
   "lastOpenFiles": [
-    "notes/books/Como Ler Livros.md",
+    "private/carreira/eazl course - linkedin - resume - cv.md",
+    "private/carreira/Staircase/staircase resume - cv.md",
+    "private/carreira/Staircase/Units of Work - Slab.md",
+    "private/carreira/Staircase/thiago-couto-staircase.md",
+    "private/carreira/Staircase/study for staircase.md",
+    "private/carreira/Staircase/Staircase Virtues - Slab.md",
+    "private/carreira/Staircase/staircase interview with Guarino.md",
+    "private/carreira/Staircase/join-staircase.md",
+    "private/carreira/Staircase/Delivery Cadence - Slab.md",
+    "private/carreira/Staircase/1P_ We are Athletes - Slab.md",
+    "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md",
+    "private/carreira/Staircase/1P_ We are a WoW Company - Slab.md",
+    "private/carreira/Staircase/1P_ We are a Software Company - Slab.md",
+    "private/carreira/Staircase/1P_ We are a Manufacturing Company - Slab.md",
     "moc/books.md",
+    "notes/books/Como Ler Livros.md",
     "notes/learning/cloudacademy/GCP Cloud Developer - 02. Designing an Infrastructure.md",
     "notes/git tricks.md",
     "notes/git.md",
@@ -177,20 +217,6 @@
     "notes/learning/cloudacademy/GCP Systems Operations.md",
     "notes/learning/cloudacademy/GCP for SysAdmins.md",
     "notes/learning/gcp/GCP Fundamentals.md",
-    "notes/books/O Valor do Amanha.md",
-    "notes/video - I will teach you to be rich - talks at Google.md",
-    "notes/video - Akita - Projetos, Testes e Estimativa.md",
-    "notes/neovim-upcase.md",
-    "private/dicas de series.md",
-    "notes/vim.md",
-    "notes/learning/k8s/kubernetes-ckad-with-tests/06-pod-design.md",
-    "notes/books/A insustentavel leveza do ser.md",
-    "notes/Cloud Native Infrastructure.md",
-    "notes/books/Cloud Native DevOps with Kubernetes.md",
-    "notes/neovim.md",
-    "articles/livros que me influenciaram.md",
-    "notes/npm.md",
-    "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
-    "notes/material para missao pessoal.md"
+    "notes/books/O Valor do Amanha.md"
   ]
 }
