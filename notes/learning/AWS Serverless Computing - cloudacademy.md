@@ -87,3 +87,37 @@ Each one of these 👆 methods go to the Lambda API. And the Lambda API provides
 > [!note]
 > If an AWS Service invokes your function, you cannot select an invocation type. The AWS Service selects it for you.
 
+---
+
+## Knowledge Check: Understanding AWS Lambda
+
+### Debugging
+
+A developer has created a Lambda function to scrub real-time data of extraneous information and then send the scrubbed data to Kinesis for further processing and storage. Some of the data showing up in Kinesis seems to be inaccurate. What's the best way for the developer to debug this?
+
+- ✅ Use AWS X-Ray to step through the function
+- ❌ Look directly at the Lambda Logs in CloudWatch
+
+AWS X-Ray is the best solution to debugging a Lambda function.
+
+Learn more: [https://docs.aws.amazon.com/lambda/latest/dg/services-xray.html](https://docs.aws.amazon.com/lambda/latest/dg/services-xray.html)
+
+### Permissions
+
+A developer is creating a Lambda function that processes records in an Amazon DynamoDB stream. After quickly uploading the relevant code in the console, the developer runs the function and receives a permissions error. Where is the first place the developer should look?
+
+- ✅ The Lambda's ExecutionRole
+- ❌ The Lambda's ExecutionPolicy
+
+The Lambda Execution Role is an AWS IAM role that grants the function permission to access specific AWS services and resources. In this case, the Execution Role must provide access to DynamoDB.
+
+### Invocation
+
+When you invoke a Lambda function, the function is \_\_. When a function is invoked by an AWS service event source, the function is \_\_.
+
+- ✅ on-demand; **pre-determined**
+- ❌ synchronous; asynchronous
+
+The hint here is the pre-determined term. Since I already memorized that we don't have control over the invocation type when the event source is an AWS Service.
+
+
