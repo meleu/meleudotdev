@@ -15,6 +15,7 @@ Main technologies I'm interested in:
 
 - [x] <https://app.pluralsight.com/library/courses/aws-developer-introduction-aws-lambda/table-of-contents>
     - This is a great introductory course. A lot of important conceptual knowledge and good practices.
+- [ ] [[AWS Serverless Computing - cloudacademy]]
 - [ ] [[AWS SAM Framework and AWS Lambda]] - udemy
 - [ ] <https://www.udemy.com/course/aws-step-functions-guide-workflow-automation-in-minutes/>
 - [ ] <https://www.udemy.com/course/aws-serverless-a-complete-guide/>
