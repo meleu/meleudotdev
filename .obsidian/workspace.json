@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/tmux.md",
+                "file": "notes/terminal-goods.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/tmux.md"
+                "file": "notes/terminal-goods.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/tmux.md",
+                "file": "notes/terminal-goods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/tmux.md",
+                "file": "notes/terminal-goods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +165,8 @@
   },
   "active": "f18e2b697a6395c5",
   "lastOpenFiles": [
-    "notes/terminal-goods.md",
     "notes/tmux.md",
+    "notes/terminal-goods.md",
     "notes/learning/AWS Serverless Computing - cloudacademy.md",
     "assets/AWS Serverless Computing - event-driven architecture.png",
     "private/carreira/Staircase/study for staircase.md",

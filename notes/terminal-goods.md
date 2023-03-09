@@ -3,9 +3,10 @@ dg-publish: true
 ---
 # terminal-goods
 
-- fzf
-- jqp
-- 
+- [Zellij](https://zellij.dev/)
+    - https://zellij.dev/tutorials/basic-functionality/
+- [fzf](https://github.com/junegunn/fzf)
+- [jqp](https://github.com/noahgorstein/jqp)
 
 ## references
 
