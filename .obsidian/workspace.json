@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/AWS Serverless Computing - cloudacademy.md",
+                "file": "notes/tmux.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/AWS Serverless Computing - cloudacademy.md"
+                "file": "notes/tmux.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/AWS Serverless Computing - cloudacademy.md",
+                "file": "notes/tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/AWS Serverless Computing - cloudacademy.md",
+                "file": "notes/tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,9 +165,11 @@
   },
   "active": "f18e2b697a6395c5",
   "lastOpenFiles": [
+    "notes/terminal-goods.md",
+    "notes/tmux.md",
+    "notes/learning/AWS Serverless Computing - cloudacademy.md",
     "assets/AWS Serverless Computing - event-driven architecture.png",
     "private/carreira/Staircase/study for staircase.md",
-    "notes/learning/AWS Serverless Computing - cloudacademy.md",
     "notes/AWS Serverless.md",
     "private/carreira/Staircase/eazl course - linkedin - resume - cv.md",
     "private/carreira/Staircase/staircase resume - cv.md",
@@ -189,7 +191,6 @@
     "notes/git tricks.md",
     "notes/git.md",
     "notes/nodejs.md",
-    "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
-    "notes/learning/cloudacademy/GCP Cloud Developer - 01. GCP Overview.md"
+    "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md"
   ]
 }
