@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/terminal-goods.md",
+                "file": "notes/Content Security Policy - CSP.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/terminal-goods.md"
+                "file": "notes/Content Security Policy - CSP.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/terminal-goods.md",
+                "file": "notes/Content Security Policy - CSP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/terminal-goods.md",
+                "file": "notes/Content Security Policy - CSP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +165,9 @@
   },
   "active": "f18e2b697a6395c5",
   "lastOpenFiles": [
-    "notes/tmux.md",
     "notes/terminal-goods.md",
+    "notes/Content Security Policy - CSP.md",
+    "notes/tmux.md",
     "notes/learning/AWS Serverless Computing - cloudacademy.md",
     "assets/AWS Serverless Computing - event-driven architecture.png",
     "private/carreira/Staircase/study for staircase.md",
@@ -190,7 +191,6 @@
     "notes/learning/cloudacademy/GCP Cloud Developer - 02. Designing an Infrastructure.md",
     "notes/git tricks.md",
     "notes/git.md",
-    "notes/nodejs.md",
-    "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md"
+    "notes/nodejs.md"
   ]
 }
