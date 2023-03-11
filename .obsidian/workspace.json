@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Content Security Policy - CSP.md",
+                "file": "notes/zellij.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Content Security Policy - CSP.md"
+                "file": "notes/zellij.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Content Security Policy - CSP.md",
+                "file": "notes/zellij.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Content Security Policy - CSP.md",
+                "file": "notes/zellij.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,9 +165,10 @@
   },
   "active": "f18e2b697a6395c5",
   "lastOpenFiles": [
-    "notes/terminal-goods.md",
-    "notes/Content Security Policy - CSP.md",
     "notes/tmux.md",
+    "notes/zellij.md",
+    "notes/Content Security Policy - CSP.md",
+    "notes/terminal-goods.md",
     "notes/learning/AWS Serverless Computing - cloudacademy.md",
     "assets/AWS Serverless Computing - event-driven architecture.png",
     "private/carreira/Staircase/study for staircase.md",
@@ -190,7 +191,6 @@
     "notes/books/Como Ler Livros.md",
     "notes/learning/cloudacademy/GCP Cloud Developer - 02. Designing an Infrastructure.md",
     "notes/git tricks.md",
-    "notes/git.md",
-    "notes/nodejs.md"
+    "notes/git.md"
   ]
 }
