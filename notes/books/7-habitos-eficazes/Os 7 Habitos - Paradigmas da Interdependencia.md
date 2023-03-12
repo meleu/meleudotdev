@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # Paradigmas da Interdependencia
 
+[[Os 7 Habitos das pessoas Altamente Eficazes]]
+
 ## Conta Bancária Emocional
 
 A metáfora da Conta Bancária Emocional foi bastante enriquecedora e útil.

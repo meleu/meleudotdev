@@ -3,6 +3,11 @@ dg-publish: true
 ---
 ## Os 7 Hábitos - Prefácio
 
+
+[[Os 7 Habitos das pessoas Altamente Eficazes]]
+
+---
+
 > se você quiser alcançar as suas maiores aspirações e superar os seus maiores desafios, identifique e aplique o princípio ou a lei natural que governa os resultados que você procura.
 
 > Eu sou a força criativa da minha vida.

@@ -3,6 +3,11 @@ dg-publish: true
 ---
 # Hábito Eficaz 2 - Comece com o objetivo em mente
 
+
+[[Os 7 Habitos das pessoas Altamente Eficazes]]
+
+---
+
 [TOC]
 
 ---

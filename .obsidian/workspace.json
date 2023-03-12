@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "f8f9002160627fe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 4 - Pense Ganha-Ganha.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fad7314cbdd493d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Paradigmas da Interdependencia.md",
+                "file": "notes/books/7-habitos-eficazes/Os 7 Habitos - Paradigmas da Interdependencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Paradigmas da Interdependencia.md"
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 4 - Pense Ganha-Ganha.md"
               }
             }
           },
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Paradigmas da Interdependencia.md",
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 4 - Pense Ganha-Ganha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Paradigmas da Interdependencia.md",
+                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 4 - Pense Ganha-Ganha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,11 +188,15 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "fad7314cbdd493d6",
+  "active": "f8f9002160627fe7",
   "lastOpenFiles": [
     "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
-    "notes/books/7-habitos-eficazes/Paradigmas da Interdependencia.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos - Introducao.md",
+    "notes/books/7-habitos-eficazes/Habito Eficaz 1 - Seja Proativo.md",
+    "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
+    "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
+    "notes/books/7-habitos-eficazes/Habito Eficaz 4 - Pense Ganha-Ganha.md",
+    "notes/books/7-habitos-eficazes/Os 7 Habitos - Paradigmas da Interdependencia.md",
     "notes/zellij.md",
     "notes/tmux.md",
     "notes/Content Security Policy - CSP.md",
@@ -200,10 +216,6 @@
     "private/carreira/Staircase/Staircase Virtues - Slab.md",
     "private/carreira/Staircase/Delivery Cadence - Slab.md",
     "private/carreira/Staircase/1P_ We are Athletes - Slab.md",
-    "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md",
-    "private/carreira/Staircase/1P_ We are a WoW Company - Slab.md",
-    "private/carreira/Staircase/1P_ We are a Manufacturing Company - Slab.md",
-    "moc/books.md",
-    "notes/books/Como Ler Livros.md"
+    "private/carreira/Staircase/1P_ We are an Inverse Conway Company - Slab.md"
   ]
 }

@@ -3,6 +3,11 @@ dg-publish: true
 ---
 # Hábito Eficaz 1 - Seja Proativo
 
+
+[[Os 7 Habitos das pessoas Altamente Eficazes]]
+
+---
+
 O capítulo inteiro basicamente serve para te convencer que você deve se considerar o "autor" da sua própria vida.
 
 Ou usando uma metáfora computacional Você é o programador da sua vida.

@@ -3,6 +3,10 @@ dg-publish: true
 ---
 # Habito Eficaz 3 - Primeiro o mais importante
 
+[[Os 7 Habitos das pessoas Altamente Eficazes]]
+
+---
+
 [TOC]
 
 ---

@@ -25,7 +25,9 @@ Conceitos chave:
 - [[Habito Eficaz 1 - Seja Proativo]]
 - [[Habito Eficaz 2 - Comece com o objetivo em mente]]
 - [[Habito Eficaz 3 - Primeiro o mais importante]]
-- [[Paradigmas da Interdependencia]]
+- [[Os 7 Habitos - Paradigmas da Interdependencia]]
+- [[Habito Eficaz 4 - Pense Ganha-Ganha]]
+- 
 
 ---
 
