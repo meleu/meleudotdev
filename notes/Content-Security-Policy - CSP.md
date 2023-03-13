@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 ---
 # Content Security Policy - CSP
 
@@ -52,7 +52,7 @@ script-src 'report-sample' 'self';
 style-src 'report-sample' 'self';
 object-src 'none';
 base-uri 'self';
-connect-src 'self' https://api-us.synthos.health;
+connect-src 'self';
 font-src 'self';
 frame-src 'self';
 img-src 'self';

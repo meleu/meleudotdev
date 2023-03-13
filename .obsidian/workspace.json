@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "55bd7b43840344f0",
+        "id": "00ca1087966826f9",
         "type": "tabs",
         "children": [
           {
-            "id": "f18e2b697a6395c5",
+            "id": "67687f9bdf6ad17a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fad7314cbdd493d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/books/7-habitos-eficazes/Os 7 Habitos - Paradigmas da Interdependencia.md",
+                "file": "notes/Content-Security-Policy - CSP.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md"
+                "file": "notes/Content-Security-Policy - CSP.md"
               }
             }
           },
@@ -120,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
+                "file": "notes/Content-Security-Policy - CSP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
+                "file": "notes/Content-Security-Policy - CSP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,18 +163,18 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "f18e2b697a6395c5",
+  "active": "67687f9bdf6ad17a",
   "lastOpenFiles": [
-    "notes/books/7-habitos-eficazes/Habito Eficaz 4 - Pense Ganha-Ganha.md",
+    "notes/books/7-habitos-eficazes/Os 7 Habitos - Paradigmas da Interdependencia.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
+    "notes/books/7-habitos-eficazes/Habito Eficaz 4 - Pense Ganha-Ganha.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos - Introducao.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 1 - Seja Proativo.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
-    "notes/books/7-habitos-eficazes/Os 7 Habitos - Paradigmas da Interdependencia.md",
     "notes/zellij.md",
     "notes/tmux.md",
-    "notes/Content Security Policy - CSP.md",
+    "notes/Content-Security-Policy - CSP.md",
     "notes/terminal-goods.md",
     "notes/learning/AWS Serverless Computing - cloudacademy.md",
     "assets/AWS Serverless Computing - event-driven architecture.png",
