@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "f8f9002160627fe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 4 - Pense Ganha-Ganha.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fad7314cbdd493d6",
             "type": "leaf",
             "state": {
@@ -44,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -112,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 4 - Pense Ganha-Ganha.md"
+                "file": "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md"
               }
             }
           },
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 4 - Pense Ganha-Ganha.md",
+                "file": "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/7-habitos-eficazes/Habito Eficaz 4 - Pense Ganha-Ganha.md",
+                "file": "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,14 +175,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "f8f9002160627fe7",
+  "active": "f18e2b697a6395c5",
   "lastOpenFiles": [
+    "notes/books/7-habitos-eficazes/Habito Eficaz 4 - Pense Ganha-Ganha.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos - Introducao.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 1 - Seja Proativo.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
-    "notes/books/7-habitos-eficazes/Habito Eficaz 4 - Pense Ganha-Ganha.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos - Paradigmas da Interdependencia.md",
     "notes/zellij.md",
     "notes/tmux.md",
