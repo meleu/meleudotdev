@@ -45,6 +45,7 @@ Em todos os exemplos listados acima, tais trabalhos ainda são necessários e re
 
 Esse tipo de conversa também me traz perguntas como:
 
+
 ##### Qual linguagem / framework / stack / tecnologia devo estudar?
 
 Algumas coisas são muito incertas, mas existem outras que eu acredito que permanecerão relevantes por muito tempo.
@@ -59,6 +60,7 @@ Tentando listar do mais básico do básico até decisões de mais alto nível.
 - vim / neovim
     - pode parecer "opinionated", mas eu observo uma "explosão" na minha produtividade quando uso o vim (e quando vejo colegas realizando algumas tarefas editando texto observo o quanto eles estão se arrastando para fazer algo que no vim eu faria "na velocidade do pensamento")
     - embasando minha opinião: o vim existe há décadas e permanece relevante. O neovim, que tem uma comunidade de desenvolvimento mais ativa, está lentamente tomando o espaço do vim. Portanto aprender a usar vim/neovim não será um tempo desperdiçado.
+- git
 - docker/containers
     - a tecnologia de containers permanecerá relevante por algumas décadas. Tempo investido estudando containers certamente será um tempo muito bem investido.
 - linguagem de programação

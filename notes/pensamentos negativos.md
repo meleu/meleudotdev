@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Trecho de Stab (Planet Hemp):
 
 > Não cesse suas preces!\
