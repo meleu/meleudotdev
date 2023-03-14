@@ -44,3 +44,36 @@ vim +34 file.txt
 :save newFileName.txt
 " from now on :w saves the buffer in newFileName.txt
 ```
+
+
+### navigating
+
+the main takeaway here was
+
+- `ctrl+d` to page (half) down
+- `ctrl+u` to page (half) up
+
+
+### searching current word
+
+Useful info about searching with `*` and `#`.
+
+- `*` searches forward for the exact same word in the cursor
+- `#` same as above, but backward
+- `g*` and `g#` - same as described above, but substring allowed.
+
+
+### File Manager (netrw) in Vim
+
+> [!todo]
+> Things here didn't clicked for me... maybe I need to revisit this later
+
+
+### editing files via SSH
+
+```shell
+vim scp://user@myserver[:port]//path/to/file.txt
+```
+
+For more info: `:help scp`
+
