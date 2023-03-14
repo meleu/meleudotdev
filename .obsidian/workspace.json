@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/O Programador Apaixonado.md",
+                "file": "notes/books/Mastering Vim Quickly.md",
                 "mode": "source",
                 "source": true
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/O Programador Apaixonado.md"
+                "file": "notes/books/Mastering Vim Quickly.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/O Programador Apaixonado.md",
+                "file": "notes/books/Mastering Vim Quickly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/O Programador Apaixonado.md",
+                "file": "notes/books/Mastering Vim Quickly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,12 +166,12 @@
   },
   "active": "61a440fdc391a30b",
   "lastOpenFiles": [
+    "notes/books/O Programador Apaixonado.md",
     "moc/books.md",
     "notes/fundamental skills - continuous learning.md",
     "notes/books/Mastering Vim Quickly.md",
     "notes/vim.md",
     "notes/books/Rápido e Devagar.md",
-    "notes/books/O Programador Apaixonado.md",
     "notes/pensamentos negativos.md",
     "notes/Content-Security-Policy - CSP.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos - Paradigmas da Interdependencia.md",

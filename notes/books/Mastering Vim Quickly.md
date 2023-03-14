@@ -38,3 +38,9 @@ vim +34 file.txt
 - `gf` *g*o to *f*ile
 - `gx` *g*o to lin*x*
 
+### save file with another name, and keep the new name
+
+```vim
+:save newFileName.txt
+" from now on :w saves the buffer in newFileName.txt
+```
