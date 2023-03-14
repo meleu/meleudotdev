@@ -89,3 +89,24 @@ For more info: `:help scp`
 :later 5m     " redo all changes in last 5 minutes
 :later 15s    " ... last 15 seconds
 ```
+
+
+### Undo branches
+
+I didn't get used to these undo techniques, but I found it interesting...
+
+Example:
+
+1. open a new file, write `Hello`. Press `esc`.
+2. hit `o` to go the line below in Insert mode, write `world`. Press `esc`
+3. hit `u` to undo and remove the `world`.
+4. hit `o` to go the line below in Insert mode, write `everyone`. Press `esc`
+5. hit `u` to undo and remove the `everyone`.
+
+If you hit `u` again you remove the `Hello`, but never get the word `world` again.
+
+> after you complete step 4 - and you want to get back `world` again - you need to run command `g-`.
+> 
+> Basically, Vim creates an undo branch every time you hit `u`. The branch represents the state of the file before you executed undo. So you can use `g-` command to move backward or `g+` command to move forward between these branches.
+> 
+> Take a few minutes to experiment with `u`, `ctrl+r` `g-` and `g+` and you'll quickly understand how this works.
