@@ -77,3 +77,15 @@ vim scp://user@myserver[:port]//path/to/file.txt
 
 For more info: `:help scp`
 
+### Undo / Redo beyond the `u`/`ctrl+r`
+
+```vim
+" examples of :earlier and :later
+:earlier 2d   " undo changes in last 2 days
+:earlier 3h   " ... last 3 hours
+:earlier 1m   " ... last 1 minute
+:earlier 3f   " undo last three file states (buffer writes)
+
+:later 5m     " redo all changes in last 5 minutes
+:later 15s    " ... last 15 seconds
+```
