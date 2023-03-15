@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0219bc214d3dccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/carreira/RedHat/estudar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -66,13 +79,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -88,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/http.md"
+                "file": "private/carreira/RedHat/estudar.md"
               }
             }
           },
@@ -109,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/http.md",
+                "file": "private/carreira/RedHat/estudar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/http.md",
+                "file": "private/carreira/RedHat/estudar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,8 +175,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "61a440fdc391a30b",
+  "active": "b0219bc214d3dccf",
   "lastOpenFiles": [
+    "notes/http.md",
+    "private/carreira/RedHat/estudar.md",
+    "private/carreira/RedHat",
     "assets/http status codes.png",
     "notes/books/Mastering Vim Quickly.md",
     "notes/books/O Programador Apaixonado.md",
@@ -191,7 +205,6 @@
     "notes/AWS Serverless.md",
     "private/carreira/Staircase/eazl course - linkedin - resume - cv.md",
     "private/carreira/Staircase/staircase resume - cv.md",
-    "private/carreira/Staircase/staircase interview with Guarino.md",
-    "private/carreira/Staircase/join-staircase.md"
+    "private/carreira/Staircase/staircase interview with Guarino.md"
   ]
 }
