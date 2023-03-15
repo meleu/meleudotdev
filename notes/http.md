@@ -29,6 +29,8 @@ Another commonly used field is the `Header`.
 
 ## HTTP Status Codes
 
+![[http status codes.png]]
+
 Commonly used HTTP codes:
 
 -   1xx: informational

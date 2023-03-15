@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Mastering Vim Quickly.md",
+                "file": "notes/http.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Mastering Vim Quickly.md"
+                "file": "notes/http.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Mastering Vim Quickly.md",
+                "file": "notes/http.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Mastering Vim Quickly.md",
+                "file": "notes/http.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,10 +166,11 @@
   },
   "active": "61a440fdc391a30b",
   "lastOpenFiles": [
+    "assets/http status codes.png",
+    "notes/books/Mastering Vim Quickly.md",
     "notes/books/O Programador Apaixonado.md",
     "moc/books.md",
     "notes/fundamental skills - continuous learning.md",
-    "notes/books/Mastering Vim Quickly.md",
     "notes/vim.md",
     "notes/books/Rápido e Devagar.md",
     "notes/pensamentos negativos.md",
@@ -191,7 +192,6 @@
     "private/carreira/Staircase/eazl course - linkedin - resume - cv.md",
     "private/carreira/Staircase/staircase resume - cv.md",
     "private/carreira/Staircase/staircase interview with Guarino.md",
-    "private/carreira/Staircase/join-staircase.md",
-    "notes/learning/AWS SAM Framework and AWS Lambda.md"
+    "private/carreira/Staircase/join-staircase.md"
   ]
 }
