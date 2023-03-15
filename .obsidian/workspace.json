@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/RedHat/estudar.md",
+                "file": "notes/neovim.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/RedHat/estudar.md"
+                "file": "notes/neovim.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/RedHat/estudar.md",
+                "file": "notes/neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/RedHat/estudar.md",
+                "file": "notes/neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,8 +177,8 @@
   },
   "active": "b0219bc214d3dccf",
   "lastOpenFiles": [
-    "notes/http.md",
     "private/carreira/RedHat/estudar.md",
+    "notes/http.md",
     "private/carreira/RedHat",
     "assets/http status codes.png",
     "notes/books/Mastering Vim Quickly.md",
