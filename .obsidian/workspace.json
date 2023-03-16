@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/neovim.md",
+                "file": "private/PL.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/neovim.md"
+                "file": "private/PL.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/neovim.md",
+                "file": "private/PL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/neovim.md",
+                "file": "private/PL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,6 +177,7 @@
   },
   "active": "b0219bc214d3dccf",
   "lastOpenFiles": [
+    "notes/neovim.md",
     "private/carreira/RedHat/estudar.md",
     "notes/http.md",
     "private/carreira/RedHat",
@@ -204,7 +205,6 @@
     "private/carreira/Staircase/study for staircase.md",
     "notes/AWS Serverless.md",
     "private/carreira/Staircase/eazl course - linkedin - resume - cv.md",
-    "private/carreira/Staircase/staircase resume - cv.md",
-    "private/carreira/Staircase/staircase interview with Guarino.md"
+    "private/carreira/Staircase/staircase resume - cv.md"
   ]
 }
