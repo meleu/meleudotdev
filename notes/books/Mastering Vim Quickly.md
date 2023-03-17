@@ -241,4 +241,25 @@ There are 9 types of registers:
 4. named (26): `"a` - `"z` or `"A` - `"Z`
 5. read-only: `":`, `".`, `"%` and `"#`
 6. expression: `"=`
-7. selection:
+7. selection and drop: `"*`, `"+` and `"~`
+8. blackhole: `"_`
+9. last search pattern: `"/`
+
+#### using named registers
+
+Example:
+
+```
+# copy current line to "a register
+"ayy
+
+# append current line to the "a register
+"Ayy
+
+# paste content from "a register
+"ap
+
+# get a preview of your registers
+:registers
+```
+
