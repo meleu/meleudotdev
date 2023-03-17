@@ -20,10 +20,11 @@
   "autoPairBrackets": false,
   "autoPairMarkdown": false,
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "includeName": false,
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 60
   },
   "promptDelete": true,
   "showInlineTitle": false

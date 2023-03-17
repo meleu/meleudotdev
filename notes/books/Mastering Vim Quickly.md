@@ -110,3 +110,60 @@ If you hit `u` again you remove the `Hello`, but never get the word `world` agai
 > Basically, Vim creates an undo branch every time you hit `u`. The branch represents the state of the file before you executed undo. So you can use `g-` command to move backward or `g+` command to move forward between these branches.
 > 
 > Take a few minutes to experiment with `u`, `ctrl+r` `g-` and `g+` and you'll quickly understand how this works.
+
+
+### speak the Vim language
+
+verbs -> modifiers -> nouns
+
+#### verbs
+
+Note: these commands are also known as operator commands or simply operators.
+
+- single char verbs
+    - x - delete
+    - r - replace
+    - s - delete and go to insert mode
+- verbs for text-objects
+    - y - yank (copy)
+    - c - change
+    - d - delete
+    - v - visually select
+
+#### modifiers
+
+- NUMBER - yeah, literally a number like 1, 2 or 42
+- t - search un**t**il
+- f - **f**ind
+- / - find a regular expression
+- i - **i**nner
+- a - **a**round
+
+Note: `i` and `a` are used to create text-objects
+
+#### nouns
+
+The nouns can be a text-object or a text-movement
+
+- text-objects (must be prefixed with `i` or `a` - see `:help Q_to`)
+    - w - word
+    - W - WORD
+    - s - sentence
+    - p - paragraph
+    - explicitly say the block delimiter
+        - `(`, `[`, `{`, `<` 
+    - t - xml-like block - from `<tag>` to `</tag>`
+   - quoted strings 
+        - `'`, `"`, \`
+
+- movements (see `:help Q_tm`)
+    - w, W - start of next word
+    - e, E - end of word
+    - b, B - start of previous word
+    - ge, gE - end of previous word
+    - `(` - sentence forward
+    - `)` - sentence backward
+    - `$` - end of line
+    - `0` - start of line
+    - `^` - start of line ignoring indentation
+
