@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/vim text-object cheatsheet.md",
-                "mode": "preview",
+                "file": "notes/books/Mastering Vim Quickly.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/vim text-object cheatsheet.md"
+                "file": "notes/books/Mastering Vim Quickly.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/vim text-object cheatsheet.md",
+                "file": "notes/books/Mastering Vim Quickly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/vim text-object cheatsheet.md",
+                "file": "notes/books/Mastering Vim Quickly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +165,8 @@
   },
   "active": "30c289b538214e4d",
   "lastOpenFiles": [
-    "notes/books/Mastering Vim Quickly.md",
     "notes/vim text-object cheatsheet.md",
+    "notes/books/Mastering Vim Quickly.md",
     "private/PL.md",
     "notes/neovim.md",
     "private/carreira/RedHat/estudar.md",

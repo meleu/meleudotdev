@@ -143,6 +143,8 @@ Note: `i` and `a` are used to create text-objects
 
 #### nouns
 
+See also [[vim text-object cheatsheet]].
+
 The nouns can be a text-object or a text-movement
 
 - text-objects (must be prefixed with `i` or `a` - see `:help Q_to`)
