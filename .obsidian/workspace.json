@@ -15,7 +15,7 @@
               "state": {
                 "file": "notes/books/Mastering Vim Quickly.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }

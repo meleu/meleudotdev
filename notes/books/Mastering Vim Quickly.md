@@ -114,6 +114,8 @@ If you hit `u` again you remove the `Hello`, but never get the word `world` agai
 
 ### speak the Vim language
 
+- [this video is cool](https://youtu.be/wlR5gYd6um0)
+
 verbs -> modifiers -> nouns
 
 #### verbs
@@ -168,4 +170,63 @@ The nouns can be a text-object or a text-movement
     - `$` - end of line
     - `0` - start of line
     - `^` - start of line ignoring indentation
+
+
+### search through multiple files
+
+> [!note]
+> I think this can be improved with `ripgrep` or something similar. Saw some videos showing some cool features about it.
+
+Search for a `PATTERN` in all markdown files:
+```vim
+:vimgrep PATTERN *.md
+```
+
+And then use:
+
+- `:cn` - jump to next match
+- `:cN` - previous match
+- `:clist` - view all the files that contain the matched string
+- `:cc NUMBER` jump to specific match number you get from `:clist`
+
+
+### the power of the global command
+
+The `:g[lobal]` command is very useful. The syntax is like this:
+
+```
+:[range]g/pattern/cmd
+```
+
+- `pattern` - is the what we're looking to match in the file
+- `cmd` - is the Ex command to be executed for each line matching the `pattern`
+
+#### examples of the global command
+
+```
+# delete all lines containing a 'error'
+:g/error/d
+
+# delete all lines not containing 'important'
+:g!/important/d
+
+# NOTE: deletion sends data to the unnamed register!
+# Avoid it sending to the "blackhole" register '_'
+:g!/important/d_
+
+# delete all blank lines
+:g/^\s*$/d
+
+# execute macro '@a' in normal mode
+:g/pattern/normal @a
+
+# for every line containing "good" replace "bad" with "ugly"
+:g/good/s/bad/ugly/g
+
+# reverse all the lines
+# (':m0' moves a line to the top of the file)
+:g/^/m0
+
+
+```
 
