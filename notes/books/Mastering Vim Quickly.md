@@ -203,6 +203,8 @@ The `:g[lobal]` command is very useful. The syntax is like this:
 
 #### examples of the global command
 
+Use `:help 10.4` for more info
+
 ```
 # delete all lines containing a 'error'
 :g/error/d
@@ -223,10 +225,20 @@ The `:g[lobal]` command is very useful. The syntax is like this:
 # for every line containing "good" replace "bad" with "ugly"
 :g/good/s/bad/ugly/g
 
-# reverse all the lines
+# reverse all the lines - ':help 12.4'
 # (':m0' moves a line to the top of the file)
 :g/^/m0
 
-
 ```
 
+### Registers
+
+There are 9 types of registers:
+
+1. unnamed: `" `
+2. numbered (10): `"0` - `"9`
+3. small delete: `"-`
+4. named (26): `"a` - `"z` or `"A` - `"Z`
+5. read-only: `":`, `".`, `"%` and `"#`
+6. expression: `"=`
+7. selection:
