@@ -8,27 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30c289b538214e4d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Staircase book list.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "95f6b69397a714a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Mastering Vim Quickly.md",
-                "mode": "preview",
+                "file": "notes/books/Practical Vim/Practical Vim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f03029f6df00017",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/books/Practical Vim/Vim Tips 1 and 2.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -102,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Mastering Vim Quickly.md"
+                "file": "notes/books/Practical Vim/Vim Tips 1 and 2.md"
               }
             }
           },
@@ -123,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Mastering Vim Quickly.md",
+                "file": "notes/books/Practical Vim/Vim Tips 1 and 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Mastering Vim Quickly.md",
+                "file": "notes/books/Practical Vim/Vim Tips 1 and 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,11 +175,15 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "95f6b69397a714a9",
+  "active": "5f03029f6df00017",
   "lastOpenFiles": [
+    "notes/books/Practical Vim/Practical Vim.md",
+    "notes/books/Practical Vim/Vim Tips 1 and 2.md",
+    "notes/books/Practical Vim",
+    "notes/books/Untitled.md",
+    "notes/books/Mastering Vim Quickly.md",
     "notes/Staircase book list.md",
     "private/carreira/Staircase/Staircase Virtues - Slab.md",
-    "notes/books/Mastering Vim Quickly.md",
     "notes/vim text-object cheatsheet.md",
     "private/PL.md",
     "notes/neovim.md",
@@ -205,9 +206,6 @@
     "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
     "notes/zellij.md",
-    "notes/tmux.md",
-    "notes/terminal-goods.md",
-    "notes/learning/AWS Serverless Computing - cloudacademy.md",
     "assets/AWS Serverless Computing - event-driven architecture.png"
   ]
 }
