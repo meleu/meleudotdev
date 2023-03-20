@@ -30,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "515ae650800f8825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/books/Practical Vim/Vim Tip 30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Practical Vim/Vim Tips 1 and 2.md"
+                "file": "notes/books/Practical Vim/Practical Vim.md"
               }
             }
           },
@@ -120,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Practical Vim/Vim Tips 1 and 2.md",
+                "file": "notes/books/Practical Vim/Practical Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Practical Vim/Vim Tips 1 and 2.md",
+                "file": "notes/books/Practical Vim/Practical Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +186,9 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "5f03029f6df00017",
+  "active": "95f6b69397a714a9",
   "lastOpenFiles": [
+    "notes/books/Practical Vim/Vim Tip 30.md",
     "notes/books/Practical Vim/Practical Vim.md",
     "notes/books/Practical Vim/Vim Tips 1 and 2.md",
     "notes/books/Practical Vim",
@@ -205,7 +217,6 @@
     "notes/books/7-habitos-eficazes/Habito Eficaz 1 - Seja Proativo.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
-    "notes/zellij.md",
     "assets/AWS Serverless Computing - event-driven architecture.png"
   ]
 }

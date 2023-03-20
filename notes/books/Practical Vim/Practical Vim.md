@@ -10,8 +10,7 @@ author: Drew Neil
 
 Collecting useful vim tips...
 
-> Vim is optimized for repetition. Its efficiency stems from the way it tracks our most recent actions. We can always replay the last change with a single keystrocke. Powerful as this sounds, it's less useless unless we learn to craft our actions so that they perform useful unit of work when replayed. Mastering this concept is the key to becoming effective with Vim.
+> Vim is optimized for repetition. Its efficiency stems from the way it tracks our most recent actions. We can always replay the last change with a single keystroke. Powerful as this sounds, it's less useless unless we learn to craft our actions so that they perform useful unit of work when replayed. Mastering this concept is the key to becoming effective with Vim.
 
-- The Vim Way
-    - [[Vim Tips 1 and 2]]
-    - 
+- [[Vim Tips 1 and 2]]
+- [[Vim Tip 30]]
