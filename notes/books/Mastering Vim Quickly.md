@@ -238,7 +238,7 @@ There are 9 types of registers:
 1. unnamed: `" `
 2. numbered (10): `"0` - `"9`
 3. small delete: `"-`
-4. named (26): `"a` - `"z` or `"A` - `"Z`
+4. named (26): `"a` - `"z` or `"A` - `"Z` (capital letters append contents)
 5. read-only: `":`, `".`, `"%` and `"#`
 6. expression: `"=`
 7. selection and drop: `"*`, `"+` and `"~`
@@ -262,4 +262,13 @@ Example:
 # get a preview of your registers
 :registers
 ```
+
+
+### Buffers
+
+Main concepts:
+
+- **buffer**: in-memory text of a file
+- **window**: viewport on a buffer
+- **tab**: collection of windows
 
