@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "deb1f8b3d0877d7a",
+            "id": "495c79820796b3be",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Mastering Vim Quickly.md",
+                "file": "notes/ra/8Bitdo/8Bitdo NES30.md",
                 "mode": "source",
-                "source": true
-              }
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
@@ -87,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Mastering Vim Quickly.md"
+                "file": "notes/ra/8Bitdo/8Bitdo NES30.md"
               }
             }
           },
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Mastering Vim Quickly.md",
+                "file": "notes/ra/8Bitdo/8Bitdo NES30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Mastering Vim Quickly.md",
+                "file": "notes/ra/8Bitdo/8Bitdo NES30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,14 +165,27 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "deb1f8b3d0877d7a",
+  "active": "495c79820796b3be",
   "lastOpenFiles": [
+    "notes/ra/8Bitdo/8Bitdo Zero.md",
+    "notes/ra/8Bitdo/8Bitdo NES30.md",
+    "assets/8Bitdo NES30 power info.png",
+    "notes/ra/8Bitdo/8Bitdo M30.md",
+    "assets/8Bitdo M30 power info.png",
+    "assets/8Bitdo M30 android.png",
+    "assets/8Bitdo M30 buttons.png",
+    "notes/ra/8Bitdo/8Bitdo SN30 Pro.md",
+    "assets/8Bitdo SN30 Pro power info.png",
+    "assets/8Bitdo SN30 Pro buttons.png",
+    "assets/8Bitdo SN30 Pro buttons.png",
+    "notes/ra/8Bitdo",
+    "assets/8Bitdo Zero manual.png",
+    "notes/books/Mastering Vim Quickly.md",
     "notes/books/Practical Vim/Vim Tip 30.md",
     "notes/books/Practical Vim/Vim Tips 1 and 2.md",
     "notes/books/Practical Vim/Practical Vim.md",
     "notes/books/Practical Vim",
     "notes/books/Untitled.md",
-    "notes/books/Mastering Vim Quickly.md",
     "notes/Staircase book list.md",
     "private/carreira/Staircase/Staircase Virtues - Slab.md",
     "notes/vim text-object cheatsheet.md",
@@ -189,11 +204,6 @@
     "notes/Content-Security-Policy - CSP.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos - Paradigmas da Interdependencia.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
-    "notes/books/7-habitos-eficazes/Habito Eficaz 4 - Pense Ganha-Ganha.md",
-    "notes/books/7-habitos-eficazes/Os 7 Habitos - Introducao.md",
-    "notes/books/7-habitos-eficazes/Habito Eficaz 1 - Seja Proativo.md",
-    "notes/books/7-habitos-eficazes/Habito Eficaz 2 - Comece com o objetivo em mente.md",
-    "notes/books/7-habitos-eficazes/Habito Eficaz 3 - Primeiro o mais importante.md",
     "assets/AWS Serverless Computing - event-driven architecture.png"
   ]
 }
