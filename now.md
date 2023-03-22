@@ -3,7 +3,7 @@ dg-publish: true
 ---
 # What I'm into *now*
 
-My current focus is to have integrate TDD techniques in my workflow. Have it as a second nature. To achieve this I need to invest time in [[TDD-Refactoring literature]].
+My current focus is to integrate TDD techniques in my workflow. Have it as a second nature. To achieve this I need to invest time in [[TDD-Refactoring literature]].
 
 
 ## Frequent Ideas
