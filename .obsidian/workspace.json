@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/LunarVim.md",
+                "file": "notes/bash-tdd.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/LunarVim.md"
+                "file": "notes/bash-tdd.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/LunarVim.md",
+                "file": "notes/bash-tdd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LunarVim.md",
+                "file": "notes/bash-tdd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +165,10 @@
   },
   "active": "1971b21406c2b253",
   "lastOpenFiles": [
-    "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
+    "notes/books/7-habitos-eficazes/Os 7 Habitos - Paradigmas da Interdependencia.md",
+    "notes/bash-tdd.md",
     "notes/LunarVim.md",
+    "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
     "notes/bash.md",
     "notes/ra/8Bitdo/8Bitdo NES30.md",
     "notes/ra/8Bitdo/8Bitdo Zero.md",
@@ -201,8 +203,6 @@
     "notes/fundamental skills - continuous learning.md",
     "notes/vim.md",
     "notes/books/Rápido e Devagar.md",
-    "notes/pensamentos negativos.md",
-    "notes/Content-Security-Policy - CSP.md",
-    "assets/AWS Serverless Computing - event-driven architecture.png"
+    "notes/pensamentos negativos.md"
   ]
 }
