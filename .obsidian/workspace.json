@@ -11,9 +11,11 @@
             "id": "1971b21406c2b253",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png"
+                "file": "notes/LunarVim.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png"
+                "file": "notes/LunarVim.md"
               }
             }
           },
@@ -106,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
+                "file": "notes/LunarVim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
+                "file": "notes/LunarVim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +165,8 @@
   },
   "active": "1971b21406c2b253",
   "lastOpenFiles": [
+    "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
+    "notes/LunarVim.md",
     "notes/bash.md",
     "notes/ra/8Bitdo/8Bitdo NES30.md",
     "notes/ra/8Bitdo/8Bitdo Zero.md",
@@ -199,8 +203,6 @@
     "notes/books/Rápido e Devagar.md",
     "notes/pensamentos negativos.md",
     "notes/Content-Security-Policy - CSP.md",
-    "notes/books/7-habitos-eficazes/Os 7 Habitos - Paradigmas da Interdependencia.md",
-    "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
     "assets/AWS Serverless Computing - event-driven architecture.png"
   ]
 }
