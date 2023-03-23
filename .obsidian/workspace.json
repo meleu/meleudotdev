@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "495c79820796b3be",
+            "id": "1971b21406c2b253",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "notes/ra/8Bitdo/8Bitdo NES30.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+                "file": "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png"
+              }
             }
           }
         ],
@@ -89,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/ra/8Bitdo/8Bitdo NES30.md"
+                "file": "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png"
               }
             }
           },
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/ra/8Bitdo/8Bitdo NES30.md",
+                "file": "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -128,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ra/8Bitdo/8Bitdo NES30.md",
+                "file": "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,10 +161,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "495c79820796b3be",
+  "active": "1971b21406c2b253",
   "lastOpenFiles": [
-    "notes/ra/8Bitdo/8Bitdo Zero.md",
+    "notes/bash.md",
     "notes/ra/8Bitdo/8Bitdo NES30.md",
+    "notes/ra/8Bitdo/8Bitdo Zero.md",
     "assets/8Bitdo NES30 power info.png",
     "notes/ra/8Bitdo/8Bitdo M30.md",
     "assets/8Bitdo M30 power info.png",
