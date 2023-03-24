@@ -63,3 +63,8 @@ formatters.setup {
 ```
 
 
+### working with `.bats` files
+
+#### formatting with shfmt
+
+#### linting with shellcheck

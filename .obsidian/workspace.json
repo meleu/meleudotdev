@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "26c91d9a78b078d4",
+        "id": "9e0abd3902b50793",
         "type": "tabs",
         "children": [
           {
-            "id": "1971b21406c2b253",
+            "id": "c899ec4a88239231",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Practical Vim/Vim Tip 30 - run normal mode commands accross a range.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c47fa654cdde7a0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/books/Practical Vim/Practical Vim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35630b94444ba0c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Vim Tips 3 and 50 - f and t for finding.md",
+                "file": "notes/LunarVim.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -112,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Practical Vim/Practical Vim.md"
+                "file": "notes/LunarVim.md"
               }
             }
           },
@@ -133,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Practical Vim/Practical Vim.md",
+                "file": "notes/LunarVim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Practical Vim/Practical Vim.md",
+                "file": "notes/LunarVim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,12 +163,15 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "c47fa654cdde7a0f",
+  "active": "c899ec4a88239231",
   "lastOpenFiles": [
+    "private/carreira/plan to go from DevOps to Dev.md",
+    "private/carreira/zazmic/talk with Elizaveta.md",
+    "private/carreira/zazmic/development.idgital.com.md",
+    "notes/books/Practical Vim/Practical Vim.md",
     "notes/LunarVim.md",
     "notes/Vim Tip 53 - delete around or change inside.md",
     "notes/Vim Tips 3 and 50 - f and t for finding.md",
-    "notes/books/Practical Vim/Practical Vim.md",
     "notes/books/Practical Vim/Vim Tip 30 - run normal mode commands accross a range.md",
     "notes/books/Practical Vim/Vim Tips 1 and 2 - the dot command.md",
     "notes/bash-tdd.md",
@@ -225,9 +203,6 @@
     "notes/http.md",
     "private/carreira/RedHat",
     "assets/http status codes.png",
-    "notes/books/O Programador Apaixonado.md",
-    "moc/books.md",
-    "notes/fundamental skills - continuous learning.md",
-    "notes/vim.md"
+    "notes/books/O Programador Apaixonado.md"
   ]
 }
