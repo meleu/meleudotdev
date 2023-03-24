@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/bash-tdd.md",
+                "file": "notes/books/Practical Vim/Vim Tip 30 - run normal mode commands accross a range.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c47fa654cdde7a0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/books/Practical Vim/Practical Vim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8327ebd96f0b45a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Vim Tip 53 - delete around or change inside.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35630b94444ba0c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Vim Tips 3 and 50 - f and t for finding.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -87,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/bash-tdd.md"
+                "file": "notes/Vim Tip 53 - delete around or change inside.md"
               }
             }
           },
@@ -108,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/bash-tdd.md",
+                "file": "notes/Vim Tip 53 - delete around or change inside.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/bash-tdd.md",
+                "file": "notes/Vim Tip 53 - delete around or change inside.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,10 +200,15 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "1971b21406c2b253",
+  "active": "8327ebd96f0b45a4",
   "lastOpenFiles": [
-    "notes/books/7-habitos-eficazes/Os 7 Habitos - Paradigmas da Interdependencia.md",
+    "notes/Vim Tips 3 and 50 - f and t for finding.md",
+    "notes/books/Practical Vim/Practical Vim.md",
+    "notes/Vim Tip 53 - delete around or change inside.md",
+    "notes/books/Practical Vim/Vim Tip 30 - run normal mode commands accross a range.md",
+    "notes/books/Practical Vim/Vim Tips 1 and 2 - the dot command.md",
     "notes/bash-tdd.md",
+    "notes/books/7-habitos-eficazes/Os 7 Habitos - Paradigmas da Interdependencia.md",
     "notes/LunarVim.md",
     "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
     "notes/bash.md",
@@ -184,9 +226,6 @@
     "notes/ra/8Bitdo",
     "assets/8Bitdo Zero manual.png",
     "notes/books/Mastering Vim Quickly.md",
-    "notes/books/Practical Vim/Vim Tip 30.md",
-    "notes/books/Practical Vim/Vim Tips 1 and 2.md",
-    "notes/books/Practical Vim/Practical Vim.md",
     "notes/books/Practical Vim",
     "notes/books/Untitled.md",
     "notes/Staircase book list.md",
@@ -201,8 +240,6 @@
     "notes/books/O Programador Apaixonado.md",
     "moc/books.md",
     "notes/fundamental skills - continuous learning.md",
-    "notes/vim.md",
-    "notes/books/Rápido e Devagar.md",
-    "notes/pensamentos negativos.md"
+    "notes/vim.md"
   ]
 }
