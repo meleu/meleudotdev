@@ -63,8 +63,13 @@ formatters.setup {
 ```
 
 
-### working with `.bats` files
+### `.bats` as bash scripts
 
-#### formatting with shfmt
+This is important to have `shfmt`, `shellcheck` and linting:
 
-#### linting with shellcheck
+```lua
+vim.filetype.add({
+  extension = { bats = "sh" },
+})
+```
+

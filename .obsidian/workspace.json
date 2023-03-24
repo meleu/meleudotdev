@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9e0abd3902b50793",
+        "id": "53024c11f5adfcb6",
         "type": "tabs",
         "children": [
           {
-            "id": "c899ec4a88239231",
+            "id": "dbbbb74a906fdf71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/LunarVim.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -86,9 +82,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/LunarVim.md"
-              }
+              "state": {}
             }
           },
           {
@@ -108,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/LunarVim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LunarVim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,13 +155,13 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "c899ec4a88239231",
+  "active": "dbbbb74a906fdf71",
   "lastOpenFiles": [
+    "notes/LunarVim.md",
     "private/carreira/plan to go from DevOps to Dev.md",
     "private/carreira/zazmic/talk with Elizaveta.md",
     "private/carreira/zazmic/development.idgital.com.md",
     "notes/books/Practical Vim/Practical Vim.md",
-    "notes/LunarVim.md",
     "notes/Vim Tip 53 - delete around or change inside.md",
     "notes/Vim Tips 3 and 50 - f and t for finding.md",
     "notes/books/Practical Vim/Vim Tip 30 - run normal mode commands accross a range.md",
