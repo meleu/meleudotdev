@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dbbbb74a906fdf71",
+            "id": "53b8ca544a824fdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/bash-ideas.md",
+                "file": "notes/books/Practical Vim/Practical Vim.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/bash-ideas.md"
+                "file": "notes/books/Practical Vim/Practical Vim.md"
               }
             }
           },
@@ -108,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/bash-ideas.md",
+                "file": "notes/books/Practical Vim/Practical Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/bash-ideas.md",
+                "file": "notes/books/Practical Vim/Practical Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,17 +162,20 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "dbbbb74a906fdf71",
+  "active": "53b8ca544a824fdf",
   "lastOpenFiles": [
+    "notes/books/Practical Vim/Vim Tip 3 and 50 - f and t for finding.md",
+    "notes/books/Practical Vim/Vim Tip 1 and 2 - the dot command.md",
+    "notes/books/Practical Vim/Vim Tip 4, 5 and 6 - tricks to use the Dot Formula.md",
+    "notes/books/Practical Vim/Vim Tip 53 - delete around or change inside.md",
+    "notes/books/Practical Vim/Vim Tip 4 - repeatable actions and how to reverse them.md",
+    "notes/books/Practical Vim/Practical Vim.md",
+    "notes/bash-ideas.md",
     "notes/LunarVim.md",
     "private/carreira/plan to go from DevOps to Dev.md",
     "private/carreira/zazmic/talk with Elizaveta.md",
     "private/carreira/zazmic/development.idgital.com.md",
-    "notes/books/Practical Vim/Practical Vim.md",
-    "notes/Vim Tip 53 - delete around or change inside.md",
-    "notes/Vim Tips 3 and 50 - f and t for finding.md",
     "notes/books/Practical Vim/Vim Tip 30 - run normal mode commands accross a range.md",
-    "notes/books/Practical Vim/Vim Tips 1 and 2 - the dot command.md",
     "notes/bash-tdd.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos - Paradigmas da Interdependencia.md",
     "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
@@ -199,10 +201,7 @@
     "notes/vim text-object cheatsheet.md",
     "private/PL.md",
     "notes/neovim.md",
-    "private/carreira/RedHat/estudar.md",
-    "notes/http.md",
     "private/carreira/RedHat",
-    "assets/http status codes.png",
-    "notes/books/O Programador Apaixonado.md"
+    "assets/http status codes.png"
   ]
 }
