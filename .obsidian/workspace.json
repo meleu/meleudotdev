@@ -11,8 +11,12 @@
             "id": "dbbbb74a906fdf71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/bash-ideas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/bash-ideas.md"
+              }
             }
           },
           {
@@ -102,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/bash-ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/bash-ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
