@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "53024c11f5adfcb6",
+        "id": "862e5d7304d44e88",
         "type": "tabs",
         "children": [
           {
-            "id": "53b8ca544a824fdf",
+            "id": "ba8d6589e8f0006a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/books/Practical Vim/Practical Vim.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -85,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/books/Practical Vim/Practical Vim.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Practical Vim/Practical Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Practical Vim/Practical Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,14 +154,16 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "53b8ca544a824fdf",
+  "active": "ba8d6589e8f0006a",
   "lastOpenFiles": [
+    "notes/ra/game-sticks.md",
+    "private/repetidor.md",
+    "notes/books/Practical Vim/Practical Vim.md",
     "notes/books/Practical Vim/Vim Tip 3 and 50 - f and t for finding.md",
     "notes/books/Practical Vim/Vim Tip 1 and 2 - the dot command.md",
     "notes/books/Practical Vim/Vim Tip 4, 5 and 6 - tricks to use the Dot Formula.md",
     "notes/books/Practical Vim/Vim Tip 53 - delete around or change inside.md",
     "notes/books/Practical Vim/Vim Tip 4 - repeatable actions and how to reverse them.md",
-    "notes/books/Practical Vim/Practical Vim.md",
     "notes/bash-ideas.md",
     "notes/LunarVim.md",
     "private/carreira/plan to go from DevOps to Dev.md",
@@ -199,8 +193,6 @@
     "notes/Staircase book list.md",
     "private/carreira/Staircase/Staircase Virtues - Slab.md",
     "notes/vim text-object cheatsheet.md",
-    "private/PL.md",
-    "notes/neovim.md",
     "private/carreira/RedHat",
     "assets/http status codes.png"
   ]
