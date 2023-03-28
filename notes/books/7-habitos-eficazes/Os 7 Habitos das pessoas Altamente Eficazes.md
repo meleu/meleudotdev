@@ -49,5 +49,3 @@ Durante a leitura deste livro eu percebi que já tive contato com outros que par
 - Hábito 3: primeiro o mais importante
     - [[Personal Kanban]]
 
-
-

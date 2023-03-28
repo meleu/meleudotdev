@@ -178,5 +178,7 @@
       ],
       "key": "C"
     }
-  ]
+  ],
+  "app:toggle-left-sidebar": [],
+  "app:toggle-right-sidebar": []
 }

@@ -7,8 +7,6 @@ dg-permalink: books
 ## currently reading
 
 - ⭐ [[Rápido e Devagar]]
-- ⭐ [[O Programador Apaixonado]]
-- [[Pense e Enriqueca]]
 
 ---
 
@@ -28,11 +26,13 @@ Maybe this list can tell a bit about who I am.
 
 - ⭐ [[Bom Demais Para Ser Ignorado]]
 - ⭐ [[O Valor do Amanha]]
+- ⭐ [[O Programador Apaixonado]]
+- [[Clean Coder]]
 
-
-### unfunished
+### unfinished
 
 - [[Startup Enxuta]] (portuguese version of "Lean Startup")
+- [[Pense e Enriqueca]]
 
 
 

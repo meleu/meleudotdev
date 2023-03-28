@@ -23,7 +23,7 @@ Now I can say: "I'm looking for the heuristics to solve this problem."
 
 ### 2.3 Common Software Metaphors
 
-#### ✍️ Software Penmansip: Writing Code
+#### ✍️ Software Penmanship: Writing Code
 
 I don't agree with this understanding from the author:
 
@@ -99,4 +99,4 @@ It generally costs less to use pre-built components than coding all of them from
 
 #### Combining Metaphors
 
-> Since metaphors are heuristic, rahter than algorithmic, they are not mutually exclusive. Use whatever metaphor (or combinations) that stimulates your  own thinking or communicates well with others on your team.
+> Since metaphors are heuristic, rather than algorithmic, they are not mutually exclusive. Use whatever metaphor (or combinations) that stimulates your  own thinking or communicates well with others on your team.

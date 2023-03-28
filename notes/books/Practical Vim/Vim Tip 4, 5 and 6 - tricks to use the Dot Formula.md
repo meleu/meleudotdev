@@ -4,8 +4,7 @@ dg-publish: true
 # Vim Tip 4, 5 and 6
 [[Practical Vim]]
 
-## Vim Tip 4
-
+## Vim Tip 4 - act, repeat, reverse
 
 Not much to learn here...
 
