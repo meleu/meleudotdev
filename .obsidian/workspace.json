@@ -11,8 +11,12 @@
             "id": "ba8d6589e8f0006a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/books/Practical Vim/Practical Vim.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -81,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/books/Practical Vim/Practical Vim.md"
+              }
             }
           },
           {
@@ -101,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/books/Practical Vim/Practical Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/books/Practical Vim/Practical Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
