@@ -32,20 +32,23 @@ Collecting useful vim tips...
 4. Visual Mode
     - [[Vim Tip 20, 21, 22, 23 - visual mode basics]]
     - [[Vim Tip 24, 25, 26 - visual block tricks]]
-1. Command-Line Mode
-    - ⭐ [[Vim Tip 30 - run normal mode commands accross a range]]
-2. Open Files and Save Them to Disk
-3. Navigate Inside Files with Motions
+5. Command-Line Mode
+    - ⭐ [[Vim Tip 30 - run normal mode commands across a range]]
+
+---
+
+6. Open Files and Save Them to Disk
+7. Navigate Inside Files with Motions
     - [[Vim Tip 53 - delete around or change inside]]
-4. Navigate Between Files with Jumps
-5. Copy and Paste
-6. Macros
-7. Matching Patterns and Literals
-8. Search
-9. Substitution
-10. Global Commands
-11. Index and Navigate Source Code with ctags
-12. Compile Code and Navigate Errors with the Quickfix List
-13. Search Project-Wide with grep, vimgrep, and Others
-14. Dial X for Autocompletion
-15. Find and Fix Typos with Vim's Spell Checker
+8. Navigate Between Files with Jumps
+9. Copy and Paste
+10. Macros
+11. Matching Patterns and Literals
+12. Search
+13. Substitution
+14. Global Commands
+15. Index and Navigate Source Code with ctags
+16. Compile Code and Navigate Errors with the Quickfix List
+17. Search Project-Wide with grep, vimgrep, and Others
+18. Dial X for Autocompletion
+19. Find and Fix Typos with Vim's Spell Checker

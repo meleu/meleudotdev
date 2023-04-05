@@ -13,4 +13,4 @@ The concept that "**The dot command is a micro macro**" is useful.
     - [[Vim Tip 9]]
     - [[Vim Tip 24, 25, 26 - visual block tricks]]
 - More agility when using dot command:
-    - [[Vim Tip 30 - run normal mode commands accross a range]]
+    - [[Vim Tip 30 - run normal mode commands across a range]]
