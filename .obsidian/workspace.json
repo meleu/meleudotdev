@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "f99a2cb17bd3cd41",
+            "id": "c52084ee21780f77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Practical Vim/Vim Tip 30 - run normal mode commands across a range.md",
-                "mode": "preview",
+                "file": "notes/books/Scrum - A arte de fazer o dobro do trabalho na metade do tempo.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Practical Vim/Vim Tip 30 - run normal mode commands across a range.md"
+                "file": "notes/books/Scrum - A arte de fazer o dobro do trabalho na metade do tempo.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Practical Vim/Vim Tip 30 - run normal mode commands across a range.md",
+                "file": "notes/books/Scrum - A arte de fazer o dobro do trabalho na metade do tempo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Practical Vim/Vim Tip 30 - run normal mode commands across a range.md",
+                "file": "notes/books/Scrum - A arte de fazer o dobro do trabalho na metade do tempo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,8 +176,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "f99a2cb17bd3cd41",
+  "active": "c52084ee21780f77",
   "lastOpenFiles": [
+    "log/2023-03.md",
+    "notes/books/Scrum - A arte de fazer o dobro do trabalho na metade do tempo.md",
+    "notes/books/Practical Vim/Vim Tip 30 - run normal mode commands across a range.md",
     "notes/books/Practical Vim/Practical Vim.md",
     "notes/git squashing commits.md",
     "notes/Vim Tip 24, 25, 26 - visual block tricks.md",
@@ -203,9 +206,6 @@
     "notes/books/3. Saying Yes.md",
     "notes/books/2. Saying No.md",
     "notes/books/main takeaways.md",
-    "moc/books.md",
-    "notes/books/As Intermitencias da Morte.md",
-    "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
     "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
     "assets/8Bitdo NES30 power info.png",
     "assets/8Bitdo M30 power info.png",
