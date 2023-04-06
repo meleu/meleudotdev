@@ -14,7 +14,11 @@ Download the files to practice here:
 
 Collecting useful vim tips...
 
-> Vim is optimized for repetition. Its efficiency stems from the way it tracks our most recent actions. We can always replay the last change with a single keystroke . Powerful as this sounds, it's less useless unless we learn to craft our actions so that they perform useful unit of work when replayed. Mastering this concept is the key to becoming effective with Vim.
+For better practice, start vim without any configuration:
+```shell
+vim -u NONE -N
+```
+
 
 1. The Vim Way
     - [[Vim Tip 1 and 2 - the dot command]]
