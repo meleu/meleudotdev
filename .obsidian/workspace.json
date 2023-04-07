@@ -10,16 +10,31 @@
           {
             "id": "f2d43a18a7d8918a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/vim-macros.md",
+                "file": "notes/vim as IDE.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0513ea787fdaa9dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/vimgolf.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -87,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/vim-macros.md"
+                "file": "notes/vimgolf.md"
               }
             }
           },
@@ -108,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/vim-macros.md",
+                "file": "notes/vimgolf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/vim-macros.md",
+                "file": "notes/vimgolf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,8 +178,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "f2d43a18a7d8918a",
+  "active": "0513ea787fdaa9dd",
   "lastOpenFiles": [
+    "notes/vim as IDE.md",
+    "notes/vimgolf.md",
+    "notes/vim-macros.md",
     "notes/books/Scrum - A arte de fazer o dobro do trabalho na metade do tempo.md",
     "notes/vim-kata.md",
     "notes/books/Practical Vim/Practical Vim.md",
@@ -190,9 +208,6 @@
     "notes/books/8. Testing Strategies.md",
     "notes/books/7. Acceptance Testing.md",
     "notes/books/6. Practice.md",
-    "notes/books/5. Test Driven Development.md",
-    "notes/books/4. Coding.md",
-    "notes/books/3. Saying Yes.md",
     "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
     "assets/8Bitdo NES30 power info.png",
     "assets/8Bitdo M30 power info.png",
