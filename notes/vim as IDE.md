@@ -9,8 +9,9 @@ In this video it shows kickstart.nvim: <https://youtu.be/stqUbv-5u2s>
 
 <https://github.com/nvim-lua/kickstart.nvim>
 
-install ripgrep
+This playlist is also useful (long though): <https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ>
 
+And this one from ThePrimeagen: <https://youtu.be/w7i4amO_zaE>
 
 ### backup your neovim configs
 

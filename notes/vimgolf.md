@@ -5,6 +5,8 @@ dg-publish: true
 
 configurations used by <https://vimgolf.com>.
 
+See also: <https://github.com/yilkalargaw/vim-golf-challenges>
+
 `vimgolf.vim`
 ```vim
 " http://vimdoc.sourceforge.net/htmldoc/starting.html#vimrc
