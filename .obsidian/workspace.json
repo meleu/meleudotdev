@@ -11,8 +11,12 @@
             "id": "f2d43a18a7d8918a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/vim-macros.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/vim-macros.md"
+              }
             }
           },
           {
@@ -102,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/vim-macros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/vim-macros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,10 +165,10 @@
   },
   "active": "f2d43a18a7d8918a",
   "lastOpenFiles": [
+    "notes/books/Scrum - A arte de fazer o dobro do trabalho na metade do tempo.md",
     "notes/vim-kata.md",
     "notes/books/Practical Vim/Practical Vim.md",
     "notes/vim.md",
-    "notes/books/Scrum - A arte de fazer o dobro do trabalho na metade do tempo.md",
     "log/2023-03.md",
     "notes/books/Practical Vim/Vim Tip 30 - run normal mode commands across a range.md",
     "notes/git squashing commits.md",
