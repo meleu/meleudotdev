@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/vimgolf.md",
+                "file": "notes/bash-tdd.md",
                 "mode": "preview",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/vimgolf.md"
+                "file": "notes/bash-tdd.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/vimgolf.md",
+                "file": "notes/bash-tdd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/vimgolf.md",
+                "file": "notes/bash-tdd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,13 +165,15 @@
   },
   "active": "c23cc22496c7c305",
   "lastOpenFiles": [
+    "notes/bash.md",
+    "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
+    "notes/books/Practical Vim/Practical Vim.md",
+    "notes/vimgolf.md",
     "notes/LunarVim.md",
     "notes/vim as IDE.md",
-    "notes/vimgolf.md",
     "notes/vim-macros.md",
     "notes/books/Scrum - A arte de fazer o dobro do trabalho na metade do tempo.md",
     "notes/vim-kata.md",
-    "notes/books/Practical Vim/Practical Vim.md",
     "notes/vim.md",
     "log/2023-03.md",
     "notes/books/Practical Vim/Vim Tip 30 - run normal mode commands across a range.md",
@@ -191,8 +193,6 @@
     "notes/books/11. Pressure.md",
     "notes/books/10. Estimation.md",
     "notes/books/9. Time Management.md",
-    "notes/books/8. Testing Strategies.md",
-    "notes/books/7. Acceptance Testing.md",
     "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
     "assets/8Bitdo NES30 power info.png",
     "assets/8Bitdo M30 power info.png",
