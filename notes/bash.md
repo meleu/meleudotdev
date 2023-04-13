@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # bash
 
+check this: <https://stackoverflow.com/questions/78497/design-patterns-or-best-practices-for-shell-scripts/739034#739034>
+
 ## references
 
 - <https://bertvv.github.io/cheat-sheets/Bash.html> - applying principles of Clean Code in bash scripts

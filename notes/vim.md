@@ -263,3 +263,15 @@ Questions to be answered:
     - Answer: <https://github.com/christoomey/vim-sort-motion>
 
 
+| move | meaning | move | meaning |
+| ---- | ------- | ---- | ------- |
+|      |         |      |         |
+
+
+
+|------|----
+| `dw` | to the next word | `dd` - whole current line
+  - `D`  - to the end of line (alias for `d$`)
+  - `d}` - to the end of paragraph
+  - `d)` - to the beginning of next sentence
+  - `dt{char}`/`dT{char}` - until the next/previous {char}

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/bash-tdd.md",
-                "mode": "preview",
+                "file": "notes/vim.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/bash-tdd.md"
+                "file": "notes/vim.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/bash-tdd.md",
+                "file": "notes/vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/bash-tdd.md",
+                "file": "notes/vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +166,8 @@
   "active": "c23cc22496c7c305",
   "lastOpenFiles": [
     "notes/bash.md",
+    "notes/bash-ideas.md",
+    "notes/bash-tdd.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
     "notes/books/Practical Vim/Practical Vim.md",
     "notes/vimgolf.md",
@@ -191,8 +193,6 @@
     "notes/books/13. Teams and Projects.md",
     "notes/books/12. Collaboration.md",
     "notes/books/11. Pressure.md",
-    "notes/books/10. Estimation.md",
-    "notes/books/9. Time Management.md",
     "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
     "assets/8Bitdo NES30 power info.png",
     "assets/8Bitdo M30 power info.png",
