@@ -261,17 +261,10 @@ Questions to be answered:
 - How to open a specific wiki from command line? (I want to open my-notes with an alias like `mynotes`)
 - How to sort an unordered list alphabetically?
     - Answer: <https://github.com/christoomey/vim-sort-motion>
+| move     | meaning                 | move     | meaning                 |
+| -------- | ----------------------- | -------- | ----------------------- |
+| dw       | to the next word        | dd       | whole current line      |
+| D        | to the end of line      | dG       | to the end of file      |
+| d)       | to begin. next sentence | d}       | to the end of paragraph |
+| dt{char} | until the next {char}   | dT{char} | until the prev. {char}  |
 
-
-| move | meaning | move | meaning |
-| ---- | ------- | ---- | ------- |
-|      |         |      |         |
-
-
-
-|------|----
-| `dw` | to the next word | `dd` - whole current line
-  - `D`  - to the end of line (alias for `d$`)
-  - `d}` - to the end of paragraph
-  - `d)` - to the beginning of next sentence
-  - `dt{char}`/`dT{char}` - until the next/previous {char}
