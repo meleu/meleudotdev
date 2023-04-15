@@ -3,7 +3,7 @@ dg-publish: true
 ---
 bnegao: adminitir que o que tú crítica, é bem parecido com vc
 
-o maior perigo dos livros de auto-ajuda
+o maior perigo dos livros de "melhoramento pessoal" (aka auto-ajuda): é comum as pessoas utilizarem o que aprendem nestes livros para julgar o comportamento alheio, e não o próprio.
 
 from [[Building a Second Brain]]:
 

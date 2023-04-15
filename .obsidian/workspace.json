@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repos/meleu.sh/TODO.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "repos/meleu.sh/TODO.md"
+                "file": "README.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "repos/meleu.sh/TODO.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repos/meleu.sh/TODO.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +165,14 @@
   },
   "active": "c23cc22496c7c305",
   "lastOpenFiles": [
+    "notes/books/main takeaways.md",
+    "notes/books/Clean Coder.md",
+    "atomic-ideas/temos mais facilidade de ver o erro nos outros.md",
+    "README.md",
+    "notes/books/Bom Demais Para Ser Ignorado.md",
+    "moc/books.md",
+    "about.md",
+    "repos/meleu.sh/TODO.md",
     "notes/vim.md",
     "notes/bash.md",
     "notes/bash-ideas.md",
@@ -185,14 +193,6 @@
     "notes/books/Practical Vim/Vim Tip 7 - normal mode.md",
     "assets/Vim Tip 24, 25 - visual block - non-rectangular.png",
     "assets/Vim Tip 24 - visual block - table.png",
-    "notes/books/Practical Vim/Vim Tip 20, 21, 22, 23 - visual mode basics.md",
-    "moc/articles.md",
-    "notes/books/Clean Coder.md",
-    "notes/books/1. Professionalism.md",
-    "notes/books/14. Mentoring, Apprenticeship, and Craftmanship.md",
-    "notes/books/13. Teams and Projects.md",
-    "notes/books/12. Collaboration.md",
-    "notes/books/11. Pressure.md",
     "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
     "assets/8Bitdo NES30 power info.png",
     "assets/8Bitdo M30 power info.png",
