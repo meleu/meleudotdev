@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/vim.md",
+                "file": "repos/meleu.sh/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/vim.md"
+                "file": "repos/meleu.sh/TODO.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/vim.md",
+                "file": "repos/meleu.sh/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/vim.md",
+                "file": "repos/meleu.sh/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +165,7 @@
   },
   "active": "c23cc22496c7c305",
   "lastOpenFiles": [
+    "notes/vim.md",
     "notes/bash.md",
     "notes/bash-ideas.md",
     "notes/bash-tdd.md",
@@ -176,7 +177,6 @@
     "notes/vim-macros.md",
     "notes/books/Scrum - A arte de fazer o dobro do trabalho na metade do tempo.md",
     "notes/vim-kata.md",
-    "notes/vim.md",
     "log/2023-03.md",
     "notes/books/Practical Vim/Vim Tip 30 - run normal mode commands across a range.md",
     "notes/git squashing commits.md",
