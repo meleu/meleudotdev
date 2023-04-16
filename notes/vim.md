@@ -7,6 +7,11 @@ dg-publish: true
 - [[neovim]]
 - [[vim-seven-habits-of-effective-text-editing]]
 - [[vim-macros]]
+- [[LunarVim]]
+- books
+    - [[Practical Vim]]
+    - [[Learning the vi and vim Editors]]
+    - [[Mastering Vim Quickly]]
 
 ## things to do after vimtutor
 

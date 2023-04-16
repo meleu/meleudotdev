@@ -222,7 +222,7 @@ puts "there are #{produce[:oranges]} oranges in the fridge."
 
 ### Conditionals
 
-Common conditional operators: `==`, `!=`, `>`, `>=`, `<`, `<=`.
+Common conditional operators: ==, `!=`, `>`, `>=`, `<`, `<=`.
 
 Logical AND: `&&`
 

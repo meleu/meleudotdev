@@ -10,16 +10,31 @@
           {
             "id": "c23cc22496c7c305",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fbe2e9620c36aa2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/learning/RSpec - udemy.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -49,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "médico",
+                "query": "#4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/learning/RSpec - udemy.md"
               }
             }
           },
@@ -108,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/learning/RSpec - udemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/learning/RSpec - udemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,34 +179,37 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "c23cc22496c7c305",
+  "active": "fbe2e9620c36aa2b",
   "lastOpenFiles": [
-    "notes/books/main takeaways.md",
-    "notes/books/Clean Coder.md",
-    "atomic-ideas/temos mais facilidade de ver o erro nos outros.md",
     "README.md",
-    "notes/books/Bom Demais Para Ser Ignorado.md",
-    "moc/books.md",
+    "notes/docker.md",
+    "notes/videos/When To Use Microservices - Sam Newman.md",
+    "repos/meleu.sh/content/posts/parametros.md",
+    "notes/videos/Microsservicos muito alem da teoria - Andre Nobre.md",
     "about.md",
-    "repos/meleu.sh/TODO.md",
-    "notes/vim.md",
-    "notes/bash.md",
-    "notes/bash-ideas.md",
-    "notes/bash-tdd.md",
-    "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
+    "private/about.md",
+    "notes/videos/Design Micro Service Architectures the Right Way.md",
+    "notes/books/Os 5 Desafios das Equipes.md",
+    "notes/videos/Pragmatic Microservices - Randy Shoup.md",
+    "notes/books/Mastering Vim Quickly.md",
     "notes/books/Practical Vim/Practical Vim.md",
-    "notes/vimgolf.md",
-    "notes/LunarVim.md",
-    "notes/vim as IDE.md",
-    "notes/vim-macros.md",
-    "notes/books/Scrum - A arte de fazer o dobro do trabalho na metade do tempo.md",
-    "notes/vim-kata.md",
-    "log/2023-03.md",
-    "notes/books/Practical Vim/Vim Tip 30 - run normal mode commands across a range.md",
-    "notes/git squashing commits.md",
-    "notes/Vim Tip 24, 25, 26 - visual block tricks.md",
-    "notes/Vim Tip 12 - vim language.md",
-    "notes/books/Practical Vim/Vim Tip 7 - normal mode.md",
+    "notes/books/clean-code/Clean Code.md",
+    "now.md",
+    "assets/Pasted image 20210714164825.png",
+    "moc/articles.md",
+    "moc/artigos.md",
+    "uses.md",
+    "assets/megameleu.png",
+    "private/domain.md",
+    "assets/domain-old-config.png",
+    "repos/meleu.sh/content/posts/aspas-sempre.md",
+    "repos/meleu.sh/content/posts/coronavirus.md",
+    "notes/gitlab-ci-rules.md",
+    "notes/nginx.md",
+    "notes/Ruby in 100 Minutes.md",
+    "notes/vimwiki.md",
+    "notes/bug-report.md",
+    "notes/vim.md",
     "assets/Vim Tip 24, 25 - visual block - non-rectangular.png",
     "assets/Vim Tip 24 - visual block - table.png",
     "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
@@ -198,9 +217,6 @@
     "assets/8Bitdo M30 power info.png",
     "assets/8Bitdo M30 android.png",
     "assets/8Bitdo M30 buttons.png",
-    "assets/8Bitdo SN30 Pro power info.png",
-    "assets/8Bitdo SN30 Pro buttons.png",
-    "assets/8Bitdo SN30 Pro buttons.png",
     "notes/ra/8Bitdo",
     "notes/books/Practical Vim",
     "private/carreira/RedHat"

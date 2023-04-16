@@ -9,12 +9,13 @@ My current focus is to integrate TDD techniques in my workflow. Have it as a sec
 ## Frequent Ideas
 
 - Managing complexity: the software's primary technical imperative. ([[Code Complete]])
-- How to encourage co-workers to care about the quality of their work, despite business pressure? ([[Clean Code]])
+- How to encourage co-workers to care about the quality of their work, despite business pressure? ([[Clean Coder]])
 
 
 ## Studying
 
 - [x] [[Rust]]
+- [ ] advanced usage of [[vim]]
 - [ ] [[RSpec - udemy]]
 - [ ] [[Fundamentals of TDD - upcase]]
 

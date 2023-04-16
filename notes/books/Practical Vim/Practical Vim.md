@@ -8,6 +8,8 @@ author: Drew Neil
 
 # Practical Vim
 
+#books/tech 
+
 Download the files to practice here:
 - <https://pragprog.com/titles/dnvim2/practical-vim-second-edition/>
 - <https://media.pragprog.com/titles/dnvim2/code/dnvim2-code.zip>

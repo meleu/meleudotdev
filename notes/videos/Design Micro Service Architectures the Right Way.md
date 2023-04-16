@@ -5,7 +5,7 @@ dg-publish: true
 
 ## Misconceptions
 
-### Misconception #1
+### Misconception \#1
 
 Microservices enable our teams to choose the best programming languages and frameworks for their tasks.
 
@@ -16,7 +16,7 @@ We'll demonstrate just how expensive this is.
 Team size and investment are critical inputs.
 
 
-### Misconception #2
+### Misconception \#2
 
 Code Generation is Evil
 
@@ -29,7 +29,7 @@ What's important is creating a defined schema that is 100% trusted.
 We'll demonstrate one technique leveraging code generation.
 
 
-### Misconception #3
+### Misconception \#3
 
 The event log must be the source of truth.
 
@@ -40,7 +40,7 @@ Events are critical parts of an interface.
 But it's okay for services to be the system of record for their resources.
 
 
-### Misconception #4
+### Misconception \#4
 
 Developers can maintain no more than 3 services each.
 

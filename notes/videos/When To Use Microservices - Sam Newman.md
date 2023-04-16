@@ -18,7 +18,7 @@ What can microservices achitectures give you?
 - Limit the "blast radius" of failure
 
 
-**Takeaway #1:**
+**Takeaway \#1:**
 
 > Our industry tends to focus on tech instead of the outcome. One should use microservices as a means to obtain a desired outcome rather than for the sake of using a new technology.
 
@@ -29,7 +29,7 @@ Martin Fowler: Your default option should be not to use microservices, unless yo
 Sam Newman: Microservices are not an on/off switch.
 
 
-**Takeaway #2:**
+**Takeaway \#2:**
 
 > Microservices shouldn't be the default option. If you think a service architecture could help, try it with one of the modules from a very simple monolith typology and let it evolve from there.
 
@@ -48,7 +48,7 @@ Sam Newman:
 
 ---
 
-**Takeaway #4:**
+**Takeaway \#4:**
 
 > You can avoid a distributed monolith by:
 > - Creating a deployment mechanism.
@@ -58,7 +58,7 @@ Sam Newman:
 
 ---
 
-**Takeaway #5:**
+**Takeaway \#5:**
 
 > You should strive for independent deployment because:
 > - It's easier to limit the impact of each release when using microservices.
@@ -72,7 +72,7 @@ The way to separete team in distinct groups and reduce the coordination effort i
 
 Modules within a monolith system should work better than they do. We find ways to violate these modules. When you make that service a process boundary, violating those things becomes really painful
 
-**Takeaway #6:**
+**Takeaway \#6:**
 
 > We tend to violate monolith architecture by not respecting the modules. Breaking them into services makes it harder to do so.
 
@@ -84,7 +84,7 @@ After extracting the microservice you need to understand what part of the old da
 
 The database chapter is the biggest one in the book because there are so many difficulties that emerge in that space.
 
-**Takeaway #7:**
+**Takeaway \#7:**
 
 > A lot of the complexity of breaking complex systems lies in the data. After extracting the microservice you need to understand what part of the old database this system uses.
 
@@ -99,7 +99,7 @@ There has to be a willingness to change as an organization if you want to make t
 
 Microservice architectures will very rarely save you money. They might help you to make more money, but it'll cost you more money in the short term.
 
-**Takeaway #8:**
+**Takeaway \#8:**
 
 > There has to be a willingness to change as an organization if you want to make the most ouf ot using microservices.
 

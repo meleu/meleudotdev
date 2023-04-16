@@ -56,7 +56,7 @@ Since I put a lot of effort into the [RetroAchievements](https://retroachievemen
 
 - [The SEGA Lounge - RetroAchievements with meleu](https://www.thesegalounge.com/133-retroachievements/)
 - [RAPodcast Episode 5 - meleu](https://youtu.be/49vgbPt9MWA)
-- [RA Talks #4 - meleu](https://youtu.be/XtXbugukhAU) (in Portuguese)
+- [RA Talks \#4 - meleu](https://youtu.be/XtXbugukhAU) (in Portuguese)
 
 ---
 

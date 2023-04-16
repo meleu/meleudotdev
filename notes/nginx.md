@@ -567,7 +567,7 @@ location /logo {
 }
 ```
 
-Isso fará que quando o cliente requisitar `/logo`, o nginx vai tentar encontrar `/path/to/html/images/logo.png` se obtiver sucesso esse arquivo será retornado, em caso de falha o nginx vai tentar o(s) arquivo(s) seguinte(s). Se o último argumento começa com `=`, então o que vem a seguir é um HTTP status code (normalmente 404).
+Isso fará que quando o cliente requisitar `/logo`, o nginx vai tentar encontrar `/path/to/html/images/logo.png` se obtiver sucesso esse arquivo será retornado, em caso de falha o nginx vai tentar o(s) arquivo(s) seguinte(s). Se o último argumento começa com =, então o que vem a seguir é um HTTP status code (normalmente 404).
 
 **OBSERVAÇÃO**: o último argumento do `try_files` sempre se comporta como uma URI passada para um `rewrite`. Ou seja, o último argumento será reavaliado pelo nginx como se fosse uma requisição naquela URI (ou seja, não necessariamente será um arquivo dentro de `root`).
 

@@ -16,7 +16,7 @@ dg-publish: true
 
 > Se você tem um desafio que não se refere a algum destes 4 itens, você não precisa de microsserviços. Você não precisa arcar com a complexidade que uma arquitetura de microsserviços traz.
 
-### 05:15 - #2 O que é micro?
+### 05:15 - \#2 O que é micro?
 
 > O "micro" na definição de microsserviços é uma "pegadinha". Não acreditem nessa história de microsserviço só faz uma coisa. (...) Muito relacionado com o conceito de Domain Driven Design (Eric Evans).
 
@@ -31,12 +31,12 @@ dg-publish: true
     - process abstraction
 
 
-### 10:22 - #3 Utilizar a melhor tecnologia para o cenário
+### 10:22 - \#3 Utilizar a melhor tecnologia para o cenário
 
 > Você pode usar tecnologias diversas, mas isso tem um custo. Não é barato você ter mão de obra com conhecimento tão diversificado, infraestrutura é um tópico complexo, e é difícil achar profissionais tão variados no mercado.
 
 
-### 13:40 - #4 Cuidados no desenvolvimento
+### 13:40 - \#4 Cuidados no desenvolvimento
 
 - **Pontos de atenção:**
     - não crie microsserviços para resolver problemas de tecnologia (e sim para resolver problemas de negócio)
@@ -45,7 +45,7 @@ dg-publish: true
     - cache
 
 
-### 18:10 - #5 Teste, por favor. É sério.
+### 18:10 - \#5 Teste, por favor. É sério.
 
 Definir uma meta de cobertura de código mínima.
 
@@ -54,7 +54,7 @@ Testes de navegação (ex.: PhantomJS).
 Faça testes de carga com frequência (ex.: BlazeMeter, Load Testing do Azure).
 
 
-### 21:25 - #6 Monitoramento
+### 21:25 - \#6 Monitoramento
 
 Não tem como desenvolver microsserviços e abrir mão do monitoramento.
 
@@ -67,12 +67,12 @@ Não tem como desenvolver microsserviços e abrir mão do monitoramento.
 Transaction flow - fornecido pelo dynatrace.
 
 
-### 24:50 - #7 API Management
+### 24:50 - \#7 API Management
 
 Precisamos ter uma governançla muito bem definida.
 
 
-### 26:10 - #8 API Gateway
+### 26:10 - \#8 API Gateway
 
 Vocês irão precisar de um gateway. Não tem como fugir disso.
 
@@ -84,7 +84,7 @@ Vocês irão precisar de um gateway. Não tem como fugir disso.
     - ??? - Microsoft Azure
  
 
-### 29:07 - #9 Vá devagar, aprenda.
+### 29:07 - \#9 Vá devagar, aprenda.
 
 - Pontos que a gente se deu mal:
     - performance

@@ -8,6 +8,8 @@ author: Jovica Ilic
 
 # Mastering Vim Quickly
 
+#books/tech 
+
 [book's website](https://jovicailic.org/mastering-vim-quickly/)
 
 [TOC]

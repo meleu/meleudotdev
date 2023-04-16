@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # Testing Ruby with RSpec: The Complete Guide
 
+#ruby
+
 - <https://www.udemy.com/course/testing-ruby-with-rspec>
 
 [TOC]

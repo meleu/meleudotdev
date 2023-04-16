@@ -76,9 +76,9 @@ jobname:
     - (none) - default behavior
 - operators:
     - `$VAR_NAME` - true if non-empty
-    - `==`
+    - ==
     - `!=`
-    - `=~` - equals regex
+    - =~ - equals regex
     - `!~` - not equals regex
     - `&&`
     - `||`

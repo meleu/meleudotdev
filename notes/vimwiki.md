@@ -33,7 +33,7 @@ _[number] refers to the wiki number, set by the order in your vimrc. The default
 ### Editing shortcuts
 
 - `<C-Space>` - toggle list item on/off
-- `=`	- add header level
+- =	- add header level
 - `-`	- remove header level
 - `+`	- create/decorate links
 - `glm`	- increase indent of list item

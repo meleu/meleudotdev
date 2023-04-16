@@ -6,23 +6,31 @@ dg-show-toc: false
 ---
 # Hi, I'm meleu! 👋
 
+<div style="text-align: center">
+  <img src="https://github.com/meleu.png?size=120" alt="avatar">
+</div>
+
 I'm a Software Engineer from Brazil (currently working in the DevOps field).
 
-This is my 🌱 [[digital garden]], therefore most of the contents is not "finished", but evolving over time.
+This is my 🌱 [[digital garden]]. Most of the contents is not "finished", but evolving over time.
 
-I believe that **writing is thinking**, so the notes here are written to aid my thinking, learning and creating. I keep them public because [learning in public](https://www.swyx.io/learn-in-public/) helps me to learn faster.
+I believe that **writing is thinking**, therefore the notes here exist to to aid my thinking, learning and creating. I keep them public because [learning in public](https://www.swyx.io/learn-in-public/) helps me to learn faster.
 
-There are also some things that might be interesting to you, for example:
+Here are also some things that might be interesting to you:
 
 - 🧑‍💻 information [[about]] me.
 - 📰 some [[articles]] I write about nerdy things (sometimes in [[artigos|portuguese]]).
-- 📚 which [[books]] I've been reading (tech, fiction, non-fiction, whatever gets my interest).
-- ⌛ what I am focused on [[now]].
+- 📚 which [[books]] I've been reading ([[books-tech|tech]], [[books-fiction|fiction]], or [[books-nonfiction|non-fiction]]).
 - 🧰 the [[uses|tools I use]] in my day-to-day life.
+- ⌛ what I am (trying to) focus on [[now]].
 
 If you're curious enough to explore this garden, keep in mind that it can be a bilingual experience (English and Portuguese).
 
-- **See also: <https://meleu.sh>** (in Portuguese)
+Other places you can find me:
+
+- <https://meleu.sh> (in Portuguese)
+- [Github](https://github.com/meleu)
+- [LinkedIn](https://www.linkedin.com/in/meleu/)
 
 ---
 
@@ -30,7 +38,7 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 
 ```dataview
 TABLE dateformat(file.mtime, "yyyy-MM-dd - HH:mm") AS "Last modified"
-FROM -"private"
+FROM -"private" and -"repos" and -"templates"
 SORT file.mtime DESC
-LIMIT 20
+LIMIT 15
 ```
