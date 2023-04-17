@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Practical Vim/Practical Vim.md",
-                "mode": "preview",
+                "file": "notes/zsh.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Practical Vim/Practical Vim.md"
+                "file": "notes/zsh.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Practical Vim/Practical Vim.md",
+                "file": "notes/zsh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Practical Vim/Practical Vim.md",
+                "file": "notes/zsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +166,8 @@
   },
   "active": "69a4602d20d86574",
   "lastOpenFiles": [
+    "notes/books/Practical Vim/Practical Vim.md",
+    "notes/zsh.md",
     "README.md",
     "notes/learning/RSpec - udemy.md",
     "notes/docker.md",
@@ -178,7 +180,6 @@
     "notes/books/Os 5 Desafios das Equipes.md",
     "notes/videos/Pragmatic Microservices - Randy Shoup.md",
     "notes/books/Mastering Vim Quickly.md",
-    "notes/books/Practical Vim/Practical Vim.md",
     "notes/books/clean-code/Clean Code.md",
     "now.md",
     "assets/Pasted image 20210714164825.png",
@@ -194,7 +195,6 @@
     "notes/nginx.md",
     "notes/Ruby in 100 Minutes.md",
     "notes/vimwiki.md",
-    "notes/bug-report.md",
     "assets/Vim Tip 24, 25 - visual block - non-rectangular.png",
     "assets/Vim Tip 24 - visual block - table.png",
     "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
