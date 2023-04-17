@@ -3,6 +3,7 @@ dg-publish: true
 dg-home: true
 dg-show-backlinks: false
 dg-show-toc: false
+dg-show-local-graph: false
 ---
 # Hi, I'm meleu! 👋
 

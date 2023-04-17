@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "now.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "now.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "now.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,9 +164,9 @@
   },
   "active": "69a4602d20d86574",
   "lastOpenFiles": [
+    "README.md",
     "repos/traducoes/README.md",
     "now.md",
-    "README.md",
     "uses.md",
     "moc/monthly.md",
     "notes/ra/megaman.md",
