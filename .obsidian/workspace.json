@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-17.md",
+                "file": "log/2023-01.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-17.md"
+                "file": "log/2023-01.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-17.md",
+                "file": "log/2023-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-17.md",
+                "file": "log/2023-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,8 +164,11 @@
   },
   "active": "69a4602d20d86574",
   "lastOpenFiles": [
-    "notes/learning/le-wagon/00-prepwork.md",
+    "moc/monthly.md",
+    "moc/books-fiction.md",
+    "moc/books.md",
     "notes/learning/le-wagon/log/2023-04-17.md",
+    "notes/learning/le-wagon/00-prepwork.md",
     "notes/learning/le-wagon/log",
     "notes/zsh.md",
     "notes/books/Practical Vim/Practical Vim.md",
@@ -191,9 +194,6 @@
     "private/domain.md",
     "assets/domain-old-config.png",
     "repos/meleu.sh/content/posts/aspas-sempre.md",
-    "repos/meleu.sh/content/posts/coronavirus.md",
-    "notes/gitlab-ci-rules.md",
-    "notes/nginx.md",
     "assets/Vim Tip 24, 25 - visual block - non-rectangular.png",
     "assets/Vim Tip 24 - visual block - table.png",
     "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
