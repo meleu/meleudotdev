@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "now.md",
+                "file": "notes/learning/le-wagon/log/2023-04-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "now.md"
+                "file": "notes/learning/le-wagon/log/2023-04-17.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "now.md",
+                "file": "notes/learning/le-wagon/log/2023-04-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "now.md",
+                "file": "notes/learning/le-wagon/log/2023-04-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +165,8 @@
   "active": "69a4602d20d86574",
   "lastOpenFiles": [
     "README.md",
-    "repos/traducoes/README.md",
     "now.md",
+    "repos/traducoes/README.md",
     "uses.md",
     "moc/monthly.md",
     "notes/ra/megaman.md",
