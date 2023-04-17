@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/le-wagon/00-prepwork.md",
+                "file": "notes/learning/le-wagon/log/2023-04-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/le-wagon/00-prepwork.md"
+                "file": "notes/learning/le-wagon/log/2023-04-17.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/le-wagon/00-prepwork.md",
+                "file": "notes/learning/le-wagon/log/2023-04-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/le-wagon/00-prepwork.md",
+                "file": "notes/learning/le-wagon/log/2023-04-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,8 +164,8 @@
   },
   "active": "69a4602d20d86574",
   "lastOpenFiles": [
-    "notes/learning/le-wagon/log/2023-04-17.md",
     "notes/learning/le-wagon/00-prepwork.md",
+    "notes/learning/le-wagon/log/2023-04-17.md",
     "notes/learning/le-wagon/log",
     "notes/zsh.md",
     "notes/books/Practical Vim/Practical Vim.md",
