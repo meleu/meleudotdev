@@ -18,3 +18,8 @@ ver também: [[video - thinking-fast-and-slow-goto-2019#My problem-solving appro
 
 - [Tim Ferris - Why you should define your fears instead of your goals](https://youtu.be/5J6jAC6XxAI)
 
+---
+
+> Programming is all about creating abstractions, and in order to create an abstraction we must be able to assign names to things. 
+
+- <http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html>
