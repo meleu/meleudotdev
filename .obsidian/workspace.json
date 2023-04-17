@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-01.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023-01.md"
+                "file": "README.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023-01.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023-01.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,36 +164,36 @@
   },
   "active": "69a4602d20d86574",
   "lastOpenFiles": [
-    "moc/monthly.md",
-    "moc/books-fiction.md",
-    "moc/books.md",
-    "notes/learning/le-wagon/log/2023-04-17.md",
-    "notes/learning/le-wagon/00-prepwork.md",
-    "notes/learning/le-wagon/log",
-    "notes/zsh.md",
-    "notes/books/Practical Vim/Practical Vim.md",
-    "README.md",
-    "notes/learning/RSpec - udemy.md",
-    "notes/docker.md",
-    "notes/videos/When To Use Microservices - Sam Newman.md",
-    "repos/meleu.sh/content/posts/parametros.md",
-    "notes/videos/Microsservicos muito alem da teoria - Andre Nobre.md",
-    "about.md",
-    "private/about.md",
-    "notes/videos/Design Micro Service Architectures the Right Way.md",
-    "notes/books/Os 5 Desafios das Equipes.md",
-    "notes/videos/Pragmatic Microservices - Randy Shoup.md",
-    "notes/books/Mastering Vim Quickly.md",
-    "notes/books/clean-code/Clean Code.md",
+    "repos/traducoes/README.md",
     "now.md",
-    "assets/Pasted image 20210714164825.png",
-    "moc/articles.md",
-    "moc/artigos.md",
+    "README.md",
     "uses.md",
+    "moc/monthly.md",
+    "notes/ra/megaman.md",
+    "notes/ra/contra.md",
+    "notes/ra/game-sticks.md",
+    "notes/ra/RANews - You First, RA Later.md",
+    "notes/ra/todo - RetroArch.md",
+    "notes/ra/todo - RetroAchievements - my big goals.md",
+    "notes/ra/todo - RAWeb.md",
+    "notes/ra/todo - RANews.md",
+    "notes/ra/to-write.md",
+    "moc/traducoes.md",
+    "moc/books-fiction.md",
+    "log/2023-03.md",
+    "log/2023-02.md",
+    "log/2023-01.md",
+    "log/2022-12.md",
+    "log/2022-11.md",
+    "log/2022-10.md",
+    "log/2022-09.md",
+    "log/2022-08.md",
+    "log/2022-07.md",
+    "log/2022-06.md",
+    "notes/learning/le-wagon/log",
+    "assets/Pasted image 20210714164825.png",
     "assets/megameleu.png",
-    "private/domain.md",
     "assets/domain-old-config.png",
-    "repos/meleu.sh/content/posts/aspas-sempre.md",
     "assets/Vim Tip 24, 25 - visual block - non-rectangular.png",
     "assets/Vim Tip 24 - visual block - table.png",
     "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",

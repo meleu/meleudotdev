@@ -21,6 +21,24 @@
 
 set -euo pipefail
 
+main() {
+  local mdFile
+  local mdFiles=()
+
+  mapfile -t mdFiles < <(listMdFiles)
+
+  for mdFile in "${mdFiles[@]}"; do
+    [[ -f "${mdFile}" ]] || continue
+
+    case "${mdFile}" in
+      "templates/"* | "repos/"*)
+        continue
+        ;;
+    esac
+    includePublishFrontmatter "${mdFile}"
+  done
+}
+
 listMdFiles() {
   git ls-files --exclude='*.md' --ignored --cached
 }
@@ -42,22 +60,5 @@ includePublishFrontmatter() {
     )
 }
 
-main() {
-  local mdFile
-  local mdFiles=()
-
-  mapfile -t mdFiles < <(listMdFiles)
-
-  for mdFile in "${mdFiles[@]}"; do
-    [[ -f "${mdFile}" ]] || continue
-
-    case "${mdFile}" in
-      "templates/"* | "repos/"*)
-        continue
-        ;;
-    esac
-    includePublishFrontmatter "${mdFile}"
-  done
-}
-
+################################################################################
 main "$@"

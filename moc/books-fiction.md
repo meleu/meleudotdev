@@ -5,10 +5,6 @@ dg-permalink: books-fiction
 # books fiction
 
 ```dataview
-TABLE
-```
-
-```dataview
 TABLE 
   author,
   read-timestamp AS "When I read"

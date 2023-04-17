@@ -14,6 +14,7 @@ My current focus is to integrate TDD techniques in my workflow. Have it as a sec
 
 ## Studying
 
+- [ ] Ruby (Le Wagon bootcamp)
 - [x] [[Rust]]
 - [ ] advanced usage of [[vim]]
 - [ ] [[RSpec - udemy]]
