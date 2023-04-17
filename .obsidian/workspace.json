@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/zsh.md",
+                "file": "notes/learning/le-wagon/00-prepwork.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,13 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -88,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/zsh.md"
+                "file": "notes/learning/le-wagon/00-prepwork.md"
               }
             }
           },
@@ -109,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/zsh.md",
+                "file": "notes/learning/le-wagon/00-prepwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/zsh.md",
+                "file": "notes/learning/le-wagon/00-prepwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,8 +164,11 @@
   },
   "active": "69a4602d20d86574",
   "lastOpenFiles": [
-    "notes/books/Practical Vim/Practical Vim.md",
+    "notes/learning/le-wagon/log/2023-04-17.md",
+    "notes/learning/le-wagon/00-prepwork.md",
+    "notes/learning/le-wagon/log",
     "notes/zsh.md",
+    "notes/books/Practical Vim/Practical Vim.md",
     "README.md",
     "notes/learning/RSpec - udemy.md",
     "notes/docker.md",
@@ -193,8 +194,6 @@
     "repos/meleu.sh/content/posts/coronavirus.md",
     "notes/gitlab-ci-rules.md",
     "notes/nginx.md",
-    "notes/Ruby in 100 Minutes.md",
-    "notes/vimwiki.md",
     "assets/Vim Tip 24, 25 - visual block - non-rectangular.png",
     "assets/Vim Tip 24 - visual block - table.png",
     "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
