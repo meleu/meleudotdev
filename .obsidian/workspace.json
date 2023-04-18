@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-17.md",
+                "file": "notes/ruby.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-17.md"
+                "file": "notes/ruby.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-17.md",
+                "file": "notes/ruby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-17.md",
+                "file": "notes/ruby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +164,8 @@
   },
   "active": "69a4602d20d86574",
   "lastOpenFiles": [
+    "notes/learning/le-wagon/log/2023-04-18.md",
+    "notes/learning/le-wagon/log/2023-04-17.md",
     "README.md",
     "now.md",
     "repos/traducoes/README.md",
@@ -188,8 +190,6 @@
     "log/2022-10.md",
     "log/2022-09.md",
     "log/2022-08.md",
-    "log/2022-07.md",
-    "log/2022-06.md",
     "notes/learning/le-wagon/log",
     "assets/Pasted image 20210714164825.png",
     "assets/megameleu.png",
