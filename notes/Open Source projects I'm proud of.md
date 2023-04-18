@@ -15,7 +15,7 @@ dg-publish: true
 
 ## RetroAchievements - project/community management
 
-**NOTE**: I'm **not** the creator of this project.
+**NOTE**: Although I put a lot of effort in this project during 5 years, I'm **not** the creator.
 
 - website: <https://retroachievements.org>
 

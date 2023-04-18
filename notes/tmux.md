@@ -19,6 +19,6 @@ dg-publish: true
 
 ## things I don't like in tmux
 
-- when in "scroll mode", the selection copies what's from the end of line to the right margin of the screen as spaces
-- quando tenho uma tela com duas janelas (aka painéis) divididas verticalmente, a seleção de uma janela "vaza" para a outra janela.
+- when in "scroll mode", the mouse selection copies what's from the end of line to the right margin of the screen as spaces
+- quando tenho uma tela com duas janelas (aka painéis) divididas verticalmente, a seleção (via mouse) de uma janela "vaza" para a outra janela.
 - mouse scrool acts like up/down arrow

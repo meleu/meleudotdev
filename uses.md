@@ -7,10 +7,10 @@ These are the tools I use:
 
 ## software
 
-- OS: currently trying Linux Pop OS! (and liking it so far)
+- OS: currently using Linux Pop OS!
 - shell: [[bash]]
 - terminal multiplexer: [[tmux]]
-- editor of choice: [[vim]] (migrating to [[neovim]])
+- editor of choice: [[vim]] / [[neovim]]
 - editor for bigger code base: [[vscode]] (using [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim))
 - personal knowledge management: [[obsidian]]
 - spaced repetition: [[anki]]

@@ -7,6 +7,7 @@ dg-permalink: books
 ## currently reading
 
 - ⭐ [[Rápido e Devagar]]
+- [[Building a Second Brain]]
 
 ---
 
