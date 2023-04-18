@@ -7,6 +7,6 @@ First experiences with zsh.
 
 ## Pros
 
-- Automatically paginate when the output is long.
-- tab completion shows all options
+- tab completion shows all options, keep pressing tab to choose between them
+- zsh-autocompletions to suggest commands based on your history
 
