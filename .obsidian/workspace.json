@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ruby.md",
+                "file": "notes/learning/le-wagon/log/2023-04-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/ruby.md"
+                "file": "notes/learning/le-wagon/log/2023-04-18.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/ruby.md",
+                "file": "notes/learning/le-wagon/log/2023-04-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ruby.md",
+                "file": "notes/learning/le-wagon/log/2023-04-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,8 +164,8 @@
   },
   "active": "69a4602d20d86574",
   "lastOpenFiles": [
-    "notes/zsh.md",
     "notes/ruby.md",
+    "notes/zsh.md",
     "notes/learning/le-wagon/log/2023-04-18.md",
     "notes/learning/le-wagon/log/2023-04-17.md",
     "README.md",
