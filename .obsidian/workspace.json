@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -102,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/le-wagon/log.md"
+                "file": "notes/learning/le-wagon/log/2023-04-19.md"
               }
             }
           },
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/le-wagon/log.md",
+                "file": "notes/learning/le-wagon/log/2023-04-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/le-wagon/log.md",
+                "file": "notes/learning/le-wagon/log/2023-04-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,14 +177,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "7d10b9007405e57c",
+  "active": "97e21fb257ba1f12",
   "lastOpenFiles": [
-    "notes/learning/le-wagon/log/2023-04-19.md",
-    "notes/ruby.md",
     "notes/learning/le-wagon/log.md",
     "notes/learning/le-wagon/log/2023-04-18.md",
-    "templates/lewagon-log.md",
     "notes/learning/le-wagon/log/2023-04-17.md",
+    "notes/learning/le-wagon/log/2023-04-19.md",
+    "notes/ruby.md",
+    "templates/lewagon-log.md",
     "templates/New note.md",
     "moc/monthly.md",
     "notes/learning/le-wagon/log/Untitled.md",

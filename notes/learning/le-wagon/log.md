@@ -1,4 +1,9 @@
+---
+dg-publish: true
+---
 # Le Wagon bootcamp daily log
+
+Taking notes with the main takeaways from each day of the bootcamp.
 
 ```dataview
 LIST FROM "notes/learning/le-wagon/log"
