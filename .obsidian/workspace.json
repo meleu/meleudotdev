@@ -8,18 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69a4602d20d86574",
+            "id": "97e21fb257ba1f12",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/learning/le-wagon/log/2023-04-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7d10b9007405e57c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ruby.md",
+                "file": "notes/learning/le-wagon/log.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -70,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -86,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/ruby.md"
+                "file": "notes/learning/le-wagon/log.md"
               }
             }
           },
@@ -107,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/ruby.md",
+                "file": "notes/learning/le-wagon/log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ruby.md",
+                "file": "notes/learning/le-wagon/log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,17 +178,22 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "69a4602d20d86574",
+  "active": "7d10b9007405e57c",
   "lastOpenFiles": [
-    "notes/learning/le-wagon/log/2023-04-18.md",
+    "notes/learning/le-wagon/log/2023-04-19.md",
     "notes/ruby.md",
-    "notes/zsh.md",
+    "notes/learning/le-wagon/log.md",
+    "notes/learning/le-wagon/log/2023-04-18.md",
+    "templates/lewagon-log.md",
     "notes/learning/le-wagon/log/2023-04-17.md",
+    "templates/New note.md",
+    "moc/monthly.md",
+    "notes/learning/le-wagon/log/Untitled.md",
+    "notes/zsh.md",
     "README.md",
     "now.md",
     "repos/traducoes/README.md",
     "uses.md",
-    "moc/monthly.md",
     "notes/ra/megaman.md",
     "notes/ra/contra.md",
     "notes/ra/game-sticks.md",
@@ -185,11 +206,6 @@
     "moc/traducoes.md",
     "moc/books-fiction.md",
     "log/2023-03.md",
-    "log/2023-02.md",
-    "log/2023-01.md",
-    "log/2022-12.md",
-    "log/2022-11.md",
-    "log/2022-10.md",
     "notes/learning/le-wagon/log",
     "assets/Pasted image 20210714164825.png",
     "assets/megameleu.png",
