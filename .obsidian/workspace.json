@@ -8,26 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97e21fb257ba1f12",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-19.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7d10b9007405e57c",
+            "id": "f036ee79f64952ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/le-wagon/log.md",
+                "file": "notes/learning/le-wagon/log/2023-04-20 - Iterators and Blocks.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#4",
+                "query": "blocks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -101,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-19.md"
+                "file": "notes/learning/le-wagon/log/2023-04-20 - Iterators and Blocks.md"
               }
             }
           },
@@ -122,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-19.md",
+                "file": "notes/learning/le-wagon/log/2023-04-20 - Iterators and Blocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-19.md",
+                "file": "notes/learning/le-wagon/log/2023-04-20 - Iterators and Blocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,18 +162,21 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "97e21fb257ba1f12",
+  "active": "f036ee79f64952ac",
   "lastOpenFiles": [
+    "notes/learning/le-wagon/log/2023-04-19 - Conditionals and Arrays.md",
+    "notes/learning/le-wagon/log/2023-04-20 - Iterators and Blocks.md",
+    "notes/movefile.md",
+    "notes/learning/le-wagon/log/2023-04-18 - Ruby Basics.md",
+    "notes/learning/le-wagon/log/2023-04-17 - Setup.md",
+    "assets/2023-04-17-setup - Slack Ctrl+k.png",
+    "notes/zsh.md",
     "notes/learning/le-wagon/log.md",
-    "notes/learning/le-wagon/log/2023-04-18.md",
-    "notes/learning/le-wagon/log/2023-04-17.md",
-    "notes/learning/le-wagon/log/2023-04-19.md",
     "notes/ruby.md",
     "templates/lewagon-log.md",
     "templates/New note.md",
     "moc/monthly.md",
     "notes/learning/le-wagon/log/Untitled.md",
-    "notes/zsh.md",
     "README.md",
     "now.md",
     "repos/traducoes/README.md",
@@ -203,8 +191,6 @@
     "notes/ra/todo - RANews.md",
     "notes/ra/to-write.md",
     "moc/traducoes.md",
-    "moc/books-fiction.md",
-    "log/2023-03.md",
     "notes/learning/le-wagon/log",
     "assets/Pasted image 20210714164825.png",
     "assets/megameleu.png",
@@ -215,7 +201,6 @@
     "assets/8Bitdo NES30 power info.png",
     "assets/8Bitdo M30 power info.png",
     "assets/8Bitdo M30 android.png",
-    "assets/8Bitdo M30 buttons.png",
     "notes/ra/8Bitdo",
     "notes/books/Practical Vim",
     "private/carreira/RedHat"
