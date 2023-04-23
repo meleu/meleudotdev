@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-20 - Iterators and Blocks.md",
+                "file": "private/PL.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-20 - Iterators and Blocks.md"
+                "file": "private/PL.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-20 - Iterators and Blocks.md",
+                "file": "private/PL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-20 - Iterators and Blocks.md",
+                "file": "private/PL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +165,8 @@
   },
   "active": "f036ee79f64952ac",
   "lastOpenFiles": [
-    "notes/learning/le-wagon/log/2023-04-19 - Conditionals and Arrays.md",
     "notes/learning/le-wagon/log/2023-04-20 - Iterators and Blocks.md",
+    "notes/learning/le-wagon/log/2023-04-19 - Conditionals and Arrays.md",
     "notes/movefile.md",
     "notes/learning/le-wagon/log/2023-04-18 - Ruby Basics.md",
     "notes/learning/le-wagon/log/2023-04-17 - Setup.md",
