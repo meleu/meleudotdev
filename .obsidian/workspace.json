@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/PL.md",
+                "file": "notes/learning/le-wagon/log.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/PL.md"
+                "file": "notes/learning/le-wagon/log.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/PL.md",
+                "file": "notes/learning/le-wagon/log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/PL.md",
+                "file": "notes/learning/le-wagon/log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +165,7 @@
   },
   "active": "f036ee79f64952ac",
   "lastOpenFiles": [
+    "private/PL.md",
     "notes/learning/le-wagon/log/2023-04-20 - Iterators and Blocks.md",
     "notes/learning/le-wagon/log/2023-04-19 - Conditionals and Arrays.md",
     "notes/movefile.md",
@@ -191,7 +192,6 @@
     "notes/ra/todo - RAWeb.md",
     "notes/ra/todo - RANews.md",
     "notes/ra/to-write.md",
-    "moc/traducoes.md",
     "notes/learning/le-wagon/log",
     "assets/Pasted image 20210714164825.png",
     "assets/megameleu.png",
