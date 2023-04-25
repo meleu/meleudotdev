@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f036ee79f64952ac",
+            "id": "06bb95b98241ddef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/2023-04-24-RegExp.md",
+                "file": "notes/learning/le-wagon/log/2023-04-21-Hashes and Symbols.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/2023-04-24-RegExp.md"
+                "file": "notes/learning/le-wagon/log/2023-04-21-Hashes and Symbols.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/2023-04-24-RegExp.md",
+                "file": "notes/learning/le-wagon/log/2023-04-21-Hashes and Symbols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/2023-04-24-RegExp.md",
+                "file": "notes/learning/le-wagon/log/2023-04-21-Hashes and Symbols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,23 +163,23 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "f036ee79f64952ac",
+  "active": "06bb95b98241ddef",
   "lastOpenFiles": [
-    "notes/learning/le-wagon/log.md",
-    "notes/2023-04-24-RegExp.md",
-    "private/PL.md",
     "notes/learning/le-wagon/log/2023-04-20 - Iterators and Blocks.md",
+    "notes/learning/le-wagon/log/2023-04-21-Hashes and Symbols.md",
+    "notes/learning/le-wagon/log/2023-04-24-RegExp.md",
     "notes/learning/le-wagon/log/2023-04-19 - Conditionals and Arrays.md",
-    "notes/movefile.md",
     "notes/learning/le-wagon/log/2023-04-18 - Ruby Basics.md",
     "notes/learning/le-wagon/log/2023-04-17 - Setup.md",
+    "notes/learning/le-wagon/log.md",
+    "private/PL.md",
+    "notes/movefile.md",
     "assets/2023-04-17-setup - Slack Ctrl+k.png",
     "notes/zsh.md",
     "notes/ruby.md",
     "templates/lewagon-log.md",
     "templates/New note.md",
     "moc/monthly.md",
-    "notes/learning/le-wagon/log/Untitled.md",
     "README.md",
     "now.md",
     "repos/traducoes/README.md",
