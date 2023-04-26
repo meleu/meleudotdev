@@ -38,6 +38,7 @@ vcs tem algum link sobre esse tema?
 
 ## references
 
+- <https://quii.dev/Interview_questions_as_a_candidate>
 - <https://dev.to/engenheiracoelho/20-perguntas-para-fazer-nas-entrevistas-tecnicas-j8b>
 - [[Anita - Reverse Interview]]
 - Ver também:
