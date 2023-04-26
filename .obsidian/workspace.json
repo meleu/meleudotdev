@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/project red flags.md",
-                "mode": "source",
+                "file": "notes/learning/le-wagon/log/2023-04-26 - OOP.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/project red flags.md"
+                "file": "notes/learning/le-wagon/log/2023-04-26 - OOP.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/project red flags.md",
+                "file": "notes/learning/le-wagon/log/2023-04-26 - OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/project red flags.md",
+                "file": "notes/learning/le-wagon/log/2023-04-26 - OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +165,11 @@
   },
   "active": "06bb95b98241ddef",
   "lastOpenFiles": [
-    "private/cambly/Anita/Anita - Reverse Interview.md",
+    "notes/learning/le-wagon/log/2023-04-25 - Scraping.md",
+    "notes/learning/le-wagon/log/2023-04-26 - OOP.md",
     "notes/learning/le-wagon/log/2023-04-21-Hashes and Symbols.md",
+    "notes/project red flags.md",
+    "private/cambly/Anita/Anita - Reverse Interview.md",
     "notes/learning/le-wagon/log/2023-04-20 - Iterators and Blocks.md",
     "notes/learning/le-wagon/log/2023-04-24-RegExp.md",
     "notes/learning/le-wagon/log/2023-04-19 - Conditionals and Arrays.md",
@@ -189,9 +192,6 @@
     "notes/ra/contra.md",
     "notes/ra/game-sticks.md",
     "notes/ra/RANews - You First, RA Later.md",
-    "notes/ra/todo - RetroArch.md",
-    "notes/ra/todo - RetroAchievements - my big goals.md",
-    "notes/ra/todo - RAWeb.md",
     "notes/learning/le-wagon/log",
     "assets/Pasted image 20210714164825.png",
     "assets/megameleu.png",
