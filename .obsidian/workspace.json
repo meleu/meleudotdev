@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-26 - OOP.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-26 - OOP.md"
+                "file": "README.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-26 - OOP.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-26 - OOP.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +165,8 @@
   },
   "active": "06bb95b98241ddef",
   "lastOpenFiles": [
-    "notes/learning/le-wagon/log/2023-04-25 - Scraping.md",
     "notes/learning/le-wagon/log/2023-04-26 - OOP.md",
+    "notes/learning/le-wagon/log/2023-04-25 - Scraping.md",
     "notes/learning/le-wagon/log/2023-04-21-Hashes and Symbols.md",
     "notes/project red flags.md",
     "private/cambly/Anita/Anita - Reverse Interview.md",
