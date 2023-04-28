@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(> ![)",
+                "query": "mvc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,10 +166,13 @@
   },
   "active": "d76b0bceed45e506",
   "lastOpenFiles": [
-    "assets/MVC-UML.png",
-    "notes/learning/le-wagon/log/2023-04-28 - MVC.md",
-    "notes/learning/le-wagon/log/2023-04-26 - OOP.md",
     "notes/MVC.md",
+    "assets/MVC.png",
+    "notes/books/Clean Coder.md",
+    "notes/videos/keys-to-devops-success.md",
+    "notes/learning/le-wagon/log/2023-04-28 - MVC.md",
+    "assets/MVC-UML.png",
+    "notes/learning/le-wagon/log/2023-04-26 - OOP.md",
     "notes/learning/python-fastapi-workshop.md",
     "notes/books/Practical Vim/Practical Vim.md",
     "notes/books/Mastering Vim Quickly.md",
@@ -190,8 +194,6 @@
     "notes/ruby.md",
     "templates/lewagon-log.md",
     "templates/New note.md",
-    "moc/monthly.md",
-    "now.md",
     "notes/learning/le-wagon/log",
     "assets/Pasted image 20210714164825.png",
     "assets/megameleu.png",
@@ -200,7 +202,6 @@
     "assets/Vim Tip 24 - visual block - table.png",
     "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
     "assets/8Bitdo NES30 power info.png",
-    "assets/8Bitdo M30 power info.png",
     "notes/ra/8Bitdo",
     "notes/books/Practical Vim",
     "private/carreira/RedHat"
