@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "notes/books/Practical Vim/Practical Vim.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/books/Practical Vim/Practical Vim.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/books/Practical Vim/Practical Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/books/Practical Vim/Practical Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +165,9 @@
   },
   "active": "06bb95b98241ddef",
   "lastOpenFiles": [
+    "notes/books/Mastering Vim Quickly.md",
+    "notes/books/Practical Vim/Practical Vim.md",
+    "README.md",
     "notes/learning/le-wagon/log/2023-04-26 - OOP.md",
     "notes/learning/le-wagon/log/2023-04-25 - Scraping.md",
     "notes/learning/le-wagon/log/2023-04-21-Hashes and Symbols.md",
@@ -184,14 +187,11 @@
     "templates/lewagon-log.md",
     "templates/New note.md",
     "moc/monthly.md",
-    "README.md",
     "now.md",
     "repos/traducoes/README.md",
     "uses.md",
     "notes/ra/megaman.md",
     "notes/ra/contra.md",
-    "notes/ra/game-sticks.md",
-    "notes/ra/RANews - You First, RA Later.md",
     "notes/learning/le-wagon/log",
     "assets/Pasted image 20210714164825.png",
     "assets/megameleu.png",
