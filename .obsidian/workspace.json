@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06bb95b98241ddef",
+            "id": "d76b0bceed45e506",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Practical Vim/Practical Vim.md",
+                "file": "notes/learning/le-wagon/log/2023-04-28 - MVC.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blocks",
+                "query": "line:(> ![)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Practical Vim/Practical Vim.md"
+                "file": "notes/learning/le-wagon/log/2023-04-28 - MVC.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Practical Vim/Practical Vim.md",
+                "file": "notes/learning/le-wagon/log/2023-04-28 - MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Practical Vim/Practical Vim.md",
+                "file": "notes/learning/le-wagon/log/2023-04-28 - MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,12 +163,16 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "06bb95b98241ddef",
+  "active": "d76b0bceed45e506",
   "lastOpenFiles": [
-    "notes/books/Mastering Vim Quickly.md",
-    "notes/books/Practical Vim/Practical Vim.md",
-    "README.md",
+    "assets/MVC-UML.png",
+    "notes/learning/le-wagon/log/2023-04-28 - MVC.md",
     "notes/learning/le-wagon/log/2023-04-26 - OOP.md",
+    "notes/MVC.md",
+    "notes/learning/python-fastapi-workshop.md",
+    "notes/books/Practical Vim/Practical Vim.md",
+    "notes/books/Mastering Vim Quickly.md",
+    "README.md",
     "notes/learning/le-wagon/log/2023-04-25 - Scraping.md",
     "notes/learning/le-wagon/log/2023-04-21-Hashes and Symbols.md",
     "notes/project red flags.md",
@@ -188,10 +192,6 @@
     "templates/New note.md",
     "moc/monthly.md",
     "now.md",
-    "repos/traducoes/README.md",
-    "uses.md",
-    "notes/ra/megaman.md",
-    "notes/ra/contra.md",
     "notes/learning/le-wagon/log",
     "assets/Pasted image 20210714164825.png",
     "assets/megameleu.png",
@@ -201,7 +201,6 @@
     "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
     "assets/8Bitdo NES30 power info.png",
     "assets/8Bitdo M30 power info.png",
-    "assets/8Bitdo M30 android.png",
     "notes/ra/8Bitdo",
     "notes/books/Practical Vim",
     "private/carreira/RedHat"
