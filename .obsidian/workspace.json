@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-21 - Hashes and Symbols.md",
+                "file": "notes/learning/le-wagon/log/2023-04-25 - Parsing and Scraping.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-21 - Hashes and Symbols.md"
+                "file": "notes/learning/le-wagon/log/2023-04-25 - Parsing and Scraping.md"
               }
             }
           },
@@ -107,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-21 - Hashes and Symbols.md",
+                "file": "notes/learning/le-wagon/log/2023-04-25 - Parsing and Scraping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-21 - Hashes and Symbols.md",
+                "file": "notes/learning/le-wagon/log/2023-04-25 - Parsing and Scraping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +165,7 @@
   },
   "active": "d76b0bceed45e506",
   "lastOpenFiles": [
+    "notes/learning/le-wagon/log/2023-04-21 - Hashes and Symbols.md",
     "notes/learning/le-wagon/log/2023-04-24 - RegExp.md",
     "notes/learning/le-wagon/log/2023-04-28 - MVC.md",
     "notes/MVC.md",
@@ -176,8 +178,7 @@
     "notes/books/Practical Vim/Practical Vim.md",
     "notes/books/Mastering Vim Quickly.md",
     "README.md",
-    "notes/learning/le-wagon/log/2023-04-25 - Scraping.md",
-    "notes/learning/le-wagon/log/2023-04-21 - Hashes and Symbols.md",
+    "notes/learning/le-wagon/log/2023-04-25 - Parsing and Scraping.md",
     "notes/project red flags.md",
     "private/cambly/Anita/Anita - Reverse Interview.md",
     "notes/learning/le-wagon/log/2023-04-20 - Iterators and Blocks.md",
