@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-25 - Parsing and Scraping.md",
+                "file": "notes/books/Practical Object-Oriented Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-25 - Parsing and Scraping.md"
+                "file": "notes/books/Practical Object-Oriented Design.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-25 - Parsing and Scraping.md",
+                "file": "notes/books/Practical Object-Oriented Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-04-25 - Parsing and Scraping.md",
+                "file": "notes/books/Practical Object-Oriented Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +165,8 @@
   },
   "active": "d76b0bceed45e506",
   "lastOpenFiles": [
-    "notes/learning/le-wagon/log/2023-04-28 - MVC.md",
     "notes/learning/le-wagon/log/2023-04-25 - Parsing and Scraping.md",
+    "notes/learning/le-wagon/log/2023-04-28 - MVC.md",
     "notes/learning/le-wagon/log/2023-04-21 - Hashes and Symbols.md",
     "notes/learning/le-wagon/log/2023-04-24 - RegExp.md",
     "notes/MVC.md",
