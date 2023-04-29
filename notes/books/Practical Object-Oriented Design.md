@@ -10,6 +10,8 @@ author: Sandi Metz
 
 #books/tech 
 
+## Intro and Chapter 1
+
 ### Being a programmer
 I've found in the first pages of this book the reason why I love to be a programmer.
 
