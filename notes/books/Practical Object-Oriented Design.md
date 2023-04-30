@@ -140,3 +140,41 @@ class RevealingReferences
   end
 end
 ```
+
+
+### Enforce Single Responsibility Principle Everywhere
+
+> Separating iteration from the action that's being performed on each element is a common case of multiple responsibility that is easy to recognize.
+
+```ruby
+def diameters
+  wheels.collect do |wheel|
+    wheel.rim + (wheel.tire * 2)
+  end
+end
+```
+
+In the method above, we're iterating over the wheels and then calculating the diameter of each wheel, two responsibilities (iterate & calculate) for a single method.
+
+Let's refactor that to apply the SRP:
+```ruby
+# first: iterate over the array
+def diameters
+  wheels.collect { |wheel| diameter(wheel) }
+end
+
+# second: calculate diameter of ONE wheel
+def diameter(wheel)
+  wheel.rim + (wheel.tire * 2)
+end
+```
+
+> The impact of a single refactoring like this is small, but the cumulative effect of this coding style is huge. Methods that have a single responsibility conver the following benefits:
+>
+> - Expose previously hidden qualities (...)
+> - Avoid the need of comments (...)
+> - Encourage reuse (...)
+> - Are easy to move to another class (...)
+
+> Because you are writing changeable code, you are best served by postponing decisions until you are absolutely forced to make them. Any decision you make in advance of an explicit requirement is just a guess. Don't decide; preserve your ability to make a decision *later*.
+
