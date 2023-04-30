@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Chapter 2 - Design Classes with a Single Responsibility
 
 Having a Single Responsibility is a powerful way to make Classes/Methods easy to change.

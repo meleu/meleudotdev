@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Intro and Chapter 1
 
 ### Being a programmer
