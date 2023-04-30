@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Practical Object-Oriented Design.md",
+                "file": "notes/books/poodr/Practical Object-Oriented Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Practical Object-Oriented Design.md"
+                "file": "notes/books/poodr/Practical Object-Oriented Design.md"
               }
             }
           },
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Practical Object-Oriented Design.md",
+                "file": "notes/books/poodr/Practical Object-Oriented Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Practical Object-Oriented Design.md",
+                "file": "notes/books/poodr/Practical Object-Oriented Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +164,13 @@
   },
   "active": "d76b0bceed45e506",
   "lastOpenFiles": [
+    "notes/books/poodr/POODR - Chapter 1 - Object Oriented Design.md",
+    "notes/books/poodr/Practical Object-Oriented Design.md",
+    "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
+    "notes/books/poodr",
+    "notes/books/Untitled.md",
+    "notes/books/Untitled",
     "notes/videos/video - Minimalist Zettelkasten setup in Obsidian.md",
-    "notes/books/Practical Object-Oriented Design.md",
     "notes/learning/le-wagon/log/2023-04-25 - Parsing and Scraping.md",
     "notes/learning/le-wagon/log/2023-04-28 - MVC.md",
     "notes/learning/le-wagon/log/2023-04-21 - Hashes and Symbols.md",
@@ -191,9 +195,6 @@
     "private/PL.md",
     "notes/movefile.md",
     "assets/2023-04-17-setup - Slack Ctrl+k.png",
-    "notes/zsh.md",
-    "notes/ruby.md",
-    "templates/lewagon-log.md",
     "notes/learning/le-wagon/log",
     "assets/Pasted image 20210714164825.png",
     "assets/megameleu.png",
