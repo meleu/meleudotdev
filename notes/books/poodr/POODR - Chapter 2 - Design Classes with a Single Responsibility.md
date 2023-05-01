@@ -1,6 +1,9 @@
 ---
 dg-publish: true
 ---
+
+[[Practical Object-Oriented Design]]
+
 ## Chapter 2 - Design Classes with a Single Responsibility
 
 Having a Single Responsibility is a powerful way to make Classes/Methods easy to change.
@@ -134,7 +137,3 @@ end
 > - Are easy to move to another class (...)
 
 > Because you are writing changeable code, you are best served by postponing decisions until you are absolutely forced to make them. Any decision you make in advance of an explicit requirement is just a guess. Don't decide; preserve your ability to make a decision *later*.
-
-🧑‍🍳
-
-📝

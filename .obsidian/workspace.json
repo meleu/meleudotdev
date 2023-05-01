@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
+                "file": "notes/books/poodr/Practical Object-Oriented Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md"
+                "file": "notes/books/poodr/Practical Object-Oriented Design.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
+                "file": "notes/books/poodr/Practical Object-Oriented Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
+                "file": "notes/books/poodr/Practical Object-Oriented Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,12 +165,12 @@
   },
   "active": "2f2a6027e6526cc7",
   "lastOpenFiles": [
+    "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
     "notes/books/poodr/Practical Object-Oriented Design.md",
     "notes/books/poodr/POODR - Chapter 1 - Object Oriented Design.md",
     "notes/learning/le-wagon/log/2023-04-25 - Parsing and Scraping.md",
     "notes/ruby nokogiri.md",
     "notes/obcommand-list.md",
-    "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
     "notes/books/poodr",
     "notes/books/Untitled.md",
     "notes/books/Untitled",
