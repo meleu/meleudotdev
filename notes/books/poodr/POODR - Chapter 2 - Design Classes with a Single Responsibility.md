@@ -135,3 +135,6 @@ end
 
 > Because you are writing changeable code, you are best served by postponing decisions until you are absolutely forced to make them. Any decision you make in advance of an explicit requirement is just a guess. Don't decide; preserve your ability to make a decision *later*.
 
+🧑‍🍳
+
+📝
