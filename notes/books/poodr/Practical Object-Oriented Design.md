@@ -238,4 +238,4 @@ This technique adds verbosity. In this case it has value.
 > 
 > Using keyword arguments requires the sender *and* receiver of a message to state the keyword names. **This results in explicit documentation at both ends of the message.** Future maintainers will be grateful for this information.
 > 
-> Keyword arguments are so flexible that the general rule is that you should *prefer* them. While it's certainly true that some argument lists are so stable, and so obvious, that keywords are overkill, your bias should be toward declaring arguments using keywords. You can always fall back to positional arguments if that technique better suits your specific problem.
+> Keword arguments are so flexible that the general rule is that you should *prefer* them. While it's certainly true that some argument lists are so stable, and so obvious, that keywords are overkill, your bias should be toward declaring arguments using keywords. You can always fall back to positional arguments if that technique better suits your specific problem.

@@ -2,9 +2,6 @@
 nmap k gk
 nmap j gj
 
-" clear highlight search
-nmap <C-l> :nohl
-
 " yanking to system clipboard
 set clipboard=unnamed
 
@@ -26,6 +23,28 @@ exmap reveal obcommand file-explorer:reveal-active-file
 exmap lsbar obcommand app:toggle-left-sidebar
 exmap rsbar obcommand app:toggle-right-sidebar
 
+" simulating vim-surround
 " https://github.com/esm7/obsidian-vimrc-support#surround-text-with-surround
 exmap wiki surround [[ ]]
 map [[ :wiki
+
+exmap surround_double_quotes surround " "
+exmap surround_single_quotes surround ' '
+exmap surround_brackets surround ( )
+exmap surround_square_brackets surround [ ]
+exmap surround_curly_brackets surround { }
+exmap surround_double_quotes surround " "
+exmap surround_double_quotes surround " "
+
+" NOTE: disable 's' command (delete and enter Insert mode) for Visual Mode
+vunmap s
+
+map s" :surround_double_quotes
+map s' :surround_single_quotes
+map s( :surround_brackets
+map s) :surround_brackets
+map s[ :surround_square_brackets
+map s] :surround_square_brackets
+map s{ :surround_curly_brackets
+map s} :surround_curly_brackets
+
