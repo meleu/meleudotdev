@@ -1,6 +1,9 @@
 ---
 dg-publish: true
 ---
+
+[[Practical Object-Oriented Design]]
+
 ## Intro and Chapter 1
 
 ### Being a programmer
