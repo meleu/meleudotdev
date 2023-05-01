@@ -203,3 +203,39 @@ def diameter
   wheel.diameter
 end
 ```
+
+
+### Remove Argument-Order Dependencies
+
+#### Use keyword arguments
+
+```ruby
+class Gear
+  def initialize(chainring:, cog:, wheel:)
+    @chainring = chainring
+    @cog = cog
+    @wheel = wheel
+  end
+end
+
+########################################
+# client
+puts Gear.new(
+  wheel: Wheel.new(26, 1.5),
+  chainring: 52,
+  cog: 11
+).gear_inches
+```
+
+Advantages:
+
+- keyword arguments may be passed in any order
+- Gear is now free to add/remove initialization arguments and defaults
+
+This technique adds verbosity. In this case it has value.
+
+> The verbosity exists at the intersection between the needs of the present and the uncertainty of the future. Using positional arguments requires less code today, but you pay for this decrease in volume of code with an increase in the risk that changes will cascade into dependents later. (...)
+> 
+> Using keyword arguments requires the sender *and* receiver of a message to state the keyword names. **This results in explicit documentation at both ends of the message.** Future maintainers will be grateful for this information.
+> 
+> Keyword arguments are so flexible that the general rule is that you should *prefer* them. While it's certainly true that some argument lists are so stable, and so obvious, that keywords are overkill, your bias should be toward declaring arguments using keywords. You can always fall back to positional arguments if that technique better suits your specific problem.
