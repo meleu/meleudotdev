@@ -18,10 +18,11 @@ exmap pin obcommand workspace:toggle-pin
 exmap light obcommand theme:use-light
 exmap dark obcommand theme:use-dark
 
-exmap reveal obcommand file-explorer:reveal-active-file
+exmap Lex obcommand file-explorer:reveal-active-file
 
-exmap lsbar obcommand app:toggle-left-sidebar
-exmap rsbar obcommand app:toggle-right-sidebar
+
+exmap lsb obcommand app:toggle-left-sidebar
+exmap rsb obcommand app:toggle-right-sidebar
 
 " simulating vim-surround
 " https://github.com/esm7/obsidian-vimrc-support#surround-text-with-surround

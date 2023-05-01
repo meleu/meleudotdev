@@ -56,7 +56,6 @@
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/poodr/POODR - Chapter 1 - Object Oriented Design.md"
+                "file": "notes/books/poodr/Practical Object-Oriented Design.md"
               }
             }
           },
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/poodr/POODR - Chapter 1 - Object Oriented Design.md",
+                "file": "notes/books/poodr/Practical Object-Oriented Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/poodr/POODR - Chapter 1 - Object Oriented Design.md",
+                "file": "notes/books/poodr/Practical Object-Oriented Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,12 +199,12 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "495c1d059d1e2676",
+  "active": "6240603b541b8d9a",
   "lastOpenFiles": [
     "notes/obcommand-list.md",
+    "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
     "notes/books/poodr/Practical Object-Oriented Design.md",
     "notes/books/poodr/POODR - Chapter 1 - Object Oriented Design.md",
-    "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
     "notes/books/poodr",
     "notes/books/Untitled.md",
     "notes/books/Untitled",
