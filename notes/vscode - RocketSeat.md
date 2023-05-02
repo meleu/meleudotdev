@@ -1,7 +1,9 @@
 ---
 dg-publish: true
 ---
-# Visual Studio Code
+# Visual Studio Code - RocketSeat
+
+Alguns bizu que peguei da RocketSeat
 
 ## debugar via VSCode
 

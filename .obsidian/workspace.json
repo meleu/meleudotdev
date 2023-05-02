@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ra/RANews - lets talk about money.md",
+                "file": "notes/vscodevim.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/ra/RANews - lets talk about money.md"
+                "file": "notes/vscodevim.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/ra/RANews - lets talk about money.md",
+                "file": "notes/vscodevim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ra/RANews - lets talk about money.md",
+                "file": "notes/vscodevim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +165,9 @@
   },
   "active": "2f2a6027e6526cc7",
   "lastOpenFiles": [
+    "notes/vscode - RocketSeat.md",
+    "notes/vscodevim.md",
+    "notes/ra/RANews - lets talk about money.md",
     "notes/books/poodr/Practical Object-Oriented Design.md",
     "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
     "notes/books/poodr/POODR - Chapter 1 - Object Oriented Design.md",
@@ -192,9 +195,6 @@
     "private/cambly/Anita/Anita - Reverse Interview.md",
     "notes/learning/le-wagon/log/2023-04-20 - Iterators and Blocks.md",
     "notes/learning/le-wagon/log/2023-04-19 - Conditionals and Arrays.md",
-    "notes/learning/le-wagon/log/2023-04-18 - Ruby Basics.md",
-    "notes/learning/le-wagon/log/2023-04-17 - Setup.md",
-    "notes/learning/le-wagon/log.md",
     "assets/2023-04-17-setup - Slack Ctrl+k.png",
     "notes/learning/le-wagon/log",
     "assets/Pasted image 20210714164825.png",

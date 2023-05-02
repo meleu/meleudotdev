@@ -11,7 +11,7 @@ These are the tools I use:
 - shell: [[bash]]
 - terminal multiplexer: [[tmux]]
 - editor of choice: [[vim]] / [[neovim]]
-- editor for bigger code base: [[vscode]] (using [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim))
+- editor for bigger code base: [[vscode - RocketSeat]] (using [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim))
 - personal knowledge management: [[obsidian]]
 - spaced repetition: [[anki]]
 
