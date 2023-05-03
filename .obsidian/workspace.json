@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9fcd9343e8ca4ea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -65,6 +78,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "67b1822753cf9c21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -87,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/vscodevim.md"
+                "file": "README.md"
               }
             }
           },
@@ -108,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/vscodevim.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/vscodevim.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +184,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "2f2a6027e6526cc7",
+  "active": "9fcd9343e8ca4ea5",
   "lastOpenFiles": [
     "notes/vscode - RocketSeat.md",
     "notes/vscodevim.md",
