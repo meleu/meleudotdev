@@ -39,7 +39,7 @@ A citação a seguir me lembra muito o que também é dito no [[Sapiens]]:
 
 No Sapiens o contexto é um pouco diferente. Não se fala tão diretamente da *mentira*, mas sim da ficção e do mito compartilhado.
 
-É dito que o que nos destaca das outras espécies é a nossa capacidade de cooperação em larga escala. Conseguimos trabalhar de maneira colaborativa com pessoas que nem conhecemos graças a nossa capacidade de criar e "aceitar" a ficção, de compartilharmos o um mesmo mito.
+É dito que o que nos destaca das outras espécies é a nossa capacidade de cooperação em larga escala. Conseguimos trabalhar de maneira colaborativa com pessoas que nem conhecemos graças a nossa capacidade de criar e "aceitar" a ficção, de compartilharmos um mesmo mito.
 
 ---
 

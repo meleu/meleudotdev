@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/lewagon-log.md",
+                "file": "notes/learning/le-wagon/lewagon - missing challenges.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/lewagon-log.md"
+                "file": "notes/learning/le-wagon/lewagon - missing challenges.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/lewagon-log.md",
+                "file": "notes/learning/le-wagon/lewagon - missing challenges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/lewagon-log.md",
+                "file": "notes/learning/le-wagon/lewagon - missing challenges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +172,12 @@
   },
   "active": "2f2a6027e6526cc7",
   "lastOpenFiles": [
+    "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md",
+    "notes/learning/le-wagon/lewagon - missing challenges.md",
+    "notes/learning/le-wagon/log.md",
+    "notes/learning/le-wagon/00-prepwork.md",
+    "notes/learning/le-wagon/log/2023-05-01 - Food Delivery App.md",
+    "templates/lewagon-log.md",
     "notes/Open Source projects I'm proud of.md",
     "notes/vscodevim.md",
     "now.md",
@@ -197,12 +202,6 @@
     "notes/books/Clean Coder.md",
     "notes/videos/keys-to-devops-success.md",
     "assets/MVC-UML.png",
-    "notes/learning/le-wagon/log/2023-04-26 - OOP.md",
-    "notes/learning/python-fastapi-workshop.md",
-    "notes/books/Practical Vim/Practical Vim.md",
-    "notes/books/Mastering Vim Quickly.md",
-    "notes/project red flags.md",
-    "private/cambly/Anita/Anita - Reverse Interview.md",
     "assets/2023-04-17-setup - Slack Ctrl+k.png",
     "notes/learning/le-wagon/log",
     "assets/Pasted image 20210714164825.png",
