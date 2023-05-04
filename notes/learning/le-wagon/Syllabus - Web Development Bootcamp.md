@@ -29,6 +29,7 @@ dg-publish: true
 - Banco de dados relacional
     - 🤓  - <https://selectstarsql.com/> - "the best place on the internet for learning SQL"
     - <https://mystery.knightlab.com/>
+    - <https://sqlzoo.net/>
 
 
 ## Fase 2 - Desenvolvimento Web

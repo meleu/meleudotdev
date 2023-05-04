@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/le-wagon/lewagon - missing challenges.md",
+                "file": "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/le-wagon/lewagon - missing challenges.md"
+                "file": "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/le-wagon/lewagon - missing challenges.md",
+                "file": "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/le-wagon/lewagon - missing challenges.md",
+                "file": "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +173,11 @@
   },
   "active": "2f2a6027e6526cc7",
   "lastOpenFiles": [
-    "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md",
+    "notes/learning/le-wagon/log/2023-05-04 - Relational Database.md",
+    "assets/DB Schema many-to-many.png",
+    "assets/DB Schema one-to-many.png",
     "notes/learning/le-wagon/lewagon - missing challenges.md",
+    "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md",
     "notes/learning/le-wagon/log.md",
     "notes/learning/le-wagon/00-prepwork.md",
     "notes/learning/le-wagon/log/2023-05-01 - Food Delivery App.md",
@@ -199,8 +203,6 @@
     "notes/learning/le-wagon/log/2023-04-24 - RegExp.md",
     "notes/MVC.md",
     "assets/MVC.png",
-    "notes/books/Clean Coder.md",
-    "notes/videos/keys-to-devops-success.md",
     "assets/MVC-UML.png",
     "assets/2023-04-17-setup - Slack Ctrl+k.png",
     "notes/learning/le-wagon/log",
@@ -209,8 +211,6 @@
     "assets/domain-old-config.png",
     "assets/Vim Tip 24, 25 - visual block - non-rectangular.png",
     "assets/Vim Tip 24 - visual block - table.png",
-    "notes/learning/hashicorp-vault/getting-started-with-hashicorp-vault-pluralsight/assets/Pasted image 20211117102003.png",
-    "assets/8Bitdo NES30 power info.png",
     "notes/ra/8Bitdo",
     "notes/books/Practical Vim",
     "private/carreira/RedHat"
