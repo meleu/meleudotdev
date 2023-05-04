@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/vscodevim.md",
+                "file": "templates/lewagon-log.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fcd9343e8ca4ea5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -108,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "templates/lewagon-log.md"
               }
             }
           },
@@ -129,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "templates/lewagon-log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "templates/lewagon-log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,10 +171,13 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "9fcd9343e8ca4ea5",
+  "active": "2f2a6027e6526cc7",
   "lastOpenFiles": [
-    "notes/vscode - RocketSeat.md",
+    "notes/Open Source projects I'm proud of.md",
     "notes/vscodevim.md",
+    "now.md",
+    "README.md",
+    "notes/vscode - RocketSeat.md",
     "notes/ra/RANews - lets talk about money.md",
     "notes/books/poodr/Practical Object-Oriented Design.md",
     "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
@@ -211,11 +201,8 @@
     "notes/learning/python-fastapi-workshop.md",
     "notes/books/Practical Vim/Practical Vim.md",
     "notes/books/Mastering Vim Quickly.md",
-    "README.md",
     "notes/project red flags.md",
     "private/cambly/Anita/Anita - Reverse Interview.md",
-    "notes/learning/le-wagon/log/2023-04-20 - Iterators and Blocks.md",
-    "notes/learning/le-wagon/log/2023-04-19 - Conditionals and Arrays.md",
     "assets/2023-04-17-setup - Slack Ctrl+k.png",
     "notes/learning/le-wagon/log",
     "assets/Pasted image 20210714164825.png",

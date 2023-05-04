@@ -28,6 +28,7 @@ dg-publish: true
     - 🤓 - [[Practical Object-Oriented Design]]
 - Banco de dados relacional
     - 🤓  - <https://selectstarsql.com/> - "the best place on the internet for learning SQL"
+    - <https://mystery.knightlab.com/>
 
 
 ## Fase 2 - Desenvolvimento Web

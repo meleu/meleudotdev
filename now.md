@@ -5,7 +5,7 @@ dg-publish: true
 
 Doing the Le Wagon bootcamp (from April to June/2023).
 
-Topics I'm going to be immersed:
+Topics I'm currently diving into:
 
 - [[Ruby]]
 - [[sql]]
