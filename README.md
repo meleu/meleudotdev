@@ -17,7 +17,7 @@ This is my 🌱 [[digital garden]]. Most of the contents is not "finished", but 
 
 I believe that **writing is thinking**, therefore the notes here exist to aid my thinking, learning and creating. I keep them public because [learning in public](https://www.swyx.io/learn-in-public/) helps me to learn faster.
 
-Here are also some things that might be interesting to you:
+Here are some things that might be interesting to you:
 
 - 🧑‍💻 info [[about]] me.
 - 📰 [[articles]] I write about nerdy things (sometimes in [[artigos|portuguese]]).

@@ -3,6 +3,9 @@ dg-publish: true
 ---
 # Syllabus - Web Development Bootcamp
 
+
+:
+
 - <https://lew.ag/web-syllabus>
 
 - 🤓 - conteúdo que eu possa usar pra dar um passo extra
