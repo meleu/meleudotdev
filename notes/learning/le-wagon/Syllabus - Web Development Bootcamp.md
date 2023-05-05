@@ -4,7 +4,7 @@ dg-publish: true
 # Syllabus - Web Development Bootcamp
 
 
-:
+:arrowup
 
 - <https://lew.ag/web-syllabus>
 
