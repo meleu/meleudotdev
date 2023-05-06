@@ -162,3 +162,72 @@ FROM executions
 ```
 
 **NOTE**: the `100.0 *` multiplication is important to make the division with decimals.
+
+
+---
+
+## The Long Tail
+
+### GROUP BY
+
+> [!important]
+> One thing that "clicked" for me in this chapter was the concept that "`GROUP BY` changes the input of the query". When we use `GROUP BY` the `SELECT` is not acting in the original table given to the `FROM` block.
+
+### HAVING
+
+> [!important]
+> The `WHERE` block happens before grouping aggregation. This is reflected in the order of syntax since the `WHERE` block always precedes the `GROUP BY` block.
+
+Things to keep in mind:
+
+- `WHERE` happens before `GROUP BY`
+- `HAVING` happens after `GROUP BY`
+    - therefore `HAVING` can act on aggregation functions
+
+
+The `HAVING` clause was added to SQL because the `WHERE` keyword cannot be used with aggregate functions.
+
+You can think of `HAVING` as a post-aggregation `WHERE` block.
+
+In this example we are getting the list of counties in which **more than 2 inmates** aged >= 50:
+```sql
+SELECT county
+FROM executions
+WHERE ex_age >= 50
+GROUP BY county
+HAVING COUNT(*) > 2
+```
+
+### nested queries
+
+#### Who has the longest last sentence?
+
+We want the first and last name of the inmate with the longest last statement.
+
+To achieve this we need to know the length of the longest last statement and then query the info about the row where such a long statement is.
+
+Solution:
+```sql
+SELECT first_name, last_name
+FROM executions
+WHERE LENGTH(last_statement) = (
+  SELECT MAX(LENGTH(last_statement))
+  FROM executions
+)
+```
+
+#### Percentage of execution on each county
+
+For this we need the amount of executions on each county, and then divide by the total amount of executions.
+
+Here's the query:
+```sql
+SELECT
+  county,
+  100.0 * COUNT(*) / (SELECT COUNT(*) FROM executions)
+    AS percentage
+FROM executions
+GROUP BY county
+ORDER BY percentage DESC
+```
+
