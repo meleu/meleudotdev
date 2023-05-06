@@ -50,15 +50,25 @@ Used as a filter. Example:
 SELECT * FROM executions WHERE ex_age < 25
 ```
 
-To filter text, we can use `=`, but `LIKE`:
+To filter text, we can use `=`, but `LIKE` makes some things easier. Example:
 
-  
+```sql
+SELECT * FROM executions WHERE first_name LIKE '%roy'
+```
 
+Implications of using `LIKE`:
 
-### Chapter's challenge
+- the string becomes case insensitive
+- use `%` as a multicharacter wildcard
+- use `_` as a single character wildcard
 
-What was the Beazley's last sentence when he was executed?
+### challenge: What was the Beazley's last sentence before being executed?
 
+```sql
+SELECT last_sentence
+FROM executions
+WHERE last_name LIKE '%beazley%'
+```
 
 
 ---
@@ -124,3 +134,31 @@ FROM executions
 
 **Remember**: `COUNT()` only counts non-NULL values. That's why we use `ELSE NULL` in the query above.
 
+### challenge: What's the percentage of executed people who claim innocence?
+
+To solve this we need to go through the table twice:
+
+1. count the claims of innocence
+2. count the amount of people who said a last sentence
+
+Once we have these numbers, we do the math.
+
+This needs to be solved in one query.
+
+```sql
+SELECT
+  100.0 * COUNT(
+    CASE
+      WHEN last_statement LIKE '%innocent%'
+        THEN 1
+      ELSE NULL
+    END) / COUNT(
+    CASE
+      WHEN last_statement IS NOT NULL
+        THEN 1
+      ELSE NULL
+    END)
+FROM executions
+```
+
+**NOTE**: the `100.0 *` multiplication is important to make the division with decimals.

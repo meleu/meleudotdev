@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## RA Practice
 
 ![basic RA DB scheme](https://user-images.githubusercontent.com/8508804/92043707-f1ea8080-ed52-11ea-9f3e-e5fbb3caf616.png)
