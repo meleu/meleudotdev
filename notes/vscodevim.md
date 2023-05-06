@@ -9,30 +9,41 @@ Awesome plugin for VSCode: [VSCodeVim](https://marketplace.visualstudio.com/item
 
 Things to do after installing the plugin
 
-### simulating scrolloff
-
-This is VSCode native config that is (kinda) equivalent to `set scrolloff=5` in a vimrc:
-
+`settings.json`:
 ```json
+// VSCode native config that is (kinda)
+// equivalent to `set scrolloff=5` in a vimrc:
 "editor.cursorSurroundingLines": 5,
-```
 
-### Ex commands
-
-NeoVim is a dependency to have full access to Ex commands:
-```json
+// NeoVim is a dependency to have
+// full access to Ex commands:
 "vim.enableNeovim": true,
 "vim.neovimPath": "/home/meleu/.asdf/shims/nvim",
-```
 
-### vimrc remaps
-
-Note: according to the plugin's README, the `vim.vimrc.enable` option only enables remaps.
-
-```json
+// vimrc remaps:
+// according to the VSCodeVim README,
+// `vim.vimrc.enable` option only enables remaps.
 "vim.vimrc.enable": true,
 "vim.vimrc.path": "/home/meleu/.vimrc",
+
+// configure leader key
+"vim.leader": "<space>",
+
+// yank to/paste from clipboard
+"vim.useSystemClipboard": true,
+
+// :set hlsearch
+"vim.hlsearch": true,
+
+// emulate 'inkarkat/vim-ReplaceWithRegister'
+"vim.replaceWithRegister": true,
+
+// allow ctrl+b to toggle sidebar (default vscode behavior)
+"vim.handleKeys": {
+  "<C-b>": false
+}
 ```
+
 
 ### emulated plugins
 
@@ -45,12 +56,6 @@ By default it supports the following plugins that I'm used to use:
 - vim-indent-objectd
 - vim-textobj-entire
 
-[ReplaceWithRegister](https://github.com/VSCodeVim/Vim/blob/master/README.md#replacewithregister) must be enabled:
-
-```json
-"vim.replaceWithRegister": true,
-```
-
 
 ## VSCodeVim tricks
 
@@ -58,3 +63,7 @@ By default it supports the following plugins that I'm used to use:
 
 - `gd` - go to definition.
 - `gh` - equivalent to hovering your mouse over wherever the cursor is.
+- `gb` - adds another cursor at the next word that matches the word the cursor is currently on.
+
+
+
