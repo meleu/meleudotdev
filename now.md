@@ -8,7 +8,7 @@ Doing the Le Wagon bootcamp (from April to June/2023).
 Topics I'm currently diving into:
 
 - [[Ruby]]
-- [[sql]]
+- [[SQL]]
 - HTML/CSS
 - [[javascript]]
 - Figma

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f2a6027e6526cc7",
+            "id": "c50b16009270fc19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/vscodevim.md",
+                "file": "notes/Select Star SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/vscodevim.md"
+                "file": "notes/Select Star SQL.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/vscodevim.md",
+                "file": "notes/Select Star SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/vscodevim.md",
+                "file": "notes/Select Star SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,8 +171,13 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "2f2a6027e6526cc7",
+  "active": "c50b16009270fc19",
   "lastOpenFiles": [
+    "notes/SQL.md",
+    "notes/Select Star SQL.md",
+    "notes/ra/SQL - RetroAchievements.md",
+    "notes/SQL games.md",
+    "notes/vscodevim.md",
     "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md",
     "notes/learning/le-wagon/log/2023-05-04 - Relational Database.md",
     "assets/DB Schema many-to-many.png",
@@ -183,7 +188,6 @@
     "notes/learning/le-wagon/log/2023-05-01 - Food Delivery App.md",
     "templates/lewagon-log.md",
     "notes/Open Source projects I'm proud of.md",
-    "notes/vscodevim.md",
     "now.md",
     "README.md",
     "notes/vscode - RocketSeat.md",
@@ -199,9 +203,6 @@
     "notes/books/Untitled",
     "notes/videos/video - Minimalist Zettelkasten setup in Obsidian.md",
     "notes/learning/le-wagon/log/2023-04-28 - MVC.md",
-    "notes/learning/le-wagon/log/2023-04-21 - Hashes and Symbols.md",
-    "notes/learning/le-wagon/log/2023-04-24 - RegExp.md",
-    "notes/MVC.md",
     "assets/MVC.png",
     "assets/MVC-UML.png",
     "assets/2023-04-17-setup - Slack Ctrl+k.png",
