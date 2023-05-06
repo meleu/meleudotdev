@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md",
+                "file": "notes/vscodevim.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md"
+                "file": "notes/vscodevim.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md",
+                "file": "notes/vscodevim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md",
+                "file": "notes/vscodevim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,11 +173,11 @@
   },
   "active": "2f2a6027e6526cc7",
   "lastOpenFiles": [
+    "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md",
     "notes/learning/le-wagon/log/2023-05-04 - Relational Database.md",
     "assets/DB Schema many-to-many.png",
     "assets/DB Schema one-to-many.png",
     "notes/learning/le-wagon/lewagon - missing challenges.md",
-    "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md",
     "notes/learning/le-wagon/log.md",
     "notes/learning/le-wagon/00-prepwork.md",
     "notes/learning/le-wagon/log/2023-05-01 - Food Delivery App.md",
