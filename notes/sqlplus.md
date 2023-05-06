@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # Sql\*Plus
 
+#sql
+
 ## Imagem da Oracle com o Sql\*Plus
 
 A Oracle disponibiliza suas imagens docker no github: <https://github.com/orgs/oracle/packages>

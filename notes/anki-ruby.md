@@ -3,7 +3,7 @@ dg-publish: true
 cards-deck: webdev::ruby
 deck: webdev::ruby
 ---
-# Ruby
+# Anki cards for Ruby
 
 Flashcards for Ruby. Created with [Obsidian Anki Sync](https://github.com/debanjandhar12/Obsidian-Anki-Sync) notation.
 
@@ -35,7 +35,7 @@ end
 
 
 <!-- basicblock-start oid="ObskfkJICbzEOhvGeBBwiLUW" -->
-## declare a method to be called from the Class
+## declare a Class method to be called from the Class name
 ::
 use `self.method_name`:
 ```ruby

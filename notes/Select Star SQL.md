@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # Select Star SQL
 
+#sql
+
 Notes of what I've been learning from <https://selectstarsql.com/>.
 
 [TOC]
@@ -18,6 +20,21 @@ The table used for practice is filled with data about death executions that happ
     - county
     - last_statement
 
+## main takeaways
+
+- A query has several blocks, like `SELECT columns`, `FROM table`, `WHERE filter`.
+- `WHERE` is a filter applied in the table given to `FROM`.
+- `SELECT` can do math. If you want numbers with decimals and is getting an integer, multiply by 1.0.
+- Aggregation functions (COUNT, AVG, MIN, MAX, SUM, etc.)
+    - Take multiple rows of data and combine them into one number.
+    - Most of the functions act on non-NULL values.
+    - `WHERE` happens before aggregations.
+- About `GROUP BY`
+    - It changes the behavior of aggregation functions. It makes the functions perform their operations on groups of rows, instead of the entire table.
+    - `WHERE` happens before `GROUP BY`
+    - use `HAVING` to filter after a `GROUP BY`
+    - `HAVING` can take the results of aggregations into consideration.
+- We can use nested queries (specially useful to calculate percentages).
 ---
 
 ## Beazley's Last Statement
@@ -171,7 +188,7 @@ FROM executions
 ### GROUP BY
 
 > [!important]
-> One thing that "clicked" for me in this chapter was the concept that "`GROUP BY` changes the input of the query". When we use `GROUP BY` the `SELECT` is not acting in the original table given to the `FROM` block.
+> The `GROUP BY` clause is normally used along with "aggregate" functions. These functions perform special operations on an entire table, set or group, of rows (rather than on each row) and then return one row of values for each group.
 
 ### HAVING
 
@@ -231,3 +248,12 @@ GROUP BY county
 ORDER BY percentage DESC
 ```
 
+
+### challenge: Which counties has more executions?
+
+The solution is in the example above. 👆
+
+
+---
+
+## Execution Hiatuses

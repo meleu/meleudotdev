@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # SQL
 
+#sql
+
 - [[SQL games]]
 - [[SQL - RetroAchievements]]
 - [[Select Star SQL]]
