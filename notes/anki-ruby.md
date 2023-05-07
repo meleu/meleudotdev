@@ -5,6 +5,8 @@ deck: webdev::ruby
 ---
 # Anki cards for Ruby
 
+#anki
+
 Flashcards for Ruby. Created with [Obsidian Anki Sync](https://github.com/debanjandhar12/Obsidian-Anki-Sync) notation.
 
 [TOC]
@@ -167,3 +169,27 @@ rescue ExceptionName => e
 end
 ```
 <!-- basicblock-end -->
+
+<!-- basicblock-start oid="Obs0Mlw7lvIUu87rOX30KGjX" -->
+## How do you clean an `Array` from items matching a condition?
+::
+Using `#reject` iterator (think of a negation of `#select`)
+```ruby
+a = [1, 2, 3, 4]
+# reject the even numbers:
+a.reject { |n| n.even? }
+# => [1, 3]
+```
+<!-- basicblock-end -->
+
+<!-- basicblock-start oid="Obsz12uABfxoufAHZOy6xIWj" -->
+## How would you sort an `Array` with a given sorting criteria?
+::
+Defining the criteria in a block to `#sort_by`
+```ruby
+strings_array.sort_by do |word|
+  word.length
+end
+```
+<!-- basicblock-end -->
+

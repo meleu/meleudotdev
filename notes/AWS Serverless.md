@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # AWS Serverless
 
+#aws
+
 Resources to learn Serverless architecture using AWS.
 
 Main technologies I'm interested in:

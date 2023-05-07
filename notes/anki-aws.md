@@ -5,6 +5,8 @@ deck: DevOps::AWS
 ---
 # anki-aws
 
+#anki #aws
+
 Flashcards for AWS. Created with [Obsidian Anki Sync](https://github.com/debanjandhar12/Obsidian-Anki-Sync) notation.
 
 [TOC]
