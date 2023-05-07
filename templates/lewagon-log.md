@@ -3,7 +3,7 @@ dg-publish: true
 ---
 # {{title}}
 
-- back to [[log|Le Wagon's Bootcamp log]].
+- back to [[bootcamp-log|Le Wagon's Bootcamp log]].
 
 ---
 

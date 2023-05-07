@@ -8,18 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15471c37f96aba86",
+            "id": "03ddd2568242a0fc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "log/2023-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f7e71db4e825727c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/SQL Murder Mystery.md",
+                "file": "notes/2023-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/SQL Murder Mystery.md"
+                "file": "notes/2023-05.md"
               }
             }
           },
@@ -116,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/SQL Murder Mystery.md",
+                "file": "notes/2023-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/SQL Murder Mystery.md",
+                "file": "notes/2023-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +177,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "ObsidianAnkiSync:Start Obsidian Anki Sync": false,
+      "ObsidianAnkiSync:Start Obsidian Anki Sync": true,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,36 +186,37 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "15471c37f96aba86",
+  "active": "f7e71db4e825727c",
   "lastOpenFiles": [
-    "assets/SQL Murder Mystery ERD.png",
+    "log/2023-04.md",
+    "notes/2023-05.md",
+    "notes/SQL.md",
+    "notes/Select Star SQL.md",
+    "notes/learning/le-wagon/log/2023-04-17 - Setup.md",
+    "notes/learning/le-wagon/bootcamp-log.md",
+    "templates/lewagon-log.md",
+    "uses.md",
+    "log/2023-03.md",
+    "moc/monthly.md",
+    "log/2023-02.md",
+    "log/2023-01.md",
+    "notes/exercism - 12in23 challenge.md",
+    "log/2022-12.md",
+    "log/2022-11.md",
+    "log/2022-10.md",
+    "log/2022-09.md",
+    "log/2022-08.md",
+    "log/2022-07.md",
+    "log/2022-06.md",
     "notes/SQL Murder Mystery.md",
+    "assets/SQL Murder Mystery ERD.png",
     "notes/SQL games.md",
     "notes/anki-sql.md",
-    "notes/Select Star SQL.md",
     "notes/sqlplus.md",
-    "notes/SQL.md",
     "notes/learning/le-wagon/log/2023-05-05 - SQL.md",
     "notes/anki-ruby.md",
-    "notes/anki-aws.md",
-    "notes/learning/le-wagon/log/2023-05-04 - Relational Database.md",
-    "notes/learning/le-wagon/log.md",
-    "notes/ra/SQL - RetroAchievements.md",
-    "notes/vscodevim.md",
-    "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md",
     "assets/DB Schema many-to-many.png",
     "assets/DB Schema one-to-many.png",
-    "notes/learning/le-wagon/lewagon - missing challenges.md",
-    "notes/learning/le-wagon/00-prepwork.md",
-    "notes/learning/le-wagon/log/2023-05-01 - Food Delivery App.md",
-    "templates/lewagon-log.md",
-    "notes/Open Source projects I'm proud of.md",
-    "now.md",
-    "README.md",
-    "notes/vscode - RocketSeat.md",
-    "notes/ra/RANews - lets talk about money.md",
-    "notes/books/poodr/Practical Object-Oriented Design.md",
-    "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
     "notes/books/poodr",
     "notes/books/Untitled",
     "assets/MVC.png",

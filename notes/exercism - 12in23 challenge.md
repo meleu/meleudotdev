@@ -7,6 +7,15 @@ dg-publish: true
 
 A challenge to learn 12 different programming languages in 2023.
 
+What I've already did:
+
+- [x] Rust
+- [x] JavaScript
+- [x] jq
+- [x] Ruby
+- [ ] Prolog
+- [ ] Python
+
 The 12 languages that came to my mind:
 
 1. Python

@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-# Le Wagon bootcamp daily log
+# Le Wagon bootcamp log
 
 Taking notes with the main takeaways from each day of the bootcamp.
 
