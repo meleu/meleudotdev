@@ -7,29 +7,19 @@ dg-publish: true
 
 <https://mystery.knightlab.com>
 
-> [!important]
-> These are just my notes to solve the mystery, don't keep reading if you don't like spoilers!
+Better than solving in the webpage, we can solve in our own machine. Here are the steps:
 
-## My notes to solve the mystery
+```shell
+git clone git@github.com:NUKnightLab/sql-mysteries.git
+cd sql-mysteries
+sqlite3 sql-murder-mystery.db
+```
+
+Here's the mystery you need to solve:
+
+> A crime has taken place and the detective needs your help. The detective gave you the crime scene report, but you somehow lost it. You vaguely remember that the crime was a **murder** that occurred sometime on **Jan.15, 2018** and that it took place in **SQL City**. All the clues to this mystery are buried in a huge database, and you need to use SQL to navigate through this vast network of information. Your first step to solving the mystery is to retrieve the corresponding crime scene report from the police department's database.
+
+Check the tables you have to work below (hint: start your investigation in the `crime_scene_report`)
 
 ![[SQL Murder Mystery ERD.png]]
 
-- crime type: `murder`
-- date: `20180115`
-- city: `SQL City`
-
-from `crime_scene_report` table I got this:
-```
-Security footage shows that there were 2 witnesses. The first witness lives at the last house on "Northwestern Dr". The second witness, named Annabel, lives somewhere on "Franklin Ave".
-```
-
-- 2 witnesses
-    1. last house on `Northwestern Dr`
-    2. name: `Annabel`, somewhere on `Franklin Ave`
-
-| id    | name           | license_id | address_number | address_street_name | ssn       |
-| ----- | -------------- | ---------- | -------------- | ------------------- | --------- |
-| 14887 | Morty Schapiro | 118009     | 4919           | Northwestern Dr     | 111564949 | 
-| 16371 | Annabel Miller | 490173     | 103            | Franklin Ave        | 318771143 |
-
-TO BE CONTINUED... (at **Making connections**).
