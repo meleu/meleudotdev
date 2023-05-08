@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/anki-ruby.md",
+                "file": "notes/anki-sql.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/anki-ruby.md"
+                "file": "notes/anki-sql.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/anki-ruby.md",
+                "file": "notes/anki-sql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/anki-ruby.md",
+                "file": "notes/anki-sql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,8 +173,9 @@
   },
   "active": "0ce1f2b149dea4c4",
   "lastOpenFiles": [
-    "notes/anki-sql.md",
+    "notes/books/Practical Vim/Practical Vim.md",
     "notes/anki-ruby.md",
+    "notes/anki-sql.md",
     "notes/AWS Serverless.md",
     "notes/aws-lambda.md",
     "notes/anki-aws.md",
@@ -198,7 +199,6 @@
     "log/2022-08.md",
     "log/2022-07.md",
     "log/2022-06.md",
-    "notes/SQL Murder Mystery.md",
     "assets/SQL Murder Mystery ERD.png",
     "assets/DB Schema many-to-many.png",
     "assets/DB Schema one-to-many.png",
