@@ -5,7 +5,7 @@ dg-publish: true
 
 #sql
 
-- SQL Murder Mystery - <https://mystery.knightlab.com/>
+- SQL Murder Mystery - [[SQL Murder Mystery]]
 - SQL Police Department - <https://sqlpd.com/>
 - SQL Zoo - <https://sqlzoo.net>
 - SQL Studies - <https://sqlstudies.com/fun/>
