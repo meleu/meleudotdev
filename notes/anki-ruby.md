@@ -193,3 +193,15 @@ end
 ```
 <!-- basicblock-end -->
 
+<!-- basicblock-start -->
+## Generic syntax of a migration to add a column to a given table?
+::
+```ruby
+class AddColumnToTable < ActiveRecord::Migration[7.0]
+  def change
+    add_column :table, :column, :type
+    # table names are always plural!
+  end
+end
+```
+<!-- basicblock-end -->
