@@ -13,4 +13,5 @@ Challenges I didn't do (yet).
 - [Pocket Reader (extended)](https://kitt.lewagon.com/camps/1254/challenges?path=02-OOP%2F05-Food-Delivery-Day-One%2FOptional-01-Medium-pocket-part-two)
 - [Cookbook Web App - with Sinatra](https://kitt.lewagon.com/camps/1254/challenges?path=02-OOP%2F04-Cookbook-Day-Two%2FOptional-01-Sinatra)
 - [Food Delivery Day 2](https://kitt.lewagon.com/camps/1254/challenges?path=02-OOP%2F06-Food-Delivery-Day-Two%2F01-Food-Delivery) (I didn't finish the router)
+- [Mapping Dirty DataBase](https://kitt.lewagon.com/camps/1254/challenges?path=03-AR-Database%2F03-ActiveRecord-Basics%2FOptional-02-Mapping-Dirty-Database)
 
