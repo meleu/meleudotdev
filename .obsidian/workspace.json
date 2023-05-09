@@ -10,13 +10,15 @@
           {
             "id": "0ce1f2b149dea4c4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/learning/le-wagon/log/2023-05-08 - Active Record.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -173,12 +175,16 @@
   },
   "active": "0ce1f2b149dea4c4",
   "lastOpenFiles": [
+    "notes/learning/le-wagon/log/2023-04-28 - MVC.md",
+    "notes/learning/le-wagon/log/2023-05-08 - Active Record.md",
+    "notes/learning/le-wagon/bootcamp-log.md",
+    "notes/learning/le-wagon/log/2023-05-01 - Food Delivery App.md",
+    "notes/learning/le-wagon/log/2023-05-04 - Schema Design and SQL.md",
+    "notes/learning/le-wagon/log/2023-05-05 - CRUD with SQL.md",
+    "templates/lewagon-log.md",
     "assets/Pasted image 20220613171754.png",
     "assets/Pasted image 20230508220536.png",
-    "notes/learning/le-wagon/log/2023-05-08 - Active Record.md",
     "assets/Martin Fowler - Active Record diagram.png",
-    "notes/learning/le-wagon/bootcamp-log.md",
-    "templates/lewagon-log.md",
     "notes/learning/le-wagon/lewagon - missing challenges.md",
     "notes/SQL games.md",
     "notes/anki-ruby.md",
@@ -198,9 +204,6 @@
     "log/2023-02.md",
     "log/2023-01.md",
     "notes/exercism - 12in23 challenge.md",
-    "log/2022-12.md",
-    "log/2022-11.md",
-    "log/2022-10.md",
     "assets/SQL Murder Mystery ERD.png",
     "assets/DB Schema many-to-many.png",
     "assets/DB Schema one-to-many.png",
@@ -211,7 +214,6 @@
     "assets/2023-04-17-setup - Slack Ctrl+k.png",
     "notes/learning/le-wagon/log",
     "assets/Pasted image 20210714164825.png",
-    "assets/megameleu.png",
     "notes/ra/8Bitdo",
     "notes/books/Practical Vim",
     "private/carreira/RedHat"
