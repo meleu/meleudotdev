@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md",
+                "file": "notes/prettier-html.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md"
+                "file": "notes/prettier-html.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md",
+                "file": "notes/prettier-html.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/le-wagon/Syllabus - Web Development Bootcamp.md",
+                "file": "notes/prettier-html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,16 +174,22 @@
   },
   "active": "ddb687742c4fe7e6",
   "lastOpenFiles": [
-    "notes/learning/le-wagon/log/2023-05-08 - Active Record.md",
+    "notes/learning/lewagon/log/2023-05-10 - HTML-CSS.md",
+    "notes/learning/lewagon/bootcamp-log.md",
+    "notes/learning/lewagon/log/2023-04-19 - Conditionals and Arrays.md",
+    "templates/lewagon-log.md",
+    "notes/prettier-html.md",
+    "assets/vscode-command-palette-settings-json.png",
+    "assets/prettier-vscode-extension.png",
+    "notes/learning/lewagon/Syllabus - Web Development Bootcamp.md",
+    "notes/learning/lewagon/log/2023-05-08 - Active Record.md",
     "notes/vscodevim.md",
     "notes/anki-ruby.md",
-    "notes/learning/le-wagon/lewagon - missing challenges.md",
-    "notes/learning/le-wagon/log/2023-04-28 - MVC.md",
-    "notes/learning/le-wagon/bootcamp-log.md",
-    "notes/learning/le-wagon/log/2023-05-01 - Food Delivery App.md",
-    "notes/learning/le-wagon/log/2023-05-04 - Schema Design and SQL.md",
-    "notes/learning/le-wagon/log/2023-05-05 - CRUD with SQL.md",
-    "templates/lewagon-log.md",
+    "notes/learning/lewagon/lewagon - missing challenges.md",
+    "notes/learning/lewagon/log/2023-04-28 - MVC.md",
+    "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
+    "notes/learning/lewagon/log/2023-05-04 - Schema Design and SQL.md",
+    "notes/learning/lewagon/log/2023-05-05 - CRUD with SQL.md",
     "assets/Pasted image 20220613171754.png",
     "assets/Pasted image 20230508220536.png",
     "assets/Martin Fowler - Active Record diagram.png",
@@ -197,12 +203,8 @@
     "notes/2023-05.md",
     "notes/SQL.md",
     "notes/Select Star SQL.md",
-    "notes/learning/le-wagon/log/2023-04-17 - Setup.md",
+    "notes/learning/lewagon/log/2023-04-17 - Setup.md",
     "uses.md",
-    "log/2023-03.md",
-    "moc/monthly.md",
-    "log/2023-02.md",
-    "log/2023-01.md",
     "assets/SQL Murder Mystery ERD.png",
     "assets/DB Schema many-to-many.png",
     "assets/DB Schema one-to-many.png",
@@ -210,9 +212,7 @@
     "notes/books/Untitled",
     "assets/MVC.png",
     "assets/MVC-UML.png",
-    "assets/2023-04-17-setup - Slack Ctrl+k.png",
-    "notes/learning/le-wagon/log",
-    "assets/Pasted image 20210714164825.png",
+    "notes/learning/lewagon/log",
     "notes/ra/8Bitdo",
     "notes/books/Practical Vim",
     "private/carreira/RedHat"
