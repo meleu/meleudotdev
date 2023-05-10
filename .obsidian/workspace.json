@@ -20,8 +20,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e9d2ee1fbe44a683",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -173,7 +184,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "0ce1f2b149dea4c4",
+  "active": "e9d2ee1fbe44a683",
   "lastOpenFiles": [
     "notes/learning/le-wagon/log/2023-04-28 - MVC.md",
     "notes/learning/le-wagon/log/2023-05-08 - Active Record.md",
