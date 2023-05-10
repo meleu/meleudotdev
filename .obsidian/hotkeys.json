@@ -180,5 +180,16 @@
     }
   ],
   "app:toggle-left-sidebar": [],
-  "app:toggle-right-sidebar": []
+  "app:toggle-right-sidebar": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "note-refactor-obsidian:app:extract-selection-content-only": [],
+  "terminal:open-terminal.integrated.current": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ]
 }

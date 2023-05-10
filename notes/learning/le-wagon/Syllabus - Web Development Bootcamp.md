@@ -3,9 +3,6 @@ dg-publish: true
 ---
 # Syllabus - Web Development Bootcamp
 
-
-:arrowup
-
 - <https://lew.ag/web-syllabus>
 
 - 🤓 - conteúdo que eu possa usar pra dar um passo extra
@@ -31,17 +28,15 @@ dg-publish: true
     - 🤓 - [[Practical Object-Oriented Design]]
 - Banco de dados relacional
     - 🤓  - <https://selectstarsql.com/> - "the best place on the internet for learning SQL"
-    - <https://mystery.knightlab.com/>
-    - <https://sqlzoo.net/>
+    - [[SQL games]]
 
 
 ## Fase 2 - Desenvolvimento Web
 
 - Construindo interfaces web
-    - HTML
+    - HTML/CSS
         - 🤓 - <https://www.linkedin.com/learning/emmet-fast-and-efficient-web-coding>
-    - CSS
-        - 🤓 - <https://www.origamid.com/curso/css-avancado-posicionamento/>
+        - 🤓 - <https://www.origamid.com/curso/html-e-css-para-iniciantes>
     - Flexbox
         - 🤓 - <https://www.origamid.com/curso/css-flexbox/>
         - 🤓 - <https://courses.wesbos.com/account/access/5e9c03e19edbdf363811e912>
