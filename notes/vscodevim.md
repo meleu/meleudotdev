@@ -5,6 +5,15 @@ dg-publish: true
 
 Awesome plugin for VSCode: [VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
+## VSCodeVim tricks
+
+[original list](https://github.com/VSCodeVim/Vim/blob/master/README.md#-vscodevim-tricks)
+
+- `gd` - go to definition.
+- `gh` - equivalent to hovering your mouse over wherever the cursor is.
+- `gb` - adds another cursor at the next word that matches the word the cursor is currently on.
+
+
 ## Configs
 
 Things to do after installing the plugin
@@ -55,15 +64,6 @@ By default it supports the following plugins that I'm used to use:
 - vim-commentaryd
 - vim-indent-objectd
 - vim-textobj-entire
-
-
-## VSCodeVim tricks
-
-[original list](https://github.com/VSCodeVim/Vim/blob/master/README.md#-vscodevim-tricks)
-
-- `gd` - go to definition.
-- `gh` - equivalent to hovering your mouse over wherever the cursor is.
-- `gb` - adds another cursor at the next word that matches the word the cursor is currently on.
 
 
 
