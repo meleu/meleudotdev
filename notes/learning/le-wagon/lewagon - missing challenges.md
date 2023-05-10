@@ -11,4 +11,5 @@ Challenges I didn't finish (yet).
 - [Cookbook Web App - with Sinatra](https://kitt.lewagon.com/camps/1254/challenges?path=02-OOP%2F04-Cookbook-Day-Two%2FOptional-01-Sinatra) - no rake
 - [My First ORM](https://kitt.lewagon.com/camps/1254/challenges?path=03-AR-Database%2F02-SQL-CRUD%2FOptional-01-My-First-ORM)
 - [Mapping Dirty DataBase](https://kitt.lewagon.com/camps/1254/challenges?path=03-AR-Database%2F03-ActiveRecord-Basics%2FOptional-02-Mapping-Dirty-Database)
-
+- [Sinatra (ActiveRecord)](https://kitt.lewagon.com/camps/1254/challenges?path=03-AR-Database%2F04-ActiveRecord-Advanced%2F03-Sinatra)
+- [ActiveRecord Reading Material](https://kitt.lewagon.com/camps/1254/challenges?path=03-AR-Database%2F04-ActiveRecord-Advanced%2FOptional-01-Reading-Material)

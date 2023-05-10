@@ -22,12 +22,14 @@
             }
           },
           {
-            "id": "e9d2ee1fbe44a683",
+            "id": "b3aa4bc030222c92",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "notes/anki-ruby.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-05-08 - Active Record.md"
+                "file": "notes/anki-ruby.md"
               }
             }
           },
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-05-08 - Active Record.md",
+                "file": "notes/anki-ruby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/le-wagon/log/2023-05-08 - Active Record.md",
+                "file": "notes/anki-ruby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,10 +186,12 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "e9d2ee1fbe44a683",
+  "active": "b3aa4bc030222c92",
   "lastOpenFiles": [
-    "notes/learning/le-wagon/log/2023-04-28 - MVC.md",
+    "notes/learning/le-wagon/lewagon - missing challenges.md",
     "notes/learning/le-wagon/log/2023-05-08 - Active Record.md",
+    "notes/anki-ruby.md",
+    "notes/learning/le-wagon/log/2023-04-28 - MVC.md",
     "notes/learning/le-wagon/bootcamp-log.md",
     "notes/learning/le-wagon/log/2023-05-01 - Food Delivery App.md",
     "notes/learning/le-wagon/log/2023-05-04 - Schema Design and SQL.md",
@@ -196,9 +200,7 @@
     "assets/Pasted image 20220613171754.png",
     "assets/Pasted image 20230508220536.png",
     "assets/Martin Fowler - Active Record diagram.png",
-    "notes/learning/le-wagon/lewagon - missing challenges.md",
     "notes/SQL games.md",
-    "notes/anki-ruby.md",
     "notes/anki-sql.md",
     "notes/books/Practical Vim/Practical Vim.md",
     "notes/AWS Serverless.md",

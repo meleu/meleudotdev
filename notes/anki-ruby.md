@@ -193,7 +193,7 @@ end
 ```
 <!-- basicblock-end -->
 
-<!-- basicblock-start -->
+<!-- basicblock-start oid="Obs8SW01LaI2OBk80G4xEMyl" -->
 ## Generic syntax of a migration to add a column to a given table?
 ::
 ```ruby
@@ -205,3 +205,64 @@ class AddColumnToTable < ActiveRecord::Migration[7.0]
 end
 ```
 <!-- basicblock-end -->
+
+
+<!-- basicblock-start oid="Obsmy4RYMBkWGeiCDEPWjBHT" -->
+## What are the 4 most common ActiveRecord validation types?
+::
+1. `presence`
+2. `uniqueness`
+3. `length { min or max }`
+4. `format { with: /regex/ }`
+<!-- basicblock-end -->
+
+
+<!-- basicblock-start oid="ObsE3b7q4U80qUnwifZ1Nv7N" -->
+## ActiveRecord: migration to rename a column?
+::
+```ruby
+rename_column :table, :old_column_name, :new_column_name
+```
+<!-- basicblock-end -->
+
+
+<!-- basicblock-start oid="ObsF6NL86t10w6XiVpuxFuKZ" -->
+## ActiveRecord: 1:n relation between `doctors` and `interns` written in the `interns` migration
+::
+```ruby
+class CreateInterns < ActiveRecord::Migration[7.0]
+  def change
+    create_table :interns do |t|
+      t.references :doctor, foreign_key: true
+      # ...
+    end
+  end
+end
+```
+<!-- basicblock-end -->
+
+<!-- basicblock-start oid="Obs2Kfjyj0GtUgQ8qmCNY0Dq" -->
+## ActiveRecord: migration to add an `intern_id` foreign key in `patients` table
+::
+```ruby
+class AddInternReferenceToPatients < ActiveRecord::Migration[7.0]
+  def change
+		add_reference :patients, :intern, foreign_key: true
+  end
+end
+```
+<!-- basicblock-end -->
+
+<!-- basicblock-start oid="ObsBF89MWJvqspoqiZYNLMLx" -->
+## ActiveRecord: migration to remove column from table
+::
+```ruby
+class RemoveColumnFromTable < ActiveRecord::Migration[7.0]
+  def change
+    remove_column :table, :column, :type
+  end
+end
+```
+<!-- basicblock-end -->
+
+
