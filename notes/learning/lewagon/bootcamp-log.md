@@ -6,7 +6,7 @@ dg-publish: true
 Taking notes with the main takeaways from each day of the bootcamp.
 
 ```dataview
-LIST FROM "notes/learning/le-wagon/log"
+LIST FROM "notes/learning/lewagon/log"
 WHERE dg-publish = true
 SORT file.name DESC
 ```

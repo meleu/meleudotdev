@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/autoindent-html.md",
+                "file": "notes/anki-frontend.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/autoindent-html.md"
+                "file": "notes/anki-frontend.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/autoindent-html.md",
+                "file": "notes/anki-frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/autoindent-html.md",
+                "file": "notes/anki-frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,28 +174,31 @@
   },
   "active": "ddb687742c4fe7e6",
   "lastOpenFiles": [
-    "notes/prettier-html.md",
-    "notes/autoindent-html.md",
-    "notes/learning/lewagon/log/2023-05-10 - HTML-CSS.md",
+    "README.md",
+    "notes/learning/lewagon/log/2023-05-08 - Active Record.md",
     "notes/learning/lewagon/bootcamp-log.md",
+    "notes/learning/lewagon/log/2023-05-05 - CRUD with SQL.md",
+    "notes/learning/lewagon/log/2023-05-10 - HTML-CSS.md",
+    "notes/anki-ruby.md",
+    "notes/anki-sql.md",
+    "notes/anki-frontend.md",
+    "assets/anki-frontend-form-input-field.png",
+    "notes/autoindent-html.md",
+    "notes/prettier-html.md",
     "notes/learning/lewagon/log/2023-04-19 - Conditionals and Arrays.md",
     "templates/lewagon-log.md",
     "assets/vscode-command-palette-settings-json.png",
     "assets/prettier-vscode-extension.png",
     "notes/learning/lewagon/Syllabus - Web Development Bootcamp.md",
-    "notes/learning/lewagon/log/2023-05-08 - Active Record.md",
     "notes/vscodevim.md",
-    "notes/anki-ruby.md",
     "notes/learning/lewagon/lewagon - missing challenges.md",
     "notes/learning/lewagon/log/2023-04-28 - MVC.md",
     "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
     "notes/learning/lewagon/log/2023-05-04 - Schema Design and SQL.md",
-    "notes/learning/lewagon/log/2023-05-05 - CRUD with SQL.md",
     "assets/Pasted image 20220613171754.png",
     "assets/Pasted image 20230508220536.png",
     "assets/Martin Fowler - Active Record diagram.png",
     "notes/SQL games.md",
-    "notes/anki-sql.md",
     "notes/books/Practical Vim/Practical Vim.md",
     "notes/AWS Serverless.md",
     "notes/aws-lambda.md",
@@ -203,15 +206,12 @@
     "log/2023-04.md",
     "notes/2023-05.md",
     "notes/SQL.md",
-    "notes/Select Star SQL.md",
-    "notes/learning/lewagon/log/2023-04-17 - Setup.md",
     "assets/SQL Murder Mystery ERD.png",
     "assets/DB Schema many-to-many.png",
     "assets/DB Schema one-to-many.png",
     "notes/books/poodr",
     "notes/books/Untitled",
     "assets/MVC.png",
-    "assets/MVC-UML.png",
     "notes/learning/lewagon/log",
     "notes/ra/8Bitdo",
     "notes/books/Practical Vim",

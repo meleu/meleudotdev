@@ -4,6 +4,7 @@ dg-home: true
 dg-show-backlinks: false
 dg-show-toc: false
 dg-show-local-graph: false
+title: "meleu.dev"
 ---
 # Hi, I'm meleu! 👋
 
