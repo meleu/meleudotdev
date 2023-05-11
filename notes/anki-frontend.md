@@ -14,11 +14,11 @@ deck: webdev::frontend
 ::
 ![[anki-frontend-form-input-field.png]]
 ```html
-  <form action="/restaurants">
-    <label for="name-input">Name</label>
-    <input id="name-input" type="text" name="name">
-    <input type="submit" value="Submit">
-  </form>
+<form action="/restaurants">
+ <label for="name-input">Name</label>
+ <input id="name-input" type="text" name="name">
+ <input type="submit" value="Submit">
+</form>
 ```
 <!-- basicblock-end -->
 

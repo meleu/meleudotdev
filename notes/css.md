@@ -9,6 +9,7 @@ deck: webdev::css
 ---
 
 - [[CSS - transition e transform]]
+[[CSS games]]
 
 
 ## courses
@@ -18,17 +19,6 @@ deck: webdev::css
 - <https://cssgrid.io/> - CSS grid layout.
 - <https://flexbox.io/> - Flexbox layout.
 - <https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/>
-
-
-
-## CSS games
-
-- CSS selectors: CSS Diner <https://flukeout.github.io/>
-- flexbox: <https://flexboxfroggy.com>
-- grid: <https://cssgridgarden.com>
-- <https://codingfantasy.com/>
-- [17 games to practice CSS](https://bookercodes.hashnode.dev/css-practice?source=tw0922#heading-try-one-of-these-17-games-to-practice-css)
-- <https://csskatas.com/> - maybe cool to practice tailwind
 
 
 ## how to organize your CSS code

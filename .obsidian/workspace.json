@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ddb687742c4fe7e6",
+            "id": "3144783b9caaf36b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/anki-frontend.md",
+                "file": "notes/CSS games.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/anki-frontend.md"
+                "file": "notes/CSS games.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/anki-frontend.md",
+                "file": "notes/CSS games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/anki-frontend.md",
+                "file": "notes/CSS games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +172,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ddb687742c4fe7e6",
+  "active": "3144783b9caaf36b",
   "lastOpenFiles": [
+    "notes/css.md",
+    "notes/CSS games.md",
+    "notes/anki-frontend.md",
     "README.md",
     "notes/learning/lewagon/log/2023-05-08 - Active Record.md",
     "notes/learning/lewagon/bootcamp-log.md",
@@ -181,7 +184,6 @@
     "notes/learning/lewagon/log/2023-05-10 - HTML-CSS.md",
     "notes/anki-ruby.md",
     "notes/anki-sql.md",
-    "notes/anki-frontend.md",
     "assets/anki-frontend-form-input-field.png",
     "notes/autoindent-html.md",
     "notes/prettier-html.md",
@@ -204,8 +206,6 @@
     "notes/aws-lambda.md",
     "notes/anki-aws.md",
     "log/2023-04.md",
-    "notes/2023-05.md",
-    "notes/SQL.md",
     "assets/SQL Murder Mystery ERD.png",
     "assets/DB Schema many-to-many.png",
     "assets/DB Schema one-to-many.png",
