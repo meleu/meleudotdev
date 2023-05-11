@@ -3,6 +3,10 @@ dg-publish: false
 ---
 # todo - RANews
 
+## inspiration
+
+https://increment.com/
+
 ## Color Scheme
 
 ### Gameboy
@@ -10,6 +14,6 @@ dg-publish: false
 ![[gb.png]]
 
 
-## references
+### references
 
 - <https://coolors.co/palettes/trending>

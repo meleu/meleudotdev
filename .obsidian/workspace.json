@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/random avatar for placeholders.md",
+                "file": "notes/links.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "admon",
+                "query": "increment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/random avatar for placeholders.md"
+                "file": "notes/links.md"
               }
             }
           },
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/random avatar for placeholders.md",
+                "file": "notes/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/random avatar for placeholders.md",
+                "file": "notes/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,8 +175,9 @@
   },
   "active": "9717b9f2831ab850",
   "lastOpenFiles": [
-    "notes/css.md",
+    "notes/ra/todo - RANews.md",
     "notes/random avatar for placeholders.md",
+    "notes/css.md",
     "private/TODO.md",
     "notes/CSS games.md",
     "notes/anki-frontend.md",
@@ -205,7 +207,6 @@
     "notes/SQL games.md",
     "notes/books/Practical Vim/Practical Vim.md",
     "notes/AWS Serverless.md",
-    "notes/aws-lambda.md",
     "assets/SQL Murder Mystery ERD.png",
     "assets/DB Schema many-to-many.png",
     "assets/DB Schema one-to-many.png",
