@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/css.md",
-                "mode": "preview",
+                "file": "notes/random avatar for placeholders.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/css.md"
+                "file": "notes/random avatar for placeholders.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/css.md",
+                "file": "notes/random avatar for placeholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/css.md",
+                "file": "notes/random avatar for placeholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,9 +174,10 @@
   },
   "active": "9717b9f2831ab850",
   "lastOpenFiles": [
+    "notes/css.md",
+    "notes/random avatar for placeholders.md",
     "private/TODO.md",
     "notes/CSS games.md",
-    "notes/css.md",
     "notes/anki-frontend.md",
     "README.md",
     "notes/learning/lewagon/log/2023-05-08 - Active Record.md",
@@ -205,7 +206,6 @@
     "notes/books/Practical Vim/Practical Vim.md",
     "notes/AWS Serverless.md",
     "notes/aws-lambda.md",
-    "notes/anki-aws.md",
     "assets/SQL Murder Mystery ERD.png",
     "assets/DB Schema many-to-many.png",
     "assets/DB Schema one-to-many.png",
