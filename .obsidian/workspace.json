@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/prettier-html.md",
+                "file": "notes/autoindent-html.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/prettier-html.md"
+                "file": "notes/autoindent-html.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/prettier-html.md",
+                "file": "notes/autoindent-html.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/prettier-html.md",
+                "file": "notes/autoindent-html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,8 +174,8 @@
   },
   "active": "ddb687742c4fe7e6",
   "lastOpenFiles": [
-    "notes/autoindent-html.md",
     "notes/prettier-html.md",
+    "notes/autoindent-html.md",
     "notes/learning/lewagon/log/2023-05-10 - HTML-CSS.md",
     "notes/learning/lewagon/bootcamp-log.md",
     "notes/learning/lewagon/log/2023-04-19 - Conditionals and Arrays.md",

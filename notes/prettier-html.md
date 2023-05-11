@@ -7,7 +7,7 @@ dg-show-toc: false
 Life is too short to waste time indenting HTML code! Let's put the machine to do it for us!
 
 > [!update]
-> The method here uses the Prettier extension. It's also possible to format HTML in VSCode with no extensions. Check in [[autoindent-html]].
+> The method here uses the Prettier extension. If you don't want to install it, check the other method [[autoindent-html]] in your VSCode.
 
 ## Step 1: Install Prettier extension
 
