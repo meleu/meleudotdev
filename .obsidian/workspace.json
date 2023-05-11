@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/links.md",
+                "file": "notes/learning/origamid-bootstrap.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/links.md"
+                "file": "notes/learning/origamid-bootstrap.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/links.md",
+                "file": "notes/learning/origamid-bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/links.md",
+                "file": "notes/learning/origamid-bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +175,8 @@
   },
   "active": "9717b9f2831ab850",
   "lastOpenFiles": [
+    "notes/links.md",
+    "notes/learning/origamid-bootstrap.md",
     "notes/ra/todo - RANews.md",
     "notes/random avatar for placeholders.md",
     "notes/css.md",
@@ -205,8 +207,6 @@
     "assets/Pasted image 20230508220536.png",
     "assets/Martin Fowler - Active Record diagram.png",
     "notes/SQL games.md",
-    "notes/books/Practical Vim/Practical Vim.md",
-    "notes/AWS Serverless.md",
     "assets/SQL Murder Mystery ERD.png",
     "assets/DB Schema many-to-many.png",
     "assets/DB Schema one-to-many.png",
