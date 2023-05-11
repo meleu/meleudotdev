@@ -7,6 +7,8 @@ deck: webdev::frontend
 
 #anki
 
+[TOC]
+
 <!-- basicblock-start oid="ObssOinCxWD1REOIvOdP0w2G" -->
 ## html: basic input text field in a form
 ::
