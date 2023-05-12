@@ -10,13 +10,15 @@
           {
             "id": "9717b9f2831ab850",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/origamid-bootstrap.md",
+                "file": "notes/anki-bootstrap.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -96,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/origamid-bootstrap.md"
+                "file": "notes/anki-bootstrap.md"
               }
             }
           },
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/origamid-bootstrap.md",
+                "file": "notes/anki-bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/origamid-bootstrap.md",
+                "file": "notes/anki-bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,14 +177,15 @@
   },
   "active": "9717b9f2831ab850",
   "lastOpenFiles": [
-    "notes/links.md",
+    "notes/anki-frontend.md",
+    "notes/anki-bootstrap.md",
     "notes/learning/origamid-bootstrap.md",
+    "notes/links.md",
     "notes/ra/todo - RANews.md",
     "notes/random avatar for placeholders.md",
     "notes/css.md",
     "private/TODO.md",
     "notes/CSS games.md",
-    "notes/anki-frontend.md",
     "README.md",
     "notes/learning/lewagon/log/2023-05-08 - Active Record.md",
     "notes/learning/lewagon/bootcamp-log.md",
@@ -206,7 +209,6 @@
     "assets/Pasted image 20220613171754.png",
     "assets/Pasted image 20230508220536.png",
     "assets/Martin Fowler - Active Record diagram.png",
-    "notes/SQL games.md",
     "assets/SQL Murder Mystery ERD.png",
     "assets/DB Schema many-to-many.png",
     "assets/DB Schema one-to-many.png",
