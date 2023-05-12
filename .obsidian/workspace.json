@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9717b9f2831ab850",
+            "id": "2a32c53809cbaf77",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/anki-bootstrap.md",
+                "file": "notes/anki-frontend.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -98,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/anki-bootstrap.md"
+                "file": "notes/anki-frontend.md"
               }
             }
           },
@@ -119,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/anki-bootstrap.md",
+                "file": "notes/anki-frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/anki-bootstrap.md",
+                "file": "notes/anki-frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,10 +173,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9717b9f2831ab850",
+  "active": "2a32c53809cbaf77",
   "lastOpenFiles": [
-    "notes/anki-frontend.md",
+    "assets/flexbox-justify-content-options.png",
     "notes/anki-bootstrap.md",
+    "notes/anki-frontend.md",
     "notes/learning/origamid-bootstrap.md",
     "notes/links.md",
     "notes/ra/todo - RANews.md",
@@ -205,7 +204,6 @@
     "notes/learning/lewagon/lewagon - missing challenges.md",
     "notes/learning/lewagon/log/2023-04-28 - MVC.md",
     "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
-    "notes/learning/lewagon/log/2023-05-04 - Schema Design and SQL.md",
     "assets/Pasted image 20220613171754.png",
     "assets/Pasted image 20230508220536.png",
     "assets/Martin Fowler - Active Record diagram.png",

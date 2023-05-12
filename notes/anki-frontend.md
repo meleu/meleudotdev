@@ -62,3 +62,12 @@ From inside to outside:
 - `vh`/`vw` - relative to the viewport height/width
 - `em` - relative to the font size of the element
 <!-- basicblock-end -->
+
+<!-- basicblock-start oid="ObsMB508m2FcU4BZ5E6n1uBZ" -->
+## Options for `justify-content` for flex-items
+::
+![justify-content-options](flexbox-justify-content-options.png)
+<!-- basicblock-end -->
+
+
+
