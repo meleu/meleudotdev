@@ -9,7 +9,7 @@ deck: webdev::css
 ---
 
 - [[CSS - transition e transform]]
-[[CSS games]]
+- [[CSS games]]
 
 
 ## courses
@@ -28,6 +28,12 @@ deck: webdev::css
 - <https://defensivecss.dev/>
 
 ---
+
+## good green to mean "online"
+
+```
+#2ef
+```
 
 <!-- basicblock-start oid="ObsRsO8RujveTSFrhYQjpQwk" -->
 ## smooth scrolling

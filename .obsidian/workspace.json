@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/anki-frontend.md",
+                "file": "notes/css.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/anki-frontend.md"
+                "file": "notes/css.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/anki-frontend.md",
+                "file": "notes/css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/anki-frontend.md",
+                "file": "notes/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,9 +175,9 @@
   },
   "active": "2a32c53809cbaf77",
   "lastOpenFiles": [
+    "notes/anki-frontend.md",
     "assets/flexbox-justify-content-options.png",
     "notes/anki-bootstrap.md",
-    "notes/anki-frontend.md",
     "notes/learning/origamid-bootstrap.md",
     "notes/links.md",
     "notes/ra/todo - RANews.md",
@@ -212,7 +212,6 @@
     "assets/DB Schema one-to-many.png",
     "notes/books/poodr",
     "notes/books/Untitled",
-    "assets/MVC.png",
     "notes/learning/lewagon/log",
     "notes/ra/8Bitdo",
     "notes/books/Practical Vim",
