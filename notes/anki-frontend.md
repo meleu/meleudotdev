@@ -69,5 +69,9 @@ From inside to outside:
 ![justify-content-options](flexbox-justify-content-options.png)
 <!-- basicblock-end -->
 
-
+<!-- basicblock-start oid="Obse5HLKu3RTItVdGhb7eSs4" -->
+## Site to resize images
+::
+<https://squoosh.app/>
+<!-- basicblock-end -->
 
