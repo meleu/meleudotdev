@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/logbots.app/pitch.md",
+                "file": "private/carreira/lemon.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/logbots.app/pitch.md"
+                "file": "private/carreira/lemon.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/logbots.app/pitch.md",
+                "file": "private/carreira/lemon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/logbots.app/pitch.md",
+                "file": "private/carreira/lemon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,8 +173,9 @@
   },
   "active": "7b5afaee8965ad3f",
   "lastOpenFiles": [
-    "assets/shipment-status-big.png",
     "private/logbots.app/pitch.md",
+    "private/carreira/lemon.md",
+    "assets/shipment-status-big.png",
     "notes/vscode - RocketSeat.md",
     "notes/shipment-status.md",
     "private/raw private.md",
