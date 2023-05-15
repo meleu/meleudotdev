@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/raw private.md",
+                "file": "notes/shipment-status.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/raw private.md"
+                "file": "notes/shipment-status.md"
               }
             }
           },
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/raw private.md",
+                "file": "notes/shipment-status.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/raw private.md",
+                "file": "notes/shipment-status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +174,22 @@
   },
   "active": "2a32c53809cbaf77",
   "lastOpenFiles": [
-    "notes/CSS games.md",
+    "assets/shipment-status.png",
     "private/logbots.app/database.md",
+    "notes/shipment-status.md",
+    "private/pitch.md",
+    "private/logbots.app/logbots - nova operacao.md",
+    "private/courses.md",
+    "private/domain.md",
+    "private/Pense e Enriqueca - pratica 1.md",
+    "private/peso-altura-familia.md",
+    "private/PL.md",
+    "private/ranking das caipirinhas.md",
+    "private/raw private.md",
+    "private/repetidor.md",
+    "private/TODO.md",
+    "private/traduzir.md",
+    "notes/CSS games.md",
     "notes/css.md",
     "notes/anki-frontend.md",
     "assets/flexbox-justify-content-options.png",
@@ -185,26 +198,12 @@
     "notes/links.md",
     "notes/ra/todo - RANews.md",
     "notes/random avatar for placeholders.md",
-    "private/TODO.md",
     "README.md",
     "notes/learning/lewagon/log/2023-05-08 - Active Record.md",
     "notes/learning/lewagon/bootcamp-log.md",
-    "notes/learning/lewagon/log/2023-05-05 - CRUD with SQL.md",
-    "notes/learning/lewagon/log/2023-05-10 - HTML-CSS.md",
-    "notes/anki-ruby.md",
-    "notes/anki-sql.md",
     "assets/anki-frontend-form-input-field.png",
-    "notes/autoindent-html.md",
-    "notes/prettier-html.md",
-    "notes/learning/lewagon/log/2023-04-19 - Conditionals and Arrays.md",
-    "templates/lewagon-log.md",
     "assets/vscode-command-palette-settings-json.png",
     "assets/prettier-vscode-extension.png",
-    "notes/learning/lewagon/Syllabus - Web Development Bootcamp.md",
-    "notes/vscodevim.md",
-    "notes/learning/lewagon/lewagon - missing challenges.md",
-    "notes/learning/lewagon/log/2023-04-28 - MVC.md",
-    "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
     "assets/Pasted image 20220613171754.png",
     "assets/Pasted image 20230508220536.png",
     "assets/Martin Fowler - Active Record diagram.png",
