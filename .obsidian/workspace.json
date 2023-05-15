@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/css.md",
+                "file": "private/raw private.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/css.md"
+                "file": "private/raw private.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/css.md",
+                "file": "private/raw private.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/css.md",
+                "file": "private/raw private.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +175,9 @@
   },
   "active": "2a32c53809cbaf77",
   "lastOpenFiles": [
+    "notes/CSS games.md",
+    "private/logbots.app/database.md",
+    "notes/css.md",
     "notes/anki-frontend.md",
     "assets/flexbox-justify-content-options.png",
     "notes/anki-bootstrap.md",
@@ -182,9 +185,7 @@
     "notes/links.md",
     "notes/ra/todo - RANews.md",
     "notes/random avatar for placeholders.md",
-    "notes/css.md",
     "private/TODO.md",
-    "notes/CSS games.md",
     "README.md",
     "notes/learning/lewagon/log/2023-05-08 - Active Record.md",
     "notes/learning/lewagon/bootcamp-log.md",
