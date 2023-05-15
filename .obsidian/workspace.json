@@ -11,12 +11,8 @@
             "id": "7b5afaee8965ad3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/logbots.app/pitch.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -94,9 +90,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "private/logbots.app/pitch.md"
-              }
+              "state": {}
             }
           },
           {
@@ -116,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/logbots.app/pitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/logbots.app/pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,11 +166,11 @@
   },
   "active": "7b5afaee8965ad3f",
   "lastOpenFiles": [
-    "private/carreira/lemon.md",
+    "notes/shipment-status.md",
     "private/logbots.app/pitch.md",
+    "private/carreira/lemon.md",
     "assets/shipment-status-big.png",
     "notes/vscode - RocketSeat.md",
-    "notes/shipment-status.md",
     "private/raw private.md",
     "private/logbots.app/iniciando-login.md",
     "private/logbots.app/database.md",
