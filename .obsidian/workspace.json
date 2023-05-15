@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a32c53809cbaf77",
+            "id": "7b5afaee8965ad3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/shipment-status.md",
+                "file": "private/logbots.app/pitch.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/shipment-status.md"
+                "file": "private/logbots.app/pitch.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/shipment-status.md",
+                "file": "private/logbots.app/pitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/shipment-status.md",
+                "file": "private/logbots.app/pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,12 +171,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2a32c53809cbaf77",
+  "active": "7b5afaee8965ad3f",
   "lastOpenFiles": [
-    "assets/shipment-status.png",
-    "private/logbots.app/database.md",
+    "assets/shipment-status-big.png",
     "notes/shipment-status.md",
-    "private/pitch.md",
+    "private/logbots.app/pitch.md",
+    "private/raw private.md",
+    "private/logbots.app/iniciando-login.md",
+    "private/logbots.app/database.md",
+    "assets/shipment-status.png",
     "private/logbots.app/logbots - nova operacao.md",
     "private/courses.md",
     "private/domain.md",
@@ -185,7 +187,6 @@
     "private/peso-altura-familia.md",
     "private/PL.md",
     "private/ranking das caipirinhas.md",
-    "private/raw private.md",
     "private/repetidor.md",
     "private/TODO.md",
     "private/traduzir.md",
@@ -200,7 +201,6 @@
     "notes/random avatar for placeholders.md",
     "README.md",
     "notes/learning/lewagon/log/2023-05-08 - Active Record.md",
-    "notes/learning/lewagon/bootcamp-log.md",
     "assets/anki-frontend-form-input-field.png",
     "assets/vscode-command-palette-settings-json.png",
     "assets/prettier-vscode-extension.png",
@@ -209,7 +209,6 @@
     "assets/Martin Fowler - Active Record diagram.png",
     "assets/SQL Murder Mystery ERD.png",
     "assets/DB Schema many-to-many.png",
-    "assets/DB Schema one-to-many.png",
     "notes/books/poodr",
     "notes/books/Untitled",
     "notes/learning/lewagon/log",
