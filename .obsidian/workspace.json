@@ -11,8 +11,12 @@
             "id": "7b5afaee8965ad3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/anki-ruby.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -90,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/anki-ruby.md"
+              }
             }
           },
           {
@@ -110,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/anki-ruby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/anki-ruby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
