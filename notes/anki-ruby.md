@@ -197,7 +197,7 @@ end
 ## Generic syntax of a migration to add a column to a given table?
 ::
 ```ruby
-class AddColumnToTable < ActiveRecord::Migration[7.0]
+class AddColumnToTable < ActiveRecord--Migration[7.0]
   def change
     add_column :table, :column, :type
     # table names are always plural!
@@ -230,7 +230,7 @@ rename_column :table, :old_column_name, :new_column_name
 ## ActiveRecord: 1:n relation between `doctors` and `interns` written in the `interns` migration
 ::
 ```ruby
-class CreateInterns < ActiveRecord::Migration[7.0]
+class CreateInterns < ActiveRecord--Migration[7.0]
   def change
     create_table :interns do |t|
       t.references :doctor, foreign_key: true
@@ -245,7 +245,7 @@ end
 ## ActiveRecord: migration to add an `intern_id` foreign key in `patients` table
 ::
 ```ruby
-class AddInternReferenceToPatients < ActiveRecord::Migration[7.0]
+class AddInternReferenceToPatients < ActiveRecord--Migration[7.0]
   def change
 		add_reference :patients, :intern, foreign_key: true
   end
@@ -257,7 +257,7 @@ end
 ## ActiveRecord: migration to remove column from table
 ::
 ```ruby
-class RemoveColumnFromTable < ActiveRecord::Migration[7.0]
+class RemoveColumnFromTable < ActiveRecord--Migration[7.0]
   def change
     remove_column :table, :column, :type
   end
