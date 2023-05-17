@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/anki-frontend.md",
-                "mode": "source",
+                "file": "notes/css.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/anki-frontend.md"
+                "file": "notes/css.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/anki-frontend.md",
+                "file": "notes/css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/anki-frontend.md",
+                "file": "notes/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +175,9 @@
   "active": "68edff350bd3c9d6",
   "lastOpenFiles": [
     "notes/anki-frontend.md",
+    "notes/links - frontend.md",
+    "notes/dom.md",
+    "notes/Sony WH-1000XM4 Headphones.md",
     "templates/anki card.md",
     "notes/css.md",
     "assets/avatar-linkedin.png",
@@ -202,9 +205,6 @@
     "notes/CSS games.md",
     "assets/flexbox-justify-content-options.png",
     "notes/anki-bootstrap.md",
-    "notes/learning/origamid-bootstrap.md",
-    "notes/links.md",
-    "notes/ra/todo - RANews.md",
     "assets/vscode-command-palette-settings-json.png",
     "assets/prettier-vscode-extension.png",
     "assets/Pasted image 20220613171754.png",
