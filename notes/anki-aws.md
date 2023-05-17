@@ -20,12 +20,16 @@ Amazon Simple Storage Service
 <!-- basicblock-end -->
 
 
+---
+
 <!-- basicblock-start oid="ObsOM3IWrrFy4NVd4qNciJyI" -->
 ## AWS SNS
 ::
 Amazon Simple Notification Service
 <!-- basicblock-end -->
 
+
+---
 
 <!-- basicblock-start oid="ObsSUVn0Y3f3xZg4QgvHPBj1" -->
 ## AWS CloudFormation list the stacks
@@ -36,6 +40,8 @@ aws cloudformation list-stacks
 <!-- basicblock-end -->
 
 
+---
+
 <!-- basicblock-start oid="ObsLaJrtBNxyvNQWIG2zrEiL" -->
 ## AWS Lambda Function: 4 main components
 ::
@@ -45,6 +51,8 @@ aws cloudformation list-stacks
 4. Services
 <!-- basicblock-end -->
 
+
+---
 
 <!-- basicblock-start oid="ObsQUn4w2p9wu86fGf7Om9fA" -->
 ## AWS Lambda: Events
@@ -57,6 +65,8 @@ Anything that triggers a Lambda function.
 <!-- basicblock-end -->
 
 
+---
+
 <!-- basicblock-start oid="ObsUUGfhzVltjJM53GZoCRDn" -->
 ## AWS Lambda: Resources
 ::
@@ -67,6 +77,8 @@ Infrastructure components used by the Lambda function.
     - SNS (sending messages assynchronously)
 <!-- basicblock-end -->
 
+
+---
 
 <!-- basicblock-start oid="Obsh3Max668bMcaPXnmWwOqG" -->
 ## AWS Lambda: Services

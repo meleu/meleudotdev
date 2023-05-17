@@ -14,7 +14,6 @@ deck: webdev::frontend
 <!-- basicblock-start oid="ObssOinCxWD1REOIvOdP0w2G" -->
 ## html: basic input text field in a form
 ::
-![[anki-frontend-form-input-field.png]]
 ```html
 <form action="/restaurants">
  <label for="name-input">Name</label>
@@ -25,8 +24,10 @@ deck: webdev::frontend
 <!-- basicblock-end -->
 
 
+---
+
 <!-- basicblock-start oid="ObsqI5i6Q4Ee9bl1f74LbBxD" -->
-## html tag with the text shown in Google results
+## html meta tag with the text shown in Google results
 ::
 ```html
 <html>
@@ -42,6 +43,8 @@ deck: webdev::frontend
 <!-- basicblock-end -->
 
 
+---
+
 <!-- basicblock-start oid="ObszTuAPYmZkGmLcFTcOyNgS" -->
 ## box model properties sequence
 ::
@@ -54,6 +57,8 @@ From inside to outside:
 <!-- basicblock-end -->
 
 
+---
+
 <!-- basicblock-start oid="ObsjVkANSmhyTnn0rKW2EYat" -->
 ## Four types of CSS length units
 ::
@@ -63,15 +68,87 @@ From inside to outside:
 - `em` - relative to the font size of the element
 <!-- basicblock-end -->
 
+---
+
 <!-- basicblock-start oid="ObsMB508m2FcU4BZ5E6n1uBZ" -->
 ## Options for `justify-content` for flex-items
 ::
-![justify-content-options](flexbox-justify-content-options.png)
+- flex-start
+- flex-end
+- center
+- space-between
+- space-around
 <!-- basicblock-end -->
+
+
+
+---
 
 <!-- basicblock-start oid="Obse5HLKu3RTItVdGhb7eSs4" -->
 ## Site to resize images
 ::
 <https://squoosh.app/>
 <!-- basicblock-end -->
+
+---
+
+<!-- basicblock-start -->
+## How to prevent the default behavior of an event from happening?
+::
+Using the `preventDefault()` function in an event.
+
+Example:
+```js
+element.addEventListener(
+  'click',
+  (event) => event.preventDefault()
+);
+```
+<!-- basicblock-end -->
+
+---
+
+<!-- basicblock-start -->
+## How to append content into a DOM element?
+::
+Using `insertAdjacentHTML()`:
+
+Example:
+```js
+element.insertAdjacentHTML(
+  location,
+  htmlContent
+);
+```
+
+`location` can be:
+```html
+<!-- beforebegin -->
+<p>
+  <!-- afterbegin -->
+  the content
+  <!-- beforeend -->
+</p>
+<!-- afterend -->
+```
+<!-- basicblock-end -->
+
+
+---
+
+<!-- basicblock-start -->
+## Get all the properties of an Object in JS
+::
+Only the keys:
+```js
+Object.keys(myObj);
+```
+
+The array of key-value pairs:
+```js
+Object.entries(myObj);
+// [ [key1, value1], [keyN, valueN] ]
+```
+<!-- basicblock-end -->
+
 

@@ -12,6 +12,7 @@ TODO: create some cards based on [[Select Star SQL]].
 
 [TOC]
 
+
 ---
 
 <!-- basicblock-start oid="ObsNdUD7ChYD2nSHbUzBUfy8" -->
@@ -23,6 +24,8 @@ INSERT INTO table
 VALUES (value1, value2, valueN)
 ```
 <!-- basicblock-end -->
+
+---
 
 <!-- basicblock-start oid="ObshNKoEgf78pzGvpROw0cz6" -->
 ## basic UPDATE structure
@@ -36,6 +39,8 @@ WHERE condition
 <!-- basicblock-end -->
 
 
+---
+
 <!-- basicblock-start oid="ObsGYRlID7zhrZoZOvqIpJBK" -->
 ## basic DELETE structure
 ::
@@ -46,6 +51,8 @@ WHERE condition
 **Don't forget the `WHERE`!**
 <!-- basicblock-end -->
 
+
+---
 
 <!-- basicblock-start oid="ObsiQqLjoAfkhB1D7VxHgygF" -->
 ## Order of execution

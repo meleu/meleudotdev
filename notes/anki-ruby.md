@@ -11,6 +11,7 @@ Flashcards for Ruby. Created with [Obsidian Anki Sync](https://github.com/debanj
 
 [TOC]
 
+
 ---
 
 <!-- basicblock-start oid="Obsg0g5hbvqzivFfICMsWcLQ" -->
@@ -25,6 +26,8 @@ var = number || 5
 
 
 
+---
+
 <!-- basicblock-start oid="ObsATz5gFKygu3kIzVqtjToc" -->
 ## default value if argument is not passed
 ::
@@ -35,6 +38,8 @@ end
 ```
 <!-- basicblock-end -->
 
+
+---
 
 <!-- basicblock-start oid="ObskfkJICbzEOhvGeBBwiLUW" -->
 ## declare a Class method to be called from the Class name
@@ -50,6 +55,8 @@ end
 <!-- basicblock-end -->
 
 
+---
+
 <!-- basicblock-start oid="Obs3PyxHLh9YdZzuN5Jrrynj" -->
 ## autocreate getters/setters
 ::
@@ -62,6 +69,8 @@ end
 <!-- basicblock-end -->
 
 
+
+---
 
 <!-- basicblock-start oid="Obsz8dJjN4OKcREMjsUJ6JPR" -->
 ## what does `String.count` do?
@@ -76,6 +85,8 @@ counts how many "char-set" there are in the string
 <!-- basicblock-end -->
 
 
+---
+
 <!-- basicblock-start oid="ObsQm4MQUysplnS24ctorAPw" -->
 ## how `Array.map` works?::
 returns a new array with the results of running a block once for every element in the array (enumeration)
@@ -88,6 +99,8 @@ returns a new array with the results of running a block once for every element i
 
 
 
+---
+
 <!-- basicblock-start oid="ObsrUKFHbfksL9lAmsAjCaX0" -->
 ## get an array with no repeated items
 ::
@@ -99,6 +112,8 @@ returns a new array with the results of running a block once for every element i
 <!-- basicblock-end -->
 
 
+
+---
 
 <!-- basicblock-start oid="Obs3vGRaSreaEMnSyZ3mHJav" -->
 ## `String.scan` vs. `String.split`?
@@ -115,6 +130,8 @@ returns a new array with the results of running a block once for every element i
 ```
 <!-- basicblock-end -->
 
+---
+
 <!-- basicblock-start oid="ObsYabOUk3A6c1w6fqRSDu8P" -->
 ## from char to ASCII value
 ::
@@ -124,6 +141,8 @@ returns a new array with the results of running a block once for every element i
 ```
 <!-- basicblock-end -->
 
+
+---
 
 <!-- basicblock-start oid="ObsZeT2Wv9luCKQ26uH9ZSUb" -->
 ## from ASCII value to char
@@ -135,6 +154,8 @@ returns a new array with the results of running a block once for every element i
 <!-- basicblock-end -->
 
 
+---
+
 <!-- basicblock-start oid="ObsxCLsNAN4rr1oUy30GCJ6N" -->
 ## subtract arrays
 ::
@@ -144,6 +165,8 @@ returns a new array with the results of running a block once for every element i
 ```
 <!-- basicblock-end -->
 
+
+---
 
 <!-- basicblock-start oid="ObsVRxqFtipgFulzjMJTil9Q" -->
 ## create an `Array` from a `Range`
@@ -158,6 +181,8 @@ alphabet = [*'a'..'z']
 <!-- basicblock-end -->
 
 
+---
+
 <!-- basicblock-start oid="ObsPiyXNxmiVaMBpIir4Pv19" -->
 ## capture an Exception
 ::
@@ -169,6 +194,8 @@ rescue ExceptionName => e
 end
 ```
 <!-- basicblock-end -->
+
+---
 
 <!-- basicblock-start oid="Obs0Mlw7lvIUu87rOX30KGjX" -->
 ## How do you clean an `Array` from items matching a condition?
@@ -182,6 +209,8 @@ a.reject { |n| n.even? }
 ```
 <!-- basicblock-end -->
 
+---
+
 <!-- basicblock-start oid="Obsz12uABfxoufAHZOy6xIWj" -->
 ## How would you sort an `Array` with a given sorting criteria?
 ::
@@ -192,6 +221,8 @@ strings_array.sort_by do |word|
 end
 ```
 <!-- basicblock-end -->
+
+---
 
 <!-- basicblock-start oid="Obs8SW01LaI2OBk80G4xEMyl" -->
 ## Generic syntax of a migration to add a column to a given table?
@@ -207,6 +238,8 @@ end
 <!-- basicblock-end -->
 
 
+---
+
 <!-- basicblock-start oid="Obsmy4RYMBkWGeiCDEPWjBHT" -->
 ## What are the 4 most common ActiveRecord validation types?
 ::
@@ -217,6 +250,8 @@ end
 <!-- basicblock-end -->
 
 
+---
+
 <!-- basicblock-start oid="ObsE3b7q4U80qUnwifZ1Nv7N" -->
 ## ActiveRecord: migration to rename a column?
 ::
@@ -225,6 +260,8 @@ rename_column :table, :old_column_name, :new_column_name
 ```
 <!-- basicblock-end -->
 
+
+---
 
 <!-- basicblock-start oid="ObsF6NL86t10w6XiVpuxFuKZ" -->
 ## ActiveRecord: 1:n relation between `doctors` and `interns` written in the `interns` migration
@@ -241,6 +278,8 @@ end
 ```
 <!-- basicblock-end -->
 
+---
+
 <!-- basicblock-start oid="Obs2Kfjyj0GtUgQ8qmCNY0Dq" -->
 ## ActiveRecord: migration to add an `intern_id` foreign key in `patients` table
 ::
@@ -252,6 +291,8 @@ class AddInternReferenceToPatients < ActiveRecord--Migration[7.0]
 end
 ```
 <!-- basicblock-end -->
+
+---
 
 <!-- basicblock-start oid="ObsBF89MWJvqspoqiZYNLMLx" -->
 ## ActiveRecord: migration to remove column from table

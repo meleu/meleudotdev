@@ -9,6 +9,7 @@ deck: webdev::bootstrap
 
 [TOC]
 
+
 ---
 
 <!-- basicblock-start oid="ObssekNFKMqsKJWK7iyC6amz" -->
@@ -19,6 +20,8 @@ deck: webdev::bootstrap
 - col
 <!-- basicblock-end -->
 
+---
+
 <!-- basicblock-start oid="ObsOp5x9lL1TfPEYaOm12Bei" -->
 ## Basic input form
 ::
@@ -27,6 +30,8 @@ form>label.form-label+input.form-control
 ```
 <!-- basicblock-end -->
 
+---
+
 <!-- basicblock-start oid="ObsZANaqDwuuMyldE9GHdHyP" -->
 ## turn image into a thumbnail
 ::
@@ -34,6 +39,8 @@ form>label.form-label+input.form-control
 <img class="img-thumbnail" ...>
 ```
 <!-- basicblock-end -->
+
+---
 
 <!-- basicblock-start oid="ObssNrastKQxJSquSDtvdNsK" -->
 ## most used names for colors

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7c00cd845430332f",
+        "id": "d137a4a03bb1611f",
         "type": "tabs",
         "children": [
           {
-            "id": "7b5afaee8965ad3f",
+            "id": "68edff350bd3c9d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/anki-ruby.md",
+                "file": "notes/anki-frontend.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/anki-ruby.md"
+                "file": "notes/anki-frontend.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/anki-ruby.md",
+                "file": "notes/anki-frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/anki-ruby.md",
+                "file": "notes/anki-frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +172,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7b5afaee8965ad3f",
+  "active": "68edff350bd3c9d6",
   "lastOpenFiles": [
+    "notes/anki-frontend.md",
+    "templates/anki card.md",
+    "notes/css.md",
+    "assets/avatar-linkedin.png",
+    "assets/anki-frontend-form-input-field.png",
+    "notes/anki-ruby.md",
     "notes/shipment-status.md",
     "private/logbots.app/pitch.md",
     "private/carreira/lemon.md",
@@ -194,22 +200,16 @@
     "private/TODO.md",
     "private/traduzir.md",
     "notes/CSS games.md",
-    "notes/css.md",
-    "notes/anki-frontend.md",
     "assets/flexbox-justify-content-options.png",
     "notes/anki-bootstrap.md",
     "notes/learning/origamid-bootstrap.md",
     "notes/links.md",
     "notes/ra/todo - RANews.md",
-    "notes/random avatar for placeholders.md",
-    "README.md",
-    "assets/anki-frontend-form-input-field.png",
     "assets/vscode-command-palette-settings-json.png",
     "assets/prettier-vscode-extension.png",
     "assets/Pasted image 20220613171754.png",
     "assets/Pasted image 20230508220536.png",
     "assets/Martin Fowler - Active Record diagram.png",
-    "assets/SQL Murder Mystery ERD.png",
     "notes/books/poodr",
     "notes/books/Untitled",
     "notes/learning/lewagon/log",
