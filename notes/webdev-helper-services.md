@@ -5,7 +5,7 @@ dg-publish: true
 
 - <https://fav.farm> - quickly get an emoji as a favicon
 - <https://reqres.in/> - test your frontend against a real API
-- <https://icanhazdadjoke.com> - dad jokes API
+- <https://formsubmit.co/> - easy way to submit forms to your email
 
 
 ## free assets

@@ -152,3 +152,12 @@ Object.entries(myObj);
 <!-- basicblock-end -->
 
 
+---
+
+<!-- basicblock-start -->
+## 3 basic steps of using JS in frontend
+::
+1. get an element
+2. add an event listener to the element
+3. assign a callback function to be triggered by an event
+<!-- basicblock-end -->
