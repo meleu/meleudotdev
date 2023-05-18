@@ -19,7 +19,7 @@ deck: webdev::css
 - <https://cssgrid.io/> - CSS grid layout.
 - <https://flexbox.io/> - Flexbox layout.
 - <https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/>
-
+- <https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png> - flexbox poster
 
 ## how to organize your CSS code
 

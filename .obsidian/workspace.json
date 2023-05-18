@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/webdev-helper-services.md",
-                "mode": "preview",
+                "file": "notes/css.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/webdev-helper-services.md"
+                "file": "notes/css.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/webdev-helper-services.md",
+                "file": "notes/css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/webdev-helper-services.md",
+                "file": "notes/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +175,8 @@
   },
   "active": "68edff350bd3c9d6",
   "lastOpenFiles": [
-    "notes/links - free assets.md",
     "notes/webdev-helper-services.md",
+    "notes/links - free assets.md",
     "notes/anki-frontend.md",
     "notes/anki-ruby.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
