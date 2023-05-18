@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/javascript.md",
+                "file": "notes/javascript-class.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/javascript.md"
+                "file": "notes/javascript-class.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/javascript.md",
+                "file": "notes/javascript-class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/javascript.md",
+                "file": "notes/javascript-class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +175,8 @@
   },
   "active": "4b7ca3df96767faf",
   "lastOpenFiles": [
+    "notes/javascript.md",
+    "notes/javascript-class.md",
     "notes/webdev-helper-services.md",
     "notes/css.md",
     "notes/links - free assets.md",
@@ -203,8 +205,6 @@
     "private/domain.md",
     "private/Pense e Enriqueca - pratica 1.md",
     "private/peso-altura-familia.md",
-    "private/PL.md",
-    "private/ranking das caipirinhas.md",
     "assets/flexbox-justify-content-options.png",
     "assets/vscode-command-palette-settings-json.png",
     "assets/prettier-vscode-extension.png",
