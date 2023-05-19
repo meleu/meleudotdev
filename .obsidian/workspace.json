@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/javascript-class.md",
+                "file": "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,13 +74,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -96,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/javascript-class.md"
+                "file": "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md"
               }
             }
           },
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/javascript-class.md",
+                "file": "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/javascript-class.md",
+                "file": "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +173,11 @@
   },
   "active": "4b7ca3df96767faf",
   "lastOpenFiles": [
-    "notes/Stimulus.md",
+    "notes/learning/lewagon/bootcamp-log.md",
+    "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
+    "templates/lewagon-log.md",
     "notes/javascript-class.md",
+    "notes/Stimulus.md",
     "notes/javascript.md",
     "notes/webdev-helper-services.md",
     "notes/css.md",
@@ -202,9 +203,6 @@
     "private/logbots.app/database.md",
     "assets/shipment-status.png",
     "private/logbots.app/logbots - nova operacao.md",
-    "private/courses.md",
-    "private/domain.md",
-    "private/Pense e Enriqueca - pratica 1.md",
     "assets/flexbox-justify-content-options.png",
     "assets/vscode-command-palette-settings-json.png",
     "assets/prettier-vscode-extension.png",
