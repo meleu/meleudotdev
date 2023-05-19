@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
+                "file": "notes/learning/lewagon/log/2023-05-16 DOM Manipulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md"
+                "file": "notes/learning/lewagon/log/2023-05-16 DOM Manipulation.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
+                "file": "notes/learning/lewagon/log/2023-05-16 DOM Manipulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
+                "file": "notes/learning/lewagon/log/2023-05-16 DOM Manipulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,8 +174,10 @@
   },
   "active": "4b7ca3df96767faf",
   "lastOpenFiles": [
-    "notes/learning/lewagon/bootcamp-log.md",
+    "notes/learning/lewagon/log/2023-05-15 - JavaScript.md",
+    "notes/learning/lewagon/log/2023-05-16 DOM Manipulation.md",
     "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
+    "notes/learning/lewagon/bootcamp-log.md",
     "templates/lewagon-log.md",
     "notes/javascript-class.md",
     "notes/Stimulus.md",
@@ -200,9 +203,7 @@
     "notes/vscode - RocketSeat.md",
     "private/raw private.md",
     "private/logbots.app/iniciando-login.md",
-    "private/logbots.app/database.md",
     "assets/shipment-status.png",
-    "private/logbots.app/logbots - nova operacao.md",
     "assets/flexbox-justify-content-options.png",
     "assets/vscode-command-palette-settings-json.png",
     "assets/prettier-vscode-extension.png",
