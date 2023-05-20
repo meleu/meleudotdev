@@ -22,18 +22,19 @@
             }
           },
           {
-            "id": "2592fff3c1f672c1",
+            "id": "4ea67ac0215de17c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/learning/lewagon/log/2023-05-16 - DOM Manipulation.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -88,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md"
+                "file": "notes/learning/lewagon/log/2023-05-16 - DOM Manipulation.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
+                "file": "notes/learning/lewagon/log/2023-05-16 - DOM Manipulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
+                "file": "notes/learning/lewagon/log/2023-05-16 - DOM Manipulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,17 +187,25 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "4b7ca3df96767faf",
+  "active": "4ea67ac0215de17c",
   "lastOpenFiles": [
+    "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
+    "notes/learning/lewagon/bootcamp-log.md",
+    "private/kanban/kanban - courses.md",
+    "templates/lewagon-log.md",
+    "private/kanban/kanban.md",
+    "private/filhos/viagem dos pequeninos.md",
+    "private/filhos/sobre preocupacoes com Davi.md",
+    "private/filhos/danilo-alfabetizacao.md",
+    "private/carreira/RedHat/Red Hat Challenge.md",
+    "private/assets/docker-sources.pdf",
+    "private/coisas a adquirir apos virar dev.md",
     "notes/learning/lewagon/log/2023-05-16 - DOM Manipulation.md",
     "notes/learning/devops-bootcamp/04-build-and-package-manager-tools.md",
     "notes/learning/rocketseat/gostack-bootcamp/level-01/02-frontend-with-reactjs.md",
-    "notes/learning/lewagon/bootcamp-log.md",
-    "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
     "notes/learning/lewagon/log/2023-05-17 - AJAX.md",
     "notes/learning/lewagon/log/2023-05-19 - Product Design Sprint.md",
     "notes/learning/lewagon/log/2023-05-15 - JavaScript.md",
-    "templates/lewagon-log.md",
     "notes/javascript-class.md",
     "notes/Stimulus.md",
     "notes/javascript.md",
@@ -208,15 +216,8 @@
     "notes/anki-ruby.md",
     "notes/books/7-habitos-eficazes/Os 7 Habitos das pessoas Altamente Eficazes.md",
     "notes/books/7-habitos-eficazes/Habito Eficaz 1 - Seja Proativo.md",
-    "notes/prettier-html.md",
-    "notes/links - frontend.md",
-    "notes/dom.md",
-    "notes/Sony WH-1000XM4 Headphones.md",
-    "templates/anki card.md",
     "assets/avatar-linkedin.png",
     "assets/anki-frontend-form-input-field.png",
-    "notes/shipment-status.md",
-    "private/logbots.app/pitch.md",
     "assets/shipment-status-big.png",
     "assets/shipment-status.png",
     "assets/flexbox-justify-content-options.png",
