@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-19 - Product Design Sprint.md",
+                "file": "notes/learning/lewagon/log/2023-05-17 - AJAX.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-19 - Product Design Sprint.md"
+                "file": "notes/learning/lewagon/log/2023-05-17 - AJAX.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-19 - Product Design Sprint.md",
+                "file": "notes/learning/lewagon/log/2023-05-17 - AJAX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-19 - Product Design Sprint.md",
+                "file": "notes/learning/lewagon/log/2023-05-17 - AJAX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,11 +174,12 @@
   },
   "active": "4b7ca3df96767faf",
   "lastOpenFiles": [
+    "notes/learning/lewagon/bootcamp-log.md",
+    "notes/learning/lewagon/log/2023-05-17 - AJAX.md",
     "notes/learning/lewagon/log/2023-05-16 - DOM Manipulation.md",
     "notes/learning/lewagon/log/2023-05-19 - Product Design Sprint.md",
     "notes/learning/lewagon/log/2023-05-15 - JavaScript.md",
     "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
-    "notes/learning/lewagon/bootcamp-log.md",
     "templates/lewagon-log.md",
     "notes/javascript-class.md",
     "notes/Stimulus.md",
@@ -202,7 +203,6 @@
     "private/carreira/lemon.md",
     "assets/shipment-status-big.png",
     "notes/vscode - RocketSeat.md",
-    "private/raw private.md",
     "assets/shipment-status.png",
     "assets/flexbox-justify-content-options.png",
     "assets/vscode-command-palette-settings-json.png",
