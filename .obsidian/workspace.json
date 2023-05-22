@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-22 - Rails Intro.md",
+                "file": "notes/11ty.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-22 - Rails Intro.md"
+                "file": "notes/11ty.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-22 - Rails Intro.md",
+                "file": "notes/11ty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-22 - Rails Intro.md",
+                "file": "notes/11ty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,10 +174,15 @@
   },
   "active": "5aa51c0b23f526e4",
   "lastOpenFiles": [
+    "notes/links - frontend.md",
+    "notes/Web Design in 4 minutes.md",
+    "notes/autoindent-html.md",
+    "notes/prettier-html.md",
+    "notes/learning/origamid-bootstrap.md",
+    "notes/learning/lewagon/log/2023-05-22 - Rails Intro.md",
     "assets/Rails Intro - Action View Convention.png",
     "assets/Rails Intro - MVC Review.png",
     "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
-    "notes/learning/lewagon/log/2023-05-22 - Rails Intro.md",
     "private/post bootcamp projects.md",
     "private/carreira/portfolio.md",
     "notes/learning/lewagon/bootcamp-log.md",
@@ -198,10 +203,6 @@
     "notes/learning/lewagon/log/2023-05-19 - Product Design Sprint.md",
     "notes/learning/lewagon/log/2023-05-15 - JavaScript.md",
     "notes/javascript-class.md",
-    "notes/Stimulus.md",
-    "notes/javascript.md",
-    "notes/webdev-helper-services.md",
-    "notes/css.md",
     "assets/avatar-linkedin.png",
     "assets/anki-frontend-form-input-field.png",
     "assets/shipment-status-big.png",
@@ -210,7 +211,6 @@
     "assets/vscode-command-palette-settings-json.png",
     "assets/prettier-vscode-extension.png",
     "assets/Pasted image 20220613171754.png",
-    "assets/Pasted image 20230508220536.png",
     "notes/books/poodr",
     "notes/books/Untitled",
     "notes/learning/lewagon/log",

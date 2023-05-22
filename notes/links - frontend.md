@@ -4,27 +4,31 @@ dg-publish: true
 
 # frontend
 
+Contents about HTML + CSS + JavaScript
+
 See also: [[links - free assets]]
 
-HTML + CSS + JavaScript
+## Forms
+
+- <https://www.origamid.com/curso/html-e-css-para-iniciantes/>
+
+
+## Links
 
 - <https://web.dev> - many rich contents
-- <https://jgthms.com/web-design-in-4-minutes/> - [[Web Design in 4 minutes]]
+- [[Web Design in 4 minutes]]
 - <https://learnfromsteph.dev/> - A (modern/2020ish) web development video course for beginners 
 - <https://web.dev/learn/css/> - Very in-depth way to learn CSS 
 - <https://www.freecodecamp.org/> - really awesome to learn frontend stuff.
-- <https://pagexl.com/> - Create a simple and beautiful one-page website in 5 minutes.
 - <https://csslayout.io/> - nice inspiration to pick a layout and then practice CSS.
-- <https://css-tricks.com/  console.log(event.propertyName);
-dom/> - nice article to explain in simple terms what the DOM is.
 - <https://htmldom.dev/> - useful DOM manipulation recipes.
 - <https://thisthat.dev/> - What is the difference between this & that? e.g.: `display: none` vs. `[hidden]`
 - <https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript#use_async_or_defer> - in depth guide about optimizing the loading time of javascript files.
-- <https://michalsnik.github.io/aos/> - animate on scroll library.
 
 ## inspiration
 
 - <https://html5up.net/> - simple designs to study.
+- <https://pagexl.com/> - Create a simple and beautiful one-page website in 5 minutes.
 
 ## colors
 - <https://coolors.co/> - The super fast color palettes generator
