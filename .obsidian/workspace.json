@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b7ca3df96767faf",
+            "id": "5aa51c0b23f526e4",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
+                "file": "notes/learning/lewagon/log/2023-05-22 - Rails Intro.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -80,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md"
+                "file": "notes/learning/lewagon/log/2023-05-22 - Rails Intro.md"
               }
             }
           },
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
+                "file": "notes/learning/lewagon/log/2023-05-22 - Rails Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
+                "file": "notes/learning/lewagon/log/2023-05-22 - Rails Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,13 +172,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0da2875d0547afe4",
+  "active": "5aa51c0b23f526e4",
   "lastOpenFiles": [
+    "assets/Rails Intro - Action View Convention.png",
+    "assets/Rails Intro - MVC Review.png",
+    "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
+    "notes/learning/lewagon/log/2023-05-22 - Rails Intro.md",
     "private/post bootcamp projects.md",
     "private/carreira/portfolio.md",
     "notes/learning/lewagon/bootcamp-log.md",
     "notes/apresentacao - programacao defensiva em shell-script.md",
-    "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
     "notes/learning/lewagon/log/2023-05-16 - DOM Manipulation.md",
     "private/kanban/kanban - courses.md",
     "templates/lewagon-log.md",
@@ -200,8 +202,6 @@
     "notes/javascript.md",
     "notes/webdev-helper-services.md",
     "notes/css.md",
-    "notes/links - free assets.md",
-    "notes/anki-frontend.md",
     "assets/avatar-linkedin.png",
     "assets/anki-frontend-form-input-field.png",
     "assets/shipment-status-big.png",
@@ -211,7 +211,6 @@
     "assets/prettier-vscode-extension.png",
     "assets/Pasted image 20220613171754.png",
     "assets/Pasted image 20230508220536.png",
-    "assets/Martin Fowler - Active Record diagram.png",
     "notes/books/poodr",
     "notes/books/Untitled",
     "notes/learning/lewagon/log",
