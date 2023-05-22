@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/11ty.md",
+                "file": "notes/prettier-html.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/11ty.md"
+                "file": "notes/prettier-html.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/11ty.md",
+                "file": "notes/prettier-html.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/11ty.md",
+                "file": "notes/prettier-html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,12 +174,13 @@
   },
   "active": "5aa51c0b23f526e4",
   "lastOpenFiles": [
+    "notes/learning/lewagon/log/2023-05-22 - Rails Intro.md",
+    "notes/11ty.md",
     "notes/links - frontend.md",
     "notes/Web Design in 4 minutes.md",
     "notes/autoindent-html.md",
     "notes/prettier-html.md",
     "notes/learning/origamid-bootstrap.md",
-    "notes/learning/lewagon/log/2023-05-22 - Rails Intro.md",
     "assets/Rails Intro - Action View Convention.png",
     "assets/Rails Intro - MVC Review.png",
     "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
@@ -202,7 +203,6 @@
     "notes/learning/lewagon/log/2023-05-17 - AJAX.md",
     "notes/learning/lewagon/log/2023-05-19 - Product Design Sprint.md",
     "notes/learning/lewagon/log/2023-05-15 - JavaScript.md",
-    "notes/javascript-class.md",
     "assets/avatar-linkedin.png",
     "assets/anki-frontend-form-input-field.png",
     "assets/shipment-status-big.png",
