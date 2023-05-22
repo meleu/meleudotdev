@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -174,7 +173,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "4b7ca3df96767faf",
+  "active": "0da2875d0547afe4",
   "lastOpenFiles": [
     "private/post bootcamp projects.md",
     "private/carreira/portfolio.md",
