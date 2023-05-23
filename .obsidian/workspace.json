@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5aa51c0b23f526e4",
+            "id": "2d99fb26f9c9a2e5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/prettier-html.md",
+                "file": "notes/rails blog.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -95,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/prettier-html.md"
+                "file": "notes/rails blog.md"
               }
             }
           },
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/prettier-html.md",
+                "file": "notes/rails blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/prettier-html.md",
+                "file": "notes/rails blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,17 +174,19 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "5aa51c0b23f526e4",
+  "active": "2d99fb26f9c9a2e5",
   "lastOpenFiles": [
     "notes/learning/lewagon/log/2023-05-22 - Rails Intro.md",
+    "assets/Rails Intro - MVC Review.png",
+    "notes/rails blog.md",
+    "notes/learning/docker-mastery/Dockerfile basics - Building Docker Images.md",
+    "notes/prettier-html.md",
     "notes/11ty.md",
     "notes/links - frontend.md",
     "notes/Web Design in 4 minutes.md",
     "notes/autoindent-html.md",
-    "notes/prettier-html.md",
     "notes/learning/origamid-bootstrap.md",
     "assets/Rails Intro - Action View Convention.png",
-    "assets/Rails Intro - MVC Review.png",
     "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
     "private/post bootcamp projects.md",
     "private/carreira/portfolio.md",
@@ -200,9 +204,6 @@
     "private/coisas a adquirir apos virar dev.md",
     "notes/learning/devops-bootcamp/04-build-and-package-manager-tools.md",
     "notes/learning/rocketseat/gostack-bootcamp/level-01/02-frontend-with-reactjs.md",
-    "notes/learning/lewagon/log/2023-05-17 - AJAX.md",
-    "notes/learning/lewagon/log/2023-05-19 - Product Design Sprint.md",
-    "notes/learning/lewagon/log/2023-05-15 - JavaScript.md",
     "assets/avatar-linkedin.png",
     "assets/anki-frontend-form-input-field.png",
     "assets/shipment-status-big.png",
