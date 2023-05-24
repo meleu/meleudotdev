@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
+                "file": "notes/anki-ruby.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md"
+                "file": "notes/anki-ruby.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
+                "file": "notes/anki-ruby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
+                "file": "notes/anki-ruby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,9 +174,9 @@
   },
   "active": "de023180db650ce1",
   "lastOpenFiles": [
+    "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
     "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
     "notes/anki-ruby.md",
-    "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
     "notes/rails blog.md",
     "notes/learning/lewagon/bootcamp-log.md",
     "notes/Open Source projects I'm proud of.md",

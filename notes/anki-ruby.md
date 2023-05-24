@@ -319,3 +319,67 @@ class Restaurant < ApplicationRecord
 end
 ```
 <!-- basicblock-end -->
+
+
+---
+
+<!-- basicblock-start oid="Obsc708UHJgCd7T64jngDWN7" -->
+## Strong Params for a Task
+::
+```ruby
+def task_params
+  params
+    .require(:task)
+    .permit(:title, :details, :completed)
+end
+```
+<!-- basicblock-end -->
+
+
+
+---
+
+<!-- basicblock-start oid="Obs04C5uPXdtVlpmTC4tH7nE" -->
+## Run a method before a collection of controller's action
+::
+```ruby
+# example for set_task
+before_action :set_task, only: %i[show edit update destroy]
+```
+<!-- basicblock-end -->
+
+
+---
+
+<!-- basicblock-start oid="ObsusEBEMVmr0JkNWscJ1OzL" -->
+## Simple Form installation
+::
+```ruby
+# Gemfile
+# ...
+gem 'simple_form'
+```
+
+```bash
+bundle install
+rails generate simple_form:install --bootstrap
+```
+<!-- basicblock-end -->
+
+
+
+---
+
+<!-- basicblock-start oid="ObsAPk085wN2wOjPdtLoJvOC" -->
+## Simple Form for a Task
+::
+```ruby
+simple_form_for @task do |f|
+  f.input :title
+  f.input :details
+  f.submit
+end
+```
+<!-- basicblock-end -->
+
+
