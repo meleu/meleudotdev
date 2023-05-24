@@ -3,7 +3,7 @@ dg-publish: true
 ---
 # Build a Blog with Ruby on Rails
 
-<https://youtube.com/playlist?list=PLm8ctt9NhMNWD939gE728i13W999EFS0n>
+Following this [GoRails playlist](https://youtube.com/playlist?list=PLm8ctt9NhMNWD939gE728i13W999EFS0n)
 
 Requirements:
 - Ruby 3.2

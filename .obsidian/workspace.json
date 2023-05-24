@@ -10,6 +10,20 @@
           {
             "id": "de023180db650ce1",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/rails blog.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7c55574700714eb7",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -20,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -172,12 +187,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "de023180db650ce1",
+  "active": "7c55574700714eb7",
   "lastOpenFiles": [
+    "notes/rails blog.md",
+    "notes/anki-ruby.md",
     "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
     "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
-    "notes/anki-ruby.md",
-    "notes/rails blog.md",
     "notes/learning/lewagon/bootcamp-log.md",
     "notes/Open Source projects I'm proud of.md",
     "about.md",
