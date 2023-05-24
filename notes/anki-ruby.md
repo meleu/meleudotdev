@@ -307,3 +307,15 @@ end
 <!-- basicblock-end -->
 
 
+
+---
+
+<!-- basicblock-start oid="ObstJN5K8HVjDLiZYywbm9dw" -->
+## When a restaurant is destroyed, all of its reviews must be destroyed as well
+::
+```ruby
+class Restaurant < ApplicationRecord
+  has_many :reviews, dependent: :destroy
+end
+```
+<!-- basicblock-end -->

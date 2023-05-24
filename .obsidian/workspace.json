@@ -10,25 +10,11 @@
           {
             "id": "de023180db650ce1",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
+                "file": "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
                 "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "39dd91525db32357",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/rails blog.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -109,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-23 - Rails Models.md"
+                "file": "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md"
               }
             }
           },
@@ -130,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
+                "file": "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
+                "file": "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,8 +174,10 @@
   },
   "active": "de023180db650ce1",
   "lastOpenFiles": [
-    "notes/rails blog.md",
     "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
+    "notes/anki-ruby.md",
+    "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
+    "notes/rails blog.md",
     "notes/learning/lewagon/bootcamp-log.md",
     "notes/Open Source projects I'm proud of.md",
     "about.md",
@@ -214,9 +202,7 @@
     "private/filhos/viagem dos pequeninos.md",
     "private/filhos/sobre preocupacoes com Davi.md",
     "private/filhos/danilo-alfabetizacao.md",
-    "private/carreira/RedHat/Red Hat Challenge.md",
     "private/assets/docker-sources.pdf",
-    "private/coisas a adquirir apos virar dev.md",
     "assets/avatar-linkedin.png",
     "assets/anki-frontend-form-input-field.png",
     "assets/shipment-status-big.png",

@@ -92,7 +92,7 @@ From inside to outside:
 
 ---
 
-<!-- basicblock-start -->
+<!-- basicblock-start oid="ObsuyVyW8jNLOgjqMl9ifwmH" -->
 ## How to prevent the default behavior of an event from happening?
 ::
 Using the `preventDefault()` function in an event.
@@ -108,7 +108,7 @@ element.addEventListener(
 
 ---
 
-<!-- basicblock-start -->
+<!-- basicblock-start oid="ObsMnvj5DTcNp3sT660IgD6t" -->
 ## How to append content into a DOM element?
 ::
 Using `insertAdjacentHTML()`:
@@ -136,7 +136,7 @@ element.insertAdjacentHTML(
 
 ---
 
-<!-- basicblock-start -->
+<!-- basicblock-start oid="ObstWWw42bL5aybivK26vsAr" -->
 ## Get all the properties of an Object in JS
 ::
 Only the keys:
@@ -154,7 +154,7 @@ Object.entries(myObj);
 
 ---
 
-<!-- basicblock-start -->
+<!-- basicblock-start oid="ObscZ8YQfSHnRcZ74Qwc5uFX" -->
 ## 3 basic steps of using JS in frontend
 ::
 1. get an element
