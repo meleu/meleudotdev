@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "13c053b08d5d5a5d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.4"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -183,7 +172,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "13c053b08d5d5a5d",
+  "active": "de023180db650ce1",
   "lastOpenFiles": [
     "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
     "notes/anki-ruby.md",
