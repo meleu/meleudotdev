@@ -5,6 +5,9 @@ dg-publish: true
 
 Following this [GoRails playlist](https://youtube.com/playlist?list=PLm8ctt9NhMNWD939gE728i13W999EFS0n)
 
+> [!question]
+> Should I try [this](https://github.com/startbootstrap/startbootstrap-clean-blog)?
+
 Requirements:
 - Ruby 3.2
 - Rails 7.0.4

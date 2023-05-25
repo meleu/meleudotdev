@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b4d0fcc365fb9df7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -110,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md"
               }
             }
           },
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,12 +174,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b4d0fcc365fb9df7",
+  "active": "970d46f7e2384a34",
   "lastOpenFiles": [
+    "notes/rails blog.md",
     "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
+    "README.md",
     "notes/anki-ruby.md",
     "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
-    "notes/rails blog.md",
     "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
     "notes/learning/lewagon/bootcamp-log.md",
     "notes/Open Source projects I'm proud of.md",
@@ -216,7 +204,6 @@
     "templates/lewagon-log.md",
     "private/kanban/kanban.md",
     "private/filhos/viagem dos pequeninos.md",
-    "private/filhos/sobre preocupacoes com Davi.md",
     "private/assets/docker-sources.pdf",
     "assets/avatar-linkedin.png",
     "assets/anki-frontend-form-input-field.png",
