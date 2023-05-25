@@ -10,13 +10,15 @@
           {
             "id": "970d46f7e2384a34",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -78,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -173,9 +176,9 @@
   },
   "active": "970d46f7e2384a34",
   "lastOpenFiles": [
-    "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
-    "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
     "notes/anki-ruby.md",
+    "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
+    "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
     "notes/rails blog.md",
     "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
     "notes/learning/lewagon/bootcamp-log.md",
