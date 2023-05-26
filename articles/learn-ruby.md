@@ -7,6 +7,8 @@ tags:
 date: 2022-09-08T09:48:00-03:00
 ---
 
+# The best way I found to learn Ruby
+
 [[aprenda-ruby|🇧🇷🇵🇹 - Portuguese version]]
 
 ## Intro

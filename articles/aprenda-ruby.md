@@ -9,6 +9,8 @@ tags:
 date: 2022-09-02T09:50:00-03:00
 ---
 
+# A melhor maneira que encontrei para aprender Ruby
+
 [[learn-ruby|English version]]
 
 ## Intro
