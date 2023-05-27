@@ -4,49 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6628852c0fdcce0b",
+        "id": "3cae7a8cc5ba940a",
         "type": "tabs",
         "children": [
           {
-            "id": "970d46f7e2384a34",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ee5a16b1e7df2c85",
+            "id": "2250af51423183df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/aprenda-ruby.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "effb19149ccfe921",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "articles/learn-ruby.md",
-                "mode": "source",
+                "file": "notes/learning/lewagon/bootcamp-log.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -76,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "webpack",
+                "query": "set-url",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/learn-ruby.md"
+                "file": "notes/learning/lewagon/bootcamp-log.md"
               }
             }
           },
@@ -143,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "articles/learn-ruby.md",
+                "file": "notes/learning/lewagon/bootcamp-log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/learn-ruby.md",
+                "file": "notes/learning/lewagon/bootcamp-log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,23 +163,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "ObsidianAnkiSync:Start Obsidian Anki Sync": true,
+      "ObsidianAnkiSync:Start Obsidian Anki Sync": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "digitalgarden:Digital Garden Publication Center": false,
-      "terminal:Open terminal": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "effb19149ccfe921",
+  "active": "2250af51423183df",
   "lastOpenFiles": [
+    "notes/anki-frontend.md",
+    "notes/anki-ruby.md",
     "articles/aprenda-ruby.md",
     "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
     "notes/rails blog.md",
     "README.md",
-    "notes/anki-ruby.md",
     "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
     "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
     "notes/learning/lewagon/bootcamp-log.md",
@@ -228,7 +201,6 @@
     "notes/learning/lewagon/log/2023-05-16 - DOM Manipulation.md",
     "private/kanban/kanban - courses.md",
     "templates/lewagon-log.md",
-    "private/kanban/kanban.md",
     "private/assets/docker-sources.pdf",
     "assets/avatar-linkedin.png",
     "assets/anki-frontend-form-input-field.png",

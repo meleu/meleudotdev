@@ -161,3 +161,22 @@ Object.entries(myObj);
 2. add an event listener to the element
 3. assign a callback function to be triggered by an event
 <!-- basicblock-end -->
+
+
+---
+
+<!-- basicblock-start -->
+## CSS to use on background images to improve contrast?
+::
+```css
+.banner {
+  background-image:
+    linear-gradient(
+      135deg,
+      rgba(0,0,0,0.8) 0%,
+      rgba(0,0,0,0.2) 50%
+    ), url('background.jpg');
+  background-size: cover;
+}
+```
+<!-- basicblock-end -->

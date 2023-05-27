@@ -1,17 +1,12 @@
 [
-  "find-unlinked-files",
-  "url-into-selection",
-  "digitalgarden",
-  "obsidian-icon-shortcodes",
-  "table-editor-obsidian",
-  "obsidian-vimrc-support",
-  "obsidian-paste-image-rename",
-  "obsidian-dynamic-toc",
   "ObsidianAnkiSync",
-  "obsidian-kanban",
+  "table-editor-obsidian",
   "dataview",
+  "digitalgarden",
+  "obsidian-dynamic-toc",
+  "obsidian-icon-shortcodes",
+  "obsidian-kanban",
   "obsidian-git",
-  "obsidian-plugin-toc",
-  "note-refactor-obsidian",
-  "terminal"
+  "obsidian-paste-image-rename",
+  "url-into-selection"
 ]

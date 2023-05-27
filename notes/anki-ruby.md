@@ -383,3 +383,15 @@ end
 <!-- basicblock-end -->
 
 
+
+---
+
+<!-- basicblock-start -->
+## 5 steps of Rails assets pipeline
+::
+1. precompile
+2. concatenate
+3. minify
+4. fingerprinting (for caching)
+5. compacting (gzip)
+<!-- basicblock-end -->
