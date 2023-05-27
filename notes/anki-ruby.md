@@ -386,7 +386,7 @@ end
 
 ---
 
-<!-- basicblock-start -->
+<!-- basicblock-start oid="Obs9ih9c9L56kQD5XyJJ4BXS" -->
 ## 5 steps of Rails assets pipeline
 ::
 1. precompile
@@ -394,4 +394,37 @@ end
 3. minify
 4. fingerprinting (for caching)
 5. compacting (gzip)
+<!-- basicblock-end -->
+
+
+---
+
+<!-- basicblock-start oid="ObsD6U9HbrhftP6epddUy8bG" -->
+## Routes for restaurants and reviews
+::
+```ruby
+resources :restaurants do
+  resources :reviews, only: %i[new create]
+end
+
+resources :reviews, only: :destroy
+```
+<!-- basicblock-end -->
+
+
+---
+
+<!-- basicblock-start -->
+## View: delete button with a confirmation
+::
+```rb
+button_to(
+  "Delete",
+  @post,
+  method: :delete,
+  data: {
+    turbo_confirm: 'Sure?'
+  }
+)
+```
 <!-- basicblock-end -->

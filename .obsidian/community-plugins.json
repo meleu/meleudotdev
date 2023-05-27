@@ -8,5 +8,6 @@
   "obsidian-kanban",
   "obsidian-git",
   "obsidian-paste-image-rename",
-  "url-into-selection"
+  "url-into-selection",
+  "obsidian-vimrc-support"
 ]
