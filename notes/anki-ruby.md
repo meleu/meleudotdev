@@ -414,7 +414,7 @@ resources :reviews, only: :destroy
 
 ---
 
-<!-- basicblock-start -->
+<!-- basicblock-start oid="ObsiA5zoB3Cd4Tin8MK07i0Q" -->
 ## View: delete button with a confirmation
 ::
 ```rb
