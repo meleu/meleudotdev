@@ -65,3 +65,23 @@ WHERE condition
 6. order by
 7. limit
 <!-- basicblock-end -->
+
+
+---
+
+<!-- basicblock-start oid="ObsT4lP99y9RunAxYUzx5GiP" -->
+## How to design a One-To-Many relationship
+::
+The table that "belongs to" another one stores the ID of an element from the other table as a foreign key.
+
+Example:
+
+- cities
+    - id
+    - name
+- inhabitants
+    - first_name
+    - last_name
+    - city_id (**foreign key**)
+
+<!-- basicblock-end -->

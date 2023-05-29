@@ -180,3 +180,169 @@ Object.entries(myObj);
 }
 ```
 <!-- basicblock-end -->
+
+
+
+---
+
+<!-- basicblock-start oid="ObsUFapT62scN8haUfgjn64m" -->
+## JS: add/remove CSS classes
+::
+```js
+el.classList.add(className)
+el.classList.remove(className)
+el.classList.toggle(className)
+```
+<!-- basicblock-end -->
+
+
+
+---
+
+<!-- basicblock-start oid="ObsQHJuYUcQjE0VaOU30Phmv" -->
+## 3 most used DOM events
+::
+```
+click  # any visible element
+submit # form
+keyup  # window / any focused element
+```
+<!-- basicblock-end -->
+
+
+
+---
+
+<!-- basicblock-start oid="ObsPZXYkbAoXz7T7CNNa6PLM" -->
+## Change style via JS
+::
+```js
+el.style.<CSS-property> = <value>
+
+// examples
+el.style.display = 'none'
+el.style.backgroundColor = '#fce'
+```
+<!-- basicblock-end -->
+
+
+
+---
+
+<!-- basicblock-start oid="Obs0vF20n8bOi3eu138zOFKz" -->
+## 3 main steps of DOM manipulation
+::
+1. select one or more **elements** - usually with `document.querySelector()` or `.getElementById()`.
+2. define a **function** to execute
+3. define which **event**, happening in which **element**, should trigger the **function** (probably acting in another **element**)
+<!-- basicblock-end -->
+
+
+---
+
+<!-- basicblock-start oid="Obsr6qw3isx34O2uncv0Mad2" -->
+## StimulusJS key concepts
+::
+1. Controllers
+2. Actions
+3. Targets
+
+mnemonic: CAT 🐱
+<!-- basicblock-end -->
+
+
+---
+
+<!-- basicblock-start oid="Obsx40gZ3JUSt3FioFjdzQaH" -->
+## Stimulus' core purpose
+::
+Automatically connect DOM elements to JavaScript objects (called controllers)
+<!-- basicblock-end -->
+
+
+---
+
+<!-- basicblock-start oid="ObsknWgz3Nnbwv4U0vgdhKsi" -->
+## Stimulus: marking an HTML element to be the controller
+::
+```html
+<!-- example to connect a div
+with the hello_controller.js -->
+<div data-controller="hello">
+  <!-- ... -->
+</div>
+```
+<!-- basicblock-end -->
+
+
+---
+
+<!-- basicblock-start oid="ObsiCQ5wJYcdPzPseqlCObgY" -->
+## Stimulus controller "header"
+::
+```js
+// src/controllers/hello_controller.js
+import { Controller } from "@hotwired/stimulus"
+
+export default class extends Controller {}
+```
+<!-- basicblock-end -->
+
+
+
+---
+
+<!-- basicblock-start oid="Obs6V9UStf3tuN7m6Gb32S4S" -->
+## Connect a Stimulus action to a button's click
+::
+```html
+<div data-controller="hello">
+  <input type="text">
+  <button data-action="click->hello#greet">Greet</button>
+</div>
+```
+**NOTE**: the action must be in the controller's tree.
+<!-- basicblock-end -->
+
+
+---
+
+<!-- basicblock-start oid="ObsgNRjk0eGwlH0bvqubqdUO" -->
+## Stimulus: steps to mark an element as a target
+::
+1. mark in the html
+2. grab in the controller.js
+<!-- basicblock-end -->
+
+---
+
+<!-- basicblock-start oid="ObszBqPi6NrY1svi2w7HQOmX" -->
+## Stimulus: mark an HTML element as a target
+::
+```html
+<div data-controller="hello">
+  <!-- here 👇 -->
+  <input data-hello-target="nameInput" type="text">
+  <button data-action="click->hello#greet">Greet</button>
+</div>
+```
+<!-- basicblock-end -->
+
+
+---
+
+<!-- basicblock-start oid="ObsAJCTDgfFaBNUiGODgTlVh" -->
+## Stimulus: grab the targets in the controller
+::
+```js
+export default class extends Controller {
+  // the target name goes as an element of `targets`
+  static targets = [ "nameInput" ]
+  
+  greet() {
+    // and it's accessible by `this.${targetName}Target`
+    const element = this.nameInputTarget
+  }
+}
+<!-- basicblock-end -->
+
