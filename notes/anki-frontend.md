@@ -265,11 +265,9 @@ Automatically connect DOM elements to JavaScript objects (called controllers)
 <!-- basicblock-start oid="ObsknWgz3Nnbwv4U0vgdhKsi" -->
 ## Stimulus: marking an HTML element to be the controller
 ::
+Example to connect a div with the `hello_controller.js`:
 ```html
-<!-- example to connect a div
-with the hello_controller.js -->
 <div data-controller="hello">
-  <!-- ... -->
 </div>
 ```
 <!-- basicblock-end -->
@@ -284,7 +282,9 @@ with the hello_controller.js -->
 // src/controllers/hello_controller.js
 import { Controller } from "@hotwired/stimulus"
 
-export default class extends Controller {}
+export default class extends Controller {
+  // ...
+}
 ```
 <!-- basicblock-end -->
 
@@ -308,9 +308,9 @@ export default class extends Controller {}
 ---
 
 <!-- basicblock-start oid="ObsgNRjk0eGwlH0bvqubqdUO" -->
-## Stimulus: steps to mark an element as a target
+## Stimulus: steps to set an element as a target
 ::
-1. mark in the html
+1. mark as target in the html
 2. grab in the controller.js
 <!-- basicblock-end -->
 
@@ -321,9 +321,7 @@ export default class extends Controller {}
 ::
 ```html
 <div data-controller="hello">
-  <!-- here 👇 -->
-  <input data-hello-target="nameInput" type="text">
-  <button data-action="click->hello#greet">Greet</button>
+ <input data-hello-target="nameInput" type="text">
 </div>
 ```
 <!-- basicblock-end -->

@@ -6,7 +6,7 @@ dg-publish: true
 Following this [GoRails playlist](https://youtube.com/playlist?list=PLm8ctt9NhMNWD939gE728i13W999EFS0n)
 
 > [!question]
-> Should I try [this](https://github.com/startbootstrap/startbootstrap-clean-blog)?
+> Should I try [this](https://github.com/startbootstrap/startbootstrap-clean-blog) to style this project?
 
 Requirements:
 - Ruby 3.2
@@ -98,4 +98,4 @@ Also create the views for each action inside `app/views/blog_posts`.
 
 
 
-[PAREI AQUI](https://www.youtube.com/watch?v=XsOnLCBb4Ew&list=PLm8ctt9NhMNWD939gE728i13W999EFS0n&index=8)
+[PAREI AQUI](https://youtu.be/igS0Y6hfZoM)

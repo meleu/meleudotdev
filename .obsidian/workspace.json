@@ -8,47 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2250af51423183df",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/learning/lewagon/bootcamp-log.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f27c138f973fb849",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/learning/lewagon/log/2023-05-04 - Schema Design and SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "97c2fbde87178210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/rails blog.md",
+                "file": "notes/anki-frontend.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -125,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/rails blog.md"
+                "file": "notes/anki-frontend.md"
               }
             }
           },
@@ -146,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/rails blog.md",
+                "file": "notes/anki-frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/rails blog.md",
+                "file": "notes/anki-frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,6 +174,9 @@
   },
   "active": "97c2fbde87178210",
   "lastOpenFiles": [
+    "notes/learning/rocketseat/gostack-bootcamp/level-01/02-frontend-with-reactjs.md",
+    "notes/anki-ruby.md",
+    "notes/rails blog.md",
     "notes/anki-sql.md",
     "notes/learning/lewagon/log/2023-05-04 - Schema Design and SQL.md",
     "notes/learning/lewagon/bootcamp-log.md",
@@ -212,13 +186,11 @@
     "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
     "notes/anki-frontend.md",
     "notes/learning/lewagon/log/2023-05-16 - DOM Manipulation.md",
-    "notes/anki-ruby.md",
     "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
     "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
     "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
     "notes/learning/lewagon/log/2023-05-22 - Rails Intro.md",
     "articles/aprenda-ruby.md",
-    "notes/rails blog.md",
     "README.md",
     "notes/Open Source projects I'm proud of.md",
     "about.md",
@@ -229,7 +201,6 @@
     "notes/links - frontend.md",
     "notes/Web Design in 4 minutes.md",
     "notes/autoindent-html.md",
-    "notes/learning/origamid-bootstrap.md",
     "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",
     "assets/avatar-linkedin.png",
