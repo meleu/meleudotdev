@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/anki-frontend.md",
+                "file": "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/anki-frontend.md"
+                "file": "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md"
               }
             }
           },
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/anki-frontend.md",
+                "file": "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/anki-frontend.md",
+                "file": "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +173,8 @@
   },
   "active": "97c2fbde87178210",
   "lastOpenFiles": [
+    "notes/anki-frontend.md",
+    "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md",
     "notes/learning/rocketseat/gostack-bootcamp/level-01/02-frontend-with-reactjs.md",
     "notes/anki-ruby.md",
     "notes/rails blog.md",
@@ -184,7 +185,6 @@
     "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
     "notes/learning/lewagon/log/2023-04-28 - MVC.md",
     "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
-    "notes/anki-frontend.md",
     "notes/learning/lewagon/log/2023-05-16 - DOM Manipulation.md",
     "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
     "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
@@ -200,7 +200,6 @@
     "notes/11ty.md",
     "notes/links - frontend.md",
     "notes/Web Design in 4 minutes.md",
-    "notes/autoindent-html.md",
     "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",
     "assets/avatar-linkedin.png",
