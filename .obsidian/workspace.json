@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md",
+                "file": "notes/git.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "set-url",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md"
+                "file": "notes/git.md"
               }
             }
           },
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md",
+                "file": "notes/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md",
+                "file": "notes/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,8 +174,8 @@
   },
   "active": "97c2fbde87178210",
   "lastOpenFiles": [
-    "notes/anki-frontend.md",
     "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md",
+    "notes/anki-frontend.md",
     "notes/learning/rocketseat/gostack-bootcamp/level-01/02-frontend-with-reactjs.md",
     "notes/anki-ruby.md",
     "notes/rails blog.md",
