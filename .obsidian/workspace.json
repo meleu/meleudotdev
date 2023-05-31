@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/git.md",
+                "file": "private/PL.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/git.md"
+                "file": "private/PL.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/git.md",
+                "file": "private/PL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/git.md",
+                "file": "private/PL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,10 +174,13 @@
   },
   "active": "97c2fbde87178210",
   "lastOpenFiles": [
+    "notes/links - frontend.md",
+    "README.md",
+    "notes/anki-ruby.md",
+    "notes/git.md",
     "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md",
     "notes/anki-frontend.md",
     "notes/learning/rocketseat/gostack-bootcamp/level-01/02-frontend-with-reactjs.md",
-    "notes/anki-ruby.md",
     "notes/rails blog.md",
     "notes/anki-sql.md",
     "notes/learning/lewagon/log/2023-05-04 - Schema Design and SQL.md",
@@ -192,15 +195,12 @@
     "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
     "notes/learning/lewagon/log/2023-05-22 - Rails Intro.md",
     "articles/aprenda-ruby.md",
-    "README.md",
     "notes/Open Source projects I'm proud of.md",
     "about.md",
     "assets/Rails Intro - MVC Review.png",
     "notes/learning/docker-mastery/Dockerfile basics - Building Docker Images.md",
     "notes/prettier-html.md",
     "notes/11ty.md",
-    "notes/links - frontend.md",
-    "notes/Web Design in 4 minutes.md",
     "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",
     "assets/avatar-linkedin.png",
