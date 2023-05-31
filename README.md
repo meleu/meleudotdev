@@ -12,7 +12,7 @@ title: "meleu.dev"
   <img src="https://github.com/meleu.png?size=120" alt="avatar">
 </div>
 
-I'm a Software Engineer from Brazil (currently working in the DevOps field).
+I'm a **Software Engineer** from Brazil.
 
 This is my 🌱 [[digital garden]]. Most of the contents is not "finished", but evolving over time.
 
