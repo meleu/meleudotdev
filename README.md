@@ -16,6 +16,12 @@ I'm a Software Engineer from Brazil (currently working in the DevOps field).
 
 This is my 🌱 [[digital garden]]. Most of the contents is not "finished", but evolving over time.
 
+> Other places you can find me:
+> 
+> - <https://meleu.sh> (in Portuguese)
+> - [Github](https://github.com/meleu)
+> - [LinkedIn](https://www.linkedin.com/in/meleu/)
+
 I believe that **writing is thinking**, therefore the notes here exist to aid my thinking, learning and creating. I keep them public because [learning in public](https://www.swyx.io/learn-in-public/) helps me to learn faster.
 
 Here are some things that might be interesting to you:
@@ -29,12 +35,6 @@ Here are some things that might be interesting to you:
 - 📝 my [[monthly]] log
 
 If you're curious enough to explore this garden, keep in mind that it can be a bilingual experience (English and Portuguese).
-
-Other places you can find me:
-
-- <https://meleu.sh> (in Portuguese)
-- [Github](https://github.com/meleu)
-- [LinkedIn](https://www.linkedin.com/in/meleu/)
 
 ---
 
