@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "notes/obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/obsidian.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,9 +174,11 @@
   },
   "active": "97c2fbde87178210",
   "lastOpenFiles": [
+    "notes/digital garden.md",
+    "notes/using obsidian-digital-garden.md",
+    "README.md",
     "private/PL.md",
     "notes/links - frontend.md",
-    "README.md",
     "notes/anki-ruby.md",
     "notes/git.md",
     "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md",
@@ -199,8 +201,6 @@
     "notes/Open Source projects I'm proud of.md",
     "about.md",
     "assets/Rails Intro - MVC Review.png",
-    "notes/learning/docker-mastery/Dockerfile basics - Building Docker Images.md",
-    "notes/prettier-html.md",
     "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",
     "assets/avatar-linkedin.png",

@@ -55,6 +55,8 @@ These are my preferences.
 - Digital Garden
     - To create a 🌱 [[digital garden]] like [mine one](https://meleu.netlify.app)
 
+---
+
 ### Plugins I plan to try later
 
 - <https://www.youtube.com/watch?v=Bf3d7qyz17c>

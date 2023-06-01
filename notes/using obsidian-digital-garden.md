@@ -3,6 +3,9 @@ dg-publish: true
 ---
 # using obsidian-digital-garden
 
+> [!update]
+> This note is outdated. It's better to follow the instructions in the [official website](https://dg-docs.ole.dev/)
+
 This is my oversimplified version of the plugin's instructions [here](https://github.com/oleeskild/obsidian-digital-garden).
 
 ## preliminary work
