@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/obsidian.md",
+                "file": "private/carreira/zazmic/Ruff - Industria 4.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/obsidian.md"
+                "file": "private/carreira/zazmic/Ruff - Industria 4.0.md"
               }
             }
           },
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/obsidian.md",
+                "file": "private/carreira/zazmic/Ruff - Industria 4.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/obsidian.md",
+                "file": "private/carreira/zazmic/Ruff - Industria 4.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +173,10 @@
   },
   "active": "97c2fbde87178210",
   "lastOpenFiles": [
+    "private/traduzir.md",
+    "private/carreira/zazmic/Ruff - Industria 4.0.md",
+    "private/raw private.md",
+    "notes/obsidian.md",
     "notes/digital garden.md",
     "notes/using obsidian-digital-garden.md",
     "README.md",
@@ -196,10 +199,6 @@
     "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
     "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
     "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
-    "notes/learning/lewagon/log/2023-05-22 - Rails Intro.md",
-    "articles/aprenda-ruby.md",
-    "notes/Open Source projects I'm proud of.md",
-    "about.md",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",
