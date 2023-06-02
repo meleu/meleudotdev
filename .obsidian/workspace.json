@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8312dfa9c89671b9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -171,7 +182,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "97c2fbde87178210",
+  "active": "8312dfa9c89671b9",
   "lastOpenFiles": [
     "private/traduzir.md",
     "private/carreira/zazmic/Ruff - Industria 4.0.md",
