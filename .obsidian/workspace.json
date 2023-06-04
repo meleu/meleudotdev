@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
+                "file": "private/carreira/CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md"
+                "file": "private/carreira/CV.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
+                "file": "private/carreira/CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
+                "file": "private/carreira/CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +172,10 @@
   },
   "active": "22accc1e74b3df9b",
   "lastOpenFiles": [
-    "notes/learning/lewagon/log/2023-06-01 - Search.md",
+    "private/carreira/portfolio.md",
+    "private/carreira/CV.md",
     "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
+    "notes/learning/lewagon/log/2023-06-01 - Search.md",
     "notes/learning/lewagon/bootcamp-log.md",
     "private/traduzir.md",
     "private/carreira/zazmic/Ruff - Industria 4.0.md",
@@ -196,8 +198,6 @@
     "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
     "notes/learning/lewagon/log/2023-04-28 - MVC.md",
     "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
-    "notes/learning/lewagon/log/2023-05-16 - DOM Manipulation.md",
-    "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",
