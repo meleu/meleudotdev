@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -170,7 +171,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "22accc1e74b3df9b",
+  "active": "0da2875d0547afe4",
   "lastOpenFiles": [
     "private/carreira/portfolio.md",
     "private/carreira/CV.md",
