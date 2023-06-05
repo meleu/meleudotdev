@@ -7,19 +7,21 @@ dg-publish: true
 /
 
 /events
-/events/:id
 /events/new
 /events/edit
 /events/states
 /events/cities
 /events/genres
+/events/:id
 /events/:id/reviews
 
 /collectives
-/collectives/:id
 /collectives/states
 /collectives/cities
 /collectives/genres
+/collectives/:id
+/collectives/:id/events
+/collectives/:id/events/old
 
 /collectives/new
 /collectives/edit
