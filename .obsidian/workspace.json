@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
+                "file": "notes/learning/lewagon/final-project/notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md"
+                "file": "notes/learning/lewagon/final-project/notes.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
+                "file": "notes/learning/lewagon/final-project/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
+                "file": "notes/learning/lewagon/final-project/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,9 +173,11 @@
   },
   "active": "22accc1e74b3df9b",
   "lastOpenFiles": [
+    "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
+    "notes/learning/lewagon/final-project/notes.md",
+    "notes/learning/lewagon/final-project",
     "private/carreira/CV.md",
     "private/carreira/portfolio.md",
-    "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
     "notes/learning/lewagon/log/2023-06-01 - Search.md",
     "notes/learning/lewagon/bootcamp-log.md",
     "private/traduzir.md",
@@ -198,7 +200,6 @@
     "notes/learning/lewagon/log/2023-05-05 - CRUD with SQL.md",
     "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
     "notes/learning/lewagon/log/2023-04-28 - MVC.md",
-    "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",
