@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/CV.md",
+                "file": "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/CV.md"
+                "file": "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/CV.md",
+                "file": "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/CV.md",
+                "file": "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,10 +171,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "0da2875d0547afe4",
+  "active": "22accc1e74b3df9b",
   "lastOpenFiles": [
-    "private/carreira/portfolio.md",
     "private/carreira/CV.md",
+    "private/carreira/portfolio.md",
     "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
     "notes/learning/lewagon/log/2023-06-01 - Search.md",
     "notes/learning/lewagon/bootcamp-log.md",
