@@ -1,6 +1,14 @@
 ---
 dg-publish: true
 ---
+
+## Data Brick
+
+- User name must be unique
+
+
+
+
 ## Routes
 
 ```
@@ -20,6 +28,8 @@ dg-publish: true
 /collectives/cities
 /collectives/genres
 /collectives/:id
+/collectives/:id/posts
+/collectives/:id/posts/:id
 /collectives/:id/events
 /collectives/:id/events/old
 
