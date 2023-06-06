@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/final-project/notes.md",
+                "file": "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/final-project/notes.md"
+                "file": "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/final-project/notes.md",
+                "file": "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/final-project/notes.md",
+                "file": "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,15 +170,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "22accc1e74b3df9b",
+  "active": "0da2875d0547afe4",
   "lastOpenFiles": [
-    "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
+    "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md",
+    "notes/learning/lewagon/bootcamp-log.md",
+    "notes/learning/lewagon/log/2023-04-17 - Setup.md",
     "notes/learning/lewagon/final-project/notes.md",
+    "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
     "notes/learning/lewagon/final-project",
     "private/carreira/CV.md",
     "private/carreira/portfolio.md",
     "notes/learning/lewagon/log/2023-06-01 - Search.md",
-    "notes/learning/lewagon/bootcamp-log.md",
     "private/traduzir.md",
     "private/carreira/zazmic/Ruff - Industria 4.0.md",
     "private/raw private.md",
@@ -198,8 +199,6 @@
     "notes/anki-sql.md",
     "notes/learning/lewagon/log/2023-05-04 - Schema Design and SQL.md",
     "notes/learning/lewagon/log/2023-05-05 - CRUD with SQL.md",
-    "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
-    "notes/learning/lewagon/log/2023-04-28 - MVC.md",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",
