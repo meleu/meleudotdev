@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-06 - from Design to Code.md",
+                "file": "notes/learning/lewagon/log/2023-05-30 - Authorization with Pundit.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-06 - from Design to Code.md"
+                "file": "notes/learning/lewagon/log/2023-05-30 - Authorization with Pundit.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-06 - from Design to Code.md",
+                "file": "notes/learning/lewagon/log/2023-05-30 - Authorization with Pundit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-06 - from Design to Code.md",
+                "file": "notes/learning/lewagon/log/2023-05-30 - Authorization with Pundit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +172,9 @@
   },
   "active": "22accc1e74b3df9b",
   "lastOpenFiles": [
-    "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
     "notes/learning/lewagon/log/2023-06-06 - from Design to Code.md",
+    "notes/learning/lewagon/log/2023-05-30 - Authorization with Pundit.md",
+    "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
     "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md",
     "notes/learning/lewagon/bootcamp-log.md",
     "notes/learning/lewagon/log/2023-04-17 - Setup.md",
@@ -198,7 +199,6 @@
     "notes/learning/rocketseat/gostack-bootcamp/level-01/02-frontend-with-reactjs.md",
     "notes/rails blog.md",
     "notes/anki-sql.md",
-    "notes/learning/lewagon/log/2023-05-04 - Schema Design and SQL.md",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",
