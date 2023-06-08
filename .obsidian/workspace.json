@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-08 - DB Advanced.md",
+                "file": "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-08 - DB Advanced.md"
+                "file": "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-08 - DB Advanced.md",
+                "file": "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-08 - DB Advanced.md",
+                "file": "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +172,8 @@
   },
   "active": "22accc1e74b3df9b",
   "lastOpenFiles": [
+    "notes/learning/lewagon/bootcamp-log.md",
+    "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
     "notes/learning/lewagon/log/2023-05-30 - Authorization with Pundit.md",
     "notes/learning/lewagon/log/2023-06-08 - DB Advanced.md",
     "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
@@ -180,7 +181,6 @@
     "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md",
     "notes/learning/lewagon/log/2023-06-07 - Background Jobs and Sidekiq.md",
     "notes/learning/lewagon/log/2023-06-06 - from Design to Code.md",
-    "notes/learning/lewagon/bootcamp-log.md",
     "notes/learning/lewagon/log/2023-04-17 - Setup.md",
     "notes/learning/lewagon/final-project/notes.md",
     "notes/learning/lewagon/final-project",
@@ -199,7 +199,6 @@
     "notes/anki-ruby.md",
     "notes/git.md",
     "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md",
-    "notes/anki-frontend.md",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",
