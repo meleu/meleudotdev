@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/raw private.md",
+                "file": "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/raw private.md"
+                "file": "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/raw private.md",
+                "file": "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/raw private.md",
+                "file": "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +173,7 @@
   },
   "active": "22accc1e74b3df9b",
   "lastOpenFiles": [
+    "private/raw private.md",
     "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
     "notes/learning/lewagon/bootcamp-log.md",
     "notes/learning/lewagon/log/2023-05-30 - Authorization with Pundit.md",
@@ -189,7 +191,6 @@
     "notes/learning/lewagon/log/2023-06-01 - Search.md",
     "private/traduzir.md",
     "private/carreira/zazmic/Ruff - Industria 4.0.md",
-    "private/raw private.md",
     "notes/obsidian.md",
     "notes/digital garden.md",
     "notes/using obsidian-digital-garden.md",
