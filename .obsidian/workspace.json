@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/cambly/Anita/Anita - Reverse Interview.md",
+                "file": "private/carreira/Le Wagon - Career Week.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/cambly/Anita/Anita - Reverse Interview.md"
+                "file": "private/carreira/Le Wagon - Career Week.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/cambly/Anita/Anita - Reverse Interview.md",
+                "file": "private/carreira/Le Wagon - Career Week.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/cambly/Anita/Anita - Reverse Interview.md",
+                "file": "private/carreira/Le Wagon - Career Week.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +172,7 @@
   },
   "active": "394f30be12dcb7e1",
   "lastOpenFiles": [
+    "private/cambly/Anita/Anita - Reverse Interview.md",
     "private/cambly/Anita/Anita.md",
     "notes/project red flags.md",
     "private/carreira/Le Wagon - Career Week.md",
@@ -198,7 +199,6 @@
     "private/carreira/zazmic/Ruff - Industria 4.0.md",
     "notes/obsidian.md",
     "notes/digital garden.md",
-    "notes/using obsidian-digital-garden.md",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",
