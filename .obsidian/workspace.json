@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/Le Wagon - Career Week.md",
+                "file": "private/cambly/Anita/Anita - Reverse Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/Le Wagon - Career Week.md"
+                "file": "private/cambly/Anita/Anita - Reverse Interview.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/Le Wagon - Career Week.md",
+                "file": "private/cambly/Anita/Anita - Reverse Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/Le Wagon - Career Week.md",
+                "file": "private/cambly/Anita/Anita - Reverse Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +172,10 @@
   },
   "active": "394f30be12dcb7e1",
   "lastOpenFiles": [
-    "notes/anki-frontend.md",
+    "private/cambly/Anita/Anita.md",
+    "notes/project red flags.md",
     "private/carreira/Le Wagon - Career Week.md",
+    "notes/anki-frontend.md",
     "notes/css.md",
     "notes/learning/lewagon/log/2023-05-31 - Geocoding and Maps.md",
     "notes/learning/lewagon/bootcamp-log.md",
@@ -197,8 +199,6 @@
     "notes/obsidian.md",
     "notes/digital garden.md",
     "notes/using obsidian-digital-garden.md",
-    "README.md",
-    "private/PL.md",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",
