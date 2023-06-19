@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/anki-frontend.md",
+                "file": "private/carreira/Le Wagon - Career Week.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/anki-frontend.md"
+                "file": "private/carreira/Le Wagon - Career Week.md"
               }
             }
           },
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/anki-frontend.md",
+                "file": "private/carreira/Le Wagon - Career Week.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/anki-frontend.md",
+                "file": "private/carreira/Le Wagon - Career Week.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +172,8 @@
   },
   "active": "394f30be12dcb7e1",
   "lastOpenFiles": [
+    "notes/anki-frontend.md",
+    "private/carreira/Le Wagon - Career Week.md",
     "notes/css.md",
     "notes/learning/lewagon/log/2023-05-31 - Geocoding and Maps.md",
     "notes/learning/lewagon/bootcamp-log.md",
@@ -196,8 +199,6 @@
     "notes/using obsidian-digital-garden.md",
     "README.md",
     "private/PL.md",
-    "notes/links - frontend.md",
-    "notes/anki-ruby.md",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",
