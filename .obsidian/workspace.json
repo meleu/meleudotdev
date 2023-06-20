@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 1.md",
+                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 1.md"
+                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 2.md"
               }
             }
           },
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 1.md",
+                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 1.md",
+                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,11 +171,14 @@
   },
   "active": "394f30be12dcb7e1",
   "lastOpenFiles": [
+    "assets/Design para CV.png",
+    "assets/Design de CV.png",
+    "private/carreira/LeWagon - Career Week/Career Week - Day 1.md",
+    "private/carreira/LeWagon - Career Week/Career Week - Day 2.md",
     "private/carreira/LeWagon - Career Week",
     "private/cambly/Anita/Anita - Reverse Interview.md",
     "private/cambly/Anita/Anita.md",
     "notes/project red flags.md",
-    "private/carreira/LeWagon - Career Week/Career Week - Day 1.md",
     "notes/anki-frontend.md",
     "notes/css.md",
     "notes/learning/lewagon/log/2023-05-31 - Geocoding and Maps.md",
@@ -198,7 +200,6 @@
     "notes/learning/lewagon/log/2023-06-01 - Search.md",
     "private/traduzir.md",
     "private/carreira/zazmic/Ruff - Industria 4.0.md",
-    "notes/obsidian.md",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",
@@ -209,7 +210,6 @@
     "assets/flexbox-justify-content-options.png",
     "assets/vscode-command-palette-settings-json.png",
     "assets/prettier-vscode-extension.png",
-    "assets/Pasted image 20220613171754.png",
     "notes/books/poodr",
     "notes/books/Untitled",
     "notes/learning/lewagon/log",
