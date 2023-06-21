@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 2.md"
+                "file": "private/carreira/LeWagon - Career Week/CloudWalk.md"
               }
             }
           },
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 2.md",
+                "file": "private/carreira/LeWagon - Career Week/CloudWalk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 2.md",
+                "file": "private/carreira/LeWagon - Career Week/CloudWalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,10 +184,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "73f017a52c50b56b",
+  "active": "394f30be12dcb7e1",
   "lastOpenFiles": [
-    "private/carreira/LeWagon - Career Week/CloudWalk.md",
     "private/carreira/LeWagon - Career Week/Career Week - Day 2.md",
+    "private/carreira/LeWagon - Career Week/CloudWalk.md",
     "README.md",
     "assets/Design para CV.png",
     "assets/Design de CV.png",
