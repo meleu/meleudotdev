@@ -17,13 +17,17 @@ dg-publish: true
 
 ## meleu in 15 seconds
 
-- 👨‍💻 I'm a Software Engineer and an [open source enthusiast](https://github.com/meleu), currently working as a [DevOps Specialist](https://www.linkedin.com/in/meleu/).
-
 - 🐧 Linux nerd since the late 90s
+
+- 👨‍💻 Software Engineer and an [open source enthusiast](https://github.com/meleu), currently working as a [DevOps Specialist](https://www.linkedin.com/in/meleu/).
+
+- 🤓 Generalist programmer, with a greater affinity with Ruby on Rails and JavaScript (NodeJS). I also worked with PHP, HTML/CSS, and made some contributions related to low-level stuff using C (mainly related to [RetroArch](https://github.com/libretro/RetroArch/)).
+
+- 🧼 I like my code clean and maintainable.
 
 - 🐚 I love the shell (mainly bash) and the Command Line Interface. I write a blog (**in portuguese**) totally focused on the terminal environment: <https://meleu.sh>
 
-- ️👾 Big retrograming fan. Between 2016-2021 I dedicated a big portion of my time to [[Open Source projects I'm proud of|open source projects related to this hobby]].
+- ️👾 Big retrograming fan. Between 2016-2021 I dedicated a big portion of my free time to [[Open Source projects I'm proud of|open source projects related to this hobby]].
 
 - 📚 Avid book reader. Maybe you can know more about me seeing the list of [[books]] I read.
 
@@ -76,7 +80,7 @@ Since I put a lot of effort into the [RetroAchievements](https://retroachievemen
     - HTML/CSS
     - JavaScript/NodeJS
     - PHP
-    - Ruby
+    - Ruby on Rails
 
 See also the [[Open Source projects I'm proud of]].
 

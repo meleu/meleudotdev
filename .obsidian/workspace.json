@@ -32,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44f168f8bbd728d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/CloudWalk.md"
+                "file": "about.md"
               }
             }
           },
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/CloudWalk.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/CloudWalk.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,10 +197,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "394f30be12dcb7e1",
+  "active": "44f168f8bbd728d9",
   "lastOpenFiles": [
     "private/carreira/LeWagon - Career Week/Career Week - Day 2.md",
     "private/carreira/LeWagon - Career Week/CloudWalk.md",
+    "about.md",
     "README.md",
     "assets/Design para CV.png",
     "assets/Design de CV.png",
@@ -215,7 +229,6 @@
     "private/carreira/CV.md",
     "private/carreira/portfolio.md",
     "notes/learning/lewagon/log/2023-06-01 - Search.md",
-    "private/traduzir.md",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",
