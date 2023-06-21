@@ -39,14 +39,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3b5766888df49b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/hireme.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md"
+                "file": "notes/hireme.md"
               }
             }
           },
@@ -142,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "notes/hireme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "notes/hireme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,12 +209,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "44f168f8bbd728d9",
+  "active": "d3b5766888df49b6",
   "lastOpenFiles": [
-    "private/carreira/LeWagon - Career Week/Career Week - Day 2.md",
     "private/carreira/LeWagon - Career Week/CloudWalk.md",
-    "about.md",
+    "notes/hireme.md",
+    "notes/books/code-complete/Code Complete.md",
     "README.md",
+    "private/carreira/LeWagon - Career Week/Career Week - Day 2.md",
+    "about.md",
     "assets/Design para CV.png",
     "assets/Design de CV.png",
     "private/carreira/LeWagon - Career Week/Career Week - Day 1.md",
@@ -227,8 +241,6 @@
     "notes/learning/lewagon/final-project/notes.md",
     "notes/learning/lewagon/final-project",
     "private/carreira/CV.md",
-    "private/carreira/portfolio.md",
-    "notes/learning/lewagon/log/2023-06-01 - Search.md",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",

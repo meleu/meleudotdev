@@ -11,7 +11,6 @@ dg-publish: true
 - [[#meleu in 15 seconds|meleu in 15 seconds]]
 - [[#meleu in 2 minutes|meleu in 2 minutes]]
 - [[#Interviews & Podcasts|Interviews & Podcasts]]
-- [[#Main technologies in my toolbox|Main technologies in my toolbox]]
 
 ---
 
@@ -63,24 +62,6 @@ Since I put a lot of effort into the [RetroAchievements](https://retroachievemen
 - [RA Talks \#4 - meleu](https://youtu.be/XtXbugukhAU) (in Portuguese)
 
 ---
-
-## Main technologies in my toolbox
-
-- General
-    - Unix command line sorcery
-    - shell scripting
-    - git
-- DevOps Ecosystem
-    - GitLab CI
-    - Docker
-    - Kubernetes
-    - ArgoCD
-    - Google Cloud Provider (GCP)
-- WebDev Ecosystem
-    - HTML/CSS
-    - JavaScript/NodeJS
-    - PHP
-    - Ruby on Rails
 
 See also the [[Open Source projects I'm proud of]].
 
