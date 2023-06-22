@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "394f30be12dcb7e1",
+            "id": "44f168f8bbd728d9",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/CloudWalk.md",
+                "file": "notes/hire-me.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,19 +22,7 @@
             }
           },
           {
-            "id": "73f017a52c50b56b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44f168f8bbd728d9",
+            "id": "b9711fccedadc7a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,21 +32,10 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d3b5766888df49b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/hireme.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -133,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/hireme.md"
+                "file": "README.md"
               }
             }
           },
@@ -154,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/hireme.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/hireme.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,14 +186,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "d3b5766888df49b6",
+  "active": "b9711fccedadc7a5",
   "lastOpenFiles": [
-    "private/carreira/LeWagon - Career Week/CloudWalk.md",
-    "notes/hireme.md",
-    "notes/books/code-complete/Code Complete.md",
+    "notes/hire-me.md",
     "README.md",
-    "private/carreira/LeWagon - Career Week/Career Week - Day 2.md",
     "about.md",
+    "repos/meleu.sh/content/about.md",
+    "notes/Open Source projects I'm proud of.md",
+    "notes/books/code-complete/Code Complete - 5.2. Sotfware's Primary Technical Imperative - Managing Complexity.md",
+    "notes/books/code-complete/Code Complete.md",
+    "private/carreira/LeWagon - Career Week/CloudWalk.md",
+    "private/carreira/LeWagon - Career Week/Career Week - Day 2.md",
     "assets/Design para CV.png",
     "assets/Design de CV.png",
     "private/carreira/LeWagon - Career Week/Career Week - Day 1.md",
@@ -237,10 +217,7 @@
     "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
     "notes/learning/lewagon/log/2023-06-07 - Background Jobs and Sidekiq.md",
     "notes/learning/lewagon/log/2023-06-06 - from Design to Code.md",
-    "notes/learning/lewagon/log/2023-04-17 - Setup.md",
-    "notes/learning/lewagon/final-project/notes.md",
     "notes/learning/lewagon/final-project",
-    "private/carreira/CV.md",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",

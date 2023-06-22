@@ -14,6 +14,9 @@ title: "meleu.dev"
 
 I'm a **Software Engineer** from Brazil.
 
+> [!important]
+> If you're considering hiring me, please check the [[hire-me]] page.
+
 This is my 🌱 [[digital garden]]. Most of the contents is not "finished", but evolving over time.
 
 > Other places you can find me:
