@@ -7,7 +7,24 @@ Useful info if you're considering hiring me.
 
 Here I have more personal stuff. If you want to see my **professional achievements**, it's better to check my [LinkedIn profile](https://www.linkedin.com/in/meleu/)
 
+---
 
+## Contents
+
+- [My principles](#my-principles)
+- [Main interests](#main-interests)
+- [Personal/side projects I've built from scratch](#personalside-projects-ive-built-from-scratch)
+        - [LogBots](#logbots)
+        - [RADocs](#radocs)
+        - [RABot](#rabot)
+        - [RANews](#ranews)
+- [Open Source projects I've contributed to](#open-source-projects-ive-contributed-to)
+    - [RetroAchievements.org](#retroachievementsorg)
+        - [Interviews & Podcasts](#interviews--podcasts)
+    - [RetroPie](#retropie)
+    - [RetroArch](#retroarch)
+
+---
 
 ## My principles
 

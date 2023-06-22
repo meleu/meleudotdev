@@ -22,14 +22,14 @@
             }
           },
           {
-            "id": "b9711fccedadc7a5",
+            "id": "152eea7ab3e46ddf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "about.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "about.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "b9711fccedadc7a5",
+  "active": "152eea7ab3e46ddf",
   "lastOpenFiles": [
     "notes/hire-me.md",
     "README.md",
