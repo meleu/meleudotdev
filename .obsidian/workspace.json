@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repos/traducoes/aprenda-em-publico.md",
+                "file": "repos/traducoes/marchas-de-aprendizagem.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "repos/traducoes/aprenda-em-publico.md"
+                "file": "repos/traducoes/marchas-de-aprendizagem.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "repos/traducoes/aprenda-em-publico.md",
+                "file": "repos/traducoes/marchas-de-aprendizagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repos/traducoes/aprenda-em-publico.md",
+                "file": "repos/traducoes/marchas-de-aprendizagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,8 +202,8 @@
   },
   "active": "6c3c80e0e20b0af5",
   "lastOpenFiles": [
-    "repos/traducoes/aprenda-em-publico-hack.md",
     "repos/traducoes/aprenda-em-publico.md",
+    "repos/traducoes/aprenda-em-publico-hack.md",
     "repos/traducoes/marchas-de-aprendizagem.md",
     "private/cambly/Anita/Anita - Reverse Interview.md",
     "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
