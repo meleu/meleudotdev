@@ -41,9 +41,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/TDD-Refactoring literature.md",
+                "file": "repos/traducoes/README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/TDD-Refactoring literature.md"
+                "file": "repos/traducoes/README.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/TDD-Refactoring literature.md",
+                "file": "repos/traducoes/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TDD-Refactoring literature.md",
+                "file": "repos/traducoes/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,11 @@
   },
   "active": "590da6b9e445209c",
   "lastOpenFiles": [
+    "moc/traducoes.md",
     "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
+    "assets/o que negociar alem do salario.png",
+    "assets/metodo STAR.png",
+    "notes/TDD-Refactoring literature.md",
     "private/cambly/Anita/Anita - Reverse Interview.md",
     "private/cambly/Anita/Anita.md",
     "private/carreira/LeWagon - Career Week/CloudWalk.md",
@@ -229,8 +233,6 @@
     "private/raw private.md",
     "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
     "notes/learning/lewagon/log/2023-05-30 - Authorization with Pundit.md",
-    "notes/learning/lewagon/log/2023-06-08 - DB Advanced.md",
-    "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
     "notes/learning/lewagon/final-project",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",
@@ -239,8 +241,6 @@
     "assets/anki-frontend-form-input-field.png",
     "assets/shipment-status-big.png",
     "assets/shipment-status.png",
-    "assets/flexbox-justify-content-options.png",
-    "assets/vscode-command-palette-settings-json.png",
     "notes/books/poodr",
     "notes/books/Untitled",
     "notes/learning/lewagon/log",
