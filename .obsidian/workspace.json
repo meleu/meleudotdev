@@ -55,14 +55,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/CloudWalk/Interview preparation.md",
+                "file": "private/carreira/CloudWalk/CloudWalk - first submission.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 4.md"
+                "file": "private/carreira/CloudWalk/CloudWalk - first submission.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
+                "file": "private/carreira/CloudWalk/CloudWalk - first submission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
+                "file": "private/carreira/CloudWalk/CloudWalk - first submission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,15 +214,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "48a40c0f5b175d51",
+  "active": "035de494269b4273",
   "lastOpenFiles": [
+    "assets/CloudWalk - entrevista.png",
+    "assets/CloudWalk - processo seletivo.png",
+    "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
     "about.md",
     "private/carreira/CloudWalk/Interview preparation.md",
     "private/carreira/CloudWalk/CloudWalk - first submission.md",
     "notes/Open Source projects I'm proud of.md",
     "private/cambly/Anita/Anita - Reverse Interview.md",
     "private/carreira/CloudWalk",
-    "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
     "repos/traducoes/marchas-de-aprendizagem.md",
     "repos/traducoes/aprenda-em-publico.md",
     "repos/traducoes/aprenda-em-publico-hack.md",
@@ -247,7 +249,6 @@
     "notes/project red flags.md",
     "notes/anki-frontend.md",
     "notes/css.md",
-    "notes/learning/lewagon/log/2023-05-31 - Geocoding and Maps.md",
     "notes/learning/lewagon/final-project",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",
@@ -255,7 +256,6 @@
     "assets/avatar-linkedin.png",
     "assets/anki-frontend-form-input-field.png",
     "assets/shipment-status-big.png",
-    "assets/shipment-status.png",
     "notes/books/poodr",
     "notes/books/Untitled",
     "notes/learning/lewagon/log",
