@@ -12,6 +12,7 @@ In this note I'm trying to list some fundamental books about these topics.
 - my very first contact was with [[ruby minitest]]
 - then I went to [[RSpec - udemy]]
 - and got some interesting insights from upcase's [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd).
+- Rails Testing Exercises (upcase): <https://thoughtbot.com/upcase/rails-testing-exercises>
 
 ## must read
 

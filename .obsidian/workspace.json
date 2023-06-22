@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44f168f8bbd728d9",
+            "id": "d984f4f62a734752",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/hire-me.md",
+                "file": "private/cambly/Anita/Anita - Reverse Interview.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,18 +22,33 @@
             }
           },
           {
-            "id": "85c3ed1f3b6faa80",
+            "id": "48a40c0f5b175d51",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "590da6b9e445209c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Bom Demais Para Ser Ignorado.md",
-                "mode": "preview",
+                "file": "notes/TDD-Refactoring literature.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -109,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/hire-me.md"
+                "file": "notes/TDD-Refactoring literature.md"
               }
             }
           },
@@ -130,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/hire-me.md",
+                "file": "notes/TDD-Refactoring literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/hire-me.md",
+                "file": "notes/TDD-Refactoring literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,10 +200,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "44f168f8bbd728d9",
+  "active": "590da6b9e445209c",
   "lastOpenFiles": [
-    "notes/books/Bom Demais Para Ser Ignorado.md",
+    "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
+    "private/cambly/Anita/Anita - Reverse Interview.md",
+    "private/cambly/Anita/Anita.md",
+    "private/carreira/LeWagon - Career Week/CloudWalk.md",
     "notes/hire-me.md",
+    "notes/books/Bom Demais Para Ser Ignorado.md",
     "moc/monthly.md",
     "about.md",
     "README.md",
@@ -196,14 +215,11 @@
     "notes/Open Source projects I'm proud of.md",
     "notes/books/code-complete/Code Complete - 5.2. Sotfware's Primary Technical Imperative - Managing Complexity.md",
     "notes/books/code-complete/Code Complete.md",
-    "private/carreira/LeWagon - Career Week/CloudWalk.md",
     "private/carreira/LeWagon - Career Week/Career Week - Day 2.md",
     "assets/Design para CV.png",
     "assets/Design de CV.png",
     "private/carreira/LeWagon - Career Week/Career Week - Day 1.md",
     "private/carreira/LeWagon - Career Week",
-    "private/cambly/Anita/Anita - Reverse Interview.md",
-    "private/cambly/Anita/Anita.md",
     "notes/project red flags.md",
     "notes/anki-frontend.md",
     "notes/css.md",
@@ -215,7 +231,6 @@
     "notes/learning/lewagon/log/2023-05-30 - Authorization with Pundit.md",
     "notes/learning/lewagon/log/2023-06-08 - DB Advanced.md",
     "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
-    "notes/learning/lewagon/log/2023-05-18 - Stimulus JS.md",
     "notes/learning/lewagon/final-project",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",
