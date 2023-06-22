@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - first submission.md",
+                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - first submission.md"
+                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 4.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - first submission.md",
+                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - first submission.md",
+                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,12 +216,12 @@
   },
   "active": "035de494269b4273",
   "lastOpenFiles": [
+    "private/carreira/CloudWalk/CloudWalk - first submission.md",
     "assets/CloudWalk - entrevista.png",
     "assets/CloudWalk - processo seletivo.png",
     "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
     "about.md",
     "private/carreira/CloudWalk/Interview preparation.md",
-    "private/carreira/CloudWalk/CloudWalk - first submission.md",
     "notes/Open Source projects I'm proud of.md",
     "private/cambly/Anita/Anita - Reverse Interview.md",
     "private/carreira/CloudWalk",
@@ -255,7 +255,6 @@
     "private/assets/docker-sources.pdf",
     "assets/avatar-linkedin.png",
     "assets/anki-frontend-form-input-field.png",
-    "assets/shipment-status-big.png",
     "notes/books/poodr",
     "notes/books/Untitled",
     "notes/learning/lewagon/log",
