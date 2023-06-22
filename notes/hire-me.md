@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+dg-permalink: hire-me
 ---
 # Hire Me
 
@@ -11,18 +12,17 @@ Here I have more personal stuff. If you want to see my **professional achievemen
 
 ## Contents
 
-- [My principles](#my-principles)
-- [Main interests](#main-interests)
-- [Personal/side projects I've built from scratch](#personalside-projects-ive-built-from-scratch)
-        - [LogBots](#logbots)
-        - [RADocs](#radocs)
-        - [RABot](#rabot)
-        - [RANews](#ranews)
-- [Open Source projects I've contributed to](#open-source-projects-ive-contributed-to)
-    - [RetroAchievements.org](#retroachievementsorg)
-        - [Interviews & Podcasts](#interviews--podcasts)
-    - [RetroPie](#retropie)
-    - [RetroArch](#retroarch)
+- [[#My principles|My principles]]
+- [[#Main interests|Main interests]]
+- [[#Personal/side projects I've built from scratch|Personal/side projects I've built from scratch]]
+    - [[#LogBots|LogBots]]
+    - [[#RADocs|RADocs]]
+    - [[#RABot|RABot]]
+    - [[#RANews|RANews]]
+- [[#Open Source projects I've contributed to|Open Source projects I've contributed to]]
+    - [[#RetroAchievements.org|RetroAchievements.org]]
+    - [[#RetroArch|RetroArch]]
+    - [[#RetroPie|RetroPie]]
 
 ---
 
@@ -33,7 +33,7 @@ Here I have more personal stuff. If you want to see my **professional achievemen
 - Act on the bottlenecks: "any improvements made anywhere besides the bottleneck are an illusion."
 
 
-## My interests
+## Main interests
 
 - Test-Driven Development.
 - Clean Architecture
@@ -67,7 +67,7 @@ Created tools that converts a github wiki into a beautiful documentation webpage
 
 The RetroAchievements Discord Bot, consuming a lot of 3rd party APIs.
 
-- Repository: https://github.com/RetroAchievements/RABot
+- Repository: <https://github.com/RetroAchievements/RABot>
 - Discord Server where it runs: <https://discord.gg/dq2E4hE>
 
 
@@ -75,7 +75,7 @@ The RetroAchievements Discord Bot, consuming a lot of 3rd party APIs.
 
 RetroAchievements digital magazine. I've built this to learn more about CSS.
 
-- Repository: <https://news.retroachievements.org/>
+- Website: <https://news.retroachievements.org/>
 
 
 
@@ -98,6 +98,11 @@ Since I put a lot of effort into the [RetroAchievements](https://retroachievemen
 - [RAPodcast Episode 5 - meleu](https://youtu.be/49vgbPt9MWA)
 - [RA Talks \#4 - meleu](https://youtu.be/XtXbugukhAU) (in Portuguese)
 
+### RetroArch
+
+[RetroArch](https://github.com/libretro/RetroArch/) is a highly portable multi-emulator written in C.
+
+I've made some contributions related to the RetroAchievements feature. [Here's the list of commits](https://github.com/libretro/RetroArch/commits/master?author=meleu).
 
 ### RetroPie
 
@@ -106,8 +111,3 @@ Since I put a lot of effort into the [RetroAchievements](https://retroachievemen
 I've added some automated configuration features, using bash and Python. [Here's the list of commits](https://github.com/RetroPie/RetroPie-Setup/commits/master?author=meleu).
 
 
-### RetroArch
-
-[RetroArch](https://github.com/libretro/RetroArch/) is a highly portable multi-emulator written in C.
-
-I've made some contributions related to the RetroAchievements feature. [Here's the list of commits](https://github.com/libretro/RetroArch/commits/master?author=meleu).
