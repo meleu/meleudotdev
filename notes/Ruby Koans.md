@@ -9,7 +9,6 @@ dg-publish: true
 
 ## Getting Started
 
-
 Interesting and funny way to learn some ruby concepts.
 
 - <http://rubykoans.com/>
@@ -53,8 +52,95 @@ observr ./koans/koans.watchr
 
 ---
 
-
 ## Things I learned
+
+### About Asserts
+
+```ruby
+# assert truth
+assert expression
+
+# assert with message
+assert expression, message
+
+# assert equality
+assert expected == actual
+assert_equal expected, actual
+```
+
+### About Strings
+
+```ruby
+# literal strings
+sentence = %(flexible quotes can handle both ' and " characters)
+
+# multiline strings
+multiline = %(
+It was the best of times,
+It was the worst of times.
+)
+
+# here documents
+long_string = <<EOS
+It was the best of times,
+It was the worst of times.
+EOS
+
+# sometimes concatenation doesn't
+# modify the original string
+original_string = "Hello, "
+hi = original_string
+there = "World"
+hi += there
+assert_equal 'Hello, ', original_string
+
+# shovel operator append content to a string
+hi = "Hello, "
+there = "World"
+hi << there
+assert_equal 'Hello, World', hi
+assert_equal 'World', there
+
+# the shovel operator changes the original string
+original_string = "Hello, "
+hi = original_string
+there = "World"
+hi << there
+assert_equal "Hello, World", original_string
+
+# single quotes interpret backslash as escape chars
+string = '\\\''
+assert_equal 2, string.size
+assert_equal "\\\'", string
+
+# get substring from a string with a range
+string = "Bacon, lettuce and tomato"
+assert_equal 'let', string[7..9]
+
+# get a single char from a string
+string = "Bacon, lettuce and tomato"
+assert_equal 'a', string[1]
+# a bit surprising...
+```
+
+
+### About Symbols
+
+```ruby
+# method names become symbols
+def test_method_names_become_symbols
+  symbols_as_strings = Symbol.all_symbols.map(&:to_s)
+  assert_equal :test_method_names_become_symbols, symbols_as_strings.include?("test_method_names_become_symbols")
+end
+
+# to_s is called on interpolated symbolx
+symbol = :cats
+string = "It is raining #{symbol} and dogs."
+assert_equal 'It is raining cats and dogs.', string
+
+```
+
+---
 
 ### The `<<` shovel operator changes the original string
 

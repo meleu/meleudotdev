@@ -8,47 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d984f4f62a734752",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/cambly/Anita/Anita - Reverse Interview.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "02f1c341a6a83a3e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "035de494269b4273",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 5.md",
+                "file": "private/carreira/CloudWalk/Interview preparation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -123,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 5.md"
+                "file": "private/carreira/CloudWalk/Interview preparation.md"
               }
             }
           },
@@ -144,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 5.md",
+                "file": "private/carreira/CloudWalk/Interview preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 5.md",
+                "file": "private/carreira/CloudWalk/Interview preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,10 +172,20 @@
   },
   "active": "035de494269b4273",
   "lastOpenFiles": [
-    "private/carreira/CloudWalk/CloudWalk - first submission.md",
-    "private/carreira/LeWagon - Career Week/Career Week - Day 5.md",
-    "about.md",
+    "private/carreira/plan to go from DevOps to Dev.md",
+    "private/carreira/NodeJS and React mentor.md",
+    "private/carreira/firing a team mate.md",
+    "private/carreira/latinoware 2022.md",
+    "private/carreira/vagas de Ruby.md",
+    "private/carreira/introducing myself.md",
+    "private/carreira/lemon.md",
+    "notes/Ruby Koans.md",
+    "articles/learn-ruby.md",
     "notes/ruby minitest.md",
+    "now.md",
+    "private/carreira/LeWagon - Career Week/Career Week - Day 5.md",
+    "private/carreira/CloudWalk/CloudWalk - first submission.md",
+    "about.md",
     "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
     "assets/CloudWalk - entrevista.png",
     "assets/CloudWalk - processo seletivo.png",
@@ -222,19 +203,9 @@
     "notes/TDD-Refactoring literature.md",
     "private/cambly/Anita/Anita.md",
     "notes/hire-me.md",
-    "notes/books/Bom Demais Para Ser Ignorado.md",
-    "moc/monthly.md",
-    "README.md",
-    "repos/meleu.sh/content/about.md",
-    "notes/books/code-complete/Code Complete - 5.2. Sotfware's Primary Technical Imperative - Managing Complexity.md",
-    "notes/books/code-complete/Code Complete.md",
-    "private/carreira/LeWagon - Career Week/Career Week - Day 2.md",
     "assets/Design para CV.png",
     "assets/Design de CV.png",
-    "private/carreira/LeWagon - Career Week/Career Week - Day 1.md",
     "private/carreira/LeWagon - Career Week",
-    "notes/project red flags.md",
-    "notes/anki-frontend.md",
     "notes/learning/lewagon/final-project",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",

@@ -7,12 +7,8 @@ Doing the Le Wagon bootcamp (from April to June/2023).
 
 Topics I'm currently diving into:
 
-- [[Ruby]]
-- [[SQL]]
-- HTML/CSS
-- [[javascript]]
-- Figma
-- Rails
+- Ruby on Rails
+- [[TDD-Refactoring literature]]
 
 
 ## Frequent Ideas
@@ -24,7 +20,7 @@ Topics I'm currently diving into:
 
 ## Studying
 
-- [ ] Ruby (Le Wagon bootcamp)
+- [x] Ruby (Le Wagon bootcamp)
 - [x] [[Rust]]
 - [ ] advanced usage of [[vim]]
 - [ ] [[RSpec - udemy]]
@@ -34,5 +30,5 @@ Topics I'm currently diving into:
 ## 2023 goals
 
 - [ ] play with 12 programming languages - [[exercism - 12in23 challenge]]
-- [ ] do the Le Wagon bootcamp
+- [x] do the Le Wagon bootcamp
 
