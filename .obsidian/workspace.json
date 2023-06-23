@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "48a40c0f5b175d51",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "02f1c341a6a83a3e",
             "type": "leaf",
             "pinned": true,
@@ -55,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ruby minitest.md",
+                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md"
+                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 5.md"
               }
             }
           },
@@ -159,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,14 +199,15 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "02f1c341a6a83a3e",
+  "active": "035de494269b4273",
   "lastOpenFiles": [
+    "private/carreira/CloudWalk/CloudWalk - first submission.md",
+    "private/carreira/LeWagon - Career Week/Career Week - Day 5.md",
+    "about.md",
     "notes/ruby minitest.md",
     "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
-    "private/carreira/CloudWalk/CloudWalk - first submission.md",
     "assets/CloudWalk - entrevista.png",
     "assets/CloudWalk - processo seletivo.png",
-    "about.md",
     "private/carreira/CloudWalk/Interview preparation.md",
     "notes/Open Source projects I'm proud of.md",
     "private/cambly/Anita/Anita - Reverse Interview.md",
@@ -249,7 +235,6 @@
     "private/carreira/LeWagon - Career Week",
     "notes/project red flags.md",
     "notes/anki-frontend.md",
-    "notes/css.md",
     "notes/learning/lewagon/final-project",
     "assets/Rails Intro - MVC Review.png",
     "assets/Rails Intro - Action View Convention.png",
