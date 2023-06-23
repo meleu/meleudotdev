@@ -6,7 +6,7 @@ dg-permalink: hire-me
 
 Useful info if you're considering hiring me.
 
-Here I have more personal stuff. If you want to see my **professional achievements**, it's better to check my [LinkedIn profile](https://www.linkedin.com/in/meleu/)
+Here I have more personal stuff, like [[#My principles|my principles]], my [[#Main interests|main interests]] and [[#Personal/side projects I've built from scratch|the things I built from scratch]]. If you want to see my **professional achievements**, it's better to check my [LinkedIn profile](https://www.linkedin.com/in/meleu/)
 
 ---
 

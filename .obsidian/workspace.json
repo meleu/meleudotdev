@@ -55,14 +55,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
+                "file": "notes/ruby minitest.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 4.md"
+                "file": "about.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,12 +214,13 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "035de494269b4273",
+  "active": "02f1c341a6a83a3e",
   "lastOpenFiles": [
+    "notes/ruby minitest.md",
+    "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
     "private/carreira/CloudWalk/CloudWalk - first submission.md",
     "assets/CloudWalk - entrevista.png",
     "assets/CloudWalk - processo seletivo.png",
-    "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
     "about.md",
     "private/carreira/CloudWalk/Interview preparation.md",
     "notes/Open Source projects I'm proud of.md",

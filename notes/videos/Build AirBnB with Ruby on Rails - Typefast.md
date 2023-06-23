@@ -11,7 +11,7 @@ dg-publish: true
   3. Review & Favorites (20-25) 2h 10min 
   4. Reservations (26-29) 
   5. Share Modal (30-36)  
-  5. 6. Reviews (37-39) 
+  5. Reviews (37-39) 
   6. Reservations (40-45) 
   7. Payments (46-50) 
   8. Profile & Authz (51-58) 

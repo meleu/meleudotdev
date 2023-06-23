@@ -31,6 +31,7 @@ touch unicorn_test.rb
 touch unicorn.rb
 ```
 
+`unicorn_test.rb`:
 ```ruby
 # configuring minitest:
 gem 'minitest', '~> 5.0'
