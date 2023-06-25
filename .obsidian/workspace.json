@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/CloudWalk/Interview preparation.md",
+                "file": "private/carreira/CloudWalk/SDET.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/CloudWalk/Interview preparation.md"
+                "file": "private/carreira/CloudWalk/SDET.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/CloudWalk/Interview preparation.md",
+                "file": "private/carreira/CloudWalk/SDET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/CloudWalk/Interview preparation.md",
+                "file": "private/carreira/CloudWalk/SDET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,8 +187,10 @@
   },
   "active": "7732d7edc4a851d8",
   "lastOpenFiles": [
-    "private/carreira/LeWagon - Career Week/Career Week - Day 5.md",
+    "notes/ruby minitest.md",
+    "private/carreira/CloudWalk/SDET.md",
     "private/carreira/CloudWalk/Interview preparation.md",
+    "private/carreira/LeWagon - Career Week/Career Week - Day 5.md",
     "private/carreira/plan to go from DevOps to Dev.md",
     "private/carreira/NodeJS and React mentor.md",
     "private/carreira/firing a team mate.md",
@@ -199,7 +200,6 @@
     "private/carreira/lemon.md",
     "notes/Ruby Koans.md",
     "articles/learn-ruby.md",
-    "notes/ruby minitest.md",
     "now.md",
     "private/carreira/CloudWalk/CloudWalk - first submission.md",
     "about.md",
@@ -218,7 +218,6 @@
     "assets/metodo STAR.png",
     "notes/TDD-Refactoring literature.md",
     "private/cambly/Anita/Anita.md",
-    "notes/hire-me.md",
     "assets/Design para CV.png",
     "assets/Design de CV.png",
     "private/carreira/LeWagon - Career Week",
