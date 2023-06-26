@@ -60,10 +60,34 @@ The exercism CLI is a tool we use to download the challenges to our machine and 
 
 To install it, follow the instructions in the [official walkthrough](https://exercism.org/cli-walkthrough)
 
+After installing the exercism CLI, don't forget to configure your API token:
+
+1. go to <https://exercism.org/settings/api_cli>
+2. copy your token
+3. run this command:
+
+```sh
+exercism configure --token='PutYourTokenHere'
+```
+
+
 
 ## Your first challenge
 
 Once you have the `exercism` command available, you can download your very first challenge, which is the famous "Hello World": <https://exercism.org/tracks/ruby/exercises/hello-world>.
+
+The screenshot below is not from the "Hello World" challenge, but the idea is the same:
+
+![[exercism-config-for-ruby - copy command to download.png]]
+
+Once you copy that command, paste it on your terminal and run it.
+
+This will proabably create an `exercism/` directory inside your home directory. And inside `exercism/` you'll have a `ruby/` directory with subdirectories for each challenges.
+
+If you followed the instructions correctly, this command will (probably) open your VSCode with the ruby challenges (for now it will have only `hello-world`):
+```sh
+code ~/exercism/ruby
+```
 
 
 

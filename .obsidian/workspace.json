@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/exercism-config-for-ruby.md",
+                "file": "notes/learning/Cypress 9 Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/exercism-config-for-ruby.md"
+                "file": "notes/learning/Cypress 9 Fundamentals.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/exercism-config-for-ruby.md",
+                "file": "notes/learning/Cypress 9 Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/exercism-config-for-ruby.md",
+                "file": "notes/learning/Cypress 9 Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,12 +173,13 @@
   },
   "active": "76ef500c6bf1ecb3",
   "lastOpenFiles": [
+    "notes/exercism-config-for-ruby.md",
+    "assets/exercism-config-for-ruby - copy command to download.png",
     "assets/exercism-config-for-ruby - exercism-cli repo.png",
     "assets/exercism-config-for-ruby - ruby docs link.png",
     "assets/exercism-config-for-ruby - search ruby track.png",
     "assets/exercism-config-for-ruby - learn.png",
     "notes/learning/Cypress 9 Fundamentals.md",
-    "notes/exercism-config-for-ruby.md",
     "assets/Cypress 9 Fundamentals - selectors.png",
     "private/carreira/CloudWalk/SDET.md",
     "private/carreira/LeWagon - Career Week/Career Week - Day 5.md",
@@ -208,8 +209,6 @@
     "repos/traducoes/README.md",
     "assets/o que negociar alem do salario.png",
     "assets/metodo STAR.png",
-    "assets/Design para CV.png",
-    "assets/Design de CV.png",
     "private/carreira/LeWagon - Career Week",
     "notes/learning/lewagon/final-project",
     "private/assets/docker-sources.pdf",

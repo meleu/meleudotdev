@@ -243,3 +243,6 @@ cy.get('[data-cy=profile]')
 ```
 
 
+
+## Cypress Retry-ability
+
