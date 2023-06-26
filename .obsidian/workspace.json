@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/Cypress 9 Fundamentals.md",
+                "file": "notes/exercism-config-for-ruby.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/Cypress 9 Fundamentals.md"
+                "file": "notes/exercism-config-for-ruby.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/Cypress 9 Fundamentals.md",
+                "file": "notes/exercism-config-for-ruby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/Cypress 9 Fundamentals.md",
+                "file": "notes/exercism-config-for-ruby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,8 +173,14 @@
   },
   "active": "76ef500c6bf1ecb3",
   "lastOpenFiles": [
-    "private/carreira/CloudWalk/SDET.md",
+    "assets/exercism-config-for-ruby - exercism-cli repo.png",
+    "assets/exercism-config-for-ruby - ruby docs link.png",
+    "assets/exercism-config-for-ruby - search ruby track.png",
+    "assets/exercism-config-for-ruby - learn.png",
     "notes/learning/Cypress 9 Fundamentals.md",
+    "notes/exercism-config-for-ruby.md",
+    "assets/Cypress 9 Fundamentals - selectors.png",
+    "private/carreira/CloudWalk/SDET.md",
     "private/carreira/LeWagon - Career Week/Career Week - Day 5.md",
     "notes/ruby minitest.md",
     "private/carreira/CloudWalk/Interview preparation.md",
@@ -200,19 +206,13 @@
     "repos/traducoes/aprenda-em-publico.md",
     "repos/traducoes/aprenda-em-publico-hack.md",
     "repos/traducoes/README.md",
-    "moc/traducoes.md",
     "assets/o que negociar alem do salario.png",
     "assets/metodo STAR.png",
-    "notes/TDD-Refactoring literature.md",
     "assets/Design para CV.png",
     "assets/Design de CV.png",
     "private/carreira/LeWagon - Career Week",
     "notes/learning/lewagon/final-project",
-    "assets/Rails Intro - MVC Review.png",
-    "assets/Rails Intro - Action View Convention.png",
     "private/assets/docker-sources.pdf",
-    "assets/avatar-linkedin.png",
-    "assets/anki-frontend-form-input-field.png",
     "notes/books/poodr",
     "notes/books/Untitled",
     "notes/learning/lewagon/log",
