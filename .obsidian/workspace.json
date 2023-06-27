@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76ef500c6bf1ecb3",
+            "id": "dfa3fc065ba844e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/Cypress 9 Fundamentals.md",
+                "file": "notes/learning/Testing a Rails Application.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/Cypress 9 Fundamentals.md"
+                "file": "notes/learning/Testing a Rails Application.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/Cypress 9 Fundamentals.md",
+                "file": "notes/learning/Testing a Rails Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/Cypress 9 Fundamentals.md",
+                "file": "notes/learning/Testing a Rails Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,17 +171,20 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "76ef500c6bf1ecb3",
+  "active": "dfa3fc065ba844e9",
   "lastOpenFiles": [
     "notes/exercism-config-for-ruby.md",
+    "notes/learning/Testing a Rails Application.md",
+    "private/carreira/CloudWalk/Prompt Engineering.md",
+    "private/carreira/CloudWalk/SDET.md",
+    "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
+    "notes/learning/Cypress 9 Fundamentals.md",
     "assets/exercism-config-for-ruby - copy command to download.png",
     "assets/exercism-config-for-ruby - exercism-cli repo.png",
     "assets/exercism-config-for-ruby - ruby docs link.png",
     "assets/exercism-config-for-ruby - search ruby track.png",
     "assets/exercism-config-for-ruby - learn.png",
-    "notes/learning/Cypress 9 Fundamentals.md",
     "assets/Cypress 9 Fundamentals - selectors.png",
-    "private/carreira/CloudWalk/SDET.md",
     "private/carreira/LeWagon - Career Week/Career Week - Day 5.md",
     "notes/ruby minitest.md",
     "private/carreira/CloudWalk/Interview preparation.md",
@@ -205,8 +208,6 @@
     "private/carreira/CloudWalk",
     "repos/traducoes/marchas-de-aprendizagem.md",
     "repos/traducoes/aprenda-em-publico.md",
-    "repos/traducoes/aprenda-em-publico-hack.md",
-    "repos/traducoes/README.md",
     "assets/o que negociar alem do salario.png",
     "assets/metodo STAR.png",
     "private/carreira/LeWagon - Career Week",
