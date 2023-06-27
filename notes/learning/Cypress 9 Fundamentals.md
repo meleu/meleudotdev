@@ -46,6 +46,10 @@ npx cypress open
 # delete everything inside cypress/integration/*
 ```
 
+Run Cypress in headless mode:
+```sh
+npx cypress run
+```
 
 ### Cypress IntelliSense
 
@@ -420,3 +424,24 @@ cy.get('@comments').should((response) => {
 ```
 
 
+## Exploring Cypress Ecosystem
+
+```sh
+# run cypress in headless mode
+npx cypress run
+```
+
+### Screenshots and Videos
+
+Configs:
+
+- video
+
+When running cypress in headless mode it automatically creates videos for the tests and save them in `cypress/videos/`. To disable this behavior:
+
+`cypress.json`:
+```json
+{
+  "video": false
+}
+```
