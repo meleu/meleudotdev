@@ -435,7 +435,8 @@ npx cypress run
 
 Configs:
 
-- video
+- [screenshots](https://docs.cypress.io/guides/references/configuration#Screenshots)
+- [video](https://docs.cypress.io/guides/references/configuration#Videos)
 
 When running cypress in headless mode it automatically creates videos for the tests and save them in `cypress/videos/`. To disable this behavior:
 
@@ -445,3 +446,109 @@ When running cypress in headless mode it automatically creates videos for the te
   "video": false
 }
 ```
+
+Cypress also takes a screenshot when an error occurs.
+
+You can also take a screenshot at an arbitrary time by running the `cy.screenshot()` command.
+
+
+### Custom Commands
+
+File: `cypress/support/commands.js`
+
+> Custom commands are commands that you can use acress several spec files.
+
+#### Example 1 - `dataCy`
+
+`cypress/support/commands.js`
+```js
+// get an element using the data-cy attribute
+Cypress.Commands.add("dataCy", (value) => {
+  return cy.get(`[data-cy=${value}]`);
+});
+```
+
+In the `cypress/support/index.js` we need to import:
+
+```js
+import './commands';
+```
+
+With that `dataCy` custom command you can replace this:
+```js
+cy.get('[data-cy=day]')
+```
+
+with this:
+```js
+cy.dataCy('day')
+```
+
+
+#### Example 2 - `clickViewSessions`
+
+
+`cypress/support/commands.js`
+```js
+Cypress.Commands.add('clickViewSessions', () => {
+  cy.visit('/conference');
+  cy.get('h1').contains('View Sessions).click();
+}
+```
+
+Then use it with:
+```js
+cy.clickViewSessions()
+```
+
+
+### Browser Support
+
+<https://docs.cypress.io/guides/guides/launching-browsers>
+
+To run tests with a specific browser:
+```sh
+npx cypress run --browser firefox
+```
+
+
+### Plugins
+
+<https://docs.cypress.io/plugins>
+
+Plugins are placed in `cypress/plugins/index.js`.
+
+> [!note]
+> Check this plugin suggested by a friend: <https://testing-library.com/docs/cypress-testing-library/intro/>
+
+
+### TypeScript
+
+`cypress/tsconfig.json`:
+```json
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es5", "dom"],
+    "types": ["cypress"]
+  },
+  "include": ["**/*.ts"]
+}
+```
+
+Types for custom commands (`cypress/support/index.ts`):
+```ts
+declare global {
+  namespace Cypress {
+    interface Chainable {
+      /**
+       * Select DOM element by data-cy attribute.
+       * @example cy.dataCy('greeting')
+       */
+      dataCy(value: string): Chainable<Element>;
+    }
+  }
+}
+```
+
+
