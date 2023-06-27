@@ -124,3 +124,65 @@ end
 > [!question]
 > What does the `pluck` do here:
 > `Rails::logger.debug User.pluck(:email)`
+
+## Creating Low-Level Unit Tests with Helpers
+
+Takeaways:
+
+- Unit tests are great for quickly testing small components of our app.
+- Helpers can be used to reduce common testing code.
+- Unit tests alone are not adequate when testing user flows with multiple steps.
+
+### Adding Helpers to Make Unit Testing Easier
+
+`test/test_helper.rb`
+```ruby
+# ...
+
+# this class name is like this because the class in
+# `test/controllers/sessions_controller_test.rb`
+# it's inhereting from ActionDispatch::IntegrationTest
+class ActionDispatch::IntegrationTest
+  def create_user
+    post(
+      users_url,
+      params: {
+        user: {
+          email: 'john@gmail.com',
+          password: 'secret',
+          password_confirmation: 'secret'
+        }
+      }
+    )
+  end
+end
+```
+
+Now, in `sessions_controller_test.rb` you can use the `create_user` method.
+
+
+### Writing Unit Tests
+
+3 main steps:
+
+1. Determine functions and classes to test.
+2. Find good inputs that are relevant to the application in production.
+3. Verify the outputs match what we expect, given the input.
+
+Be sure to organize your tests and split them into the smallest units possible.
+
+## Combining Unit Tests to Form Integration Tests
+
+Takeaways:
+
+- Integration Tests can string multiple Unit Tests together to test the business logic of a complex user flow.
+- Integration Tests cannot access HTML, CSS or JS. Because of this, they are not adequate for testing the UI/UX of the app.
+
+
+```sh
+rails generate integration_test user_flow
+```
+
+
+## Creating End-to-End Tests
+

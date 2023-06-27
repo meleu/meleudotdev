@@ -10,13 +10,15 @@
           {
             "id": "dfa3fc065ba844e9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/learning/Testing a Rails Application.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -157,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,10 +174,10 @@
   },
   "active": "dfa3fc065ba844e9",
   "lastOpenFiles": [
-    "notes/exercism-config-for-ruby.md",
-    "notes/learning/Testing a Rails Application.md",
-    "private/carreira/CloudWalk/Prompt Engineering.md",
     "private/carreira/CloudWalk/SDET.md",
+    "notes/learning/Testing a Rails Application.md",
+    "notes/exercism-config-for-ruby.md",
+    "private/carreira/CloudWalk/Prompt Engineering.md",
     "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
     "notes/learning/Cypress 9 Fundamentals.md",
     "assets/exercism-config-for-ruby - copy command to download.png",
