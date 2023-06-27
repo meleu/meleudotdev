@@ -10,15 +10,13 @@
           {
             "id": "dfa3fc065ba844e9",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/Testing a Rails Application.md",
+                "file": "notes/bash-tdd.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -97,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/Testing a Rails Application.md"
+                "file": "notes/bash-tdd.md"
               }
             }
           },
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/Testing a Rails Application.md",
+                "file": "notes/bash-tdd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/Testing a Rails Application.md",
+                "file": "notes/bash-tdd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,8 +173,8 @@
   },
   "active": "dfa3fc065ba844e9",
   "lastOpenFiles": [
-    "private/carreira/CloudWalk/SDET.md",
     "notes/learning/Testing a Rails Application.md",
+    "private/carreira/CloudWalk/SDET.md",
     "notes/exercism-config-for-ruby.md",
     "private/carreira/CloudWalk/Prompt Engineering.md",
     "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
