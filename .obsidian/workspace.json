@@ -10,16 +10,45 @@
           {
             "id": "dfa3fc065ba844e9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/bash-tdd.md",
+                "file": "notes/learning/Cypress 9 Fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "01b3951a2a79f233",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/anki-ruby.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "11497ed4b1ead3e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/anki-rails.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -95,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/bash-tdd.md"
+                "file": "notes/anki-rails.md"
               }
             }
           },
@@ -116,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/bash-tdd.md",
+                "file": "notes/anki-rails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/bash-tdd.md",
+                "file": "notes/anki-rails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,14 +200,22 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "dfa3fc065ba844e9",
+  "active": "11497ed4b1ead3e8",
   "lastOpenFiles": [
+    "notes/anki-ruby.md",
+    "notes/anki-rails.md",
+    "templates/anki deck.md",
+    "templates/anki card.md",
+    "templates/dont-publish.md",
+    "templates/book note.md",
+    "notes/learning/Cypress 9 Fundamentals.md",
+    "notes/learning/Fundamentals of TDD - upcase.md",
+    "notes/bash-tdd.md",
     "notes/learning/Testing a Rails Application.md",
     "private/carreira/CloudWalk/SDET.md",
     "notes/exercism-config-for-ruby.md",
     "private/carreira/CloudWalk/Prompt Engineering.md",
     "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
-    "notes/learning/Cypress 9 Fundamentals.md",
     "assets/exercism-config-for-ruby - copy command to download.png",
     "assets/exercism-config-for-ruby - exercism-cli repo.png",
     "assets/exercism-config-for-ruby - ruby docs link.png",
@@ -197,17 +234,9 @@
     "private/carreira/lemon.md",
     "notes/Ruby Koans.md",
     "articles/learn-ruby.md",
-    "now.md",
-    "private/carreira/CloudWalk/CloudWalk - first submission.md",
-    "about.md",
-    "private/carreira/LeWagon - Career Week/Career Week - Day 4.md",
     "assets/CloudWalk - entrevista.png",
     "assets/CloudWalk - processo seletivo.png",
-    "notes/Open Source projects I'm proud of.md",
-    "private/cambly/Anita/Anita - Reverse Interview.md",
     "private/carreira/CloudWalk",
-    "repos/traducoes/marchas-de-aprendizagem.md",
-    "repos/traducoes/aprenda-em-publico.md",
     "assets/o que negociar alem do salario.png",
     "assets/metodo STAR.png",
     "private/carreira/LeWagon - Career Week",
