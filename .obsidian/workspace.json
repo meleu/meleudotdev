@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2720186d5d686f81",
+        "id": "c0f9059eee4a629e",
         "type": "tabs",
         "children": [
           {
-            "id": "dfa3fc065ba844e9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/learning/Cypress 9 Fundamentals.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "01b3951a2a79f233",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/anki-ruby.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "11497ed4b1ead3e8",
+            "id": "12f0dc4ef4eea5bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/anki-rails.md",
+                "file": "notes/learning/BDD with Cucumber.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -124,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/anki-rails.md"
+                "file": "notes/learning/BDD with Cucumber.md"
               }
             }
           },
@@ -145,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/anki-rails.md",
+                "file": "notes/learning/BDD with Cucumber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/anki-rails.md",
+                "file": "notes/learning/BDD with Cucumber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,15 +171,17 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "11497ed4b1ead3e8",
+  "active": "12f0dc4ef4eea5bc",
   "lastOpenFiles": [
-    "notes/anki-ruby.md",
-    "notes/anki-rails.md",
+    "notes/learning/BDD with Cucumber.md",
+    "notes/anki-cypress.md",
+    "notes/learning/Cypress 9 Fundamentals.md",
     "templates/anki deck.md",
+    "notes/anki-rails.md",
+    "notes/anki-ruby.md",
     "templates/anki card.md",
     "templates/dont-publish.md",
     "templates/book note.md",
-    "notes/learning/Cypress 9 Fundamentals.md",
     "notes/learning/Fundamentals of TDD - upcase.md",
     "notes/bash-tdd.md",
     "notes/learning/Testing a Rails Application.md",
@@ -232,8 +205,6 @@
     "private/carreira/vagas de Ruby.md",
     "private/carreira/introducing myself.md",
     "private/carreira/lemon.md",
-    "notes/Ruby Koans.md",
-    "articles/learn-ruby.md",
     "assets/CloudWalk - entrevista.png",
     "assets/CloudWalk - processo seletivo.png",
     "private/carreira/CloudWalk",

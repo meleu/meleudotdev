@@ -5,6 +5,8 @@ dg-publish: true
 
 Pluralsight course: <https://app.pluralsight.com/library/courses/cypress-9-fundamentals/table-of-contents>
 
+**Note**: this course also seems to be interesting <https://www.blazemeter.com/university/cypress-version-10-fundamentals>
+
 [TOC]
 
 ---
@@ -234,7 +236,8 @@ In this 👆 approach you need to add the `data-cy` in your HTML.
 
 ### Assertions
 
-<https://docs.cypress.io/guides/references/assertions>
+- <https://docs.cypress.io/guides/references/assertions>
+- <https://www.chaijs.com/api/>
 
 > [!note]
 > Apparently the official doc doesn't list TDD assertions anymore.
@@ -355,7 +358,8 @@ Best practice:
 
 ### Intercept Command
 
-[video](https://app.pluralsight.com/course-player?clipId=57304b43-d334-4bd4-bf79-08570d334be9)
+- <https://docs.cypress.io/api/commands/intercept>
+- [video](https://app.pluralsight.com/course-player?clipId=57304b43-d334-4bd4-bf79-08570d334be9)
 
 According to the lecture, this strategy makes cypress wait for the server's response once the button is clicked.
 ```js
