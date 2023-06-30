@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/CloudWalk/Interview preparation.md",
+                "file": "private/carreira/42/logica.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "binding",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/CloudWalk/Interview preparation.md"
+                "file": "private/carreira/42/logica.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/CloudWalk/Interview preparation.md",
+                "file": "private/carreira/42/logica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/CloudWalk/Interview preparation.md",
+                "file": "private/carreira/42/logica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,12 +173,19 @@
   },
   "active": "12f0dc4ef4eea5bc",
   "lastOpenFiles": [
+    "private/carreira/CloudWalk/quake-log-parser.md",
+    "private/carreira/42/logica.md",
+    "private/carreira/42",
+    "notes/exercism-config-for-ruby.md",
+    "articles/exercism.md",
+    "notes/learning/lewagon/log/2023-04-26 - OOP.md",
+    "notes/anki-ruby.md",
+    "private/carreira/CloudWalk/Interview preparation.md",
     "notes/learning/BDD with Cucumber.md",
     "notes/anki-cypress.md",
     "notes/learning/Cypress 9 Fundamentals.md",
     "templates/anki deck.md",
     "notes/anki-rails.md",
-    "notes/anki-ruby.md",
     "templates/anki card.md",
     "templates/dont-publish.md",
     "templates/book note.md",
@@ -186,7 +193,6 @@
     "notes/bash-tdd.md",
     "notes/learning/Testing a Rails Application.md",
     "private/carreira/CloudWalk/SDET.md",
-    "notes/exercism-config-for-ruby.md",
     "private/carreira/CloudWalk/Prompt Engineering.md",
     "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
     "assets/exercism-config-for-ruby - copy command to download.png",
@@ -197,14 +203,9 @@
     "assets/Cypress 9 Fundamentals - selectors.png",
     "private/carreira/LeWagon - Career Week/Career Week - Day 5.md",
     "notes/ruby minitest.md",
-    "private/carreira/CloudWalk/Interview preparation.md",
     "private/carreira/plan to go from DevOps to Dev.md",
     "private/carreira/NodeJS and React mentor.md",
     "private/carreira/firing a team mate.md",
-    "private/carreira/latinoware 2022.md",
-    "private/carreira/vagas de Ruby.md",
-    "private/carreira/introducing myself.md",
-    "private/carreira/lemon.md",
     "assets/CloudWalk - entrevista.png",
     "assets/CloudWalk - processo seletivo.png",
     "private/carreira/CloudWalk",
@@ -217,7 +218,6 @@
     "notes/books/Untitled",
     "notes/learning/lewagon/log",
     "notes/ra/8Bitdo",
-    "notes/books/Practical Vim",
-    "private/carreira/RedHat"
+    "notes/books/Practical Vim"
   ]
 }
