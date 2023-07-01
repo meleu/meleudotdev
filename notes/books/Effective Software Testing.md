@@ -4,6 +4,7 @@ tags:
   - books
 read-timestamp: 2023
 author: Mauricio Aniche
+deck: programming::testing
 ---
 
 # Effective Software Testing
@@ -11,6 +12,22 @@ author: Mauricio Aniche
 > Testing and test code can guide you through software development. But software testing is about finding bugs, and that is what this book is primarily about.
 
 ## 01. Effective and systematic software testing.
+
+<!-- basicblock-start oid="ObsFgnixHyh7gmmukJ1ekm0T" -->
+### The 7 Testing Principles
+::
+1. Exhaustive testing is impossible.
+2. Know when to stop.
+3. Pesticide paradox: variability is important.
+4. Bugs happen in some places more than others.
+5. Testing will never be perfect or enough ("test show the presence of bugs, not absence").
+6. Context is king.
+7. Absence-of-errors fallacy: verification is not validation.
+<!-- basicblock-end -->
+
+### Testing Pyramid
+
+![[Effective Software Testing - testing pyramid.png]]
 
 #### 1.2.6 Systematic testing
 
