@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
+                "file": "notes/learning/RSpec - udemy.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md"
+                "file": "notes/learning/RSpec - udemy.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
+                "file": "notes/learning/RSpec - udemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
+                "file": "notes/learning/RSpec - udemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +173,8 @@
   },
   "active": "a3defd3c61eef965",
   "lastOpenFiles": [
-    "private/carreira/CloudWalk/Interview.md",
     "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
+    "private/carreira/CloudWalk/Interview.md",
     "notes/anki-cypress.md",
     "notes/books/Effective Software Testing.md",
     "assets/Effective Software Testing - testing pyramid.png",
