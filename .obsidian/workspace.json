@@ -10,10 +10,24 @@
           {
             "id": "12f0dc4ef4eea5bc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/42/logica.md",
+                "file": "notes/books/Effective Software Testing.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a3defd3c61eef965",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/carreira/CloudWalk/quake-log-parser.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/42/logica.md"
+                "file": "notes/books/Effective Software Testing.md"
               }
             }
           },
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/42/logica.md",
+                "file": "notes/books/Effective Software Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/42/logica.md",
+                "file": "notes/books/Effective Software Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,13 +188,18 @@
   "active": "12f0dc4ef4eea5bc",
   "lastOpenFiles": [
     "private/carreira/CloudWalk/quake-log-parser.md",
+    "notes/books/Effective Software Testing.md",
+    "private/carreira/CloudWalk/Interview preparation.md",
+    "assets/CloudWalk - entrevista.png",
+    "moc/books.md",
+    "notes/books/A Invencao de Hugo Cabret.md",
     "private/carreira/42/logica.md",
+    "assets/Pasted image 20230630184923.png",
     "private/carreira/42",
     "notes/exercism-config-for-ruby.md",
     "articles/exercism.md",
     "notes/learning/lewagon/log/2023-04-26 - OOP.md",
     "notes/anki-ruby.md",
-    "private/carreira/CloudWalk/Interview preparation.md",
     "notes/learning/BDD with Cucumber.md",
     "notes/anki-cypress.md",
     "notes/learning/Cypress 9 Fundamentals.md",
@@ -202,15 +221,9 @@
     "assets/exercism-config-for-ruby - learn.png",
     "assets/Cypress 9 Fundamentals - selectors.png",
     "private/carreira/LeWagon - Career Week/Career Week - Day 5.md",
-    "notes/ruby minitest.md",
-    "private/carreira/plan to go from DevOps to Dev.md",
-    "private/carreira/NodeJS and React mentor.md",
-    "private/carreira/firing a team mate.md",
-    "assets/CloudWalk - entrevista.png",
     "assets/CloudWalk - processo seletivo.png",
     "private/carreira/CloudWalk",
     "assets/o que negociar alem do salario.png",
-    "assets/metodo STAR.png",
     "private/carreira/LeWagon - Career Week",
     "notes/learning/lewagon/final-project",
     "private/assets/docker-sources.pdf",
