@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md",
+                "file": "notes/learning/Fundamentals of TDD - upcase.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md"
+                "file": "notes/learning/Fundamentals of TDD - upcase.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md",
+                "file": "notes/learning/Fundamentals of TDD - upcase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md",
+                "file": "notes/learning/Fundamentals of TDD - upcase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,8 +170,16 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "0da2875d0547afe4",
+  "active": "a3defd3c61eef965",
   "lastOpenFiles": [
+    "private/carreira/zazmic/Post Course.md",
+    "private/carreira/portfolio.md",
+    "private/carreira/Programa de trainee na codeminer.md",
+    "private/carreira/vagas de Ruby.md",
+    "private/carreira/plan to go from DevOps to Dev.md",
+    "private/carreira/zazmic/firing a team mate.md",
+    "private/carreira/latinoware 2022.md",
+    "notes/learning/RSpec - udemy.md",
     "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
     "private/carreira/CloudWalk/Interview.md",
     "notes/anki-cypress.md",
@@ -194,14 +202,6 @@
     "notes/learning/Cypress 9 Fundamentals.md",
     "templates/anki deck.md",
     "templates/anki card.md",
-    "templates/dont-publish.md",
-    "templates/book note.md",
-    "notes/learning/Fundamentals of TDD - upcase.md",
-    "notes/bash-tdd.md",
-    "notes/learning/Testing a Rails Application.md",
-    "private/carreira/CloudWalk/SDET.md",
-    "private/carreira/CloudWalk/Prompt Engineering.md",
-    "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
     "assets/exercism-config-for-ruby - copy command to download.png",
     "assets/exercism-config-for-ruby - exercism-cli repo.png",
     "assets/exercism-config-for-ruby - ruby docs link.png",
