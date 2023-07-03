@@ -123,13 +123,13 @@ element.insertAdjacentHTML(
 
 `location` can be:
 ```html
-<!-- beforebegin -->
+<-- beforebegin -->
 <p>
-  <!-- afterbegin -->
+  <-- afterbegin -->
   the content
-  <!-- beforeend -->
+  <-- beforeend -->
 </p>
-<!-- afterend -->
+<-- afterend -->
 ```
 <!-- basicblock-end -->
 
