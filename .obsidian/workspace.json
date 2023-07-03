@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/Fundamentals of TDD - upcase.md",
+                "file": "notes/TDD.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/Fundamentals of TDD - upcase.md"
+                "file": "notes/TDD.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/Fundamentals of TDD - upcase.md",
+                "file": "notes/TDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/Fundamentals of TDD - upcase.md",
+                "file": "notes/TDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +172,9 @@
   },
   "active": "a3defd3c61eef965",
   "lastOpenFiles": [
+    "notes/TDD-Refactoring literature.md",
+    "notes/TDD.md",
+    "notes/learning/Fundamentals of TDD - upcase.md",
     "private/carreira/zazmic/Post Course.md",
     "private/carreira/portfolio.md",
     "private/carreira/Programa de trainee na codeminer.md",
@@ -199,9 +202,6 @@
     "notes/learning/lewagon/log/2023-04-26 - OOP.md",
     "notes/anki-ruby.md",
     "notes/learning/BDD with Cucumber.md",
-    "notes/learning/Cypress 9 Fundamentals.md",
-    "templates/anki deck.md",
-    "templates/anki card.md",
     "assets/exercism-config-for-ruby - copy command to download.png",
     "assets/exercism-config-for-ruby - exercism-cli repo.png",
     "assets/exercism-config-for-ruby - ruby docs link.png",

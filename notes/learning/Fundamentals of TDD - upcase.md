@@ -17,7 +17,7 @@ Good reading: [thoughtbot guidelines for testing with RSpec](https://github.com/
 
 - <https://thoughtbot.com/upcase/videos/telling-a-story-with-your-tests>
 
-<!-- basicblock-start -->
+<!-- basicblock-start oid="ObsbD5zGPHi7NJpG7tbqRnMR" -->
 ### Four Phases of Testing
 ::
 - **Setup**: get the conditions correct for the test
