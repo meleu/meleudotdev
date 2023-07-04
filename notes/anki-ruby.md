@@ -118,8 +118,8 @@ returns a new array with the results of running a block once for every element i
 <!-- basicblock-start oid="Obs3vGRaSreaEMnSyZ3mHJav" -->
 ## `String.scan` vs. `String.split`?
 ::
-- `.scan` searches for the items, and accepts regex
-- `.split` searches for the separators, no regex
+- `.scan` searches for the items
+- `.split` searches for the separators
 ```ruby
 >> "item1--item2--itemN".split("--")
 => ["item1", "item2", "itemN"]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/TDD.md",
+                "file": "notes/anki-ruby.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/TDD.md"
+                "file": "notes/anki-ruby.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/TDD.md",
+                "file": "notes/anki-ruby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TDD.md",
+                "file": "notes/anki-ruby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +172,8 @@
   },
   "active": "a3defd3c61eef965",
   "lastOpenFiles": [
-    "notes/TDD-Refactoring literature.md",
     "notes/TDD.md",
+    "notes/TDD-Refactoring literature.md",
     "notes/learning/Fundamentals of TDD - upcase.md",
     "private/carreira/zazmic/Post Course.md",
     "private/carreira/portfolio.md",
