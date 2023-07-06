@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/rbnb.md",
-                "mode": "source",
-                "source": true
+                "file": "notes/rails blog.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/rbnb.md"
+                "file": "notes/rails blog.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/rbnb.md",
+                "file": "notes/rails blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/rbnb.md",
+                "file": "notes/rails blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,8 +173,8 @@
   },
   "active": "ad57e2e8ee744785",
   "lastOpenFiles": [
-    "notes/learning/lewagon/bootcamp-log.md",
     "notes/rbnb.md",
+    "notes/learning/lewagon/bootcamp-log.md",
     "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
     "notes/semantic commit messages.md",
     "notes/rails blog.md",

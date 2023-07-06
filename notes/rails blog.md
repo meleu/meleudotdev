@@ -70,7 +70,7 @@ Also create the views for each action inside `app/views/blog_posts`.
 ```
 
 > [!note]
-> In this snipped:
+> In this snippet:
 > ```rb
 > link_to blog_post.title, blog_post 
 > ```
@@ -78,7 +78,7 @@ Also create the views for each action inside `app/views/blog_posts`.
 > ```rb
 > "blog_posts/#{blog_post.id}"
 > ```
-> This is **Ruby magic!** 🪄
+> This is **Rails magic!** 🪄
 
 
 `app/views/blog_posts/new.html.erb`:
