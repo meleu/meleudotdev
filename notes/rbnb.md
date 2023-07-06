@@ -79,3 +79,42 @@ rails generate model Property \
   owner:references
 ```
 
+---
+
+`fixtures/properties.yml`
+```yaml
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+meleu_house:
+  title: meleu's house
+  description: A house with an arcade, for those who love retrogames.
+  price: 100
+  owner: meleu
+
+anne_house:
+  title: Anne's house
+  description: A pet friendly house, with everything your best friend need.
+  price: 150
+  owner: anne
+
+ariel_house:
+  title: Ariel's house
+  description: A place near the best sights in London.
+  price: 200
+  owner: ariel
+```
+
+`fixtures/users.yml`
+```yaml
+meleu:
+  name: 'meleu'
+  email: meleu@rbnb.com
+
+anne:
+  name: 'anne'
+  email: anne@rbnb.com
+
+ariel:
+  name: 'ariel'
+  email: ariel@rbnb.com
+```
