@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3defd3c61eef965",
+            "id": "79b55a5211f61678",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/anki-ruby.md",
+                "file": "notes/rbnb.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/anki-ruby.md"
+                "file": "notes/rbnb.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/anki-ruby.md",
+                "file": "notes/rbnb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/anki-ruby.md",
+                "file": "notes/rbnb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,8 +171,13 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "a3defd3c61eef965",
+  "active": "79b55a5211f61678",
   "lastOpenFiles": [
+    "notes/rails blog.md",
+    "notes/rbnb.md",
+    "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md",
+    "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
+    "notes/anki-ruby.md",
     "notes/TDD.md",
     "notes/TDD-Refactoring literature.md",
     "notes/learning/Fundamentals of TDD - upcase.md",
@@ -197,11 +203,6 @@
     "private/carreira/42/logica.md",
     "assets/Pasted image 20230630184923.png",
     "private/carreira/42",
-    "notes/exercism-config-for-ruby.md",
-    "articles/exercism.md",
-    "notes/learning/lewagon/log/2023-04-26 - OOP.md",
-    "notes/anki-ruby.md",
-    "notes/learning/BDD with Cucumber.md",
     "assets/exercism-config-for-ruby - copy command to download.png",
     "assets/exercism-config-for-ruby - exercism-cli repo.png",
     "assets/exercism-config-for-ruby - ruby docs link.png",
