@@ -11,7 +11,7 @@ deck: programming::testing
 
 > Testing and test code can guide you through software development. But software testing is about finding bugs, and that is what this book is primarily about.
 
-## 01. Effective and systematic software testing.
+## 01. Effective and systematic software testing
 
 <!-- basicblock-start oid="ObsFgnixHyh7gmmukJ1ekm0T" -->
 ### The 7 Testing Principles

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/rails blog.md",
-                "mode": "preview",
+                "file": "notes/books/Effective Software Testing.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/rails blog.md"
+                "file": "notes/books/Effective Software Testing.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/rails blog.md",
+                "file": "notes/books/Effective Software Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/rails blog.md",
+                "file": "notes/books/Effective Software Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,11 +173,11 @@
   },
   "active": "ad57e2e8ee744785",
   "lastOpenFiles": [
+    "notes/semantic commit messages.md",
+    "notes/rails blog.md",
     "notes/rbnb.md",
     "notes/learning/lewagon/bootcamp-log.md",
     "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
-    "notes/semantic commit messages.md",
-    "notes/rails blog.md",
     "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md",
     "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
     "notes/anki-ruby.md",
