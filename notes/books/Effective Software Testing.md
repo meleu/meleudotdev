@@ -56,3 +56,6 @@ Variability is important! Use different strategies to test your software. Otherw
 Systematic testing is testing based in shared principles, so all developers can (ideally) come with the same test suite for a given piece of code to be tested.
 
 A non-systematic testing strategy would be when different developers create very distinct test suites.
+
+🚧
+👷‍♂️
