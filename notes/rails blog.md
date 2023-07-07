@@ -60,7 +60,7 @@ before_action :authenticate_user!, except: %i[index show]
 Add some way for the user to login/logout/create an account. Example:
 ```ruby
 # layout/application.html.erb
-if user_signed?
+if user_signed_in?
   button_to 'Log out', destroy_user_session_path, method: :delete
 else
   link_to 'Login', new_user_session_path

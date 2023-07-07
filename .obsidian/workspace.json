@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/rails blog.md",
+                "file": "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "headless",
+                "query": "simple_form",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/rails blog.md"
+                "file": "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md"
               }
             }
           },
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/rails blog.md",
+                "file": "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/rails blog.md",
+                "file": "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,13 +173,16 @@
   },
   "active": "ad57e2e8ee744785",
   "lastOpenFiles": [
+    "notes/anki-rails.md",
+    "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
+    "notes/learning/lewagon/bootcamp-log.md",
     "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
-    "notes/learning/java-mergulho-spring-rest/modulo-00.md",
+    "templates/lewagon-log.md",
     "notes/rails blog.md",
+    "notes/learning/java-mergulho-spring-rest/modulo-00.md",
     "notes/books/Effective Software Testing.md",
     "notes/semantic commit messages.md",
     "notes/rbnb.md",
-    "notes/learning/lewagon/bootcamp-log.md",
     "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md",
     "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
     "notes/anki-ruby.md",
@@ -197,10 +199,7 @@
     "notes/learning/RSpec - udemy.md",
     "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
     "private/carreira/CloudWalk/Interview.md",
-    "notes/anki-cypress.md",
     "assets/Effective Software Testing - testing pyramid.png",
-    "notes/anki-rails.md",
-    "notes/anki-sql.md",
     "assets/CloudWalk - entrevista.png",
     "assets/Pasted image 20230630184923.png",
     "private/carreira/42",
