@@ -25,6 +25,66 @@ cd blog
 rails server
 ```
 
+## Scaffold
+
+- Comment the `jbuilder` line in the `Gemfile`
+- Run commands below:
+```sh
+bundle update
+rails generate scaffold BlogPost title:string body:text
+rails db:migrate
+```
+ - Add a route for `root 'blog_posts#index'`
+
+### some more steps
+
+- edit `test/application_system_test_case.rb` with `:headless_chrome`
+- edit the `fixtures`
+- edit the `test/system/blog_post_test.rb` to use the right fixture
+- edit the `test/controller/blog_post_test.rb` to use the right fixture
+
+### authentication with devise
+
+```sh
+bundle add devise
+rails generate devise:install
+rails generate devise User
+rails db:migrate
+```
+
+In the controller:
+```ruby
+before_action :authenticate_user!, except: %i[index show]
+```
+
+Add some way for the user to login/logout/create an account. Example:
+```ruby
+# layout/application.html.erb
+if user_signed?
+  button_to 'Log out', destroy_user_session_path, method: :delete
+else
+  link_to 'Login', new_user_session_path
+  link_to 'Sign Up', new_user_registration_path
+end
+```
+
+Also add a link to "Edit" if in a post owned by the user
+
+
+### TailwindCSS
+
+```sh
+bundle add tailwindcss-rails
+rails tailwindcss:install
+```
+
+in `application.html.erb`:
+```html
+<body class="prose mx-auto">
+```
+
+---
+
 ## BlogPost Model
 
 ```sh

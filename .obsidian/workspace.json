@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "binding",
+                "query": "headless",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,12 +174,13 @@
   },
   "active": "ad57e2e8ee744785",
   "lastOpenFiles": [
+    "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
+    "notes/learning/java-mergulho-spring-rest/modulo-00.md",
+    "notes/rails blog.md",
     "notes/books/Effective Software Testing.md",
     "notes/semantic commit messages.md",
-    "notes/rails blog.md",
     "notes/rbnb.md",
     "notes/learning/lewagon/bootcamp-log.md",
-    "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
     "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md",
     "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
     "notes/anki-ruby.md",
@@ -199,7 +201,6 @@
     "assets/Effective Software Testing - testing pyramid.png",
     "notes/anki-rails.md",
     "notes/anki-sql.md",
-    "private/carreira/CloudWalk/quake-log-parser.md",
     "assets/CloudWalk - entrevista.png",
     "assets/Pasted image 20230630184923.png",
     "private/carreira/42",
