@@ -5,12 +5,16 @@ dg-publish: true
 
 Following this [GoRails playlist](https://youtube.com/playlist?list=PLm8ctt9NhMNWD939gE728i13W999EFS0n)
 
-> [!question]
-> Should I try [this](https://github.com/startbootstrap/startbootstrap-clean-blog) to style this project?
+[TOC]
 
-Requirements:
+---
+
+## Requirements:
+
 - Ruby 3.2
 - Rails 7.0.4
+
+## Rails New
 
 ```bash
 # create new project
@@ -19,13 +23,14 @@ rails new blog
 # see it running
 cd blog
 rails server
+```
 
+## BlogPost Model
+
+```sh
 # generate a model for a blog post
 rails generate model BlogPost title:string body:text
 # it creates a migration and a model
-
-# generate the controller
-rails generate controller BlogPosts
 
 # run the migration
 rails db:migrate
@@ -40,12 +45,41 @@ rails console
 # just for awareness, check BlogPost.model_name in the console
 ```
 
+## BlogPost Controller
+
 `config/routes.rb`:
 ```rb
 # ...
   root 'blog_posts#index'
 # end
 ```
+
+shell again:
+```sh
+# generate the controller
+rails generate controller BlogPosts
+```
+
+### index
+
+- create `index` method inside the controller
+- create the `index.html.erb` file
+```html
+<h1>Blog Posts</h1>
+<ul>
+  <% @blog_posts.each do |post| %>
+    <li>
+      <%= link_to post.title, post %>
+    </li>
+  <% end %>
+<ul>
+```
+
+### show
+
+1. edit `routes.rb` to add a route to `show`
+2. create `show` method in the controller
+3. create the `show.html.erb` file
 
 `app/controllers/blog_posts_controller.rb`:
 ```rb
@@ -58,28 +92,17 @@ rails console
 # ...
 ```
 
-Also create the views for each action inside `app/views/blog_posts`.
+Also edit the `index.html.erb`:
 
-`app/views/blog_posts/index.html.erb`:
-```erb
-# ...
-<% @blog_posts.each do |blog_post| %>
-  <h2><%= link_to blog_post.title, blog_post %></h2>
-  <%= blog_post.body %>
-<% end %>
+```html
+  <h2>
+    <%= link_to post.title, post %>
+  </h2>
 ```
 
-> [!note]
-> In this snippet:
-> ```rb
-> link_to blog_post.title, blog_post 
-> ```
-> The final `blog_post` is actually an alias for
-> ```rb
-> "blog_posts/#{blog_post.id}"
-> ```
-> This is **Rails magic!** 🪄
+Also create the views for each action inside `app/views/blog_posts`.
 
+### new
 
 `app/views/blog_posts/new.html.erb`:
 ```erb

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Effective Software Testing.md",
+                "file": "notes/rails blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Effective Software Testing.md"
+                "file": "notes/rails blog.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Effective Software Testing.md",
+                "file": "notes/rails blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Effective Software Testing.md",
+                "file": "notes/rails blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +173,7 @@
   },
   "active": "ad57e2e8ee744785",
   "lastOpenFiles": [
+    "notes/books/Effective Software Testing.md",
     "notes/semantic commit messages.md",
     "notes/rails blog.md",
     "notes/rbnb.md",
@@ -195,7 +196,6 @@
     "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
     "private/carreira/CloudWalk/Interview.md",
     "notes/anki-cypress.md",
-    "notes/books/Effective Software Testing.md",
     "assets/Effective Software Testing - testing pyramid.png",
     "notes/anki-rails.md",
     "notes/anki-sql.md",

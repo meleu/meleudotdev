@@ -9,6 +9,8 @@ deck: programming::testing
 
 # Effective Software Testing
 
+See also: <https://github.com/meleu/effective-software-testing-ruby>
+
 > Testing and test code can guide you through software development. But software testing is about finding bugs, and that is what this book is primarily about.
 
 ## 01. Effective and systematic software testing
@@ -56,6 +58,3 @@ Variability is important! Use different strategies to test your software. Otherw
 Systematic testing is testing based in shared principles, so all developers can (ideally) come with the same test suite for a given piece of code to be tested.
 
 A non-systematic testing strategy would be when different developers create very distinct test suites.
-
-🚧
-👷‍♂️
