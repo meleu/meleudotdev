@@ -10,6 +10,14 @@ See [[A melhor maneira que encontrei para aprender Ruby]].
 
 ---
 
+
+## Start a Ruby project
+
+<https://blog.dennisokeeffe.com/blog/2022-03-12-simplecov-with-ruby-and-github-actions>
+
+
+
+
 ## Ruby Basics
 
 ### Basic Data Types
