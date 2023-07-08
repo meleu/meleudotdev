@@ -188,7 +188,17 @@ IRB.conf[:PROMPT][:COPYNPASTE] = { # name of prompt mode
 IRB.conf[:PROMPT_MODE] = :COPYNPASTE
 ```
 
+---
 
 ## Instrumentation
 
 <https://opentelemetry.io/docs/instrumentation/ruby/getting-started/>
+
+
+---
+
+## Exercises
+
+- [[Ruby Koans]]
+- <https://exercism.org>
+- <https://blog.dennisokeeffe.com/blog/series/50-days-of-ruby>
