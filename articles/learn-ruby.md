@@ -33,7 +33,7 @@ You probably know the typical advice: "practice a lot". That's a valid one, but 
 - Aggressively ignore!
 - Read [Ruby in 100 minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html) to get a good overview of the syntax
 - Do the challenges from the [Ruby track in exercism.org](https://exercism.org/tracks/ruby)
-- Play with the [Ruby Koans](https://github.com/edgecase/ruby_koans) to internalize some of the most fundamental concepts of language
+- Play with the [[Ruby Koans]] to internalize some of the most fundamental concepts of language
 
 
 ## Requisites
