@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ruby.md",
+                "file": "notes/Ruby - Code Coverage Highlighting.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/ruby.md"
+                "file": "notes/Ruby - Code Coverage Highlighting.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/ruby.md",
+                "file": "notes/Ruby - Code Coverage Highlighting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ruby.md",
+                "file": "notes/Ruby - Code Coverage Highlighting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +174,8 @@
   },
   "active": "babef37bf2d8163f",
   "lastOpenFiles": [
+    "notes/ruby.md",
+    "notes/Ruby - Code Coverage Highlighting.md",
     "notes/rbnb.md",
     "notes/Ruby Koans.md",
     "articles/learn-ruby.md",
@@ -198,8 +200,6 @@
     "private/carreira/portfolio.md",
     "private/carreira/Programa de trainee na codeminer.md",
     "private/carreira/vagas de Ruby.md",
-    "private/carreira/plan to go from DevOps to Dev.md",
-    "private/carreira/zazmic/firing a team mate.md",
     "assets/Effective Software Testing - testing pyramid.png",
     "assets/CloudWalk - entrevista.png",
     "assets/Pasted image 20230630184923.png",

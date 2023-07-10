@@ -202,3 +202,11 @@ IRB.conf[:PROMPT_MODE] = :COPYNPASTE
 - [[Ruby Koans]]
 - <https://exercism.org>
 - <https://blog.dennisokeeffe.com/blog/series/50-days-of-ruby>
+
+
+## Testing
+
+Test coverage hightlight
+
+- <https://jmatuszewski.com/Automatically-run-Rails-tests-in-VS-Code-and-highlight-test-coverage/> - scroll to the end of the article
+    - requires installation of [Coverage Gutters](https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters)
