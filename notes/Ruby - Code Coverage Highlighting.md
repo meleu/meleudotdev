@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Code Coverage highlighting
 
 > [!note]
