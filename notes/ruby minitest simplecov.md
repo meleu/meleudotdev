@@ -9,6 +9,7 @@ Consider also installing [Coverage Gutters](https://marketplace.visualstudio.com
 
 ```sh
 bundle add rake minitest simplecov simplecov-lcov
+mkdir lib test
 ```
 
 `.gitignore`:
@@ -23,6 +24,8 @@ test/coverage/
 require 'rake/testtask'
 
 Rake::TestTask.new(:test) do |t|
+  t.libs << 'lib' << 'test'
+  t.verbose = true
   t.pattern = "test/**/*_test.rb" # tests inside test subfolder
 end                               # and end with '_test.rb'
                                   # Run all test with `rake test`
