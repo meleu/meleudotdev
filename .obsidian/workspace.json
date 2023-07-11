@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ruby minitest simplecov.md",
+                "file": "notes/ruby minitest.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/ruby minitest simplecov.md"
+                "file": "notes/ruby minitest.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/ruby minitest simplecov.md",
+                "file": "notes/ruby minitest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ruby minitest simplecov.md",
+                "file": "notes/ruby minitest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +174,7 @@
   },
   "active": "2cdcca3a922eee70",
   "lastOpenFiles": [
+    "repos/meleu.sh/content/posts/git-multiconfig.md",
     "notes/ruby minitest simplecov.md",
     "private/carreira/CloudWalk/quake-log-parser.md",
     "assets/CloudWalk - processo seletivo.png",
@@ -200,7 +201,6 @@
     "notes/TDD-Refactoring literature.md",
     "notes/learning/Fundamentals of TDD - upcase.md",
     "private/carreira/zazmic/Post Course.md",
-    "private/carreira/portfolio.md",
     "assets/Effective Software Testing - testing pyramid.png",
     "assets/CloudWalk - entrevista.png",
     "assets/Pasted image 20230630184923.png",
