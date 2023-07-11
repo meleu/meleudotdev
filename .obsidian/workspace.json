@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ruby minitest simplecov.md",
+                "file": "private/carreira/CloudWalk/Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/ruby minitest simplecov.md"
+                "file": "private/carreira/CloudWalk/Interview.md"
               }
             }
           },
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/ruby minitest simplecov.md",
+                "file": "private/carreira/CloudWalk/Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ruby minitest simplecov.md",
+                "file": "private/carreira/CloudWalk/Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,10 +173,11 @@
   },
   "active": "2cdcca3a922eee70",
   "lastOpenFiles": [
+    "private/carreira/CloudWalk/SDET.md",
+    "private/carreira/CloudWalk/quake-log-parser.md",
+    "notes/ruby minitest simplecov.md",
     "notes/ruby minitest.md",
     "repos/meleu.sh/content/posts/git-multiconfig.md",
-    "notes/ruby minitest simplecov.md",
-    "private/carreira/CloudWalk/quake-log-parser.md",
     "assets/CloudWalk - processo seletivo.png",
     "notes/Ruby - Code Coverage Highlighting.md",
     "notes/ruby.md",
@@ -200,7 +200,6 @@
     "notes/anki-ruby.md",
     "notes/TDD.md",
     "notes/TDD-Refactoring literature.md",
-    "notes/learning/Fundamentals of TDD - upcase.md",
     "assets/Effective Software Testing - testing pyramid.png",
     "assets/CloudWalk - entrevista.png",
     "assets/Pasted image 20230630184923.png",
