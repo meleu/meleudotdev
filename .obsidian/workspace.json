@@ -8,33 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2cdcca3a922eee70",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/carreira/CloudWalk/Interview.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "0e8c65b113bbe8f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/CloudWalk/email.md",
+                "file": "notes/books/The Elements of Programming Style.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "c9cfc7f1a5b91ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/books/The Coding Career Handbook/The Coding Career Handbook.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -109,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/CloudWalk/email.md"
+                "file": "notes/books/The Elements of Programming Style.md"
               }
             }
           },
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/CloudWalk/email.md",
+                "file": "notes/books/The Elements of Programming Style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/CloudWalk/email.md",
+                "file": "notes/books/The Elements of Programming Style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,8 +184,19 @@
   },
   "active": "0e8c65b113bbe8f5",
   "lastOpenFiles": [
-    "private/carreira/CloudWalk/Interview.md",
+    "notes/books/The Well-Grounded Rubyist.md",
+    "notes/books/Hackers and Painters.md",
+    "notes/books/O Monge e o Executivo.md",
+    "notes/books/O Programador Apaixonado.md",
+    "notes/books/O Mitico Homem-Mes.md",
+    "notes/books/Clean Coder.md",
+    "notes/books/Mastering Vim Quickly.md",
+    "notes/books/Effective Software Testing.md",
+    "notes/books/The Coding Career Handbook/The Coding Career Handbook.md",
+    "moc/books-tech.md",
+    "README.md",
     "private/carreira/CloudWalk/email.md",
+    "private/carreira/CloudWalk/Interview.md",
     "notes/books/code-complete/Code Complete - 5.2. Sotfware's Primary Technical Imperative - Managing Complexity.md",
     "notes/books/code-complete/Code Complete.md",
     "private/carreira/CloudWalk/SDET.md",
@@ -203,17 +211,6 @@
     "notes/Ruby Koans.md",
     "articles/learn-ruby.md",
     "notes/rails blog.md",
-    "README.md",
-    "notes/learning/lewagon/log/2023-05-24 - Advanced Routes.md",
-    "notes/anki-rails.md",
-    "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
-    "notes/learning/lewagon/bootcamp-log.md",
-    "notes/learning/lewagon/log/2023-06-02 - Testing Rails.md",
-    "templates/lewagon-log.md",
-    "notes/learning/java-mergulho-spring-rest/modulo-00.md",
-    "notes/books/Effective Software Testing.md",
-    "notes/semantic commit messages.md",
-    "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md",
     "assets/Effective Software Testing - testing pyramid.png",
     "assets/CloudWalk - entrevista.png",
     "assets/Pasted image 20230630184923.png",

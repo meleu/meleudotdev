@@ -2,12 +2,14 @@
 dg-publish: true
 tags:
   - books
+  - books/tech
 read-timestamp: 2023
 author: Mauricio Aniche
 deck: programming::testing
 ---
 
 # Effective Software Testing
+
 
 See also: <https://github.com/meleu/effective-software-testing-ruby>
 

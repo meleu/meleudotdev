@@ -2,6 +2,7 @@
 dg-publish: true
 tags:
   - books
+  - books/tech
 read-timestamp: 2023
 author: Robert Martin
 ---
