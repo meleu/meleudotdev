@@ -10,11 +10,25 @@
           {
             "id": "2cdcca3a922eee70",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "private/carreira/CloudWalk/Interview.md",
                 "mode": "source",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0e8c65b113bbe8f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/books/code-complete/Code Complete - 5.2. Sotfware's Primary Technical Imperative - Managing Complexity.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -173,6 +187,9 @@
   },
   "active": "2cdcca3a922eee70",
   "lastOpenFiles": [
+    "notes/books/code-complete/Code Complete - 5.2. Sotfware's Primary Technical Imperative - Managing Complexity.md",
+    "notes/books/code-complete/Code Complete.md",
+    "private/carreira/CloudWalk/Interview.md",
     "private/carreira/CloudWalk/SDET.md",
     "private/carreira/CloudWalk/quake-log-parser.md",
     "notes/ruby minitest simplecov.md",
@@ -197,9 +214,6 @@
     "notes/semantic commit messages.md",
     "notes/videos/Build AirBnB with Ruby on Rails - Typefast.md",
     "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
-    "notes/anki-ruby.md",
-    "notes/TDD.md",
-    "notes/TDD-Refactoring literature.md",
     "assets/Effective Software Testing - testing pyramid.png",
     "assets/CloudWalk - entrevista.png",
     "assets/Pasted image 20230630184923.png",
