@@ -344,3 +344,15 @@ export default class extends Controller {
 }
 <!-- basicblock-end -->
 
+
+---
+
+<!-- %%deleteme%% basicblock-start -->
+## Selector Specificity Ranking
+::
+1. `!important`
+2. inline
+3. id
+4. class
+5. element
+<!-- basicblock-end -->
