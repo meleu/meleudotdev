@@ -88,7 +88,7 @@ Maybe this list can tell a bit about who I am.
 - ⭐ [[Manual de DevOps]]
 - [[System Design Interview]]
 - [[Microsserviços prontos para a produção]]
-- [[livro Kubernetes Basico]]
+- [[Kubernetes Basico]]
 - [[Filho Rico Filho Vencedor]]
 - [[O mais importante para o investidor]]
 

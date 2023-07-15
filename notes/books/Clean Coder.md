@@ -37,7 +37,7 @@ This also reminds me what the author says in [[Desenvolvimento Agil Limpo]], abo
 
 But wait! Software is too complex to create without bugs. Are you telling us we must be perfect?!
 
-> No, I'm telling that you must be **responsible for your imperfections.** The fact that bugs will certainly occur in your code does note mean you aren't responsible for them.
+> No, I'm telling that you must be **responsible for your imperfections.** The fact that bugs will certainly occur in your code does not mean you aren't responsible for them.
 
 
 ### your code MUST be easy to change
@@ -57,7 +57,7 @@ Don't make a mess just to ship faster!
 
 ### topics to always have in mind
 
-- ⭐ Design Patterns: yeah, the GoF book. He anso mention the POSA books.
+- ⭐ Design Patterns: yeah, the GoF book. He also mention the POSA books.
 - ⭐ Design principles: SOLID.
 - ⭐ Disciplines: TDD, OOP, CI/CD, Pair Programming.
 - Project Management Methodologies: XP, Scrum, Lean, Kanban, Waterfall, etc.

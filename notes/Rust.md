@@ -17,7 +17,7 @@ Ainda nesse tema, vi um comentário interessante que reforça a ideia:
 
 Isso me deixa assim: 😍
 
-Se é uma linguagem para resolver problemas difíceis, acredito que isso diminuirá o número de "pessoas que não querem resolver problemas difíceis" que eu tenho que me relacionar no dia a dia.
+Se é uma linguagem para resolver problemas difíceis, acredito que isso diminuirá o número de "pessoas que não querem resolver problemas difíceis" no mercado.
 
 
 ### Plano de estudos

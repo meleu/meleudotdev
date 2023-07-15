@@ -3,7 +3,7 @@ dg-publish: true
 ---
 ## Capítulo 1: Introdução
 
-- voltar [[livro Kubernetes Basico]]
+- voltar [[Kubernetes Basico]]
 
 [TOC]
 

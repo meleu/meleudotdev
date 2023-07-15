@@ -3,7 +3,7 @@ dg-publish: true
 ---
 ## Capítulo 3: Implantação de um cluster Kubernetes
 
-- voltar para [[livro Kubernetes Basico]]
+- voltar para [[Kubernetes Basico]]
 
 [TOC]
 

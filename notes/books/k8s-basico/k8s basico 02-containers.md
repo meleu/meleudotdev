@@ -3,7 +3,7 @@ dg-publish: true
 ---
 ## Capítulo 2: Criando e executando contêineres
 
-- voltar para [[livro Kubernetes Basico]]
+- voltar para [[Kubernetes Basico]]
 
 [TOC]
 
