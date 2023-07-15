@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/exercism-config-for-ruby.md",
+                "file": "notes/books/Agile Web Development with Rails 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/exercism-config-for-ruby.md"
+                "file": "notes/books/Agile Web Development with Rails 7.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/exercism-config-for-ruby.md",
+                "file": "notes/books/Agile Web Development with Rails 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/exercism-config-for-ruby.md",
+                "file": "notes/books/Agile Web Development with Rails 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +173,7 @@
   },
   "active": "84807ff9059aa049",
   "lastOpenFiles": [
+    "notes/exercism-config-for-ruby.md",
     "notes/books/k8s-basico/Kubernetes Basico.md",
     "notes/books/Agile Web Development with Rails 7.md",
     "notes/learning/egghead - TailwindCSS.md",
@@ -198,7 +199,6 @@
     "private/carreira/CloudWalk/SDET.md",
     "private/carreira/CloudWalk/quake-log-parser.md",
     "notes/ruby minitest simplecov.md",
-    "notes/ruby minitest.md",
     "assets/CloudWalk - processo seletivo.png",
     "assets/Effective Software Testing - testing pyramid.png",
     "assets/CloudWalk - entrevista.png",

@@ -61,6 +61,10 @@ rails generate controller Say hello goodbye
 > 
 > A model is more than data; it enforces all the business rules that apply to that data. (...) By putting the implementation of business rules in the model, we make sure that nothing else in the application can make our data invalid. **The model acts as both aa gatekeeper and a data store**.
 
+> The mode layer is the gatekeeper between the world of code and the database. Nothing to do with our application comes out of the database or gets stored into the database that doesn't first go through the model.
+
+
+
 
 ### MVC: View
 
@@ -130,6 +134,8 @@ dev # equivalent to `rails server`
 # if everything looks fine:
 # git commit -m 'specify price precision
 ```
+
+Now go to the commit history: <https://github.com/meleu/depot/commits/master>
 
 
 
