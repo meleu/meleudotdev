@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/egghead - TailwindCSS.md",
+                "file": "notes/exercism-config-for-ruby.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/egghead - TailwindCSS.md"
+                "file": "notes/exercism-config-for-ruby.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/egghead - TailwindCSS.md",
+                "file": "notes/exercism-config-for-ruby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/egghead - TailwindCSS.md",
+                "file": "notes/exercism-config-for-ruby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +173,7 @@
   },
   "active": "84807ff9059aa049",
   "lastOpenFiles": [
+    "notes/books/Agile Web Development with Rails 7.md",
     "notes/learning/egghead - TailwindCSS.md",
     "notes/anki-frontend.md",
     "notes/learning/egghead - CSS Fundamentals.md",
@@ -199,7 +200,6 @@
     "notes/ruby minitest.md",
     "repos/meleu.sh/content/posts/git-multiconfig.md",
     "assets/CloudWalk - processo seletivo.png",
-    "notes/Ruby - Code Coverage Highlighting.md",
     "assets/Effective Software Testing - testing pyramid.png",
     "assets/CloudWalk - entrevista.png",
     "assets/Pasted image 20230630184923.png",
