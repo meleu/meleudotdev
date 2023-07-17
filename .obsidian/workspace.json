@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "616da44e1583ff34",
+        "id": "05dcd1b872e7e69e",
         "type": "tabs",
         "children": [
           {
-            "id": "84807ff9059aa049",
+            "id": "3bc0d9291de4c00a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Agile Web Development with Rails 7.md",
+                "file": "private/lewagon/Teacher Assistant Course.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Agile Web Development with Rails 7.md"
+                "file": "private/lewagon/Teacher Assistant Course.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Agile Web Development with Rails 7.md",
+                "file": "private/lewagon/Teacher Assistant Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Agile Web Development with Rails 7.md",
+                "file": "private/lewagon/Teacher Assistant Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,11 +171,13 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "84807ff9059aa049",
+  "active": "3bc0d9291de4c00a",
   "lastOpenFiles": [
+    "private/lewagon/Teacher Assistant Course.md",
+    "private/lewagon",
+    "notes/books/Agile Web Development with Rails 7.md",
     "notes/exercism-config-for-ruby.md",
     "notes/books/k8s-basico/Kubernetes Basico.md",
-    "notes/books/Agile Web Development with Rails 7.md",
     "notes/learning/egghead - TailwindCSS.md",
     "notes/anki-frontend.md",
     "notes/learning/egghead - CSS Fundamentals.md",
@@ -198,7 +200,6 @@
     "notes/books/code-complete/Code Complete.md",
     "private/carreira/CloudWalk/SDET.md",
     "private/carreira/CloudWalk/quake-log-parser.md",
-    "notes/ruby minitest simplecov.md",
     "assets/CloudWalk - processo seletivo.png",
     "assets/Effective Software Testing - testing pyramid.png",
     "assets/CloudWalk - entrevista.png",
@@ -217,7 +218,6 @@
     "notes/books/poodr",
     "notes/books/Untitled",
     "notes/learning/lewagon/log",
-    "notes/ra/8Bitdo",
-    "notes/books/Practical Vim"
+    "notes/ra/8Bitdo"
   ]
 }
