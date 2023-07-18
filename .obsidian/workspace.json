@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "05dcd1b872e7e69e",
+        "id": "104c1bc63b0375da",
         "type": "tabs",
         "children": [
           {
-            "id": "3bc0d9291de4c00a",
+            "id": "3192e73f9da2501a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -94,9 +90,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md"
-              }
+              "state": {}
             }
           },
           {
@@ -116,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,11 +163,24 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "3bc0d9291de4c00a",
+  "active": "3192e73f9da2501a",
   "lastOpenFiles": [
+    "repos/meleu.sh/content/posts/aspas-sempre.md",
+    "repos/meleu.sh/content/drafts/docker-engenharia-reversa.md",
+    "repos/meleu.sh/content/posts/abrir-qualquer-arquivo.md",
+    "notes/Docker Reverse Engineering.md",
+    "repos/meleu.sh/content/drafts/array-includes.en.md",
+    "repos/meleu.sh/content/drafts/draft-pup.md",
+    "repos/meleu.sh/content/drafts/dinheiro.md",
+    "repos/meleu.sh/content/drafts/draft-carbon-now-sh.md",
+    "repos/meleu.sh/content/drafts/join-bash.en.md",
+    "repos/meleu.sh/content/drafts/k8s-basico.md",
+    "repos/meleu.sh/content/drafts/shebang.en.md",
+    "repos/meleu.sh/content/drafts/vim-bash.md",
+    "repos/meleu.sh/TODO.md",
+    "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
     "private/carreira/CloudWalk/Interview.md",
     "private/carreira/CloudWalk/email.md",
-    "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
     "private/carreira/CloudWalk/CloudWalk - first submission.md",
     "private/logbots.app/recreate.md",
     "private/lewagon/Teacher Assistant Course.md",
@@ -187,19 +192,6 @@
     "notes/anki-frontend.md",
     "notes/learning/egghead - CSS Fundamentals.md",
     "notes/css.md",
-    "notes/books/The Coding Career Handbook/The Coding Career Handbook.md",
-    "notes/books/The Elements of Programming Style.md",
-    "notes/books/The Well-Grounded Rubyist.md",
-    "notes/books/Hackers and Painters.md",
-    "notes/books/O Monge e o Executivo.md",
-    "notes/books/O Programador Apaixonado.md",
-    "notes/books/O Mitico Homem-Mes.md",
-    "notes/books/Clean Coder.md",
-    "notes/books/Mastering Vim Quickly.md",
-    "notes/books/Effective Software Testing.md",
-    "moc/books-tech.md",
-    "README.md",
-    "notes/books/code-complete/Code Complete - 5.2. Sotfware's Primary Technical Imperative - Managing Complexity.md",
     "assets/CloudWalk - processo seletivo.png",
     "assets/Effective Software Testing - testing pyramid.png",
     "assets/CloudWalk - entrevista.png",
