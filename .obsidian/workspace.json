@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/lewagon/Teacher Assistant Course.md",
+                "file": "private/logbots.app/recreate.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/lewagon/Teacher Assistant Course.md"
+                "file": "private/logbots.app/recreate.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/lewagon/Teacher Assistant Course.md",
+                "file": "private/logbots.app/recreate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/lewagon/Teacher Assistant Course.md",
+                "file": "private/logbots.app/recreate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
