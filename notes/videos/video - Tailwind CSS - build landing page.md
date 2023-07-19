@@ -92,6 +92,30 @@ To hide the menu at `lg` breakpoint and show the hamburger icon:
  - 44:45 - card's icon
  - 45:40 - card number 2 is `bg-color-primery-dark`
 
+#### possible icons for ontime
+
+##### Nível de serviço
+
+- truck & clock
+```html
+<i class="fa-solid fa-truck-fast"></i>
+```
+
+##### gestão
+
+- money
+```html
+<i class="fa-solid fa-hand-holding-dollar"></i>
+<i class="fa-solid fa-circle-dollar-to-slot"></i>
+```
+
+
+##### quality
+
+- thumbs up in a seal
+
+
+
 ### section: hero banner 2 / CTA
 
 - 48:10 - applying flex to the divs in the second hero banner
