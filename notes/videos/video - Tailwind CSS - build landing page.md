@@ -57,10 +57,23 @@ index.html começa aos 15:22 minutos
 ## header / navbar
 
 - 19:47 - flexbox stuff
+- 23:45 - install fontawesome
+
+Copied from searching `font awesome` in <https://cdnjs.com>:
+```html
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+```
 
 ### hamburger menu
 
-- 23min - install fontawesome
+To hide the menu at `lg` breakpoint and show the hamburger icon:
+
+```html
+<ul class="hidden lg:flex"> traditional menu... </ul>
+
+<ul class="lg:hidden"> hamburger icon... </ul>
+```
+
 - 26min - JavaScript code for the hamburger
     - 26:50 - several elements with the same id???
     - 29:12 - full JS code
