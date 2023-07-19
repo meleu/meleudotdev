@@ -16,7 +16,7 @@
               "state": {
                 "file": "notes/videos/video - Tailwind CSS - build landing page.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "pinned": true
             }
@@ -175,8 +175,9 @@
   },
   "active": "3192e73f9da2501a",
   "lastOpenFiles": [
-    "notes/learning/egghead - TailwindCSS.md",
+    "notes/vscodevim.md",
     "notes/videos/video - Tailwind CSS - build landing page.md",
+    "notes/learning/egghead - TailwindCSS.md",
     "repos/meleu.sh/content/posts/aspas-sempre.md",
     "repos/meleu.sh/content/drafts/docker-engenharia-reversa.md",
     "repos/meleu.sh/content/posts/abrir-qualquer-arquivo.md",
@@ -201,7 +202,6 @@
     "notes/exercism-config-for-ruby.md",
     "notes/books/k8s-basico/Kubernetes Basico.md",
     "notes/anki-frontend.md",
-    "notes/learning/egghead - CSS Fundamentals.md",
     "assets/CloudWalk - processo seletivo.png",
     "assets/Effective Software Testing - testing pyramid.png",
     "assets/CloudWalk - entrevista.png",

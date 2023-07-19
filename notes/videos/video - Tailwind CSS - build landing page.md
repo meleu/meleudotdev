@@ -124,3 +124,8 @@ To hide the menu at `lg` breakpoint and show the hamburger icon:
 
 
 PAREI em 51:23
+
+
+### contact form
+
+- 1:42:20
