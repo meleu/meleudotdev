@@ -54,8 +54,6 @@ index.html começa aos 15:22 minutos
 ```
 
 
-Adicionando custom colors: 11:30 - 12:14
-
 ## header / navbar
 
 - 19:47 - flexbox stuff
