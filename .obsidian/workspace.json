@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/origamid-bootstrap.md",
-                "mode": "preview",
+                "file": "private/ontime/ontime page.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "simple_form",
+                "query": "ontime",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/origamid-bootstrap.md"
+                "file": "private/ontime/ontime page.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/origamid-bootstrap.md",
+                "file": "private/ontime/ontime page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/origamid-bootstrap.md",
+                "file": "private/ontime/ontime page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,14 @@
   },
   "active": "35738564ba602daf",
   "lastOpenFiles": [
+    "private/post bootcamp projects.md",
+    "private/ontime/ontime page.md",
+    "private/ontime",
+    "private/Untitled.md",
+    "private/carreira/zazmic/Post Course.md",
     "notes/videos/video - Tailwind CSS - build landing page.md",
+    "private/carreira/portfolio.md",
+    "notes/learning/origamid-bootstrap.md",
     "notes/vscodevim.md",
     "notes/learning/egghead - TailwindCSS.md",
     "repos/meleu.sh/content/posts/aspas-sempre.md",
@@ -193,13 +199,7 @@
     "private/carreira/CloudWalk/Interview.md",
     "private/carreira/CloudWalk/email.md",
     "private/carreira/CloudWalk/CloudWalk - first submission.md",
-    "private/logbots.app/recreate.md",
-    "private/lewagon/Teacher Assistant Course.md",
     "private/lewagon",
-    "notes/books/Agile Web Development with Rails 7.md",
-    "notes/exercism-config-for-ruby.md",
-    "notes/books/k8s-basico/Kubernetes Basico.md",
-    "notes/anki-frontend.md",
     "assets/CloudWalk - processo seletivo.png",
     "assets/Effective Software Testing - testing pyramid.png",
     "assets/CloudWalk - entrevista.png",
@@ -217,7 +217,6 @@
     "private/assets/docker-sources.pdf",
     "notes/books/poodr",
     "notes/books/Untitled",
-    "notes/learning/lewagon/log",
-    "notes/ra/8Bitdo"
+    "notes/learning/lewagon/log"
   ]
 }
