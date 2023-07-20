@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3192e73f9da2501a",
+            "id": "35738564ba602daf",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/videos/video - Tailwind CSS - build landing page.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true
+                "file": "notes/learning/origamid-bootstrap.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -97,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/videos/video - Tailwind CSS - build landing page.md"
+                "file": "notes/learning/origamid-bootstrap.md"
               }
             }
           },
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/videos/video - Tailwind CSS - build landing page.md",
+                "file": "notes/learning/origamid-bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/videos/video - Tailwind CSS - build landing page.md",
+                "file": "notes/learning/origamid-bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +171,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "3192e73f9da2501a",
+  "active": "35738564ba602daf",
   "lastOpenFiles": [
-    "notes/vscodevim.md",
     "notes/videos/video - Tailwind CSS - build landing page.md",
+    "notes/vscodevim.md",
     "notes/learning/egghead - TailwindCSS.md",
     "repos/meleu.sh/content/posts/aspas-sempre.md",
     "repos/meleu.sh/content/drafts/docker-engenharia-reversa.md",
