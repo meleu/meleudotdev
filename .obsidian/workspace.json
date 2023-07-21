@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/ontime/ontime page.md",
+                "file": "notes/origamid - UI Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/ontime/ontime page.md"
+                "file": "notes/origamid - UI Design.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/ontime/ontime page.md",
+                "file": "notes/origamid - UI Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/ontime/ontime page.md",
+                "file": "notes/origamid - UI Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +172,9 @@
   },
   "active": "35738564ba602daf",
   "lastOpenFiles": [
-    "private/post bootcamp projects.md",
     "private/ontime/ontime page.md",
+    "notes/origamid - UI Design.md",
+    "private/post bootcamp projects.md",
     "private/ontime",
     "private/Untitled.md",
     "private/carreira/zazmic/Post Course.md",
@@ -198,7 +199,6 @@
     "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
     "private/carreira/CloudWalk/Interview.md",
     "private/carreira/CloudWalk/email.md",
-    "private/carreira/CloudWalk/CloudWalk - first submission.md",
     "private/lewagon",
     "assets/CloudWalk - processo seletivo.png",
     "assets/Effective Software Testing - testing pyramid.png",
