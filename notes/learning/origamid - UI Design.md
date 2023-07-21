@@ -66,3 +66,18 @@ Exercício: Selection 10 projetos que você goste em cada um dos sites abaixo:
     - <https://dribbble.com/shots/20928915-Finmark-home-page-interaction>
     - <https://dribbble.com/shots/21973938-WeStud-Dashboard-sidebar-navigation-for-the-education-platform>
 - <https://typewolf.com/>
+
+
+
+## Figma
+
+### Atalhos
+
+Para ver lista na tela: `Ctrl`+`Shift`+`?`
+
+- `r`: Rectangle
+- `o`: Ellipse (oval). Press `Shift` for perfect circle.
+- `p`: Pen (weird stuff)
+- `t`: Text
+- `i`: color picker
+- `z`: (manter pressionado): permite selecionar área do zoom
