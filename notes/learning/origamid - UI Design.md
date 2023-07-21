@@ -75,9 +75,14 @@ Exercício: Selection 10 projetos que você goste em cada um dos sites abaixo:
 
 Para ver lista na tela: `Ctrl`+`Shift`+`?`
 
-- `r`: Rectangle
-- `o`: Ellipse (oval). Press `Shift` for perfect circle.
+- `Esc`: volta pra "mover"
+- `k`: redimensionar mantendo o aspect ratio
+- `r`: Rectangle. Manter `Shift` pressionado para quadrado perfeito.
+- `o`: Ellipse (oval). Manter `Shift` pressionado para círculo perfeito.
+- `l`: Line. Manter `Shift` para vertical/horizontal/45graus
 - `p`: Pen (weird stuff)
 - `t`: Text
 - `i`: color picker
 - `z`: (manter pressionado): permite selecionar área do zoom
+
+- `Alt`+`click`+move: duplica o elemento.
