@@ -10,10 +10,24 @@
           {
             "id": "35738564ba602daf",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/origamid - UI Design.md",
+                "file": "notes/learning/origamid - UI Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "330fde27c5499aab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/ontime/ontime page.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -94,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/origamid - UI Design.md"
+                "file": "notes/learning/origamid - UI Design.md"
               }
             }
           },
@@ -115,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/origamid - UI Design.md",
+                "file": "notes/learning/origamid - UI Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/origamid - UI Design.md",
+                "file": "notes/learning/origamid - UI Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +188,7 @@
   "active": "35738564ba602daf",
   "lastOpenFiles": [
     "private/ontime/ontime page.md",
-    "notes/origamid - UI Design.md",
+    "notes/learning/origamid - UI Design.md",
     "private/post bootcamp projects.md",
     "private/ontime",
     "private/Untitled.md",
