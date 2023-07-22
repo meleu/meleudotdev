@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/lewagon/Teacher Assistant Course.md",
+                "file": "notes/learning/origamid - UI Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/lewagon/Teacher Assistant Course.md"
+                "file": "notes/learning/origamid - UI Design.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/lewagon/Teacher Assistant Course.md",
+                "file": "notes/learning/origamid - UI Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/lewagon/Teacher Assistant Course.md",
+                "file": "notes/learning/origamid - UI Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +172,7 @@
   },
   "active": "330fde27c5499aab",
   "lastOpenFiles": [
+    "private/lewagon/Teacher Assistant Course.md",
     "private/ontime/ontime page.md",
     "notes/learning/origamid - UI Design.md",
     "notes/apache.md",
@@ -198,7 +199,6 @@
     "repos/meleu.sh/content/drafts/shebang.en.md",
     "repos/meleu.sh/content/drafts/vim-bash.md",
     "repos/meleu.sh/TODO.md",
-    "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
     "private/lewagon",
     "assets/CloudWalk - processo seletivo.png",
     "assets/Effective Software Testing - testing pyramid.png",

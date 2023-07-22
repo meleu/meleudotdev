@@ -86,3 +86,4 @@ Para ver lista na tela: `Ctrl`+`Shift`+`?`
 - `z`: (manter pressionado): permite selecionar área do zoom
 
 - `Alt`+`click`+move: duplica o elemento.
+
