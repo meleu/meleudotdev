@@ -145,5 +145,34 @@ Now go to the commit history: <https://github.com/meleu/depot/commits/master>
 
 ## Cool things I learned
 
-### assert error messages with I18n.translate
+### Model Validation
+
+#### RegEx security
+
+```ruby
+# pay attention to the \z in the RegEx below
+validates :image_url, allow_blank: true, format: {
+  with: /\.(gif|jpg|png)\z/i,
+  message: 'must be a URL for GIF, JPG or PNG image'
+}
+```
+
+That `\z` means "end of line". I would use `$` here, but when I do it, I receive this error:
+
+> `ArgumentError: The provided regular expression is using multiline anchors (^ or $), which may present a security risk. Did you mean to use \A and \z, or forgot to add the :multiline => true option?`
+
+
+### Tests
+
+#### Use `#invalid?` to check if a product can be persisted
+
+```ruby
+product = Product.new
+assert product.invalid?
+```
+
+#### Check if an object is invalid because of specific fields
+
+
+#### assert error messages with I18n.translate
 
