@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/origamid - UI Design.md",
+                "file": "notes/books/Agile Web Development with Rails 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/origamid - UI Design.md"
+                "file": "notes/books/Agile Web Development with Rails 7.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/origamid - UI Design.md",
+                "file": "notes/books/Agile Web Development with Rails 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/origamid - UI Design.md",
+                "file": "notes/books/Agile Web Development with Rails 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +173,10 @@
   },
   "active": "330fde27c5499aab",
   "lastOpenFiles": [
+    "notes/learning/origamid - UI Design.md",
     "private/carreira/CirclePOS - Mauro.md",
     "private/lewagon/Teacher Assistant Course.md",
     "private/ontime/ontime page.md",
-    "notes/learning/origamid - UI Design.md",
     "notes/apache.md",
     "private/carreira/mauro.md",
     "private/post bootcamp projects.md",

@@ -141,3 +141,9 @@ Now go to the commit history: <https://github.com/meleu/depot/commits/master>
 
 
 
+
+
+## Cool things I learned
+
+### assert error messages with I18n.translate
+
