@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -172,6 +173,7 @@
   },
   "active": "330fde27c5499aab",
   "lastOpenFiles": [
+    "private/carreira/CirclePOS - Mauro.md",
     "private/lewagon/Teacher Assistant Course.md",
     "private/ontime/ontime page.md",
     "notes/learning/origamid - UI Design.md",
@@ -198,7 +200,6 @@
     "repos/meleu.sh/content/drafts/k8s-basico.md",
     "repos/meleu.sh/content/drafts/shebang.en.md",
     "repos/meleu.sh/content/drafts/vim-bash.md",
-    "repos/meleu.sh/TODO.md",
     "private/lewagon",
     "assets/CloudWalk - processo seletivo.png",
     "assets/Effective Software Testing - testing pyramid.png",
