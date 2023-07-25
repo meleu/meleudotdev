@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Agile Web Development with Rails 7.md",
+                "file": "private/logbots.app/recreate.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Agile Web Development with Rails 7.md"
+                "file": "private/logbots.app/recreate.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Agile Web Development with Rails 7.md",
+                "file": "private/logbots.app/recreate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Agile Web Development with Rails 7.md",
+                "file": "private/logbots.app/recreate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +172,15 @@
   },
   "active": "330fde27c5499aab",
   "lastOpenFiles": [
+    "private/logbots.app/pitch.md",
+    "private/logbots.app/logbots - nova operacao.md",
+    "private/logbots.app/iniciando-login.md",
+    "private/logbots.app/database.md",
+    "private/ontime/ontime page.md",
+    "notes/books/Agile Web Development with Rails 7.md",
     "notes/learning/origamid - UI Design.md",
     "private/carreira/CirclePOS - Mauro.md",
     "private/lewagon/Teacher Assistant Course.md",
-    "private/ontime/ontime page.md",
     "notes/apache.md",
     "private/carreira/mauro.md",
     "private/post bootcamp projects.md",
@@ -195,11 +199,6 @@
     "repos/meleu.sh/content/drafts/array-includes.en.md",
     "repos/meleu.sh/content/drafts/draft-pup.md",
     "repos/meleu.sh/content/drafts/dinheiro.md",
-    "repos/meleu.sh/content/drafts/draft-carbon-now-sh.md",
-    "repos/meleu.sh/content/drafts/join-bash.en.md",
-    "repos/meleu.sh/content/drafts/k8s-basico.md",
-    "repos/meleu.sh/content/drafts/shebang.en.md",
-    "repos/meleu.sh/content/drafts/vim-bash.md",
     "private/lewagon",
     "assets/CloudWalk - processo seletivo.png",
     "assets/Effective Software Testing - testing pyramid.png",
