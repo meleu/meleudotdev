@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/logbots.app/recreate.md",
+                "file": "private/lewagon/parsing-reboot.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/logbots.app/recreate.md"
+                "file": "private/lewagon/parsing-reboot.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/logbots.app/recreate.md",
+                "file": "private/lewagon/parsing-reboot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/logbots.app/recreate.md",
+                "file": "private/lewagon/parsing-reboot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +172,8 @@
   },
   "active": "330fde27c5499aab",
   "lastOpenFiles": [
+    "private/logbots.app/recreate.md",
+    "private/lewagon/parsing-reboot.md",
     "private/logbots.app/pitch.md",
     "private/logbots.app/logbots - nova operacao.md",
     "private/logbots.app/iniciando-login.md",
@@ -197,8 +199,6 @@
     "repos/meleu.sh/content/posts/abrir-qualquer-arquivo.md",
     "notes/Docker Reverse Engineering.md",
     "repos/meleu.sh/content/drafts/array-includes.en.md",
-    "repos/meleu.sh/content/drafts/draft-pup.md",
-    "repos/meleu.sh/content/drafts/dinheiro.md",
     "private/lewagon",
     "assets/CloudWalk - processo seletivo.png",
     "assets/Effective Software Testing - testing pyramid.png",
