@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/lewagon/parsing-reboot.md",
-                "mode": "source",
+                "file": "notes/learning/RSpec - udemy.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/lewagon/parsing-reboot.md"
+                "file": "notes/learning/RSpec - udemy.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/lewagon/parsing-reboot.md",
+                "file": "notes/learning/RSpec - udemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/lewagon/parsing-reboot.md",
+                "file": "notes/learning/RSpec - udemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +172,9 @@
   },
   "active": "330fde27c5499aab",
   "lastOpenFiles": [
-    "private/logbots.app/recreate.md",
+    "moc/books.md",
     "private/lewagon/parsing-reboot.md",
+    "private/logbots.app/recreate.md",
     "private/logbots.app/pitch.md",
     "private/logbots.app/logbots - nova operacao.md",
     "private/logbots.app/iniciando-login.md",
@@ -198,7 +199,6 @@
     "repos/meleu.sh/content/drafts/docker-engenharia-reversa.md",
     "repos/meleu.sh/content/posts/abrir-qualquer-arquivo.md",
     "notes/Docker Reverse Engineering.md",
-    "repos/meleu.sh/content/drafts/array-includes.en.md",
     "private/lewagon",
     "assets/CloudWalk - processo seletivo.png",
     "assets/Effective Software Testing - testing pyramid.png",
