@@ -10,13 +10,15 @@
           {
             "id": "330fde27c5499aab",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md",
+                "file": "private/carreira/CirclePoS/CirclePoS - Cover Letter.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -78,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -94,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md"
+                "file": "private/carreira/CirclePoS/CirclePoS - Cover Letter.md"
               }
             }
           },
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md",
+                "file": "private/carreira/CirclePoS/CirclePoS - Cover Letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md",
+                "file": "private/carreira/CirclePoS/CirclePoS - Cover Letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +175,11 @@
   },
   "active": "330fde27c5499aab",
   "lastOpenFiles": [
+    "notes/hire-me.md",
+    "private/carreira/CirclePoS/CirclePoS - Cover Letter.md",
+    "private/carreira/CirclePoS/CirclePOS - Mauro.md",
+    "private/carreira/CirclePoS",
+    "notes/learning/RSpec - udemy.md",
     "private/cambly/Rediet/Rediet.md",
     "private/cambly/Cuau.md",
     "private/cambly/Rediet/Rediet - Poetry.md",
@@ -183,7 +191,6 @@
     "private/cambly/Anita/Anita.md",
     "private/carreira/vagas de Ruby.md",
     "private/carreira/CV.md",
-    "notes/learning/RSpec - udemy.md",
     "moc/books.md",
     "private/lewagon/parsing-reboot.md",
     "private/logbots.app/recreate.md",
@@ -194,10 +201,7 @@
     "private/ontime/ontime page.md",
     "notes/books/Agile Web Development with Rails 7.md",
     "notes/learning/origamid - UI Design.md",
-    "private/carreira/CirclePOS - Mauro.md",
     "private/lewagon/Teacher Assistant Course.md",
-    "notes/apache.md",
-    "private/carreira/mauro.md",
     "private/ontime",
     "private/lewagon",
     "assets/CloudWalk - processo seletivo.png",
@@ -216,7 +220,6 @@
     "notes/learning/lewagon/final-project",
     "private/assets/docker-sources.pdf",
     "notes/books/poodr",
-    "notes/books/Untitled",
-    "notes/learning/lewagon/log"
+    "notes/books/Untitled"
   ]
 }
