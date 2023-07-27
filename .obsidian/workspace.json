@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md",
-                "mode": "preview",
+                "file": "private/cambly/Rediet/Rediet.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md"
+                "file": "private/cambly/Rediet/Rediet.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md",
+                "file": "private/cambly/Rediet/Rediet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/RSpec - udemy.md",
+                "file": "private/cambly/Rediet/Rediet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +172,18 @@
   },
   "active": "330fde27c5499aab",
   "lastOpenFiles": [
+    "private/cambly/Cuau.md",
+    "private/cambly/Rediet/Rediet - Poetry.md",
+    "private/cambly/Rediet/Rediet - Personal Philosophy.md",
+    "private/cambly/Rediet/Rediet - Peaceful transition of power.md",
+    "private/cambly/Rediet/Rediet - Freud text.md",
+    "private/cambly/Rediet/Rediet - Discussion of Writing - Phaedrus.md",
+    "private/cambly/Rediet/Rediet - content creator.md",
+    "private/cambly/Rediet/Rediet.md",
+    "private/cambly/Anita/Anita.md",
+    "private/carreira/vagas de Ruby.md",
+    "private/carreira/CV.md",
+    "notes/learning/RSpec - udemy.md",
     "moc/books.md",
     "private/lewagon/parsing-reboot.md",
     "private/logbots.app/recreate.md",
@@ -186,19 +198,7 @@
     "private/lewagon/Teacher Assistant Course.md",
     "notes/apache.md",
     "private/carreira/mauro.md",
-    "private/post bootcamp projects.md",
     "private/ontime",
-    "private/Untitled.md",
-    "private/carreira/zazmic/Post Course.md",
-    "notes/videos/video - Tailwind CSS - build landing page.md",
-    "private/carreira/portfolio.md",
-    "notes/learning/origamid-bootstrap.md",
-    "notes/vscodevim.md",
-    "notes/learning/egghead - TailwindCSS.md",
-    "repos/meleu.sh/content/posts/aspas-sempre.md",
-    "repos/meleu.sh/content/drafts/docker-engenharia-reversa.md",
-    "repos/meleu.sh/content/posts/abrir-qualquer-arquivo.md",
-    "notes/Docker Reverse Engineering.md",
     "private/lewagon",
     "assets/CloudWalk - processo seletivo.png",
     "assets/Effective Software Testing - testing pyramid.png",
