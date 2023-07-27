@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/cambly/Rediet/Rediet.md",
-                "mode": "source",
+                "file": "notes/learning/RSpec - udemy.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/cambly/Rediet/Rediet.md"
+                "file": "notes/learning/RSpec - udemy.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/cambly/Rediet/Rediet.md",
+                "file": "notes/learning/RSpec - udemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/cambly/Rediet/Rediet.md",
+                "file": "notes/learning/RSpec - udemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +172,7 @@
   },
   "active": "330fde27c5499aab",
   "lastOpenFiles": [
+    "private/cambly/Rediet/Rediet.md",
     "private/cambly/Cuau.md",
     "private/cambly/Rediet/Rediet - Poetry.md",
     "private/cambly/Rediet/Rediet - Personal Philosophy.md",
@@ -179,7 +180,6 @@
     "private/cambly/Rediet/Rediet - Freud text.md",
     "private/cambly/Rediet/Rediet - Discussion of Writing - Phaedrus.md",
     "private/cambly/Rediet/Rediet - content creator.md",
-    "private/cambly/Rediet/Rediet.md",
     "private/cambly/Anita/Anita.md",
     "private/carreira/vagas de Ruby.md",
     "private/carreira/CV.md",
