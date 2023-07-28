@@ -7,7 +7,7 @@ dg-permalink: books-tech
 ```dataview
 TABLE 
   author,
-  read-timestamp AS "When I read"
+  read-timestamp AS "when I read"
 FROM #books/tech 
 WHERE dg-publish = true
 SORT read-timestamp DESC

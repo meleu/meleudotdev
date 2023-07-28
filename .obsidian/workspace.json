@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "private/carreira/CirclePoS/CirclePoS - Cover Letter.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -175,8 +175,9 @@
   },
   "active": "330fde27c5499aab",
   "lastOpenFiles": [
-    "notes/hire-me.md",
+    "moc/books-tech.md",
     "private/carreira/CirclePoS/CirclePoS - Cover Letter.md",
+    "notes/hire-me.md",
     "private/carreira/CirclePoS/CirclePOS - Mauro.md",
     "private/carreira/CirclePoS",
     "notes/learning/RSpec - udemy.md",
@@ -201,7 +202,6 @@
     "private/ontime/ontime page.md",
     "notes/books/Agile Web Development with Rails 7.md",
     "notes/learning/origamid - UI Design.md",
-    "private/lewagon/Teacher Assistant Course.md",
     "private/ontime",
     "private/lewagon",
     "assets/CloudWalk - processo seletivo.png",
