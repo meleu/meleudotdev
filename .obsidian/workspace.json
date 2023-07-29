@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "104c1bc63b0375da",
+        "id": "f7aa2f8ebc84bdc2",
         "type": "tabs",
         "children": [
           {
-            "id": "330fde27c5499aab",
+            "id": "8c7f1abf2e5557e1",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/CirclePoS/CirclePoS - Cover Letter.md",
-                "mode": "preview",
+                "file": "notes/books/poodr/Practical Object-Oriented Design.md",
+                "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -80,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -97,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/CirclePoS/CirclePoS - Cover Letter.md"
+                "file": "notes/books/poodr/Practical Object-Oriented Design.md"
               }
             }
           },
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/CirclePoS/CirclePoS - Cover Letter.md",
+                "file": "notes/books/poodr/Practical Object-Oriented Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/CirclePoS/CirclePoS - Cover Letter.md",
+                "file": "notes/books/poodr/Practical Object-Oriented Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +170,12 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "330fde27c5499aab",
+  "active": "8c7f1abf2e5557e1",
   "lastOpenFiles": [
-    "moc/books-tech.md",
     "private/carreira/CirclePoS/CirclePoS - Cover Letter.md",
+    "notes/books/poodr/Practical Object-Oriented Design.md",
+    "notes/books/poodr/POODR - Chapter 1 - Object Oriented Design.md",
+    "moc/books-tech.md",
     "notes/hire-me.md",
     "private/carreira/CirclePoS/CirclePOS - Mauro.md",
     "private/carreira/CirclePoS",
@@ -200,8 +199,6 @@
     "private/logbots.app/iniciando-login.md",
     "private/logbots.app/database.md",
     "private/ontime/ontime page.md",
-    "notes/books/Agile Web Development with Rails 7.md",
-    "notes/learning/origamid - UI Design.md",
     "private/ontime",
     "private/lewagon",
     "assets/CloudWalk - processo seletivo.png",
