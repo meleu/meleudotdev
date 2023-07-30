@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c7f1abf2e5557e1",
+            "id": "63e9b10b9ef504cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/poodr/Practical Object-Oriented Design.md",
+                "file": "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/poodr/Practical Object-Oriented Design.md"
+                "file": "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/poodr/Practical Object-Oriented Design.md",
+                "file": "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/poodr/Practical Object-Oriented Design.md",
+                "file": "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,10 +171,15 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "8c7f1abf2e5557e1",
+  "active": "63e9b10b9ef504cc",
   "lastOpenFiles": [
-    "private/carreira/CirclePoS/CirclePoS - Cover Letter.md",
+    "notes/learning/lewagon/log/2023-04-28 - MVC - Cookbook.md",
+    "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
+    "notes/learning/lewagon/bootcamp-log.md",
+    "notes/learning/lewagon/log/2023-04-26 - OOP.md",
+    "templates/lewagon-log.md",
     "notes/books/poodr/Practical Object-Oriented Design.md",
+    "private/carreira/CirclePoS/CirclePoS - Cover Letter.md",
     "notes/books/poodr/POODR - Chapter 1 - Object Oriented Design.md",
     "moc/books-tech.md",
     "notes/hire-me.md",
@@ -194,11 +200,6 @@
     "moc/books.md",
     "private/lewagon/parsing-reboot.md",
     "private/logbots.app/recreate.md",
-    "private/logbots.app/pitch.md",
-    "private/logbots.app/logbots - nova operacao.md",
-    "private/logbots.app/iniciando-login.md",
-    "private/logbots.app/database.md",
-    "private/ontime/ontime page.md",
     "private/ontime",
     "private/lewagon",
     "assets/CloudWalk - processo seletivo.png",
