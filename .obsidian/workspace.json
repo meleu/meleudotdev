@@ -14,23 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e4518b640f9af782",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -60,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ontime",
+                "query": "brick",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,12 +171,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "e4518b640f9af782",
+  "active": "63e9b10b9ef504cc",
   "lastOpenFiles": [
     "notes/learning/lewagon/bootcamp-log.md",
     "notes/learning/lewagon/log/2023-04-28 - MVC - Cookbook.md",
-    "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
+    "notes/learning/lewagon/final-project/notes.md",
+    "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
     "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
+    "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
     "notes/learning/lewagon/log/2023-04-26 - OOP.md",
     "templates/lewagon-log.md",
     "notes/books/poodr/Practical Object-Oriented Design.md",
@@ -208,8 +200,6 @@
     "private/cambly/Anita/Anita.md",
     "private/carreira/vagas de Ruby.md",
     "private/carreira/CV.md",
-    "moc/books.md",
-    "private/lewagon/parsing-reboot.md",
     "private/ontime",
     "private/lewagon",
     "assets/CloudWalk - processo seletivo.png",
