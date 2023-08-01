@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
-                "mode": "source",
+                "file": "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
+                "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e4518b640f9af782",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md"
+                "file": "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md"
               }
             }
           },
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
+                "file": "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
+                "file": "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,11 +181,12 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "63e9b10b9ef504cc",
+  "active": "e4518b640f9af782",
   "lastOpenFiles": [
-    "notes/learning/lewagon/log/2023-04-28 - MVC - Cookbook.md",
-    "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
     "notes/learning/lewagon/bootcamp-log.md",
+    "notes/learning/lewagon/log/2023-04-28 - MVC - Cookbook.md",
+    "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
+    "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
     "notes/learning/lewagon/log/2023-04-26 - OOP.md",
     "templates/lewagon-log.md",
     "notes/books/poodr/Practical Object-Oriented Design.md",
@@ -199,7 +210,6 @@
     "private/carreira/CV.md",
     "moc/books.md",
     "private/lewagon/parsing-reboot.md",
-    "private/logbots.app/recreate.md",
     "private/ontime",
     "private/lewagon",
     "assets/CloudWalk - processo seletivo.png",
