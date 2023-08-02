@@ -12,12 +12,6 @@ exemplos:
 - ok, os managers normalmente vão pensar isso 👆... mas o pessoal mais técnico tem abertura pra falar da importância disso?
 - aliás, o pessoal mais técnico (seus colegas) se preocupa com qualidade de código?
 
-
-aí tava aqui escrevendo esses pensamentos quando pensei que provavelmente alguém já deve ter uma relação destas por aí.
-(ou existe um blog post conhecidão sobre esse tema...)
-
-vcs tem algum link sobre esse tema?
-
 **Obs**: quando perguntei sobre isso no telegram "Programando na Gringa", o pessoal interpretou como se eu tivesse interessado no tema de design/arquitetura de software. E na conversa acabaram aparecendo dois links interessantes:
 
 - [Code less, engineer more](https://increment.com/teams/code-less-engineer-more/)

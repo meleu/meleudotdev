@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/LeWagon/Food Delivery post.md",
+                "file": "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/LeWagon/Food Delivery post.md"
+                "file": "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/LeWagon/Food Delivery post.md",
+                "file": "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/LeWagon/Food Delivery post.md",
+                "file": "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,12 +173,16 @@
   },
   "active": "63e9b10b9ef504cc",
   "lastOpenFiles": [
+    "now.md",
+    "notes/hire-me.md",
+    "notes/project red flags.md",
+    "notes/learning/origamid - UI Design.md",
+    "private/carreira/LeWagon/Food Delivery post.md",
     "repos/meleu.sh/themes/PaperMod/i18n/th.yaml",
     "repos/meleu.sh/themes/PaperMod/i18n/hr.yaml",
     "repos/meleu.sh/themes/PaperMod/i18n/el.yaml",
     "repos/meleu.sh/themes/PaperMod/i18n/be.yaml",
     "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
-    "private/carreira/LeWagon/Food Delivery post.md",
     "private/carreira/LeWagon",
     "notes/learning/lewagon/bootcamp-log.md",
     "notes/learning/lewagon/log/2023-04-28 - MVC - Cookbook.md",
@@ -189,7 +195,6 @@
     "private/carreira/CirclePoS/CirclePoS - Cover Letter.md",
     "notes/books/poodr/POODR - Chapter 1 - Object Oriented Design.md",
     "moc/books-tech.md",
-    "notes/hire-me.md",
     "private/carreira/CirclePoS/CirclePOS - Mauro.md",
     "private/carreira/CirclePoS",
     "notes/learning/RSpec - udemy.md",
@@ -200,8 +205,6 @@
     "private/cambly/Rediet/Rediet - Peaceful transition of power.md",
     "private/cambly/Rediet/Rediet - Freud text.md",
     "private/cambly/Rediet/Rediet - Discussion of Writing - Phaedrus.md",
-    "private/cambly/Rediet/Rediet - content creator.md",
-    "private/cambly/Anita/Anita.md",
     "private/ontime",
     "private/lewagon",
     "assets/CloudWalk - processo seletivo.png",
@@ -215,7 +218,6 @@
     "assets/exercism-config-for-ruby - search ruby track.png",
     "assets/exercism-config-for-ruby - learn.png",
     "assets/Cypress 9 Fundamentals - selectors.png",
-    "private/carreira/CloudWalk",
-    "private/carreira/LeWagon - Career Week"
+    "private/carreira/CloudWalk"
   ]
 }

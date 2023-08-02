@@ -3,7 +3,7 @@ dg-publish: true
 ---
 # What I'm into *now*
 
-Doing the Le Wagon bootcamp (from April to June/2023).
+Teaching Ruby on Rails in the Le Wagon bootcamp.
 
 Topics I'm currently diving into:
 
@@ -20,15 +20,16 @@ Topics I'm currently diving into:
 
 ## Studying
 
-- [x] Ruby (Le Wagon bootcamp)
-- [x] [[Rust]]
+- [ ] [[Effective Software Testing]]
 - [ ] advanced usage of [[vim]]
-- [ ] [[RSpec - udemy]]
-- [ ] [[Fundamentals of TDD - upcase]]
+- [x] [[Rust]]
+- [x] Ruby (Le Wagon bootcamp)
+- [x] [[Fundamentals of TDD - upcase]]
 
 
 ## 2023 goals
 
 - [ ] play with 12 programming languages - [[exercism - 12in23 challenge]]
+- [ ] work with Ruby
 - [x] do the Le Wagon bootcamp
 

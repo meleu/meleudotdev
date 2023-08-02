@@ -84,6 +84,5 @@ Para ver lista na tela: `Ctrl`+`Shift`+`?`
 - `t`: Text
 - `i`: color picker
 - `z`: (manter pressionado): permite selecionar área do zoom
-
 - `Alt`+`click`+move: duplica o elemento.
 

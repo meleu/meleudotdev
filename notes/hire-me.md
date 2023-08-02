@@ -4,9 +4,7 @@ dg-permalink: hire-me
 ---
 # Hire Me
 
-Useful info if you're considering hiring me.
-
-Here I have more personal stuff, like [[#My principles|my principles]], my [[#Main interests|main interests]] and [[#Personal/side projects I've built from scratch|the things I built from scratch]]. If you want to see my **professional achievements**, it's better to check my [LinkedIn profile](https://www.linkedin.com/in/meleu/)
+Here I have personal stuff, like [[#My principles|my principles]], [[#Main interests|main interests]] and [[#Personal/side projects I've built from scratch|the things I built from scratch]]. If you want to see my **professional achievements**, it's better to check my [LinkedIn profile](https://www.linkedin.com/in/meleu/)
 
 ---
 
@@ -53,6 +51,13 @@ I created an API and a telegram bot to interact with it. The drivers use the tel
 
 This system is still in use today.
 
+**Technologies:**
+
+- LAMP stack (Linux, Apache, MySQL, PHP)
+- HTML/CSS/JS
+- DigitalOcean (Cloud Provider)
+- JavaScript/NodeJS (telegram bot)
+- REST API
 
 #### RADocs
 
@@ -62,6 +67,12 @@ Created tools that converts a github wiki into a beautiful documentation webpage
 - Wiki: <https://github.com/RetroAchievements/docs/wiki/>
 - Website: <https://docs.retroachievements.org/>
 
+**Technologies:**
+
+- GitHub Actions
+- Shell Scripting (bash)
+- mkdocs
+
 
 #### RABot
 
@@ -70,6 +81,11 @@ The RetroAchievements Discord Bot, consuming a lot of 3rd party APIs.
 - Repository: <https://github.com/RetroAchievements/RABot>
 - Discord Server where it runs: <https://discord.gg/dq2E4hE>
 
+**Technologies:**
+
+- JavaScript/NodeJS
+- DiscordJS module
+- consuming a bunch of 3rd party REST APIs
 
 #### RANews
 
@@ -77,6 +93,10 @@ RetroAchievements digital magazine. I've built this to learn more about CSS.
 
 - Website: <https://news.retroachievements.org/>
 
+**Technologies:**
+
+- HTML/CSS
+- Jekyll as the Static Site Generator
 
 
 ## Open Source projects I've contributed to
