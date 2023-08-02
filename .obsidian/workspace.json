@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
+                "file": "private/carreira/LeWagon/Food Delivery post.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brick",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,13 +74,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -96,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md"
+                "file": "private/carreira/LeWagon/Food Delivery post.md"
               }
             }
           },
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
+                "file": "private/carreira/LeWagon/Food Delivery post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
+                "file": "private/carreira/LeWagon/Food Delivery post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,11 +171,17 @@
   },
   "active": "63e9b10b9ef504cc",
   "lastOpenFiles": [
+    "repos/meleu.sh/themes/PaperMod/i18n/th.yaml",
+    "repos/meleu.sh/themes/PaperMod/i18n/hr.yaml",
+    "repos/meleu.sh/themes/PaperMod/i18n/el.yaml",
+    "repos/meleu.sh/themes/PaperMod/i18n/be.yaml",
+    "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
+    "private/carreira/LeWagon/Food Delivery post.md",
+    "private/carreira/LeWagon",
     "notes/learning/lewagon/bootcamp-log.md",
     "notes/learning/lewagon/log/2023-04-28 - MVC - Cookbook.md",
     "notes/learning/lewagon/final-project/notes.md",
     "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
-    "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
     "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
     "notes/learning/lewagon/log/2023-04-26 - OOP.md",
     "templates/lewagon-log.md",
@@ -198,8 +202,6 @@
     "private/cambly/Rediet/Rediet - Discussion of Writing - Phaedrus.md",
     "private/cambly/Rediet/Rediet - content creator.md",
     "private/cambly/Anita/Anita.md",
-    "private/carreira/vagas de Ruby.md",
-    "private/carreira/CV.md",
     "private/ontime",
     "private/lewagon",
     "assets/CloudWalk - processo seletivo.png",
@@ -214,10 +216,6 @@
     "assets/exercism-config-for-ruby - learn.png",
     "assets/Cypress 9 Fundamentals - selectors.png",
     "private/carreira/CloudWalk",
-    "private/carreira/LeWagon - Career Week",
-    "notes/learning/lewagon/final-project",
-    "private/assets/docker-sources.pdf",
-    "notes/books/poodr",
-    "notes/books/Untitled"
+    "private/carreira/LeWagon - Career Week"
   ]
 }
