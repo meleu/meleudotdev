@@ -30,12 +30,11 @@ end
 ---
 
 <!-- basicblock-start oid="Obsmy4RYMBkWGeiCDEPWjBHT" -->
-## What are the 4 most common ActiveRecord validation types?
+## What are the 3 most common ActiveRecord validation types?
 ::
 1. `presence`
 2. `uniqueness`
-3. `length { min or max }`
-4. `format { with: /regex/ }`
+3. `format { with: /regex/ }`
 <!-- basicblock-end -->
 
 
