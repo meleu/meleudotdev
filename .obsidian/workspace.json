@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
+                "file": "notes/learning/origamid - UI Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md"
+                "file": "notes/learning/origamid - UI Design.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
+                "file": "notes/learning/origamid - UI Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
+                "file": "notes/learning/origamid - UI Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +173,8 @@
   },
   "active": "63e9b10b9ef504cc",
   "lastOpenFiles": [
+    "notes/raw notes.md",
+    "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
     "now.md",
     "notes/hire-me.md",
     "notes/project red flags.md",
@@ -203,8 +205,6 @@
     "private/cambly/Rediet/Rediet - Poetry.md",
     "private/cambly/Rediet/Rediet - Personal Philosophy.md",
     "private/cambly/Rediet/Rediet - Peaceful transition of power.md",
-    "private/cambly/Rediet/Rediet - Freud text.md",
-    "private/cambly/Rediet/Rediet - Discussion of Writing - Phaedrus.md",
     "private/ontime",
     "private/lewagon",
     "assets/CloudWalk - processo seletivo.png",

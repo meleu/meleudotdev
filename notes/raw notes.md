@@ -2,8 +2,8 @@
 dg-publish: false
 ---
 
-## Crer ou Não Crer
+## Firefox: disable calling menu with `Alt` (useful when using figma)
 
-O que fazer para que o pior que há no mundo não encontre espaço para crescer em mim?
-
-
+- go to `about:config`
+- `[Accept the Risk and Continue]`
+- `ui.key.menuAccessKeyFocuses` = `false`

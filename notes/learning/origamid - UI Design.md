@@ -70,6 +70,11 @@ Exercício: Selection 10 projetos que você goste em cada um dos sites abaixo:
 
 
 ## Figma
+### Firefox: disable show menu with `Alt`
+
+- go to `about:config`
+- `[Accept the Risk and Continue]`
+- `ui.key.menuAccessKeyFocuses` = `false`
 
 ### Atalhos
 
