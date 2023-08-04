@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/origamid - UI Design.md",
+                "file": "moc/books.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/origamid - UI Design.md"
+                "file": "moc/books.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/origamid - UI Design.md",
+                "file": "moc/books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/origamid - UI Design.md",
+                "file": "moc/books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,8 +173,8 @@
   },
   "active": "63e9b10b9ef504cc",
   "lastOpenFiles": [
-    "notes/youtube-dl.md",
     "notes/learning/origamid - UI Design.md",
+    "notes/youtube-dl.md",
     "repos/meleu.sh/sad-song.mp3",
     "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].mp3",
     "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].webm",

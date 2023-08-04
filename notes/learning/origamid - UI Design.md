@@ -90,4 +90,10 @@ Para ver lista na tela: `Ctrl`+`Shift`+`?`
 - `i`: color picker
 - `z`: (manter pressionado): permite selecionar área do zoom
 - `Alt`+`click`+move: duplica o elemento.
-- 
+
+Outros interessantes:
+
+- `Ctrl`+`Shift`+`k`: choose file
+- `Ctrl`+`\`: Hide UI
+- `Ctrl`+`k`: open command prompt
+
