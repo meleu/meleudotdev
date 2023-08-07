@@ -97,3 +97,92 @@ Outros interessantes:
 - `Ctrl`+`\`: Hide UI
 - `Ctrl`+`k`: open command prompt
 
+
+
+## UI Design
+
+### Espaço
+
+Dica: o padding de um botão com texto geralmente é X pra cima e pra baixo, e 2X na esquerda e direita.
+
+
+#### Referências
+
+Sites mencionados:
+
+- <https://airgarden.com.au/>
+- <https://leafshave.com/>
+- <https://ramp.com/>
+
+Livro mencionado: "Design para quem não é designer", de Robin Williams
+
+- edição 4 de 2013
+- no IFF tem a edição 3, de 2005 (mesmo assim é bom)
+    - 686.2252 W726d
+
+### Tipografia
+
+> Web Design is 95% Typography
+
+- <https://ia.net/topics/the-web-is-all-about-typography-period>
+
+Dica: não vale a pena usar tipografias muito semelhantes no seu site. O objetivo de usar tipografias diferentes é gerar contraste. Portanto se você utilizar tipografias muito semelhantes, é como se tivesse carregando uma fonte extra desnecessariamente.
+
+
+Classificações:
+
+- Serifadas
+- Sem serifa
+- Monoespaçada
+- Cursivas
+- Decorativas
+
+#### Serifadas
+
+Estilo:
+
+- formal
+- clássico
+- luxo
+- literário
+- trabalho manual
+
+exemplo: <https://every.to/>
+
+#### Sem Serifa
+
+Estilo:
+
+- neutro
+- digital
+- objetivo
+- informal
+
+exemplo: <https://moy.is/en>
+
+
+#### Monoespaçadas
+
+Estilo:
+
+- digital
+- objetivo
+- técnico
+
+
+#### Cursiva
+
+Raramente utilizada na web.
+
+Estilo:
+
+- trabalho manual
+- celebrações
+
+
+#### Decorativa
+
+Usos bastante específicos
+
+exemplo: <https://drinkmonday.co/>
+
