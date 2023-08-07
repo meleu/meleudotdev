@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "moc/books.md",
+                "file": "notes/learning/origamid - UI Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "moc/books.md"
+                "file": "notes/learning/origamid - UI Design.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "moc/books.md",
+                "file": "notes/learning/origamid - UI Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "moc/books.md",
+                "file": "notes/learning/origamid - UI Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +173,7 @@
   },
   "active": "63e9b10b9ef504cc",
   "lastOpenFiles": [
+    "moc/books.md",
     "notes/learning/origamid - UI Design.md",
     "notes/youtube-dl.md",
     "repos/meleu.sh/sad-song.mp3",
@@ -208,7 +209,6 @@
     "private/cambly/Rediet/Rediet.md",
     "private/cambly/Cuau.md",
     "private/cambly/Rediet/Rediet - Poetry.md",
-    "private/cambly/Rediet/Rediet - Personal Philosophy.md",
     "assets/CloudWalk - processo seletivo.png",
     "assets/Effective Software Testing - testing pyramid.png",
     "assets/CloudWalk - entrevista.png",
