@@ -122,6 +122,13 @@ Livro mencionado: "Design para quem não é designer", de Robin Williams
 
 ### Tipografia
 
+Slide: <https://www.origamid.com/slide/ui-design-para-iniciantes/#/0304-escolha-tipografica/1>
+
+Sites para escolher fontes:
+- Google Fonts: <https://fonts.google.com>
+- Adobe Fonts: <https://fonts.adobe.com>
+- Typewolf (inspiração): <https://www.typewolf.com>
+
 > Web Design is 95% Typography
 
 - <https://ia.net/topics/the-web-is-all-about-typography-period>
@@ -185,4 +192,63 @@ Estilo:
 Usos bastante específicos
 
 exemplo: <https://drinkmonday.co/>
+
+
+### Usos de tipografia
+
+- Título
+    - títulos de páginas/seções
+    - nomes de produtos
+    - listas (pequenas)
+- Corpo
+    - artigos
+    - descrições de produtoss
+    - perguntas e respostas
+- Funcional
+    - botões
+    - links
+    - formulárioss
+    - notificações
+    - etiquetas
+
+
+#### Funcional
+
+- Neutra
+    - sem serifa com foco na legibilidade
+- Variações
+    - Opte por fontes com variações de pesos e estilos
+- Sugestões
+    - Arial
+    - Open Sans
+    - Roboto
+    - Source Sans
+    - IBM Plex Sans
+    - Lato
+
+#### Corpo
+
+Se for conteúdo relacionado com tecnologia: Sem serifa. Se for review de livro: Serifada.
+
+- Leiturabilidadae
+    - Serifadas e sem serifas funcionam para o corpo de texto. A escolha depende do estilo do site.
+- Familiar
+    - Quanto mais familiar a tipografia for, maior facilidade o usuário terá para ler.
+- Variações
+    - Opte por fontes com variações de pesos e estilos
+- Sugestões
+    - Arial
+    - Open Sans
+    - Roboto Slab
+    - Alegreya
+
+#### Título
+
+- Estilo
+    - A escolha pode ajudar a definir o estilo gráfico do site.
+- Consistência
+    - As características devem se comunicar com os demais elementos
+- Diferente?
+    - Não existe **necessidade** de ser diferente, ela pode ser a mesma utilizada no corpo/funcional.
+
 

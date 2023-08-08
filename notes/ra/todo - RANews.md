@@ -3,9 +3,18 @@ dg-publish: false
 ---
 # todo - RANews
 
+
 ## inspiration
 
 https://increment.com/
+
+## typography
+
+Parar de usar monoespaçada no corpo, escolher uma sem serifa.
+
+dump font names (from Google Fonts):
+- Press Start 2P (para título?)
+- Roboto (para corpo?)
 
 ## Color Scheme
 
