@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/ra/todo - RANews.md"
+                "file": "notes/learning/origamid - UI Design.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/ra/todo - RANews.md",
+                "file": "notes/learning/origamid - UI Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ra/todo - RANews.md",
+                "file": "notes/learning/origamid - UI Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,9 +185,12 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "6561e13971cced05",
+  "active": "63e9b10b9ef504cc",
   "lastOpenFiles": [
+    "notes/ra/todo - RANews.md",
+    "notes/Untitled.md",
     "notes/learning/origamid - UI Design.md",
+    "assets/material-design - typography-scale.png",
     "moc/books.md",
     "notes/youtube-dl.md",
     "repos/meleu.sh/sad-song.mp3",
@@ -222,8 +224,6 @@
     "private/carreira/CirclePoS/CirclePOS - Mauro.md",
     "notes/learning/RSpec - udemy.md",
     "private/cambly/Rediet/Rediet.md",
-    "private/cambly/Cuau.md",
-    "private/cambly/Rediet/Rediet - Poetry.md",
     "assets/CloudWalk - processo seletivo.png",
     "assets/Effective Software Testing - testing pyramid.png",
     "assets/CloudWalk - entrevista.png",
@@ -232,7 +232,6 @@
     "assets/exercism-config-for-ruby - exercism-cli repo.png",
     "assets/exercism-config-for-ruby - ruby docs link.png",
     "assets/exercism-config-for-ruby - search ruby track.png",
-    "assets/exercism-config-for-ruby - learn.png",
-    "assets/Cypress 9 Fundamentals - selectors.png"
+    "assets/exercism-config-for-ruby - learn.png"
   ]
 }

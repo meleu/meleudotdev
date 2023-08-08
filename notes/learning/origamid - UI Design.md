@@ -252,3 +252,35 @@ Se for conteúdo relacionado com tecnologia: Sem serifa. Se for review de livro:
     - Não existe **necessidade** de ser diferente, ela pode ser a mesma utilizada no corpo/funcional.
 
 
+#### Variáveis Tipográficas
+
+- escala
+    - entre 6 e 12 variações são suficientes para definir a hierarquia
+    - contraste (tamanhos diferentes com significado diferentes)
+    - legibilidade (entre 14 e 24 para corpo)
+- altura de linha
+    - depende da escala e da tipografia
+    - corpo: entre 1.3x e 1.5x
+        - exemplos: Medium (1.52), Google (1.57), Airbnb (1.5)
+    - título: entre 1x e 1.25x
+        - exemplos: Medium (1.22), Stripe (1.04), Airbnb (1.2)
+- peso
+    - geralmente entre 100 e 900
+    - podem ser representados com nomes: light, regular, semibold, bold, etc.
+- estilo:
+    - normal/regular, itálico, oblíquo
+    - cuidado com "itálicos falsos", forçados por software
+- maiúsculas
+    - usar para botões
+    - prestar atenção ao kern (no vídeo há um exemplo que ficou muito espaço entre o T e o A
+- largura de linha
+    - essencial para corpo de texto
+    - **dica**: entre 45 e 75 caracteres (13 palavras). Use `max-width`.
+- espaçamento
+    - geralmente é melhor não mexer (seguir o default da fonte)
+    - as vezes é interessante para pequenos títulos
+- alinhamento
+    - esquerda é o mais comum e recomendado
+
+
+![[material-design - typography-scale.png]]
