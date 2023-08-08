@@ -284,3 +284,15 @@ Se for conteúdo relacionado com tecnologia: Sem serifa. Se for review de livro:
 
 
 ![[material-design - typography-scale.png]]
+
+
+
+
+### Cores
+
+#### Funções das cores
+
+- Contraste
+- Hierarquia
+- Informação
+- Identidade
