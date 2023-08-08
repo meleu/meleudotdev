@@ -296,3 +296,23 @@ Se for conteúdo relacionado com tecnologia: Sem serifa. Se for review de livro:
 - Hierarquia
 - Informação
 - Identidade
+
+#### Paleta de cores
+
+Essa aula é bacana: <https://www.origamid.com/curso/ui-design-para-iniciantes/0310-paleta-de-cores-2>
+
+Ensina que podemos criar variações interessantes mantendo a mesma matiz e variando apenas saturação e brilho.
+
+Dica: ao criar variação na mesma matiz, leve em consideração o seguinte:
+
+- aumentar brilho -> diminuir saturação
+- aumentar saturação -> diminuir brilho
+
+
+#### Paleta de tons de cinza
+
+![[origamid - paleta de tons de cinza.png]]
+
+#### Paleta de tons de cinza azulado
+
+![[origamid - paleta cinza-azulado.png]]
