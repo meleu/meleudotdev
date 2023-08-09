@@ -27,6 +27,8 @@ Inspiração:
 
 ![[gb.png]]
 
+Selecionar uma cor de destaque...
+
 
 ### references
 
