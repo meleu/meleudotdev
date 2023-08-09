@@ -337,3 +337,12 @@ Achei legal nesse exemplo variações da mesma matiz:
 Dicas
 
 - Escolher primeiro a cor de ênfase para saber se a cor de base será influenciada por ela.
+
+### Ícones
+
+- Material Icons: <https://fonts.google.com/icons>
+- Streamline: <https://streamlineicons.com/download/>
+- The Noun Project: https://thenounproject.com/>
+
+## Interfaces Digitais
+
