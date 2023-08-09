@@ -16,7 +16,7 @@
               "state": {
                 "file": "notes/learning/origamid - UI Design.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "pinned": true
             }
@@ -187,6 +187,7 @@
   },
   "active": "63e9b10b9ef504cc",
   "lastOpenFiles": [
+    "assets/origamid - cores funcionais.png",
     "assets/origamid - paleta cinza-azulado.png",
     "assets/origamid - paleta de tons de cinza.png",
     "notes/ra/todo - RANews.md",
@@ -231,7 +232,6 @@
     "assets/Pasted image 20230630184923.png",
     "assets/exercism-config-for-ruby - copy command to download.png",
     "assets/exercism-config-for-ruby - exercism-cli repo.png",
-    "assets/exercism-config-for-ruby - ruby docs link.png",
-    "assets/exercism-config-for-ruby - search ruby track.png"
+    "assets/exercism-config-for-ruby - ruby docs link.png"
   ]
 }

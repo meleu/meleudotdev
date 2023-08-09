@@ -316,3 +316,15 @@ Dica: ao criar variação na mesma matiz, leve em consideração o seguinte:
 #### Paleta de tons de cinza azulado
 
 ![[origamid - paleta cinza-azulado.png]]
+
+
+#### Cores Funcionais
+
+Achei legal nesse exemplo variações da mesma matiz:
+
+![[origamid - cores funcionais.png]]
+
+- o tom mais claro no background
+- um pouco mais escuro pra borda da caixa
+- um pouco mais escuro para o ícone
+- e o tom mais escuro para o texto
