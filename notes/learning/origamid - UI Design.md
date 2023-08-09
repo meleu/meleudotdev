@@ -307,7 +307,11 @@ Dica: ao criar variação na mesma matiz, leve em consideração o seguinte:
 
 - aumentar brilho -> diminuir saturação
 - aumentar saturação -> diminuir brilho
+- se tiver no limite de saturação, variar a matiz de acordo com a luminosidade dela
 
+#### Luminosidade das cores de acordo com a matiz
+
+![[origamid - luminosidade-matiz.png]]
 
 #### Paleta de tons de cinza
 
@@ -316,7 +320,6 @@ Dica: ao criar variação na mesma matiz, leve em consideração o seguinte:
 #### Paleta de tons de cinza azulado
 
 ![[origamid - paleta cinza-azulado.png]]
-
 
 #### Cores Funcionais
 
@@ -328,3 +331,9 @@ Achei legal nesse exemplo variações da mesma matiz:
 - um pouco mais escuro pra borda da caixa
 - um pouco mais escuro para o ícone
 - e o tom mais escuro para o texto
+
+#### Escolha das cores
+
+Dicas
+
+- Escolher primeiro a cor de ênfase para saber se a cor de base será influenciada por ela.
