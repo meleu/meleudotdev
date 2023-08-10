@@ -367,7 +367,36 @@ Dicas
 
 Dessa descrição conseguimos extrair informações úteis para criar links na barra de navegação.
 
-- praia
-- aulas
-- matricule-se
-- contato (pois é site pequeno)
+- praia (onde acontecerão as aulas)
+- aulas (horário)
+- **matricule-se**
+- contato (pois é site de empresa pequena)
+
+
+#### Caravan
+
+> Caravan é um site de turismo que oferece viagens para **três cidades diferentes** California, Paris e Dublin.
+> 
+> Para contratar o site o usuário precisa se **inscrever** em um dos **planos** oferecidos pela empresa.
+
+Se tem inscrição e planos, deve ter também uma tela de login. Portanto devemos ter um link para Login
+
+- Destinos (as 3 cidades mencionadas)
+- Planos
+- Login
+- **Inscreva-se**
+
+
+#### Handel
+
+
+> Handel é um comércio eletrônico de moda, especializado em venda de vestuário masculino e feminino. Seus principais produtos são Saias, Bermudas e Camisas. Para efetuar a compra o usuário precisa adicionar um produto ao carrinho e criar/logar na sua conta para finalizar a mesma.
+
+- Ecommerce de roupas
+- produtos
+    - saias
+    - bermudas
+    - camisas
+- criar conta
+- login
+- carrinho de compras
