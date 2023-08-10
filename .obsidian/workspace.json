@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -172,9 +173,9 @@
   },
   "active": "868c47b168befa95",
   "lastOpenFiles": [
-    "private/carreira/CloudWalk/CloudWalk - first submission.md",
     "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
     "private/carreira/CloudWalk/CloudWalk - entrevista painel.md",
+    "private/carreira/CloudWalk/CloudWalk - first submission.md",
     "notes/learning/origamid - UI Design.md",
     "notes/ra/todo - RANews.md",
     "assets/origamid - luminosidade-matiz.png",
