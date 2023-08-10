@@ -346,3 +346,28 @@ Dicas
 
 ## Interfaces Digitais
 
+### Componentes
+
+- Menu
+- Tabs (abas)
+- Breadcrumb
+- Footer
+
+### Elementos
+
+- link
+- botão
+- dropdown
+
+### Exercício de navegação
+
+#### Surfbot
+
+> Surfbot é uma escola de surf que oferece **aulas** em uma **praia** do Rio de Janeiro. Os alunos precisam se **matricular online** para receber as aulas.
+
+Dessa descrição conseguimos extrair informações úteis para criar links na barra de navegação.
+
+- praia
+- aulas
+- matricule-se
+- contato (pois é site pequeno)
