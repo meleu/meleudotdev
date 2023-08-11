@@ -400,3 +400,164 @@ Se tem inscrição e planos, deve ter também uma tela de login. Portanto devemo
 - criar conta
 - login
 - carrinho de compras
+
+
+
+### Formulários
+
+#### text / textarea
+
+diferença:
+
+- text: "uma linha"
+- textarea: multiplas linhas/parágrafos
+
+Características:
+
+- livre / restrito
+    - restrito: requer validação (e.g.: CPF, email)
+- label
+- placeholder
+
+#### checkbox / radio
+
+- Checkbox: permite múltiplos campos ativos
+
+![[origamid - exemplo-checkbox.png]]
+
+- Radio: permite apenas um item ativo
+
+![[origamid - exemplo-radio.png]]
+
+
+#### Select
+
+Permite selecionar uma opção da lista. Não permite selecionar múltiplos itens.
+
+![[origamid - exemplo-select.png]]
+
+
+#### slide
+
+exemplos:
+
+- Slide bar de controle de volume do vídeo youtube
+- Slide de buscar trecho do vídeo.
+
+
+#### date
+
+Geralmente o nativo não funciona muito bem.
+
+
+### Interfaces Responsivas
+
+- Se adapta ao display
+
+### Sistema de Design
+
+Conjunto de regras/elementos que são definidos para garantir consistência entre interfaces da marca.
+
+Exemplos:
+
+- [Material Design](https://m3.material.io/)
+- [Carbon Design](https://carbondesignsystem.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Tailwind](https://tailwindcss.com/)
+
+
+## Projeto de Site Pessoal
+
+- Problema
+    - qual problema estamos resolvendo?
+    - qual o objetivo do projeto?
+    - entender mais sobre o projeto
+- Pesquisa
+    - com usuários
+    - com concorrentes
+    - especialistas
+    - referências
+- Conteúdo
+    - arquitetura da informação do site
+    - quais informações estarão disponíveis
+    - organização
+- Protótipo
+    - papel e caneta
+    - wireframe
+
+
+### Problema
+
+Criar um curriculo online para iniciar uma presença digital
+
+- linux
+- bash
+- devops
+- docker / containers
+- kubernetes
+- Ruby
+- HTTP
+- TDD
+
+Possivelmente:
+
+- JavaScript/TypeScript
+- Golang
+- Rust
+Gosto de Linux, bash, ruby, JavaScript/TypeScript, Golang, Rust
+
+
+### Pesquisa
+
+- <https://www.redhat.com/en/command-line-heroes/season-3>
+
+
+### Conteúdo
+
+- Texto inicial sobre o que faço
+- avatar
+- menu
+    - experiência
+    - trabalhos
+    - projetos
+    - formação
+    - contato
+
+
+Experiência:
+
+- nome do projeto
+- quando o projeto foi feito
+- tecnologias utilizadas
+
+Formação
+
+Idiomas
+
+Contato
+
+
+### Protótipo
+
+#### tipografia
+
+Como é site de desenvolvedor, escolher uma tipografia neutra, sem serifa...
+
+Ir no Google fonts e pesquisar fonts sem serifa, com mais de 8 estilos, digitar o texto que você vai usar e ver se vai ficar legal
+
+Minhas primeiras escolhas:
+
+- Título
+    - Ubuntu
+    - REM
+    - Kanit
+    - Prompt
+    - Saira
+
+
+#### cores
+
+- paleta de tons de cinza
+
+
+background do command line heroes: `#0e0e23`

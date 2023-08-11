@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/intercambio holanda.md",
+                "file": "notes/learning/origamid - UI Design.md",
                 "mode": "source",
                 "source": true
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/intercambio holanda.md"
+                "file": "notes/learning/origamid - UI Design.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/intercambio holanda.md",
+                "file": "notes/learning/origamid - UI Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/intercambio holanda.md",
+                "file": "notes/learning/origamid - UI Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +173,11 @@
   },
   "active": "d06459a0ea4c2a68",
   "lastOpenFiles": [
-    "private/carreira/CloudWalk/CloudWalk - entrevista painel.md",
+    "assets/origamid - exemplo-select.png",
+    "assets/origamid - exemplo-radio.png",
+    "assets/origamid - exemplo-checkbox.png",
     "private/intercambio holanda.md",
+    "private/carreira/CloudWalk/CloudWalk - entrevista painel.md",
     "notes/ra/RANews - lets talk about money.md",
     "private/carreira/CloudWalk/Interview.md",
     "private/carreira/CloudWalk/CloudWalk - first submission.md",
@@ -212,11 +216,8 @@
     "notes/learning/lewagon/log/2023-04-26 - OOP.md",
     "templates/lewagon-log.md",
     "notes/books/poodr/Practical Object-Oriented Design.md",
-    "private/carreira/CirclePoS/CirclePoS - Cover Letter.md",
     "assets/CloudWalk - processo seletivo.png",
     "assets/Effective Software Testing - testing pyramid.png",
-    "assets/CloudWalk - entrevista.png",
-    "assets/Pasted image 20230630184923.png",
-    "assets/exercism-config-for-ruby - copy command to download.png"
+    "assets/CloudWalk - entrevista.png"
   ]
 }
