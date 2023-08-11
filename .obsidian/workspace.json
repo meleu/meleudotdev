@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "868c47b168befa95",
+            "id": "d06459a0ea4c2a68",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - entrevista painel.md",
+                "file": "private/intercambio holanda.md",
                 "mode": "source",
-                "source": false
-              },
-              "pinned": true
+                "source": true
+              }
             }
           }
         ],
@@ -80,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -97,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - entrevista painel.md"
+                "file": "private/intercambio holanda.md"
               }
             }
           },
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - entrevista painel.md",
+                "file": "private/intercambio holanda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - entrevista painel.md",
+                "file": "private/intercambio holanda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +170,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "868c47b168befa95",
+  "active": "d06459a0ea4c2a68",
   "lastOpenFiles": [
-    "notes/ra/RANews - lets talk about money.md",
     "private/carreira/CloudWalk/CloudWalk - entrevista painel.md",
+    "private/intercambio holanda.md",
+    "notes/ra/RANews - lets talk about money.md",
     "private/carreira/CloudWalk/Interview.md",
     "private/carreira/CloudWalk/CloudWalk - first submission.md",
     "notes/learning/origamid - UI Design.md",
@@ -215,7 +213,6 @@
     "templates/lewagon-log.md",
     "notes/books/poodr/Practical Object-Oriented Design.md",
     "private/carreira/CirclePoS/CirclePoS - Cover Letter.md",
-    "notes/books/poodr/POODR - Chapter 1 - Object Oriented Design.md",
     "assets/CloudWalk - processo seletivo.png",
     "assets/Effective Software Testing - testing pyramid.png",
     "assets/CloudWalk - entrevista.png",
