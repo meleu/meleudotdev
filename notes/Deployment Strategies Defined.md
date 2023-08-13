@@ -11,8 +11,8 @@ Deployment strategies list:
 - canary deployment
 - versioned deployment
 
+from: <http://blog.itaysk.com/2017/11/20/deployment-strategies-defined>
 
+## 5 Deployment patterns
 
-## references
-
-- <http://blog.itaysk.com/2017/11/20/deployment-strategies-defined>
+![[Pasted image 20230812221207.png]]

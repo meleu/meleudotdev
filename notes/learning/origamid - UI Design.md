@@ -558,6 +558,6 @@ Minhas primeiras escolhas:
 #### cores
 
 - paleta de tons de cinza
-
-
-background do command line heroes: `#0e0e23`
+- destaque (inspiração do Command Line Heroes
+    - `#261a4c`
+    - `#0e0e23` 
