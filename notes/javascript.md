@@ -10,6 +10,7 @@ dg-publish: true
 
 ## nice courses
 
+- <https://justjavascript.com/> - build your JS mental model
 - <https://javascript30.com>
 - <https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/>
 - <https://www.udemy.com/course/50-projects-50-days/>

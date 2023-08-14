@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/origamid - UI Design.md",
+                "file": "notes/javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/origamid - UI Design.md"
+                "file": "notes/javascript.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/origamid - UI Design.md",
+                "file": "notes/javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/origamid - UI Design.md",
+                "file": "notes/javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,9 +173,10 @@
   },
   "active": "d06459a0ea4c2a68",
   "lastOpenFiles": [
+    "notes/typescript.md",
+    "notes/learning/origamid - UI Design.md",
     "notes/Deployment Strategies Defined.md",
     "assets/Pasted image 20230812221207.png",
-    "notes/learning/origamid - UI Design.md",
     "assets/origamid - exemplo-select.png",
     "assets/origamid - exemplo-radio.png",
     "assets/origamid - exemplo-checkbox.png",
@@ -217,7 +218,6 @@
     "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
     "notes/learning/lewagon/log/2023-04-26 - OOP.md",
     "templates/lewagon-log.md",
-    "notes/books/poodr/Practical Object-Oriented Design.md",
     "assets/CloudWalk - processo seletivo.png"
   ]
 }
