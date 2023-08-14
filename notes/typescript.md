@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # TypeScript
 
 Contents to learn TypeScript
