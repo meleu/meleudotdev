@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/leitores de tela.md",
+                "file": "notes/CSS games.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/leitores de tela.md"
+                "file": "notes/CSS games.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/leitores de tela.md",
+                "file": "notes/CSS games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/leitores de tela.md",
+                "file": "notes/CSS games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,8 +173,8 @@
   },
   "active": "d06459a0ea4c2a68",
   "lastOpenFiles": [
-    "notes/CSS games.md",
     "notes/leitores de tela.md",
+    "notes/CSS games.md",
     "notes/links - frontend.md",
     "notes/learning/egghead - TailwindCSS.md",
     "notes/javascript.md",
