@@ -20,15 +20,16 @@ See also: [[links - free assets]]
 - <https://learnfromsteph.dev/> - A (modern/2020ish) web development video course for beginners 
 - <https://web.dev/learn/css/> - Very in-depth way to learn CSS 
 - <https://www.freecodecamp.org/> - really awesome to learn frontend stuff.
-- <https://csslayout.io/> - nice inspiration to pick a layout and then practice CSS.
 - <https://htmldom.dev/> - useful DOM manipulation recipes.
 - <https://thisthat.dev/> - What is the difference between this & that? e.g.: `display: none` vs. `[hidden]`
 - <https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript#use_async_or_defer> - in depth guide about optimizing the loading time of javascript files.
 
-## inspiration
+## practice
 
+- <https://csslayout.io/> - nice inspiration to pick a layout and then practice CSS.
 - <https://html5up.net/> - simple designs to study.
 - <https://pagexl.com/> - Create a simple and beautiful one-page website in 5 minutes.
+
 
 ## colors
 - <https://coolors.co/> - The super fast color palettes generator

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/javascript.md",
+                "file": "notes/leitores de tela.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/javascript.md"
+                "file": "notes/leitores de tela.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/javascript.md",
+                "file": "notes/leitores de tela.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/javascript.md",
+                "file": "notes/leitores de tela.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +173,11 @@
   },
   "active": "d06459a0ea4c2a68",
   "lastOpenFiles": [
+    "notes/CSS games.md",
+    "notes/leitores de tela.md",
+    "notes/links - frontend.md",
+    "notes/learning/egghead - TailwindCSS.md",
+    "notes/javascript.md",
     "notes/typescript.md",
     "notes/learning/origamid - UI Design.md",
     "notes/Deployment Strategies Defined.md",
@@ -213,11 +218,6 @@
     "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
     "notes/learning/lewagon/bootcamp-log.md",
     "notes/learning/lewagon/log/2023-04-28 - MVC - Cookbook.md",
-    "notes/learning/lewagon/final-project/notes.md",
-    "notes/learning/lewagon/log/2023-05-23 - Rails Models.md",
-    "notes/books/poodr/POODR - Chapter 2 - Design Classes with a Single Responsibility.md",
-    "notes/learning/lewagon/log/2023-04-26 - OOP.md",
-    "templates/lewagon-log.md",
     "assets/CloudWalk - processo seletivo.png"
   ]
 }
