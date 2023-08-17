@@ -7,8 +7,6 @@ dg-publish: true
 
 ## Installation
 
-
-
 ```sh
 mkdir tailwind-demo
 cd tailwind-demo

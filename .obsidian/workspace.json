@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/egghead - TailwindCSS.md",
+                "file": "notes/TailwindCSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/egghead - TailwindCSS.md"
+                "file": "notes/TailwindCSS.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/egghead - TailwindCSS.md",
+                "file": "notes/TailwindCSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/egghead - TailwindCSS.md",
+                "file": "notes/TailwindCSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,11 +173,12 @@
   },
   "active": "d06459a0ea4c2a68",
   "lastOpenFiles": [
+    "notes/learning/egghead - TailwindCSS.md",
+    "notes/TailwindCSS.md",
     "notes/links - frontend.md",
     "notes/Web Design in 4 minutes.md",
     "notes/CSS games.md",
     "notes/leitores de tela.md",
-    "notes/learning/egghead - TailwindCSS.md",
     "notes/javascript.md",
     "notes/typescript.md",
     "notes/learning/origamid - UI Design.md",
@@ -217,7 +218,6 @@
     "repos/meleu.sh/themes/PaperMod/i18n/th.yaml",
     "repos/meleu.sh/themes/PaperMod/i18n/hr.yaml",
     "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
-    "notes/learning/lewagon/bootcamp-log.md",
     "assets/CloudWalk - processo seletivo.png"
   ]
 }
