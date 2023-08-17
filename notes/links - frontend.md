@@ -12,7 +12,6 @@ See also: [[links - free assets]]
 
 - <https://www.origamid.com/curso/html-e-css-para-iniciantes/>
 
-
 ## Links
 
 - <https://web.dev> - many rich contents

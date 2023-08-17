@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/CSS games.md",
+                "file": "notes/learning/egghead - TailwindCSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/CSS games.md"
+                "file": "notes/learning/egghead - TailwindCSS.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/CSS games.md",
+                "file": "notes/learning/egghead - TailwindCSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/CSS games.md",
+                "file": "notes/learning/egghead - TailwindCSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,9 +173,10 @@
   },
   "active": "d06459a0ea4c2a68",
   "lastOpenFiles": [
-    "notes/leitores de tela.md",
-    "notes/CSS games.md",
     "notes/links - frontend.md",
+    "notes/Web Design in 4 minutes.md",
+    "notes/CSS games.md",
+    "notes/leitores de tela.md",
     "notes/learning/egghead - TailwindCSS.md",
     "notes/javascript.md",
     "notes/typescript.md",
@@ -217,7 +218,6 @@
     "repos/meleu.sh/themes/PaperMod/i18n/hr.yaml",
     "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
     "notes/learning/lewagon/bootcamp-log.md",
-    "notes/learning/lewagon/log/2023-04-28 - MVC - Cookbook.md",
     "assets/CloudWalk - processo seletivo.png"
   ]
 }
