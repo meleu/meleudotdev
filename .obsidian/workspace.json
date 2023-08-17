@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/TailwindCSS.md",
+                "file": "private/biblioteca.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/TailwindCSS.md"
+                "file": "private/biblioteca.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/TailwindCSS.md",
+                "file": "private/biblioteca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TailwindCSS.md",
+                "file": "private/biblioteca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,8 +172,9 @@
   },
   "active": "d06459a0ea4c2a68",
   "lastOpenFiles": [
-    "notes/learning/egghead - TailwindCSS.md",
     "notes/TailwindCSS.md",
+    "private/biblioteca.md",
+    "notes/learning/egghead - TailwindCSS.md",
     "notes/links - frontend.md",
     "notes/Web Design in 4 minutes.md",
     "notes/CSS games.md",
@@ -217,7 +217,6 @@
     "private/carreira/LeWagon/Food Delivery post.md",
     "repos/meleu.sh/themes/PaperMod/i18n/th.yaml",
     "repos/meleu.sh/themes/PaperMod/i18n/hr.yaml",
-    "notes/learning/lewagon/log/2023-05-01 - Food Delivery App.md",
     "assets/CloudWalk - processo seletivo.png"
   ]
 }
