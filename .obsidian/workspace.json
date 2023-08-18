@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/links - frontend.md",
+                "file": "notes/ra/todo - RANews.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/links - frontend.md"
+                "file": "notes/ra/todo - RANews.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/links - frontend.md",
+                "file": "notes/ra/todo - RANews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/links - frontend.md",
+                "file": "notes/ra/todo - RANews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,6 +188,7 @@
   },
   "active": "0cc0f792308e793b",
   "lastOpenFiles": [
+    "notes/links - frontend.md",
     "notes/vim.md",
     "README.md",
     "notes/books/clean-code/Clean Code - 2. Meaningful Names.md",
@@ -201,7 +202,6 @@
     "private/biblioteca.md",
     "notes/TailwindCSS.md",
     "notes/learning/egghead - TailwindCSS.md",
-    "notes/links - frontend.md",
     "notes/Web Design in 4 minutes.md",
     "notes/CSS games.md",
     "notes/leitores de tela.md",

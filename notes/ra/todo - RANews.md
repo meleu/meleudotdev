@@ -6,7 +6,8 @@ dg-publish: true
 
 ## inspiration
 
-https://increment.com/
+- https://increment.com/
+- <https://backstagetalks.com/>
 
 ## typography
 
