@@ -10,10 +10,24 @@
           {
             "id": "d06459a0ea4c2a68",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/clean-code/Clean Code.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0cc0f792308e793b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/books/clean-code/Clean Code - 2. Meaningful Names.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/clean-code/Clean Code.md"
+                "file": "README.md"
               }
             }
           },
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/clean-code/Clean Code.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/clean-code/Clean Code.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +187,15 @@
   },
   "active": "d06459a0ea4c2a68",
   "lastOpenFiles": [
+    "notes/books/clean-code/Clean Code - 2. Meaningful Names.md",
+    "README.md",
+    "notes/ra/todo - RANews.md",
+    "notes/ra/todo - RAWeb.md",
+    "private/raw notes.md",
+    "private/raw private.md",
+    "notes/books/clean-code/Clean Code.md",
+    "notes/books/clean-code/Clean Code - 3. Functions.md",
+    "notes/books/clean-code/Clean Code - 1. Clean Code.md",
     "private/biblioteca.md",
     "notes/TailwindCSS.md",
     "notes/learning/egghead - TailwindCSS.md",
@@ -194,15 +217,11 @@
     "private/carreira/CloudWalk/Interview.md",
     "private/carreira/CloudWalk/CloudWalk - first submission.md",
     "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
-    "notes/ra/todo - RANews.md",
     "assets/origamid - luminosidade-matiz.png",
     "assets/origamid - cores funcionais.png",
     "assets/origamid - paleta cinza-azulado.png",
     "assets/origamid - paleta de tons de cinza.png",
-    "notes/Untitled.md",
     "assets/material-design - typography-scale.png",
-    "moc/books.md",
-    "notes/youtube-dl.md",
     "repos/meleu.sh/sad-song.mp3",
     "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].mp3",
     "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].webm",
@@ -211,11 +230,6 @@
     "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].f243.webm",
     "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].f243.webm.part",
     "repos/meleu.sh/Tmux has forever changed the way I write code. [DzNmUNvnB04].f315.webm.part",
-    "notes/raw notes.md",
-    "now.md",
-    "notes/hire-me.md",
-    "notes/project red flags.md",
-    "private/carreira/LeWagon/Food Delivery post.md",
     "repos/meleu.sh/themes/PaperMod/i18n/th.yaml",
     "repos/meleu.sh/themes/PaperMod/i18n/hr.yaml",
     "assets/CloudWalk - processo seletivo.png"

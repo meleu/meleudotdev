@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # Clean Code - 2. Meaningful Names
 
+back to [[Clean Code]]
+
 [TOC]
 
 ---
@@ -51,10 +53,9 @@ public List<int[]> getThem() {
 ```
 
 👍 do:
+
+Note the meaningful names, directly related with the "solution domain", not with the technical/implementation details.
 ```cpp
-// Note the meaningful names, directly related
-// with the "solution domain", not with the
-// technical/implementation details.
 public List<Cell> getFlaggedCells() {
   List<Cell> flaggedCells = new ArrayList<Cell>();
   for (Cell cell : gameBoard)

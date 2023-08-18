@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # Clean Code - 1. Clean Code
 
+back to [[Clean Code]]
+
 [TOC]
 
 ---

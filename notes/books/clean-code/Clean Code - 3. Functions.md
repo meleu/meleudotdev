@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # Clean Code - 3. Functions
 
+back to [[Clean Code]]
+
 [TOC]
 
 ---
