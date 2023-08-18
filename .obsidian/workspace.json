@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/biblioteca.md",
+                "file": "notes/books/clean-code/Clean Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/biblioteca.md"
+                "file": "notes/books/clean-code/Clean Code.md"
               }
             }
           },
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/biblioteca.md",
+                "file": "notes/books/clean-code/Clean Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/biblioteca.md",
+                "file": "notes/books/clean-code/Clean Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +173,8 @@
   },
   "active": "d06459a0ea4c2a68",
   "lastOpenFiles": [
-    "notes/TailwindCSS.md",
     "private/biblioteca.md",
+    "notes/TailwindCSS.md",
     "notes/learning/egghead - TailwindCSS.md",
     "notes/links - frontend.md",
     "notes/Web Design in 4 minutes.md",

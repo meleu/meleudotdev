@@ -25,6 +25,7 @@ See also: [[links - free assets]]
 
 ## practice
 
+- <https://www.frontendmentor.io/>
 - <https://csslayout.io/> - nice inspiration to pick a layout and then practice CSS.
 - <https://html5up.net/> - simple designs to study.
 - <https://pagexl.com/> - Create a simple and beautiful one-page website in 5 minutes.
