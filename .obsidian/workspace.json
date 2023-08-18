@@ -27,13 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/clean-code/Clean Code - 2. Meaningful Names.md",
+                "file": "notes/links - frontend.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/links - frontend.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/links - frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/links - frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,10 +186,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "d06459a0ea4c2a68",
+  "active": "0cc0f792308e793b",
   "lastOpenFiles": [
-    "notes/books/clean-code/Clean Code - 2. Meaningful Names.md",
+    "notes/vim.md",
     "README.md",
+    "notes/books/clean-code/Clean Code - 2. Meaningful Names.md",
     "notes/ra/todo - RANews.md",
     "notes/ra/todo - RAWeb.md",
     "private/raw notes.md",
@@ -216,7 +218,6 @@
     "notes/ra/RANews - lets talk about money.md",
     "private/carreira/CloudWalk/Interview.md",
     "private/carreira/CloudWalk/CloudWalk - first submission.md",
-    "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
     "assets/origamid - luminosidade-matiz.png",
     "assets/origamid - cores funcionais.png",
     "assets/origamid - paleta cinza-azulado.png",
