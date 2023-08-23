@@ -35,7 +35,7 @@ See also: <https://github.com/meleu/effective-software-testing-ruby>
 
 #### 1.2.6 Systematic testing
 
-> Being *systematic* means thata for a given piece of code, any developer should come up with the same test suite.
+> Being *systematic* means that for a given piece of code, any developer should come up with the same test suite.
 
 #### 1.3.1 Exhaustive testing is impossible
 

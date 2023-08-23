@@ -69,7 +69,7 @@ Dessas 4, a que temos mais espaço para ajustes é o escopo.
 
 ## XP 05 - O Custo das Modificacoes
 
-Se não for usada disciplina alguma, o custo de modificações em projetos projetos de software tende a crescer exponencialmente a medida que o projeto avança.
+Se não for usada disciplina alguma, o custo de modificações em projetos de software tende a crescer exponencialmente a medida que o projeto avança.
 
 > Um problema que talvez custe um dólar para ser consertado quando encontrado durante a análise de requisitos pode custar milhares de dólares quando o software estiver em produção.
 

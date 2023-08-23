@@ -93,10 +93,10 @@ Regra irrefutável de projetos de software.
 
 **Restrição Tripla**: escolha somente três dentre
 
-- bom
-- rápido
-- barato
-- concluído
+- bom (qualidade)
+- rápido (tempo)
+- barato (custo)
+- concluído (escopo)
 
 Você não pode ter os quatro.
 
@@ -105,7 +105,7 @@ Um bom gerente de projetos entende que esses quatro atributos têm coeficientes.
 
 ### Agilidade fornece dados
 
-> Uma das motivações principais para o desenvolvimento de software ágil é **fornecer os dados que os gerentes precisam a fim de decidir como definir os coeficientes na Restrição Tripla** e conduzir o projeto rumou ao melhor resultado possível. (...)
+> Uma das motivações principais para o desenvolvimento de software ágil é **fornecer os dados que os gerentes precisam a fim de decidir como definir os coeficientes na Restrição Tripla** e conduzir o projeto rumo ao melhor resultado possível. (...)
 > 
 > O desenvolvimento ágil é uma abordagem orientada a feedback. Cada (ação) é orientada pela análise dos resultados das (ações) anteriores e, em seguida, pela realização dos ajustes apropriados. (...) **Sem os dados, o projeto não pode ser gerenciado**.
 
@@ -120,7 +120,7 @@ Seja lá qual for o motivo, é por razões *comerciais*, e isso não mudará ape
 
 Simultaneamente os requisitos estão em constante mudança.
 
-> Este é o mundo de uma equipe de desenvolvimento de software. É um mundo em que os prazos são congelados e os requisitos constantemente mudam. E, de alguma forma, nesse contexto, a equipe de desenvolvimento deve fazer com que o projeto tenha um bom resultado.
+> Este é o mundo de uma equipe de desenvolvimento de software. É um mundo em que os prazos são congelados e os requisitos mudam constantemente. E, de alguma forma, nesse contexto, a equipe de desenvolvimento deve fazer com que o projeto tenha um bom resultado.
 
 
 ### Descrição exagerada das fases de um projeto cascata

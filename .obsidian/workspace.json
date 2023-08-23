@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ra/todo - RANews.md",
+                "file": "notes/TailwindCSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/ra/todo - RANews.md"
+                "file": "notes/TailwindCSS.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/ra/todo - RANews.md",
+                "file": "notes/TailwindCSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ra/todo - RANews.md",
+                "file": "notes/TailwindCSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,11 +188,12 @@
   },
   "active": "0cc0f792308e793b",
   "lastOpenFiles": [
+    "notes/debito tecnico.md",
+    "notes/ra/todo - RANews.md",
     "notes/links - frontend.md",
     "notes/vim.md",
     "README.md",
     "notes/books/clean-code/Clean Code - 2. Meaningful Names.md",
-    "notes/ra/todo - RANews.md",
     "notes/ra/todo - RAWeb.md",
     "private/raw notes.md",
     "private/raw private.md",
@@ -217,7 +218,6 @@
     "private/carreira/CloudWalk/CloudWalk - entrevista painel.md",
     "notes/ra/RANews - lets talk about money.md",
     "private/carreira/CloudWalk/Interview.md",
-    "private/carreira/CloudWalk/CloudWalk - first submission.md",
     "assets/origamid - luminosidade-matiz.png",
     "assets/origamid - cores funcionais.png",
     "assets/origamid - paleta cinza-azulado.png",

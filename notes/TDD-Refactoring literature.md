@@ -28,7 +28,7 @@ In this note I'm trying to list some fundamental books about these topics.
 
 - Clean Craftsmanship: Disciplines, Standards, and Ethics - Robert Martin - (in the comments someone says it shows good TDD practices)
 - Five Lines of Code: How and when to refactor - Christian Clausen
-- Effective Software Testing: A Developer's Guide - Maricio Aniche (just because it's from Aniche)
+- [[Effective Software Testing]]: A Developer's Guide - Maricio Aniche (just because it's from Aniche)
 - Beyond Legacy Code: Nine Practices to Extend the Life (and Value) of Your Software - David Scott Bernstein
 - Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce
 
