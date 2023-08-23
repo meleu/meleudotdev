@@ -7,6 +7,18 @@ dg-publish: true
 - Slides: <https://www.origamid.com/slide/ui-design-para-iniciantes/>
 
 
+## principais aprendizados
+
+### cores
+
+Usar notação HSL para cores.
+
+**Cores mais naturais**:
+- manter a matiz, variar saturação e brilho de maneira inversa
+    - aumenta brilha -> diminui saturação
+    - aumenta saturação -> diminui brilho
+
+
 ## Design para iniciantes
 
 Design é projeto! Plano, pesquisa, prototipagem, testes.
@@ -558,6 +570,6 @@ Minhas primeiras escolhas:
 #### cores
 
 - paleta de tons de cinza
-- destaque (inspiração do Command Line Heroes
+- destaque (inspiração do Command Line Heroes)
     - `#261a4c`
     - `#0e0e23` 
