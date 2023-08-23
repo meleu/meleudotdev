@@ -8,6 +8,7 @@ Teaching Ruby on Rails in the Le Wagon bootcamp.
 Topics I'm currently diving into:
 
 - Ruby on Rails
+- [[TailwindCSS]]
 - [[TDD-Refactoring literature]]
 
 
@@ -30,6 +31,6 @@ Topics I'm currently diving into:
 ## 2023 goals
 
 - [ ] play with 12 programming languages - [[exercism - 12in23 challenge]]
-- [ ] work with Ruby
+- [x] work with Ruby
 - [x] do the Le Wagon bootcamp
 
