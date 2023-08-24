@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
+                "file": "notes/TailwindCSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md"
+                "file": "notes/TailwindCSS.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
+                "file": "notes/TailwindCSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
+                "file": "notes/TailwindCSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,6 +186,7 @@
   },
   "active": "18112b2456c7dc94",
   "lastOpenFiles": [
+    "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
     "notes/sedFlpIvd",
     "notes/TailwindCSS.md",
     "notes/learning/origamid - UI Design.md",
@@ -230,7 +231,6 @@
     "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].f243.webm.part",
     "repos/meleu.sh/Tmux has forever changed the way I write code. [DzNmUNvnB04].f315.webm.part",
     "repos/meleu.sh/themes/PaperMod/i18n/th.yaml",
-    "repos/meleu.sh/themes/PaperMod/i18n/hr.yaml",
     "assets/CloudWalk - processo seletivo.png"
   ]
 }
