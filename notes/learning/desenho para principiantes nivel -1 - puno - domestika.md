@@ -36,7 +36,7 @@ Exercícios propostos.
 
 ### Desenhar uma mão todos os dias
 
-A sugestão é desenhara a mão todos os dias durante uma semana.
+A sugestão é desenhar a mão todos os dias durante uma semana.
 
 
 ### Padrões de Rabiscos

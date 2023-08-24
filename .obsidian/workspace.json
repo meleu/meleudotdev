@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/TailwindCSS.md",
+                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/TailwindCSS.md"
+                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/TailwindCSS.md",
+                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/TailwindCSS.md",
+                "file": "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,12 +186,12 @@
   },
   "active": "18112b2456c7dc94",
   "lastOpenFiles": [
+    "notes/TailwindCSS.md",
     "notes/learning/origamid - UI Design.md",
     "notes/vscodevim.md",
     "notes/videos/video - Tailwind CSS - build landing page.md",
     "now.md",
     "README.md",
-    "notes/TailwindCSS.md",
     "notes/debito tecnico.md",
     "notes/ra/todo - RANews.md",
     "notes/links - frontend.md",
