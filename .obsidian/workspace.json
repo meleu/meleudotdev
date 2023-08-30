@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-08-30 - redoing AirBnB - part 1.md",
+                "file": "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-08-30 - redoing AirBnB - part 1.md"
+                "file": "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-08-30 - redoing AirBnB - part 1.md",
+                "file": "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-08-30 - redoing AirBnB - part 1.md",
+                "file": "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,9 +173,9 @@
   },
   "active": "18112b2456c7dc94",
   "lastOpenFiles": [
+    "notes/learning/lewagon/log/2023-08-30 - redoing AirBnB - part 1.md",
     "assets/redoing AirBnB - db-schema.png",
     "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
-    "notes/learning/lewagon/log/2023-08-30 - redoing AirBnB - part 1.md",
     "notes/learning/lewagon/bootcamp-log.md",
     "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
     "notes/rails blog.md",
@@ -217,7 +217,6 @@
     "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].f243.webm",
     "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].f243.webm.part",
     "repos/meleu.sh/Tmux has forever changed the way I write code. [DzNmUNvnB04].f315.webm.part",
-    "repos/meleu.sh/themes/PaperMod/i18n/th.yaml",
-    "assets/CloudWalk - processo seletivo.png"
+    "repos/meleu.sh/themes/PaperMod/i18n/th.yaml"
   ]
 }
