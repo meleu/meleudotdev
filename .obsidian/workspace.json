@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/ideaverse.md",
+                "file": "notes/learning/lewagon/log/2023-08-30 - redoing AirBnB - part 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/ideaverse.md"
+                "file": "notes/learning/lewagon/log/2023-08-30 - redoing AirBnB - part 1.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/ideaverse.md",
+                "file": "notes/learning/lewagon/log/2023-08-30 - redoing AirBnB - part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ideaverse.md",
+                "file": "notes/learning/lewagon/log/2023-08-30 - redoing AirBnB - part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,8 +173,14 @@
   },
   "active": "18112b2456c7dc94",
   "lastOpenFiles": [
-    "private/raw private.md",
+    "assets/redoing AirBnB - db-schema.png",
+    "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
+    "notes/learning/lewagon/log/2023-08-30 - redoing AirBnB - part 1.md",
+    "notes/learning/lewagon/bootcamp-log.md",
+    "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
+    "notes/rails blog.md",
     "notes/ideaverse.md",
+    "private/raw private.md",
     "notes/TailwindCSS.md",
     "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
     "notes/sedFlpIvd",
@@ -194,12 +200,6 @@
     "notes/books/clean-code/Clean Code - 3. Functions.md",
     "notes/books/clean-code/Clean Code - 1. Clean Code.md",
     "private/biblioteca.md",
-    "notes/learning/egghead - TailwindCSS.md",
-    "notes/Web Design in 4 minutes.md",
-    "notes/CSS games.md",
-    "notes/leitores de tela.md",
-    "notes/javascript.md",
-    "notes/typescript.md",
     "assets/Pasted image 20230812221207.png",
     "assets/origamid - exemplo-select.png",
     "assets/origamid - exemplo-radio.png",
