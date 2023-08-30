@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
+                "file": "notes/learning/lewagon/log/2023-05-31 - Geocoding and Maps.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md"
+                "file": "notes/learning/lewagon/log/2023-05-31 - Geocoding and Maps.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
+                "file": "notes/learning/lewagon/log/2023-05-31 - Geocoding and Maps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
+                "file": "notes/learning/lewagon/log/2023-05-31 - Geocoding and Maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +173,11 @@
   },
   "active": "18112b2456c7dc94",
   "lastOpenFiles": [
+    "notes/learning/lewagon/bootcamp-log.md",
+    "templates/lewagon-log.md",
+    "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
     "notes/learning/lewagon/log/2023-08-30 - redoing AirBnB - part 1.md",
     "assets/redoing AirBnB - db-schema.png",
-    "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
-    "notes/learning/lewagon/bootcamp-log.md",
     "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
     "notes/rails blog.md",
     "notes/ideaverse.md",
