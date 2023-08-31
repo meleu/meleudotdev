@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18112b2456c7dc94",
+            "id": "a24d5df0a79cd91d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/bootcamp-log.md",
+                "file": "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/bootcamp-log.md"
+                "file": "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/bootcamp-log.md",
+                "file": "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/bootcamp-log.md",
+                "file": "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,13 +171,15 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "18112b2456c7dc94",
+  "active": "a24d5df0a79cd91d",
   "lastOpenFiles": [
+    "assets/cloudinary-multiple-photos.png",
+    "notes/learning/lewagon/bootcamp-log.md",
+    "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
+    "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md",
     "notes/learning/lewagon/log/2023-05-31 - Geocoding and Maps.md",
     "notes/Socrates - Vaidade e Roupa Rasgada.md",
-    "notes/learning/lewagon/bootcamp-log.md",
     "templates/lewagon-log.md",
-    "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
     "notes/learning/lewagon/log/2023-08-30 - redoing AirBnB - part 1.md",
     "assets/redoing AirBnB - db-schema.png",
     "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
@@ -199,8 +201,6 @@
     "notes/books/clean-code/Clean Code - 2. Meaningful Names.md",
     "notes/ra/todo - RAWeb.md",
     "private/raw notes.md",
-    "notes/books/clean-code/Clean Code.md",
-    "notes/books/clean-code/Clean Code - 3. Functions.md",
     "assets/Pasted image 20230812221207.png",
     "assets/origamid - exemplo-select.png",
     "assets/origamid - exemplo-radio.png",
