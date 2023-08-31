@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-31 - Geocoding and Maps.md",
+                "file": "notes/learning/lewagon/bootcamp-log.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-31 - Geocoding and Maps.md"
+                "file": "notes/learning/lewagon/bootcamp-log.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-31 - Geocoding and Maps.md",
+                "file": "notes/learning/lewagon/bootcamp-log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-31 - Geocoding and Maps.md",
+                "file": "notes/learning/lewagon/bootcamp-log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +173,8 @@
   },
   "active": "18112b2456c7dc94",
   "lastOpenFiles": [
+    "notes/learning/lewagon/log/2023-05-31 - Geocoding and Maps.md",
+    "notes/Socrates - Vaidade e Roupa Rasgada.md",
     "notes/learning/lewagon/bootcamp-log.md",
     "templates/lewagon-log.md",
     "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
@@ -199,8 +201,6 @@
     "private/raw notes.md",
     "notes/books/clean-code/Clean Code.md",
     "notes/books/clean-code/Clean Code - 3. Functions.md",
-    "notes/books/clean-code/Clean Code - 1. Clean Code.md",
-    "private/biblioteca.md",
     "assets/Pasted image 20230812221207.png",
     "assets/origamid - exemplo-select.png",
     "assets/origamid - exemplo-radio.png",
