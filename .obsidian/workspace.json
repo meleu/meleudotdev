@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md",
+                "file": "notes/learning/lewagon/log/2023-06-01 - Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md"
+                "file": "notes/learning/lewagon/log/2023-06-01 - Search.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md",
+                "file": "notes/learning/lewagon/log/2023-06-01 - Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md",
+                "file": "notes/learning/lewagon/log/2023-06-01 - Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +173,13 @@
   },
   "active": "a24d5df0a79cd91d",
   "lastOpenFiles": [
-    "assets/cloudinary-multiple-photos.png",
+    "private/lewagon/1351/1351 - rails-car-rental.md",
+    "notes/learning/lewagon/log/2023-06-01 - Search.md",
+    "private/lewagon/1351",
     "notes/learning/lewagon/bootcamp-log.md",
-    "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
     "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md",
+    "assets/cloudinary-multiple-photos.png",
+    "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
     "notes/learning/lewagon/log/2023-05-31 - Geocoding and Maps.md",
     "notes/Socrates - Vaidade e Roupa Rasgada.md",
     "templates/lewagon-log.md",
@@ -200,7 +203,6 @@
     "notes/vim.md",
     "notes/books/clean-code/Clean Code - 2. Meaningful Names.md",
     "notes/ra/todo - RAWeb.md",
-    "private/raw notes.md",
     "assets/Pasted image 20230812221207.png",
     "assets/origamid - exemplo-select.png",
     "assets/origamid - exemplo-radio.png",
@@ -209,7 +211,6 @@
     "assets/origamid - cores funcionais.png",
     "assets/origamid - paleta cinza-azulado.png",
     "assets/origamid - paleta de tons de cinza.png",
-    "assets/material-design - typography-scale.png",
     "repos/meleu.sh/sad-song.mp3",
     "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].mp3",
     "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].webm",
@@ -217,7 +218,6 @@
     "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].f251.webm.part",
     "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].f243.webm",
     "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].f243.webm.part",
-    "repos/meleu.sh/Tmux has forever changed the way I write code. [DzNmUNvnB04].f315.webm.part",
-    "repos/meleu.sh/themes/PaperMod/i18n/th.yaml"
+    "repos/meleu.sh/Tmux has forever changed the way I write code. [DzNmUNvnB04].f315.webm.part"
   ]
 }
