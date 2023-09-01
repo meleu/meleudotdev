@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-01 - Search.md",
+                "file": "notes/Rust.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "34cb8e843c480225",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -106,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-01 - Search.md"
+                "file": "notes/Rust.md"
               }
             }
           },
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-01 - Search.md",
+                "file": "notes/Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/learning/lewagon/log/2023-06-01 - Search.md",
+                "file": "notes/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,10 +171,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "34cb8e843c480225",
+  "active": "a24d5df0a79cd91d",
   "lastOpenFiles": [
-    "private/lewagon/1351/1351 - rails-car-rental.md",
     "notes/learning/lewagon/log/2023-06-01 - Search.md",
+    "private/lewagon/1351/1351 - rails-car-rental.md",
     "private/lewagon/1351",
     "notes/learning/lewagon/bootcamp-log.md",
     "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md",
