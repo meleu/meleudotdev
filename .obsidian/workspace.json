@@ -10,13 +10,15 @@
           {
             "id": "a24d5df0a79cd91d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Rust.md",
+                "file": "private/carreira/CloudWalk/CloudWalk - onboarding.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -95,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Rust.md"
+                "file": "private/carreira/CloudWalk/CloudWalk - onboarding.md"
               }
             }
           },
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Rust.md",
+                "file": "private/carreira/CloudWalk/CloudWalk - onboarding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Rust.md",
+                "file": "private/carreira/CloudWalk/CloudWalk - onboarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +175,10 @@
   },
   "active": "a24d5df0a79cd91d",
   "lastOpenFiles": [
+    "about.md",
+    "private/carreira/CloudWalk/CloudWalk - onboarding.md",
+    "private/carreira/CloudWalk/Interview.md",
+    "notes/Rust.md",
     "notes/learning/lewagon/log/2023-06-01 - Search.md",
     "private/lewagon/1351/1351 - rails-car-rental.md",
     "private/lewagon/1351",
@@ -199,10 +205,6 @@
     "README.md",
     "notes/debito tecnico.md",
     "notes/ra/todo - RANews.md",
-    "notes/links - frontend.md",
-    "notes/vim.md",
-    "notes/books/clean-code/Clean Code - 2. Meaningful Names.md",
-    "notes/ra/todo - RAWeb.md",
     "assets/Pasted image 20230812221207.png",
     "assets/origamid - exemplo-select.png",
     "assets/origamid - exemplo-radio.png",
