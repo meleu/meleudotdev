@@ -20,18 +20,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "0c2930d7a08eeba3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk onbarding checklist.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "stacked": true
@@ -63,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "linux nerd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,11 +76,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -186,8 +176,11 @@
   },
   "active": "a24d5df0a79cd91d",
   "lastOpenFiles": [
-    "private/carreira/CloudWalk/CloudWalk onbarding checklist.md",
+    "private/carreira/CloudWalk/CloudWalk - entrevista painel.md",
+    "private/carreira/CloudWalk/CloudWalk - first submission.md",
     "private/carreira/CloudWalk/CloudWalk - onboarding.md",
+    "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
+    "private/carreira/CloudWalk/CloudWalk onbarding checklist.md",
     "about.md",
     "private/carreira/CloudWalk/Interview.md",
     "notes/Rust.md",
@@ -213,9 +206,6 @@
     "notes/learning/origamid - UI Design.md",
     "notes/vscodevim.md",
     "notes/videos/video - Tailwind CSS - build landing page.md",
-    "now.md",
-    "README.md",
-    "notes/debito tecnico.md",
     "assets/Pasted image 20230812221207.png",
     "assets/origamid - exemplo-select.png",
     "assets/origamid - exemplo-radio.png",
