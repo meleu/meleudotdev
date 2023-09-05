@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk Rust Software Engineer.md",
+                "file": "private/carreira/CloudWalk/udemy courses.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk Rust Software Engineer.md"
+                "file": "private/carreira/CloudWalk/udemy courses.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk Rust Software Engineer.md",
+                "file": "private/carreira/CloudWalk/udemy courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk Rust Software Engineer.md",
+                "file": "private/carreira/CloudWalk/udemy courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,6 +187,8 @@
   },
   "active": "2122547a0b92a373",
   "lastOpenFiles": [
+    "private/carreira/CloudWalk/CloudWalk - First Week Onboarding Course.md",
+    "private/carreira/CloudWalk/udemy courses.md",
     "private/carreira/CloudWalk/CloudWalk - onboarding.md",
     "private/carreira/CloudWalk/CloudWalk Rust Software Engineer.md",
     "private/carreira/CloudWalk/CloudWalk - entrevista painel.md",
@@ -215,8 +217,6 @@
     "notes/TailwindCSS.md",
     "notes/learning/desenho para principiantes nivel -1 - puno - domestika.md",
     "notes/sedFlpIvd",
-    "notes/learning/origamid - UI Design.md",
-    "notes/vscodevim.md",
     "assets/Pasted image 20230812221207.png",
     "assets/origamid - exemplo-select.png",
     "assets/origamid - exemplo-radio.png",
