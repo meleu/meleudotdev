@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "2122547a0b92a373",
+            "id": "fb84c3c0af21a241",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/CloudWalk/udemy courses.md",
+                "file": "private/carreira/CloudWalk/MacOS Ventura.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 395.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/CloudWalk/udemy courses.md"
+                "file": "private/carreira/CloudWalk/MacOS Ventura.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/CloudWalk/udemy courses.md",
+                "file": "private/carreira/CloudWalk/MacOS Ventura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/CloudWalk/udemy courses.md",
+                "file": "private/carreira/CloudWalk/MacOS Ventura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,11 +186,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "2122547a0b92a373",
+  "active": "fb84c3c0af21a241",
   "lastOpenFiles": [
     "private/carreira/CloudWalk/CloudWalk - First Week Onboarding Course.md",
-    "private/carreira/CloudWalk/udemy courses.md",
     "private/carreira/CloudWalk/CloudWalk - onboarding.md",
+    "private/carreira/CloudWalk/MacOS Ventura.md",
     "private/carreira/CloudWalk/CloudWalk Rust Software Engineer.md",
     "private/carreira/CloudWalk/CloudWalk - entrevista painel.md",
     "private/carreira/CloudWalk/CloudWalk - first submission.md",
