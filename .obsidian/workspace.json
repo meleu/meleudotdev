@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk Products.md",
+                "file": "notes/git.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk Products.md"
+                "file": "notes/git.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk Products.md",
+                "file": "notes/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk Products.md",
+                "file": "notes/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,12 +172,14 @@
   },
   "active": "fb84c3c0af21a241",
   "lastOpenFiles": [
+    "notes/git-submodules.md",
+    "notes/git.md",
+    "private/carreira/CloudWalk/CloudWalk Products.md",
     "private/carreira/CloudWalk/CloudWalk onbarding checklist.md",
     "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
     "private/carreira/CloudWalk/CloudWalk - onboarding.md",
     "private/carreira/CloudWalk/CloudWalk - First Week Onboarding Course.md",
     "private/carreira/CloudWalk/CloudWalk - first submission.md",
-    "private/carreira/CloudWalk/CloudWalk Products.md",
     "private/carreira/CloudWalk/MacOS Ventura.md",
     "private/carreira/CloudWalk/CloudWalk Rust Software Engineer.md",
     "private/carreira/CloudWalk/CloudWalk - entrevista painel.md",
@@ -199,8 +201,6 @@
     "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
     "notes/rails blog.md",
     "notes/ideaverse.md",
-    "private/raw private.md",
-    "notes/TailwindCSS.md",
     "notes/sedFlpIvd",
     "assets/Pasted image 20230812221207.png",
     "assets/origamid - exemplo-select.png",
