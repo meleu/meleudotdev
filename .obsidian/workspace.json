@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - First Week Onboarding Course.md",
+                "file": "private/carreira/CloudWalk/CloudWalk Products.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5,
-    "collapsed": true
+    "width": 395.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - First Week Onboarding Course.md"
+                "file": "private/carreira/CloudWalk/CloudWalk Products.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - First Week Onboarding Course.md",
+                "file": "private/carreira/CloudWalk/CloudWalk Products.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/carreira/CloudWalk/CloudWalk - First Week Onboarding Course.md",
+                "file": "private/carreira/CloudWalk/CloudWalk Products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,14 +173,14 @@
   "active": "fb84c3c0af21a241",
   "lastOpenFiles": [
     "private/carreira/CloudWalk/CloudWalk onbarding checklist.md",
+    "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
     "private/carreira/CloudWalk/CloudWalk - onboarding.md",
+    "private/carreira/CloudWalk/CloudWalk - First Week Onboarding Course.md",
+    "private/carreira/CloudWalk/CloudWalk - first submission.md",
     "private/carreira/CloudWalk/CloudWalk Products.md",
     "private/carreira/CloudWalk/MacOS Ventura.md",
-    "private/carreira/CloudWalk/CloudWalk - First Week Onboarding Course.md",
     "private/carreira/CloudWalk/CloudWalk Rust Software Engineer.md",
     "private/carreira/CloudWalk/CloudWalk - entrevista painel.md",
-    "private/carreira/CloudWalk/CloudWalk - first submission.md",
-    "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
     "about.md",
     "private/carreira/CloudWalk/Interview.md",
     "notes/Rust.md",
