@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/git.md",
+                "file": "repos/meleu.sh/content/posts/cheat-sh.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/git.md"
+                "file": "repos/meleu.sh/content/posts/cheat-sh.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/git.md",
+                "file": "repos/meleu.sh/content/posts/cheat-sh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/git.md",
+                "file": "repos/meleu.sh/content/posts/cheat-sh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +172,8 @@
   },
   "active": "fb84c3c0af21a241",
   "lastOpenFiles": [
-    "notes/git-submodules.md",
     "notes/git.md",
+    "notes/git-submodules.md",
     "private/carreira/CloudWalk/CloudWalk Products.md",
     "private/carreira/CloudWalk/CloudWalk onbarding checklist.md",
     "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
