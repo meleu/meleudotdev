@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repos/meleu.sh/content/posts/cheat-sh.md",
+                "file": "notes/tmux-cheatsheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "repos/meleu.sh/content/posts/cheat-sh.md"
+                "file": "notes/tmux-cheatsheet.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "repos/meleu.sh/content/posts/cheat-sh.md",
+                "file": "notes/tmux-cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repos/meleu.sh/content/posts/cheat-sh.md",
+                "file": "notes/tmux-cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +172,7 @@
   },
   "active": "fb84c3c0af21a241",
   "lastOpenFiles": [
+    "repos/meleu.sh/content/posts/cheat-sh.md",
     "notes/git.md",
     "notes/git-submodules.md",
     "private/carreira/CloudWalk/CloudWalk Products.md",
@@ -200,7 +201,6 @@
     "assets/redoing AirBnB - db-schema.png",
     "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
     "notes/rails blog.md",
-    "notes/ideaverse.md",
     "notes/sedFlpIvd",
     "assets/Pasted image 20230812221207.png",
     "assets/origamid - exemplo-select.png",
