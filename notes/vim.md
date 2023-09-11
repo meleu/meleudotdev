@@ -13,6 +13,13 @@ dg-publish: true
     - [[Learning the vi and vim Editors]]
     - [[Mastering Vim Quickly]]
 
+## Vim TerminalRoot
+
+```sh
+stty -ixon # 30 min
+```
+
+
 ## things to do after vimtutor
 
 By reading the contents of [this repository](https://github.com/dahu/learnvim) I realized that this is the things to do after finishing the vimtutor:
