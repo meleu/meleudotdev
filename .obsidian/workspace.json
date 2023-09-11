@@ -11,11 +11,9 @@
             "id": "fb84c3c0af21a241",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "notes/tmux-cheatsheet.md",
-                "mode": "source",
-                "source": false
+                "file": "private/kanban/kanban.md"
               }
             }
           }
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 395.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/tmux-cheatsheet.md"
+                "file": "private/kanban/kanban.md"
               }
             }
           },
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/tmux-cheatsheet.md",
+                "file": "private/kanban/kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/tmux-cheatsheet.md",
+                "file": "private/kanban/kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,8 +169,9 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "fb84c3c0af21a241",
+  "active": "0da2875d0547afe4",
   "lastOpenFiles": [
+    "notes/tmux-cheatsheet.md",
     "repos/meleu.sh/content/posts/cheat-sh.md",
     "notes/git.md",
     "notes/git-submodules.md",
@@ -200,7 +200,6 @@
     "notes/learning/lewagon/log/2023-08-30 - redoing AirBnB - part 1.md",
     "assets/redoing AirBnB - db-schema.png",
     "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
-    "notes/rails blog.md",
     "notes/sedFlpIvd",
     "assets/Pasted image 20230812221207.png",
     "assets/origamid - exemplo-select.png",
