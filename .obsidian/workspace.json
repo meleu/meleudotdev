@@ -11,9 +11,11 @@
             "id": "fb84c3c0af21a241",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "private/kanban/kanban.md"
+                "file": "notes/vscodevim.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/kanban/kanban.md"
+                "file": "notes/vscodevim.md"
               }
             }
           },
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/kanban/kanban.md",
+                "file": "notes/vscodevim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/kanban/kanban.md",
+                "file": "notes/vscodevim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,8 +171,9 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "0da2875d0547afe4",
+  "active": "fb84c3c0af21a241",
   "lastOpenFiles": [
+    "private/kanban/kanban.md",
     "notes/tmux-cheatsheet.md",
     "repos/meleu.sh/content/posts/cheat-sh.md",
     "notes/git.md",
@@ -199,7 +202,6 @@
     "templates/lewagon-log.md",
     "notes/learning/lewagon/log/2023-08-30 - redoing AirBnB - part 1.md",
     "assets/redoing AirBnB - db-schema.png",
-    "notes/learning/lewagon/log/2023-05-25 - Rails Frontend (SASS).md",
     "notes/sedFlpIvd",
     "assets/Pasted image 20230812221207.png",
     "assets/origamid - exemplo-select.png",

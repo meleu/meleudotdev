@@ -61,8 +61,9 @@ Things to do after installing the plugin
 By default it supports the following plugins that I'm used to use:
 
 - vim-surround
-- vim-commentaryd
-- vim-indent-objectd
+- vim-commentary
+- vim-indent-object
+- ReplaceWithRegister
 - vim-textobj-entire
 
 
