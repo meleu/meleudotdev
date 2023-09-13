@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/vscodevim.md",
+                "file": "notes/books/k8s-basico/k8s basico 04-kubectl.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d4b839e79ecbb3d3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -106,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/vscodevim.md"
+                "file": "notes/books/k8s-basico/k8s basico 04-kubectl.md"
               }
             }
           },
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/vscodevim.md",
+                "file": "notes/books/k8s-basico/k8s basico 04-kubectl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/vscodevim.md",
+                "file": "notes/books/k8s-basico/k8s basico 04-kubectl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,8 +181,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "d4b839e79ecbb3d3",
+  "active": "fb84c3c0af21a241",
   "lastOpenFiles": [
+    "notes/books/k8s-basico/Kubernetes Basico.md",
+    "notes/books/k8s-basico/k8s basico 03-cluster-kubernetes.md",
+    "notes/books/k8s-basico/k8s basico 02-containers.md",
+    "notes/books/k8s-basico/k8s basico 01-introducao.md",
+    "notes/kubectl-tricks.md",
+    "notes/vscodevim.md",
     "private/kanban/kanban.md",
     "notes/tmux-cheatsheet.md",
     "repos/meleu.sh/content/posts/cheat-sh.md",
@@ -215,13 +210,7 @@
     "private/lewagon/1351/1351 - rails-car-rental.md",
     "private/lewagon/1351",
     "notes/learning/lewagon/bootcamp-log.md",
-    "notes/learning/lewagon/log/2023-05-26 - Cloudinary and Heroku.md",
     "assets/cloudinary-multiple-photos.png",
-    "notes/learning/lewagon/log/2023-05-29 - Authentication and Devise.md",
-    "notes/learning/lewagon/log/2023-05-31 - Geocoding and Maps.md",
-    "notes/Socrates - Vaidade e Roupa Rasgada.md",
-    "templates/lewagon-log.md",
-    "notes/learning/lewagon/log/2023-08-30 - redoing AirBnB - part 1.md",
     "assets/redoing AirBnB - db-schema.png",
     "notes/sedFlpIvd",
     "assets/Pasted image 20230812221207.png",
