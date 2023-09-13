@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4b839e79ecbb3d3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -121,6 +132,16 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "c7dabdcea1d57be2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       },
@@ -171,7 +192,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "fb84c3c0af21a241",
+  "active": "d4b839e79ecbb3d3",
   "lastOpenFiles": [
     "private/kanban/kanban.md",
     "notes/tmux-cheatsheet.md",
