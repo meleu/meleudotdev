@@ -14,8 +14,10 @@ title: "meleu.dev"
 
 I'm a **Software Engineer** from Brazil.
 
+<!--
 > [!important]
 > If you're considering hiring me, please check the [[hire-me]] page.
+-->
 
 This is my 🌱 [[digital garden]]. Most of the contents is not "finished", but evolving over time.
 
@@ -25,7 +27,7 @@ This is my 🌱 [[digital garden]]. Most of the contents is not "finished", but 
 > - [Github](https://github.com/meleu)
 > - [LinkedIn](https://www.linkedin.com/in/meleu/)
 
-I believe that **writing is thinking**, therefore the notes here exist to aid my thinking, learning and creating. I keep them public because [learning in public](https://www.swyx.io/learn-in-public/) helps me to learn faster.
+I believe that **writing is thinking**, and the notes here exist to aid my thinking, learning and creating. I keep them public because [learning in public](https://www.swyx.io/learn-in-public/) helps me to learn faster.
 
 Here are some things that might be interesting to you:
 
