@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "notes/books/eXtreme Programming Explained.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/books/eXtreme Programming Explained.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/books/eXtreme Programming Explained.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/books/eXtreme Programming Explained.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +182,9 @@
   },
   "active": "fb84c3c0af21a241",
   "lastOpenFiles": [
+    "notes/debito tecnico.md",
+    "notes/books/eXtreme Programming Explained.md",
+    "README.md",
     "notes/books/k8s-basico/k8s basico 04-kubectl.md",
     "notes/books/k8s-basico/Kubernetes Basico.md",
     "notes/books/k8s-basico/k8s basico 03-cluster-kubernetes.md",
@@ -206,9 +208,6 @@
     "private/carreira/CloudWalk/CloudWalk - entrevista painel.md",
     "about.md",
     "private/carreira/CloudWalk/Interview.md",
-    "notes/Rust.md",
-    "notes/learning/lewagon/log/2023-06-01 - Search.md",
-    "private/lewagon/1351/1351 - rails-car-rental.md",
     "private/lewagon/1351",
     "assets/cloudinary-multiple-photos.png",
     "assets/redoing AirBnB - db-schema.png",
