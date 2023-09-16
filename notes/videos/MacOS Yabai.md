@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # MacOS Yabai
 
 - <https://youtu.be/k94qImbFKWE>

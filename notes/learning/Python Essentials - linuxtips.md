@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Python Essentials - linuxtips
 
 Seguindo o curso Python Essentials da LinuxTips

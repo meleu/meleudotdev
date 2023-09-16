@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # dicas do time de QE
 
 ## Lucelia

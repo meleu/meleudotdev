@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # kubectl zsh autocomplete
 
 **NOTE** This very same process can be done for `minikube`.

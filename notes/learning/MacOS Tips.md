@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Udemy Course
 
 <https://udemy.com/course/master-your-mac-2023-macos-ventura-the-complete-course>
