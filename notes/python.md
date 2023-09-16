@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # Python
 
+See also [[Python Essentials - linuxtips]].
+
 Things to take a look if/when I need to dive into Python language:
 
 - <https://docs.python.org/3/tutorial/> - official tutorial

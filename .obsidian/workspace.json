@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/eXtreme Programming Explained.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5,
-    "collapsed": true
+    "width": 395.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/eXtreme Programming Explained.md"
+                "file": "README.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/eXtreme Programming Explained.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/eXtreme Programming Explained.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,36 +181,44 @@
   },
   "active": "fb84c3c0af21a241",
   "lastOpenFiles": [
-    "notes/debito tecnico.md",
-    "notes/books/eXtreme Programming Explained.md",
-    "README.md",
-    "notes/books/k8s-basico/k8s basico 04-kubectl.md",
-    "notes/books/k8s-basico/Kubernetes Basico.md",
-    "notes/books/k8s-basico/k8s basico 03-cluster-kubernetes.md",
-    "notes/books/k8s-basico/k8s basico 02-containers.md",
-    "notes/books/k8s-basico/k8s basico 01-introducao.md",
-    "notes/kubectl-tricks.md",
-    "notes/vscodevim.md",
-    "private/kanban/kanban.md",
-    "notes/tmux-cheatsheet.md",
-    "repos/meleu.sh/content/posts/cheat-sh.md",
-    "notes/git.md",
-    "notes/git-submodules.md",
-    "private/carreira/CloudWalk/CloudWalk Products.md",
-    "private/carreira/CloudWalk/CloudWalk onbarding checklist.md",
-    "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
-    "private/carreira/CloudWalk/CloudWalk - onboarding.md",
-    "private/carreira/CloudWalk/CloudWalk - First Week Onboarding Course.md",
-    "private/carreira/CloudWalk/CloudWalk - first submission.md",
-    "private/carreira/CloudWalk/MacOS Ventura.md",
-    "private/carreira/CloudWalk/CloudWalk Rust Software Engineer.md",
-    "private/carreira/CloudWalk/CloudWalk - entrevista painel.md",
-    "about.md",
-    "private/carreira/CloudWalk/Interview.md",
-    "private/lewagon/1351",
+    "notes/learning/MacOS Tips.md",
+    "work/cw/Onboarding First Week.md",
+    "work/cw/Fundamental Docs.md",
+    "work/cw/Horus.md",
+    "work/cw/Technocratic.md",
+    "work/cw/onboarding tests.md",
+    "work/cw/daily-notes/2023-09-12.md",
+    "work/cw/CloudWalk Products.md",
+    "work/cw/to read.md",
+    "work/cw/daily-notes/2023-09-08.md",
+    "work/cw/daily-notes/2023-09-06.md",
+    "work/cw/cw-kanban.md",
+    "work/cw/Benefits.md",
+    "work/cw/daily-notes/2023-09-14.md",
+    "work/cw/daily-notes/2023-09-11.md",
+    "work/cw/daily-notes/2023-09-13.md",
+    "work/cw/Run CloudWalk.md",
+    "work/cw/daily-notes/2023-09-15.md",
+    "work/cw/Confluence Docs review.md",
+    "work/cw/daily-notes",
+    "work/cw/assets",
+    "work/cw",
+    "work/meleu-cw/Onboarding First Week.md",
+    "work/meleu-cw/Fundamental Docs.md",
+    "work/meleu-cw/Horus.md",
+    "work/meleu-cw/Technocratic.md",
+    "work/meleu-cw/onboarding tests.md",
+    "work/meleu-cw/daily-notes/2023-09-12.md",
+    "work/meleu-cw/CloudWalk Products.md",
+    "work/meleu-cw/daily-notes",
+    "work/meleu-cw/assets",
+    "work/meleu-cw",
+    "work",
+    "Untitled",
+    "meleu-cw/daily-notes",
+    "meleu-cw/assets",
     "assets/cloudinary-multiple-photos.png",
     "assets/redoing AirBnB - db-schema.png",
-    "notes/sedFlpIvd",
     "assets/Pasted image 20230812221207.png",
     "assets/origamid - exemplo-select.png",
     "assets/origamid - exemplo-radio.png",
@@ -219,14 +226,6 @@
     "assets/origamid - luminosidade-matiz.png",
     "assets/origamid - cores funcionais.png",
     "assets/origamid - paleta cinza-azulado.png",
-    "assets/origamid - paleta de tons de cinza.png",
-    "repos/meleu.sh/sad-song.mp3",
-    "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].mp3",
-    "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].webm",
-    "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].webm.part",
-    "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].f251.webm.part",
-    "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].f243.webm",
-    "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].f243.webm.part",
-    "repos/meleu.sh/Tmux has forever changed the way I write code. [DzNmUNvnB04].f315.webm.part"
+    "assets/origamid - paleta de tons de cinza.png"
   ]
 }
