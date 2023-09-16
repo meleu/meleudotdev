@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "notes/neovim.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/neovim.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/neovim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/neovim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,8 +192,9 @@
   },
   "active": "fb84c3c0af21a241",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "README.md",
+    "work/cw/dicas.md",
+    "conflict-files-obsidian-git.md",
     "notes/learning/MacOS Tips.md",
     "work/cw/Onboarding First Week.md",
     "work/cw/Fundamental Docs.md",
@@ -220,7 +221,6 @@
     "work/meleu-cw/Fundamental Docs.md",
     "work/meleu-cw/Horus.md",
     "work/meleu-cw/Technocratic.md",
-    "work/meleu-cw/onboarding tests.md",
     "work/meleu-cw/daily-notes",
     "work/meleu-cw/assets",
     "work/meleu-cw",

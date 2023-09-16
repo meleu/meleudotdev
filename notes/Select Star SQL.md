@@ -67,7 +67,7 @@ Used as a filter. Example:
 SELECT * FROM executions WHERE ex_age < 25
 ```
 
-To filter text, we can use `=`, but `LIKE` makes some things easier. Example:
+To filter text, we can use '=', but `LIKE` makes some things easier. Example:
 
 ```sql
 SELECT * FROM executions WHERE first_name LIKE '%roy'
