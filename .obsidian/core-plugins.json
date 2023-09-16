@@ -9,6 +9,7 @@
   "tag-pane",
   "properties",
   "page-preview",
+  "daily-notes",
   "templates",
   "note-composer",
   "command-palette",
@@ -17,6 +18,5 @@
   "outline",
   "word-count",
   "slides",
-  "file-recovery",
-  "sync"
+  "file-recovery"
 ]

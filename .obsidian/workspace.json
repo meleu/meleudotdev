@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "04e5a9f231c38e82",
+        "id": "17d7bd16ad6a2a35",
         "type": "tabs",
         "children": [
           {
-            "id": "fb84c3c0af21a241",
+            "id": "5d93a00e710da5b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "notes/books/eXtreme Programming Explained.md",
+||||||| parent of 7327126 (update from Mac)
+                "file": "README.md",
+=======
+                "file": "meleu-cw/Confluence Docs review.md",
+>>>>>>> 7327126 (update from Mac)
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5,
-    "collapsed": true
+    "width": 395.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -95,7 +100,13 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "notes/books/eXtreme Programming Explained.md"
+||||||| parent of 7327126 (update from Mac)
+                "file": "README.md"
+=======
+                "file": "meleu-cw/Confluence Docs review.md"
+>>>>>>> 7327126 (update from Mac)
               }
             }
           },
@@ -116,7 +127,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "notes/books/eXtreme Programming Explained.md",
+||||||| parent of 7327126 (update from Mac)
+                "file": "README.md",
+=======
+                "file": "meleu-cw/Confluence Docs review.md",
+>>>>>>> 7327126 (update from Mac)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +161,13 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "notes/books/eXtreme Programming Explained.md",
+||||||| parent of 7327126 (update from Mac)
+                "file": "README.md",
+=======
+                "file": "meleu-cw/Confluence Docs review.md",
+>>>>>>> 7327126 (update from Mac)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,17 +194,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "ObsidianAnkiSync:Start Obsidian Anki Sync": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "fb84c3c0af21a241",
+  "active": "5d93a00e710da5b2",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "notes/debito tecnico.md",
     "notes/books/eXtreme Programming Explained.md",
     "README.md",
@@ -208,6 +232,65 @@
     "private/carreira/CloudWalk/CloudWalk - entrevista painel.md",
     "about.md",
     "private/carreira/CloudWalk/Interview.md",
+||||||| parent of 7327126 (update from Mac)
+    "notes/books/k8s-basico/k8s basico 04-kubectl.md",
+    "notes/books/k8s-basico/Kubernetes Basico.md",
+    "notes/books/k8s-basico/k8s basico 03-cluster-kubernetes.md",
+    "notes/books/k8s-basico/k8s basico 02-containers.md",
+    "notes/books/k8s-basico/k8s basico 01-introducao.md",
+    "notes/kubectl-tricks.md",
+    "notes/vscodevim.md",
+    "private/kanban/kanban.md",
+    "notes/tmux-cheatsheet.md",
+    "repos/meleu.sh/content/posts/cheat-sh.md",
+    "notes/git.md",
+    "notes/git-submodules.md",
+    "private/carreira/CloudWalk/CloudWalk Products.md",
+    "private/carreira/CloudWalk/CloudWalk onbarding checklist.md",
+    "private/carreira/CloudWalk/CloudWalk - Thiago Scalone.md",
+    "private/carreira/CloudWalk/CloudWalk - onboarding.md",
+    "private/carreira/CloudWalk/CloudWalk - First Week Onboarding Course.md",
+    "private/carreira/CloudWalk/CloudWalk - first submission.md",
+    "private/carreira/CloudWalk/MacOS Ventura.md",
+    "private/carreira/CloudWalk/CloudWalk Rust Software Engineer.md",
+    "private/carreira/CloudWalk/CloudWalk - entrevista painel.md",
+    "about.md",
+    "private/carreira/CloudWalk/Interview.md",
+    "notes/Rust.md",
+    "notes/learning/lewagon/log/2023-06-01 - Search.md",
+    "private/lewagon/1351/1351 - rails-car-rental.md",
+=======
+    "notes/movefile.md",
+    "meleu-cw/Confluence Docs review.md",
+    "notes/LazyVim.md",
+    "meleu-cw/daily-notes/2023-09-15.md",
+    "meleu-cw/daily-notes/2023-09-14.md",
+    "meleu-cw/daily-notes/2023-09-13.md",
+    "meleu-cw/daily-notes/2023-09-12.md",
+    "meleu-cw/daily-notes/2023-09-11.md",
+    "meleu-cw/daily-notes/2023-09-08.md",
+    "meleu-cw/daily-notes/2023-09-06.md",
+    "meleu-cw/assets/Top+macOS+Ventura+-+AppleOnlineAcademy.pdf",
+    "meleu-cw/to read.md",
+    "meleu-cw/onboarding tests.md",
+    "meleu-cw/daily-notes",
+    "meleu-cw/cw-kanban.md",
+    "meleu-cw/assets",
+    "meleu-cw/Technocratic.md",
+    "meleu-cw/Run CloudWalk.md",
+    "meleu-cw/Onboarding First Week.md",
+    "meleu-cw/Horus.md",
+    "meleu-cw/Fundamental Docs.md",
+    "meleu-cw/CloudWalk Products.md",
+    "meleu-cw/Benefits.md",
+    "meleu-cw",
+    "notes/neovim.md",
+    "notes/learning/GitHub Actions - Udemy.md",
+    "private/meleu-cw/onboarding tests.md",
+    "notes/onboarding issues in large-scale open source projects.md",
+    "notes/dicas.md",
+    "private/meleu-cw/cw-kanban.md",
+>>>>>>> 7327126 (update from Mac)
     "private/lewagon/1351",
     "assets/cloudinary-multiple-photos.png",
     "assets/redoing AirBnB - db-schema.png",
@@ -223,10 +306,6 @@
     "repos/meleu.sh/sad-song.mp3",
     "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].mp3",
     "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].webm",
-    "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].webm.part",
-    "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].f251.webm.part",
-    "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].f243.webm",
-    "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].f243.webm.part",
-    "repos/meleu.sh/Tmux has forever changed the way I write code. [DzNmUNvnB04].f315.webm.part"
+    "repos/meleu.sh/Mum - John Charles Fiddy + Cena Triste do Chaves (Clipe) [yT4ZTVSGUaA].webm.part"
   ]
 }
