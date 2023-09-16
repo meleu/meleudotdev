@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66f92557bfe9a404",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
         "stacked": true
@@ -170,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
       "ObsidianAnkiSync:Start Obsidian Anki Sync": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -181,6 +192,8 @@
   },
   "active": "fb84c3c0af21a241",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "README.md",
     "notes/learning/MacOS Tips.md",
     "work/cw/Onboarding First Week.md",
     "work/cw/Fundamental Docs.md",
@@ -208,8 +221,6 @@
     "work/meleu-cw/Horus.md",
     "work/meleu-cw/Technocratic.md",
     "work/meleu-cw/onboarding tests.md",
-    "work/meleu-cw/daily-notes/2023-09-12.md",
-    "work/meleu-cw/CloudWalk Products.md",
     "work/meleu-cw/daily-notes",
     "work/meleu-cw/assets",
     "work/meleu-cw",

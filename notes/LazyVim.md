@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # LazyVim
 
 September/2023 and I'm testing LazyVim.

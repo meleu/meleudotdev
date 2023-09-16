@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Nerd Font
 
 From <https://www.geekbits.io/how-to-install-nerd-fonts-on-mac/>

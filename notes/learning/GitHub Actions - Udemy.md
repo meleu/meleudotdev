@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # GitHub Actions - Udemy
 
 <https://cloudwalk.udemy.com/course/github-actions-the-complete-guide/>
