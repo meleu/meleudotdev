@@ -42,7 +42,7 @@ If you're curious enough to explore this garden, keep in mind that it can be a b
 
 ```dataview
 TABLE dateformat(file.mtime, "yyyy-MM-dd - HH:mm") AS "Last modified"
-FROM -"private" and -"repos" and -"templates"
+FROM -"private" and -"work" and -"repos" and -"templates"
 SORT file.mtime DESC
 LIMIT 15
 ```
