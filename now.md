@@ -3,12 +3,10 @@ dg-publish: true
 ---
 # What I'm into *now*
 
-Teaching Ruby on Rails in the Le Wagon bootcamp.
-
 Topics I'm currently diving into:
 
 - Ruby on Rails
-- [[TailwindCSS]]
+- [[GitHub Actions - Udemy]]
 - [[TDD-Refactoring literature]]
 
 

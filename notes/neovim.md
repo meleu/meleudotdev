@@ -10,25 +10,9 @@ dg-publish: true
 | `~/.vim/`  | `~/.config/nvim/`                        |
 | `~/.vimrc` | `~/.config/nvim/init.vim` (or `init.lua) |
 
-In order to make neovim load your vim configs:
-```vim
-" ~/.config/nvim/init.vim
-set runtimepath+=~/.vim,~/.vim/after
-set packpath+=~/.vim
-source ~/.vimrc
-```
-
-> I've noticed in the neovim documentation `:help clipboard` that `xsel` is mentioned as a "newer alternative to xclip"
-
-```vim
-" since I have xclip installed, this is
-" enough to nvim talk with the system clipboard
-set clipboard+=unnamedplus
-```
-
-
-
 ## `init.lua` loading `.vimrc`
+
+In order to make neovim load your `.vimrc`configs, put this in your `~/.config/nvim/init.lua`
 
 ```lua
 vim.cmd('source ~/.vimrc')
@@ -36,6 +20,8 @@ vim.cmd('source ~/.vimrc')
 
 
 ## Lazy.nvim
+
+> See also: [[LazyVim]]
 
 Awesome video to get started with Lazy.nvim plugin manager:
 <https://youtu.be/6mxWayq-s9I>
