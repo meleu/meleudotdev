@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "66f92557bfe9a404",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
         ],
         "stacked": true
@@ -176,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,6 +183,27 @@
   },
   "active": "fb84c3c0af21a241",
   "lastOpenFiles": [
+    "notes/neovim.md",
+    "monthly/2022-07.md",
+    "monthly/2022-09.md",
+    "monthly/2022-08.md",
+    "monthly/2022-06.md",
+    "monthly/2023-04.md",
+    "monthly/2023-03.md",
+    "monthly/2022-11.md",
+    "monthly/2023-08.md",
+    "monthly/2023-02.md",
+    "monthly/2023-07.md",
+    "monthly/2022-10.md",
+    "monthly/2023-09.md",
+    "monthly/2023-01.md",
+    "monthly/2022-12.md",
+    "notes/missa/2023-09-17 - missa - perdao.md",
+    "work/cw/organizing my dotfiles.md",
+    "work/cw/log/weekly/2023-W37.md",
+    "work/cw/log/daily/2023-09-12.md",
+    "work/cw/log/daily/2023-09-08.md",
+    "work/cw/log/daily/2023-09-06.md",
     "work/cw/log/daily/2023-09-14.md",
     "work/cw/log/daily/2023-09-15.md",
     "work/cw/log/daily/2023-09-11.md",
@@ -202,27 +214,6 @@
     "work/cw/log/daily",
     "work/cw/log",
     "README.md",
-    "work/cw/dicas.md",
-    "conflict-files-obsidian-git.md",
-    "notes/learning/MacOS Tips.md",
-    "work/cw/Onboarding First Week.md",
-    "work/cw/Fundamental Docs.md",
-    "work/cw/Horus.md",
-    "work/cw/Technocratic.md",
-    "work/cw/onboarding tests.md",
-    "work/cw/daily-notes/2023-09-12.md",
-    "work/cw/CloudWalk Products.md",
-    "work/cw/to read.md",
-    "work/cw/daily-notes/2023-09-08.md",
-    "work/cw/daily-notes/2023-09-06.md",
-    "work/cw/cw-kanban.md",
-    "work/cw/Benefits.md",
-    "work/cw/daily-notes/2023-09-14.md",
-    "work/cw/daily-notes/2023-09-11.md",
-    "work/cw/daily-notes/2023-09-13.md",
-    "work/cw/Run CloudWalk.md",
-    "work/cw/daily-notes/2023-09-15.md",
-    "work/cw/Confluence Docs review.md",
     "work/cw/daily-notes",
     "work/cw/assets",
     "work/cw",

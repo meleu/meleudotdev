@@ -7,7 +7,7 @@ dg-publish: true
 
 ## inspiration
 
-- <https://github.com/alexanderepstein/Bash-Snippets> - **THIS IS AN EXTREMELY VALUABLE RESOURCE**
+- <https://github.com/alexanderepstein/Bash-Snippets> - **THIS IS A VALUABLE RESOURCE**
 - <https://funcoeszz.net/>
 
 

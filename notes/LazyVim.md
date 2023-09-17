@@ -7,6 +7,8 @@ September/2023 and I'm testing LazyVim.
 
 The out-of-the-box experience is not 100% aligned with what I'm used to, but at least it's not as buggy as LunarVim.
 
+I didn't like the fact that a command like `:!man sed` doesn't give me the obvious thing. :(
+
 Things I did right after installation
 
 ### replace the surround plugin
