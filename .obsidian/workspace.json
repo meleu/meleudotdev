@@ -10,13 +10,15 @@
           {
             "id": "fb84c3c0af21a241",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/neovim.md",
+                "file": "notes/Lazy.nvim plugin.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -94,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/neovim.md"
+                "file": "notes/Lazy.nvim plugin.md"
               }
             }
           },
@@ -115,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/neovim.md",
+                "file": "notes/Lazy.nvim plugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/neovim.md",
+                "file": "notes/Lazy.nvim plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,11 +183,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "0da2875d0547afe4",
+  "active": "fb84c3c0af21a241",
   "lastOpenFiles": [
+    "notes/neovim.md",
+    "notes/Lazy.nvim plugin.md",
+    "notes/LazyVim.md",
+    "notes/vscodevim.md",
     "work/cw/cheatsheets.md",
     "work/cw/dicas do time.md",
-    "notes/neovim.md",
     "monthly/2022-07.md",
     "monthly/2022-09.md",
     "monthly/2022-08.md",
@@ -206,9 +211,6 @@
     "work/cw/log/daily/2023-09-12.md",
     "work/cw/log/daily/2023-09-08.md",
     "work/cw/log/daily/2023-09-06.md",
-    "work/cw/log/daily/2023-09-14.md",
-    "work/cw/log/daily/2023-09-15.md",
-    "work/cw/log/daily/2023-09-11.md",
     "monthly",
     "notes/missa",
     "work/cw/log/weekly",

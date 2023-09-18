@@ -3,7 +3,7 @@ dg-publish: true
 ---
 # LazyVim
 
-September/2023 and I'm testing LazyVim.
+September/2023 and I'm testing LazyVim distribution (do not confuse with [[Lazy.nvim plugin]].
 
 The out-of-the-box experience is not 100% aligned with what I'm used to, but at least it's not as buggy as LunarVim.
 
