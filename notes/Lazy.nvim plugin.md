@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Lazy.nvim plugin
 
 > See also: [[LazyVim]] (the distribution)
