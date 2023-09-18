@@ -5,9 +5,9 @@ dg-publish: true
 
 - [[vim-upcase]]
 - [[neovim]]
-- [[vim-seven-habits-of-effective-text-editing]]
 - [[vim-macros]]
-- [[LunarVim]]
+- [[LazyVim]]
+- [[LunarVim]] - buggy :(
 - books
     - [[Practical Vim]]
     - [[Learning the vi and vim Editors]]
