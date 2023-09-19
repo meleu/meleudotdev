@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # lazygit
 
 > [lazygit repository](https://github.com/jesseduffield/lazygit)

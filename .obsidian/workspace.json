@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/LunarVim.md",
+                "file": "work/cw/Benefits.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5,
-    "collapsed": true
+    "width": 395.5
   },
   "right": {
     "id": "0d81f502b1fbce9f",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/LunarVim.md"
+                "file": "work/cw/Benefits.md"
               }
             }
           },
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/LunarVim.md",
+                "file": "work/cw/Benefits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LunarVim.md",
+                "file": "work/cw/Benefits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,11 +183,12 @@
   },
   "active": "fb84c3c0af21a241",
   "lastOpenFiles": [
+    "work/cw/CloudWalk Products.md",
+    "notes/LunarVim.md",
     "work/cw/log/daily/2023-09-18.md",
     "notes/lazygit.md",
     "work/cw/cw branching.md",
     "notes/LazyVim.md",
-    "notes/LunarVim.md",
     "notes/Lazy.nvim plugin.md",
     "notes/bash-tdd.md",
     "notes/neovim.md",
@@ -209,7 +209,6 @@
     "monthly/2023-09.md",
     "monthly/2023-01.md",
     "monthly/2022-12.md",
-    "notes/missa/2023-09-17 - missa - perdao.md",
     "monthly",
     "notes/missa",
     "work/cw/log/weekly",
