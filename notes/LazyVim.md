@@ -40,3 +40,21 @@ return {
 }
 ```
 
+### keep my `.vimrc`
+
+Put this at the end of `~/.config/lvim/config.lua`
+
+```lua
+-- meleu: load my own "old" configs written in VimScript
+vim.cmd('source ~/.vimrc')
+```
+
+### `.bats` as bash scripts
+
+This is important to have `shfmt`, `shellcheck` and linting:
+
+```lua
+vim.filetype.add({
+  extension = { bats = "sh" },
+})
+```

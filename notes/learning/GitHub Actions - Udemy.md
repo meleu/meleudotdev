@@ -59,3 +59,34 @@ jobs:
       - name: Print bye
         run: echo "Done! Bye!"
 ```
+
+
+### Events (Workflow Triggers)
+
+> [official doc](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)
+
+- Repository related:
+    - `push` - pushing a commit
+    - `pull_request` - pull request action (open, close, ...)
+    - `create` - branch or tag created
+    - `fork` - repository was forked
+    - `issues` - issues opened, deleted, ...
+    - `issue_comment` - issue or pull request comment action
+    - `watch` - repository was starred
+    - `discussion` - discussion action (created, deleted, ...)
+    - more...
+- other events:
+    - `workflow_dispatch` - manually trigger
+    - `workflow_call` - can be called by other workflows
+    - `repository_dispatch` - REST API request triggers workflow
+    - `schedule` - workflow is scheduled
+
+### What are Actions?
+
+Action is an alternative to the `run` command in the workflow yaml file.
+
+> **Action**: a custom application that performs a typically complex frequently repeated task.
+
+You can build your own Actions, use the official or community Actions.
+
+In order to use an Action, we must use the word `uses:` instead of `run:`
