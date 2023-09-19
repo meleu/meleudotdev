@@ -2,6 +2,7 @@ private/
 work/
 .obsidian/daily-notes.json
 .obsidian/workspace.json
+.obsidian/appearance.json
 
 # files related to the obsidian plugin
 # "Find unlinked files"
