@@ -1,8 +1,13 @@
 # {{title}}
 
-- Working/Studying
-    - ...
-- Reading
-    - ...
-- Coding
-    - ...
+## Working/Studying
+
+...
+
+## Reading
+
+...
+
+## Coding
+
+...

@@ -38,14 +38,16 @@ exmap surround_double_quotes surround " "
 exmap surround_double_quotes surround " "
 
 " NOTE: disable 's' command (delete and enter Insert mode) for Visual Mode
-vunmap s
+" NOT WORKING!
 
-map s" :surround_double_quotes
-map s' :surround_single_quotes
-map s( :surround_brackets
-map s) :surround_brackets
-map s[ :surround_square_brackets
-map s] :surround_square_brackets
-map s{ :surround_curly_brackets
-map s} :surround_curly_brackets
+" vunmap s
+"
+" map ys" :surround_double_quotes
+" map ys' :surround_single_quotes
+" map ys( :surround_brackets
+" map ys) :surround_brackets
+" map ys[ :surround_square_brackets
+" map ys] :surround_square_brackets
+" map ys{ :surround_curly_brackets
+" map ys} :surround_curly_brackets
 

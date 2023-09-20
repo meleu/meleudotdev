@@ -15,6 +15,40 @@ dg-publish: true
 
 ## GitHub Actions
 
+### Summary
+
+#### Core components
+
+- Workflows: define events+jobs
+    - Jobs: define runner+steps
+        - Steps: do the actual work
+
+Workflows go in `.github/workflows/*.yml`
+
+#### Events
+
+Most used:
+
+- `push` - pushing a commit
+- `workflow_dispatch` - manually trigger
+
+[official documentation](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)
+
+#### Runners
+
+Environments where the jobs are executed.
+
+Most used: `ubuntu-latest`.
+
+[official documentation](https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners#supported-runners-and-hardware-resources).
+
+
+#### Actions
+
+In the steps you can either run Actions or `run` shell commands.
+
+> **Action**: a custom application that performs a typically complex frequently repeated task.
+
 ### 3 main building blocks
 
 - workflows
@@ -60,10 +94,26 @@ jobs:
         run: echo "Done! Bye!"
 ```
 
+### simple workflow structure to memorize:
+
+```yaml
+name: <workflow-name>
+on: <event>
+jobs:
+  <job-name>:
+    runs-on: ubuntu-latest
+    steps:
+      - name: <step-name>
+        uses: <action-name>
+      - name: <step-name>
+        run: <shell-command>
+```
 
 ### Events (Workflow Triggers)
 
 > [official doc](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)
+>
+> See also [[#Event Filters and Activity Types]]
 
 - Repository related:
     - `push` - pushing a commit
@@ -81,6 +131,8 @@ jobs:
     - `repository_dispatch` - REST API request triggers workflow
     - `schedule` - workflow is scheduled
 
+**NOTE**: the `on:` keyword accepts an array with multiple events.
+
 ### What are Actions?
 
 Action is an alternative to the `run` command in the workflow yaml file.
@@ -90,3 +142,82 @@ Action is an alternative to the `run` command in the workflow yaml file.
 You can build your own Actions, use the official or community Actions.
 
 In order to use an Action, we must use the word `uses:` instead of `run:`
+
+### Expressions & Context Objects
+
+See the docs: <https://docs.github.com/en/actions/learn-github-actions/expressions>
+
+Example:
+```
+${{ toJSON(github) }}
+${{ github.ref_name }}
+```
+
+## Event Filters and Activity Types
+
+- Events
+    - Activity Types
+        - e.g.: `pull_request` event
+            - opened
+            - closed
+            - edited
+            - ...
+    - Filters
+        - e.g.: `push` event
+            - filter based on target branch
+
+### Activity Types
+
+> [same docs as the events](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows), just check the `Activity types` column of the event.
+
+Structure:
+```yaml
+# ...
+on:
+  <event>:
+    types: [activity-type-1, activity-type-n]
+  <another-event>:
+# ...
+```
+
+example:
+```yaml
+# ...
+on:
+  pull_request:
+    types: [opened, edited]
+  dispatch_workflow:
+  # yeah, it's an empty key
+# ...
+```
+
+
+### Filters
+
+Check the [Workflow syntax](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions) doc. For example [this part](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onpull_requestpull_request_targetbranchesbranches-ignore) for `pull_request` filters.
+
+Example:
+```yaml
+# ...
+on:
+  push:
+    branches:
+      - main
+      - 'dev-*'
+      - 'feat/**' # works like shell globbing
+    paths-ignore:
+      # don't trigger the workflow for the following paths
+      - '.github/workflows/*'
+# ...
+```
+
+Check the [Filter pattern cheat sheet](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#filter-pattern-cheat-sheet), it's quite handy.
+
+
+### Fork Pull Request Workflows
+
+> [!note]
+> By default, Pull Requests based on forks do NOT trigger a workflow.
+> 
+> Reasoning: prevent malicious code running on your runners.
+
