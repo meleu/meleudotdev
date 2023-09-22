@@ -27,6 +27,10 @@ These are my preferences.
 - Hotkeys
     - `Alt+S` - Toggle Live Preview/Source mode
 
+## Core Plugins
+
+- Templates
+    - in the configs set the "Template folder location" (create a `templates` directory)
 
 ### Community Plugins
 

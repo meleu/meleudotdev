@@ -3,9 +3,13 @@ dg-publish: true
 ---
 # YAML Introduction
 
+## multiline
+
+<https://yaml-multiline.info/>
+
 ## dictionary vs. list vs. list of dictionaries
 
-- Diciontary is unordered
+- Dictionary is unordered
 - List is ordered
 
 ### dictionary
@@ -17,6 +21,7 @@ Banana:
   fat: 0.4 g
   carbs: 27 g
 ```
+
 is equal to:
 ```yaml
 Banana:
@@ -35,6 +40,7 @@ Fruits:
 - Apple
 - Banana
 ```
+
 is different than:
 ```yaml
 Fruits:
