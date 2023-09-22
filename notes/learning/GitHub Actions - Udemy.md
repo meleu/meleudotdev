@@ -263,7 +263,7 @@ Example: name of a file generated in a previous step.
 build
   # ...
   outputs:
-    # <identifier>: ${{ steps.<id>.outputs.<something> }}
+    # <identifier>: ${{ steps.$ID.outputs.$SOMETHING }}
     script-file: ${{ steps.publish.outputs.script-file }}
   steps:
     - name: publish JS filename
