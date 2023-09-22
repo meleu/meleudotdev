@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Mirroring Android device screen on your computer
 
 > [!note]

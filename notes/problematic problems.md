@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # problematic problems
 
 Sources of complexity typically related to things like "agile development", CI pipelines and such...

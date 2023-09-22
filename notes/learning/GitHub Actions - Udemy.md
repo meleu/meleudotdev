@@ -145,7 +145,6 @@ In order to use an Action, we must use the word `uses:` instead of `run:`
 
 ### Expressions & Context Objects
 
-
 See the docs:
 
 - [expressions](https://docs.github.com/en/actions/learn-github-actions/expressions)
