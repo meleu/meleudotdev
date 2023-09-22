@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # gh-actions
 
 ## basic structure

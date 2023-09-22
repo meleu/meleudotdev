@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # organizing my dotfiles
 
 - detect if it's a linux or mac

@@ -152,8 +152,8 @@ See the docs:
 
 Example:
 ```
-${{ toJSON(github) }}
-${{ github.ref_name }}
+$\{\{ toJSON(github) }}
+$\{\{ github.ref_name }}
 ```
 
 ## Event Filters and Activity Types
@@ -299,7 +299,7 @@ jobs:
         uses: actions/cache@v3
         with:
           path: ~/.npm
-          key: deps-node-modules-${{ hashFiles('**/package-lock.json') }}
+          key: deps-node-modules-$\{\{ hashFiles('**/package-lock.json') }}
       - name install dependencies
         run: npm ci
       # ...
@@ -315,7 +315,7 @@ jobs:
         uses: actions/cache@v3
         with:
           path: ~/.npm
-          key: deps-node-modules-${{ hashFiles('**/package-lock.json') }}
+          key: deps-node-modules-$\{\{ hashFiles('**/package-lock.json') }}
       - name install dependencies
         run: npm ci
 ```
@@ -414,7 +414,7 @@ jobs:
         uses: actions/cache@v3
         with:
           path: node_modules
-          key: deps-node-modules-${{ hashFiles('**/package-lock.json') }}
+          key: deps-node-modules-$\{\{ hashFiles('**/package-lock.json') }}
       - name: install dependencies
         # info about 'cache-hit': https://github.com/actions/cache#outputs
         if: steps.cache.outputs.cache-hit != 'true'
