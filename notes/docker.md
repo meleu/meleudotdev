@@ -103,7 +103,7 @@ What's going on in a container?
 ```sh
 docker container top <containerName>      # process list in one container
 docker container inspect <containerName>  # details of one container config
-docker container stats                    # monitor performance stats for all containers
+  docker container stats                    # monitor performance stats for all containers
 ```
 
 
