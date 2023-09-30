@@ -91,7 +91,7 @@ Same thing as ReplicaSets, but in the field `kind:` replace `ReplicaSet` with `D
 
 ## cursos
 
-- [[10-kubernetes]]
+- [[DevOps Bootcamp - 10-kubernetes]]
 - [[Kubernetes for the Absolute Beginners]]
 - [[CKAD udemy course]]
 

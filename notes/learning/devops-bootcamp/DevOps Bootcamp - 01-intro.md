@@ -3,8 +3,7 @@ dg-publish: true
 ---
 # Introduction to DevOps
 
-- video: <https://techworld-with-nana.teachable.com/courses/devops-bootcamp/lectures/29537893>
-
+- video: <https://techworld-with-nana.teachable.com/courses/devops-bootcamp/lectures/29473163>
 
 ## Bootcamp Overview
 
@@ -34,7 +33,7 @@ Topics:
 - delete all resource when done learning (to avoid paying things you don't need).
 
 
-## Intro to Devops
+## Intro to DevOps
 
 Roles and responsibilities of a DevOps Engineer? It's a bit blurry and unclear...
 
@@ -81,7 +80,7 @@ Due to many differences, many problems happen between those two types of people 
 - Communication is important!!
 - in reality silos between those two!
 
-Usually the instructions for deployment were given by Devs but due to the differente competences between the two silos, the communication don't go as well as expected.
+Usually the instructions for deployment were given by Devs but due to the different competences between the two silos, the communication don't go as well as expected.
 
 **SOLUTION**: DevOps culture!
 

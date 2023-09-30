@@ -273,7 +273,7 @@ docker push meleuzord/demo-app:jma-1.0
 
 ### Push Docker Image to Nexus Repository
 
-**NOTE**: it's assumed you already have a Nexus instance up and running, and a [Docker hosted repository properly configured](07-containers-with-docker.md#15-create-docker-hosted-repository-on-nexus)
+**NOTE**: it's assumed you already have a Nexus instance up and running, and a [Docker hosted repository properly configured](DevOps%20Bootcamp%20-%2007-containers-with-docker.md#15-create-docker-hosted-repository-on-nexus)
 
 In the host OS, create the file: `/etc/docker/daemon.json`
 ```json
