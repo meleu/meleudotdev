@@ -7,10 +7,10 @@ These are the tools I use:
 
 ## software
 
-- OS: currently using Linux Pop OS!
-- shell: [[bash]]
+- OS: currently using Linux Pop OS! - my new job made me use [[MacOS Tips]]
+- shell: [[bash]] (currently playing with [[zsh]])
 - terminal multiplexer: [[tmux]]
-- editor of choice: [[vim]] / [[neovim]]
+- editor of choice: [[neovim]] (currently playing with [[LazyVim]])
 - editor for bigger code base: VSCode (using [[vscodevim]])
 - personal knowledge management: [[obsidian]]
 - spaced repetition: [[anki]]

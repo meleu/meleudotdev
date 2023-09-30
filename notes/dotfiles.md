@@ -5,9 +5,55 @@ tags:
   - tech/dotfiles
 ---
 
-# smart way to manage your dotfiles
+- [[#smart way to manage your dotfiles]]
 
-## starting a dotfiles repo
+---
+
+## Things I wanna do
+
+### zsh with a minimalist prompt
+
+I only want:
+
+- current working directory in blue
+- `[branch]`, if in a git repository
+- `\$` in a new line
+    - the `\$` must be red if last command failed
+
+In bash I do this:
+```bash
+# if in a git repository, shows the current branch
+gitBranch() {
+	ret="$?"
+	branch="$(git branch --show-current 2>/dev/null)" &&
+		echo -n " [${branch}]"
+	return "${ret}"
+}
+
+# /current/directory [branch]
+# $
+PS1=
+PS1+='\[\033[01;34m\]'                        # blue
+PS1+='\w'                                     # working dir
+PS1+='\[\033[00m\]'                           # no color
+PS1+='$(gitBranch || echo "\[\033[01;31m\]")' # red if last command failed
+PS1+='\n\$ '
+PS1+='\[\033[00m\]' # no color
+```
+
+## make aliases POSIX-compliant
+
+So I can use them in zsh or bash.
+
+## detect if I'm on Mac or Linux
+
+To handle, for example `pbcopy` vs. `xclip`.
+
+---
+
+## smart way to manage your dotfiles
+
+### starting a dotfiles repo
 
 ```bash
 # create your configs dir
@@ -40,7 +86,7 @@ git push
 ```
 
 
-## getting your dotfiles on a new machine
+### getting your dotfiles on a new machine
 
 ```bash
 # go to your home dir
@@ -59,14 +105,14 @@ git reset --hard origin/master
 ```
 
 
-## notes about gitignoring everything
+### notes about gitignoring everything
 
 - Remember: your `.gitignore` is ignoring "everything" with that `*`
 - Anything you want to add must be done with `git add -f`
 - Your `git` commands will only work while you're in the `~/${REPO_NAME}` directory, so if you want to add a new file, you need to `git add -f ../${FILENAME}`
 - Once a file was added to the list of tracked files, you don't need to use `-f` for that file anymore.
 
-## inspiration
+### inspiration
 
 - worktree trick: <https://www.wangzerui.com/2017/03/06/using-git-to-manage-system-configuration-files/>
 - gitignoring everything: <https://drewdevault.com/2019/12/30/dotfiles.html>
