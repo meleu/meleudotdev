@@ -34,6 +34,8 @@ This course is focused on **Instruction Tuned LLMs**.
 
 #### Write clear and specific instructions
 
+Don't confuse **clear** with **short**!
+
 Tactics
 
 - Tactic 1: Use delimiters.
@@ -55,3 +57,12 @@ Tactics
 - Tactic 1: Specify the steps to complete a task.
 - Tactic 2: Instruct the model to work out its own solution before rushing to a conclusion.
     - e.g.: `Your task is to determine if the student's solution is correct or not. To solve the problem do the following: First, work out your own solution to the problem. Then compare your solution to the student's solution is correct or not. Don't decide if the student's solution is correct until you have done the problem yourself.`
+
+
+### Model Limitations
+
+- Hallucination:
+    - Makes statements that sound plausible but are not true.
+
+Reducing hallucinations:
+`First find relevant information, then answer the question based on the relevant information.`
