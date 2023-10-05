@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # cw-glossary
 
 - lending
@@ -5,3 +8,5 @@
 - blockchain
 - churn
 - Unico (validação de face)
+- magi
+- allure
