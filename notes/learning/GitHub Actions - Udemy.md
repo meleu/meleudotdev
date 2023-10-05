@@ -525,6 +525,8 @@ It's also possible to include/exclude specific combinations. Example:
 
 ### Reusable Workflows
 
+> (aka "creating a module" in my own jargon)
+
 Create a `.github/workflows/reusable-deploy.yml`:
 ```yaml
 name: Reusable Deploy
@@ -598,3 +600,15 @@ jobs:
 ```
 
 ## Jobs and Containers
+
+didn't take any note... 😔
+
+## JavaScript Actions
+
+```yaml
+name: 'Deploy to AWS S3'
+description: 'Deploy a static website via AWS S3.'
+runs:
+  using: 'node16'
+  
+```
