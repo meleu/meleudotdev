@@ -349,7 +349,7 @@ jobs:
 
 Secrets can be stored on repository-level or via Environments (in the repo Settings tab).
 
-Secrets can be refeereenced via the `${{ secrets }}` context object.
+Secrets can be refereenced via the `${{ secrets }}` context object.
 
 ## Controlling Workflow and Job Execution (conditionals)
 
