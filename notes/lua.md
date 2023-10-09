@@ -15,6 +15,11 @@ true    -- boolean
 
 -- tables:
 {key = 'value', keyN = false }
+-- when key is explicitly given, they'll be the ordinal number
+my_table = {'a', 'b', 'c'}
+-- my_table[1] = 'a'
+-- my_table[2] = 'b'
+-- my_table[3] = 'c'
 
 -- multiline strings
 local address = [[
@@ -132,7 +137,7 @@ print(message)
 
 ### loops
 
-loops accept the `break` construct
+**Note**: loops accept the `break` instruction
 
 #### for ... do
 
@@ -150,6 +155,11 @@ end
 -- print from 10 to 1, decrementing by 2
 for i = 10, 1, -2 do
   print(i)
+end
+
+-- using for to iterate through a table
+for key, value in pairs(my_table) do
+  print(key .. ':', value)
 end
 ```
 
@@ -171,3 +181,88 @@ repeat
 until condition
 ```
 
+### get input from user
+
+```lua
+print("What's your name?")
+name = io.read() -- whatever user types is considered as string
+
+-- print a string with no newline at the end
+io.write('Enter your name: ')
+name = io.read()
+```
+
+
+### tables
+
+```lua
+-- tables:
+{key = 'value', keyN = false }
+-- when key is explicitly given, they'll be the ordinal number
+my_table = {'a', 'b', 'c'}
+-- my_table[1] = 'a'
+-- my_table[2] = 'b'
+-- my_table[3] = 'c'
+
+-- use this construct to loop through the key/value pairs:
+for key, value in pairs(my_table) do
+  print(key .. ':', value)
+end
+-- 1:      a
+-- 2:      b
+-- 3:      c
+
+-- insert a value to the end of the table
+table.insert(my_table, 'e')
+-- 1:      a
+-- 2:      b
+-- 3:      c
+-- 4:      e
+
+-- insert a value at a specific index
+-- note: it updates the keys of later values (increment)
+table.insert(my_table, 4, 'd')
+-- 1:      a
+-- 2:      b
+-- 3:      c
+-- 4:      d
+-- 5:      e
+
+-- remove a value from a specific index
+-- note: it updates the keys of later values (decrement)
+table.remove(my_table, 4)
+-- 1:      a
+-- 2:      b
+-- 3:      c
+-- 4:      e
+
+-- table.concat() acts like a join() in other languages
+table.concat(my_table, ', ')
+-- a, b, c, e
+```
+
+Tables with explicit keys:
+```lua
+person = {
+  first_name = 'augusto'
+  last_name = 'lopes'
+}
+
+person[1]            -- nil
+person['first_name'] -- 'augusto'
+person.first_name    -- 'augusto'
+
+-- add properties at will
+person.middle_name = 'gomes'
+person['age'] = 42
+```
+
+
+### functions
+
+```lua
+function sayHello(name)
+  local name = name or 'World'
+  print('Hello' .. name .. '!')
+end
+```

@@ -13,6 +13,10 @@ The out-of-the-box experience is not 100% aligned with what I'm used to, but at 
 
 ## Things I still wanna do
 
+### use tabs instead of buffers
+
+I want to navigate between tabs with `gt` (to keep the same feel when using VSCode).
+
 ---
 
 ## Things to do right after installation
