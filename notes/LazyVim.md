@@ -17,6 +17,11 @@ The out-of-the-box experience is not 100% aligned with what I'm used to, but at 
 
 I want to navigate between tabs with `gt` (to keep the same feel when using VSCode).
 
+> possible workaround: open files with `<C-T>` instead of `<CR>`
+
+### disable H and L to navigate between buffers
+
+
 ---
 
 ## Things to do right after installation
