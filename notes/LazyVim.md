@@ -19,6 +19,11 @@ I want to navigate between tabs with `gt` (to keep the same feel when using VSCo
 
 > possible workaround: open files with `<C-T>` instead of `<CR>`
 
+
+### disable prompt for Ex-commands in the middle of screen
+
+### disable different prompt for searching with `/`
+
 ### disable H and L to navigate between buffers
 
 
