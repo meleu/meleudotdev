@@ -40,7 +40,7 @@ I want to navigate between tabs with `gt` (to keep the same feel when using VSCo
 Create the file `lua/plugins/disabled.lua`:
 ```lua
 return {
-  -- disable mini.surround, so we can use "tpope/vim-surround"
+  -- disable mini.surround, (confusing keybindings)
   { "echasnovski/mini.surround", enabled = false },
 
   -- flash.nvim tries to enhance /searching but it's confusing!
@@ -51,8 +51,20 @@ return {
 Create the file `lua/plugins/init.lua`:
 ```lua
 return {
-  "tpope/vim-surround",
   "vim-scripts/ReplaceWithRegister",
+
+  -- "tpope/vim-surround",
+  -- I'm replacing vim-surround with nvim-surround because
+  -- nvim-surround is dot-repeatable
+  {
+    "kylechui/nvim-surround",
+    version = "*",
+    event = "VeryLazy",
+    config = function()
+      require("nvim-surround").setup({})
+    end,
+  },
+
 }
 ```
 
