@@ -22,7 +22,13 @@ I want to navigate between tabs with `gt` (to keep the same feel when using VSCo
 
 ### disable prompt for Ex-commands in the middle of screen
 
+noice.nvim is doing that...
+
+the problem is that disabling noice also disables notifications
+
 ### disable different prompt for searching with `/`
+
+also noice.nvim...
 
 ### disable H and L to navigate between buffers
 
@@ -54,8 +60,8 @@ return {
   "vim-scripts/ReplaceWithRegister",
 
   -- "tpope/vim-surround",
-  -- I'm replacing vim-surround with nvim-surround because
-  -- nvim-surround is dot-repeatable
+  -- currently using nvim-surround because
+  -- it is dot-repeatable
   {
     "kylechui/nvim-surround",
     version = "*",
