@@ -5,6 +5,8 @@ dg-publish: true
 
 <https://cloudwalk.udemy.com/course/github-actions-the-complete-guide/>
 
+Awesome tool to run GitHub Actions locally: <https://github.com/nektos/act>
+
 ## Git Crash Course
 
 ### undoing commits

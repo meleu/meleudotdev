@@ -4,6 +4,7 @@ dg-publish: true
 # lua
 
 - [Lua Programming](https://youtu.be/zDKK_1hxW_o?si=ohhiaxisLb3Oridi) - by Steve's teacher
+- <https://exercism.org/tracks/lua>
 
 ### data types
 
