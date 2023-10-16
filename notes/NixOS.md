@@ -13,3 +13,15 @@ Example of things that made me annoyed in MacOS:
 - `bash` is really old (3.2)
 - `sed` is not compatible with GNU sed
 - `mktemp` is not compatible with what I have in debian/alpine based distros
+
+
+---
+
+Lendo: <https://dev.to/dmass/o-que-e-nix-e-como-utiliza-lo-como-seu-gerenciador-de-pacotes-2dcb>
+
+links:
+- [flakes](https://nixos.wiki/wiki/Flakes)
+- [learn Nix language](https://learnxinyminutes.com/docs/nix/)
+- [wiki do NixOS](https://nixos.wiki/wiki/Home_Manager)
+
+
