@@ -64,7 +64,4 @@ By default it supports the following plugins that I'm used to use:
 - `tpope/vim-commentary`
 - `michaeljsmith/vim-indent-object`
 - `vim-scripts/ReplaceWithRegister`
-- vim-textobj-entire - I don't like this one...
-
-
-
+- `vim-textobj-entire` - I don't like this one...

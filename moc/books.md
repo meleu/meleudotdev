@@ -7,8 +7,8 @@ dg-permalink: books
 ## currently reading
 
 - ⭐ [[Rápido e Devagar]]
+- [[Continuous Delivery]]
 - [[A Ascensao do Dinheiro]]
-- [[Pragmatic Programmer]]
 
 ---
 
@@ -36,6 +36,7 @@ Maybe this list can tell a bit about who I am.
 - [[Startup Enxuta]] (portuguese version of "Lean Startup")
 - [[Pense e Enriqueca]]
 - [[Effective Software Testing]]
+- [[Pragmatic Programmer]]
 
 
 ## 2022

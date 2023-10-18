@@ -39,10 +39,6 @@ also noice.nvim...
 
 ### enable/disable some plugins
 
-- replace the surround plugin
-- disable `folke/flash.nvim` (it makes `/searching` confusing)
-- install `ReplaceWithRegister`
-
 Create the file `lua/plugins/disabled.lua`:
 ```lua
 return {
@@ -51,26 +47,23 @@ return {
 
   -- flash.nvim tries to enhance /searching but it's confusing!
   { "folke/flash.nvim", enabled = false },
+
+  -- disable commandline and search in unusual places
+  { "folke/noice.nvim", enabled = false },
+
+  -- alpha-nvim: neovim "splashscreen"
+  { "goolord/alpha-nvim", enabled = false },
 }
+
 ```
 
 Create the file `lua/plugins/init.lua`:
 ```lua
 return {
   "vim-scripts/ReplaceWithRegister",
-
-  -- "tpope/vim-surround",
-  -- currently using nvim-surround because
-  -- it is dot-repeatable
-  {
-    "kylechui/nvim-surround",
-    version = "*",
-    event = "VeryLazy",
-    config = function()
-      require("nvim-surround").setup({})
-    end,
-  },
-
+  "tpope/vim-surround",
+  "tpope/vim-repeat",     -- make vim-surround dot-repeatable
+  "tpope/vim-speeddating", -- <C-a>/<C-x> to increase/decrease dates
 }
 ```
 
