@@ -17,7 +17,11 @@ Example of things that made me annoyed in MacOS:
 
 ---
 
-Lendo: <https://dev.to/dmass/o-que-e-nix-e-como-utiliza-lo-como-seu-gerenciador-de-pacotes-2dcb>
+Assistindo:
+- <https://www.youtube.com/watch?v=AGVXJ-TIv3Y&t=685s> (parei em 1h)
+- Assistir em seguida: <https://www.youtube.com/watch?v=LE5JR4JcvMg> (focado no MacOS)
+
+Lendo: <https://dev.to/dmass/o-que-e-nix-e-como-utiliza-lo-como-seu-gerenciador-de-pacotes-2dcb> - achei "confuso/apressado"
 
 links:
 - [flakes](https://nixos.wiki/wiki/Flakes)
