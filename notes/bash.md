@@ -34,10 +34,11 @@ check this: <https://stackoverflow.com/questions/78497/design-patterns-or-best-p
 ## inspiration
 
 - <https://github.com/alexanderepstein/Bash-Snippets> - **THIS IS AN EXTREMELY VALUABLE RESOURCE**
-
+- <https://github.com/VirtuBox/img-optimize>
 
 ## links
 
+- <https://eng.localytics.com/exploring-cli-best-practices/>
 - <https://github.com/jlevy/the-art-of-command-line> - The Art of Command Line - good source of inspiration for articles
 - <https://github.com/alebcay/awesome-shell> - Awesome Shell resources
 - <https://ebook.bobby.sh/> - inspiration for an interactive bash book/website.
