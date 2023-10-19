@@ -16,6 +16,15 @@ Example of things that made me annoyed in MacOS:
 
 ---
 
+## Passos
+
+1. instalar `nix` de acordo com documentação oficial
+2. instalar `home-manager` de acordo com [docs](https://nix-community.github.io/home-manager/index.html#sec-install-standalone)
+
+voltar aqui: https://www.youtube.com/watch?v=Ubhc94lrfTo&list=PLRGI9KQ3_HP_OFRG6R-p4iFgMSK1t5BHs&index=8
+
+
+
 Estou notando um benefício maior em seguir este caminho (influenciado pela playlist [Nixology](https://www.youtube.com/playlist?list=PLRGI9KQ3_HP_OFRG6R-p4iFgMSK1t5BHs)):
 
 - usar `nix` como um replacement do `brew` - [video](https://youtu.be/NYyImy-lqaA)
