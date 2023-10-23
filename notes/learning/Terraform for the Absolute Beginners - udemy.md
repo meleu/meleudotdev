@@ -102,5 +102,5 @@ precedence order:
 1. environment variables: `TF_VAR_varname`
 2. `terraform.tfvars`
 3. `*.auto.tfvars` (alphabetical order)
-4. `-var` or `-var-file` in command line
+1. `-var` or `-var-file` in command line
 
