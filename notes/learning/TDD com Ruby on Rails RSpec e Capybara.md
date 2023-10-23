@@ -159,7 +159,7 @@ Outra coisa interessante, é que quando utilizamos one-liners, o rspec já adici
 
 ---
 
-### matchers cheatsheet
+#### matchers cheatsheet
 
 | matcher                        | description                   | used with    |
 | ------------------------------ | ----------------------------- | ------------ |
@@ -349,4 +349,45 @@ expect(11.5).to be_within(0.5).of(12)
 
 # aceita de 12.49 a 12.51
 expect(12.5).to be_within(0.01).of(12.5)
+```
+
+### Hooks
+
+#### suíte de testes
+
+```ruby
+# antes/depois de toda suite de testes
+before(:suite)
+after(:suite)
+```
+
+Colocar isso no  `spec_helper.rb`:
+```ruby
+config.before(:suite) do
+  puts "antes da suíte de testes"
+end
+```
+
+#### cada describe
+
+```ruby
+# antes/depois de todos os testes
+before(:all)
+before(:context)
+after(:all)
+after(:context)
+
+# obs.: ':all' e ':context' são sinônimos.
+```
+
+#### cada teste
+
+```ruby
+# antes/depis de cada teste
+before(:each)
+before(:example)
+after(:each)
+after(:example)
+
+# obs.: ':all' e ':context' são sinônimos.
 ```

@@ -11,30 +11,6 @@ The out-of-the-box experience is not 100% aligned with what I'm used to, but at 
 
 ---
 
-## Things I still wanna do
-
-### use tabs instead of buffers
-
-I want to navigate between tabs with `gt` (to keep the same feel when using VSCode).
-
-> possible workaround: open files with `<C-T>` instead of `<CR>`
-
-
-### disable prompt for Ex-commands in the middle of screen
-
-noice.nvim is doing that...
-
-the problem is that disabling noice also disables notifications
-
-### disable different prompt for searching with `/`
-
-also noice.nvim...
-
-### disable H and L to navigate between buffers
-
-
----
-
 ## Things to do right after installation
 
 ### enable/disable some plugins
@@ -54,7 +30,6 @@ return {
   -- alpha-nvim: neovim "splashscreen"
   { "goolord/alpha-nvim", enabled = false },
 }
-
 ```
 
 Create the file `lua/plugins/init.lua`:
@@ -121,12 +96,30 @@ return {
     })
   end,
 }
-
 ```
 
-### shift-k to show the manpage
+---
 
-I realized LazyVim is configured to show the man page with `<leader>K`. It's acceptable for me.
+## Things I still wanna do
 
-I didn't like the fact that a `Shift-k` when the cursor is under the word `sed` doesn't show me the sed manpage. :(
+### use tabs instead of buffers
+
+I want to navigate between tabs with `gt` (to keep the same feel when using VSCode).
+
+> possible workaround: open files with `<C-T>` instead of `<CR>`
+
+
+### disable prompt for Ex-commands in the middle of screen
+
+noice.nvim is doing that...
+
+the problem is that disabling noice also disables notifications
+
+### disable different prompt for searching with `/`
+
+also noice.nvim...
+
+### disable H and L to navigate between buffers
+
+These keys have a native meaning in vim and should not be remapped to do other things. Prefixing them with the leaderkey would be ok...
 
