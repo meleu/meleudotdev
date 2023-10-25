@@ -7,8 +7,6 @@ dg-publish: true
 
 Very good at showing the basics of k6 and load/performance testing in general.
 
-> for the course author: [[#suggestions for improvements|suggestions for improvements]]
-
 ## Basic Concepts
 
 Test Types:
@@ -38,6 +36,8 @@ Acronyms:
 Validate that your script works and that the system performs adequately under **minimal load**.
 
 #### code
+
+Run the code below with `k6 run <script.js>`.
 
 ```js
 import http from 'k6/http';
@@ -151,7 +151,6 @@ export default () => {
   sleep(1);
   // Add only the processes that will be on high demand
 };
-
 ```
 
 ### Breakpoint Testing

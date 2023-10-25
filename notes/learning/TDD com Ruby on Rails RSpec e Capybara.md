@@ -351,6 +351,43 @@ expect(11.5).to be_within(0.5).of(12)
 expect(12.5).to be_within(0.01).of(12.5)
 ```
 
+#### detectar mudanças
+
+```ruby
+# hypotetical Counter class
+require 'counter'
+
+describe 'Matcher change' do
+  # n = 1
+  it { expect{ Counter.increment }.to change { Counter.n } }
+
+  # n = 2
+  it { expect{ Counter.increment }.to change { Counter.n }.by(1) }
+
+  # n = 3
+  it { expect{ Counter.increment }.to change { Counter.n }.from(2).to(3) }
+end
+```
+
+#### output
+
+```ruby
+expect { block }.to output.to_stdout
+
+# opções
+output.to_stdout # could be '_stderr'
+output("string").to_stdout # could be '_stderr'
+output(/regex/).to_stdout # could be '_stderr'
+```
+
+#### negando matcher com nome customizado
+
+Exemplo:
+```ruby
+# negando o 'include'
+RSpec::Matchers.define_negated_matcher :be_an_array_excluding, :include
+```
+
 ### Hooks
 
 #### suíte de testes
@@ -390,4 +427,77 @@ after(:each)
 after(:example)
 
 # obs.: ':all' e ':context' são sinônimos.
+```
+
+#### around
+
+Podemos substituir a utilização de `before`+`after` através do uso do `around`. Exemplo:
+
+```ruby
+around(:each) do |test|
+  puts ">>> antes"
+  test.run
+  puts ">>> depois"
+end
+```
+
+
+### let
+
+Quando precisar atribuir uma variável de instância, ao invés de usar `before`, use `let`.
+
+Ao usar `let`, a variável é carregada apenas quando ela é utilizada pela primeira vez no teste ("lazy loading") e fica em cache até o teste em questão terminar.
+
+Se quiser "forçar" a execução para antes do teste (desativar o "lazy loading"), use `let!`.
+
+```ruby
+########
+# 👎 bad
+########
+before(:each) do
+  @pessoa = Pessoa.new
+end
+# referenciar com '@pessoa'
+
+#########
+# 👍 good
+#########
+let(:pessoa) { Pessoa.new }
+# referenciar com 'pessoa'
+```
+
+Um exemplo que demonstra o funcionamento do `let`:
+```ruby
+# variável global, começa em zero
+$counter = 0
+
+describe "let" do
+  let(:count) { $counter += 1 }
+
+  it "runs once and caches" do
+    expect(count).to eq(1) # valor é atualizado
+    expect(count).to eq(1) # valor em cache
+  end
+
+  it "runs again" do
+    expect(count).to eq(2) # valor atualizado
+  end
+end
+```
+
+
+### Agregando Falhas
+
+```ruby
+it 'test description' do
+  # do some stuff
+  aggregate_failures do
+    # ... run multiple expectations ...
+  end
+end
+
+# se não tem nada a fazer antes dos expects
+it 'test something', :aggregate_failures do
+  # ... run multiple expectatoins ...
+end
 ```
