@@ -7,6 +7,8 @@ dg-publish: true
 
 Very good at showing the basics of k6 and load/performance testing in general.
 
+During the course I knew an interesting webservice: <https://designer.mocky.io/>
+
 ## Basic Concepts
 
 Test Types:
@@ -28,6 +30,7 @@ Acronyms:
 - SLI: Service-Level Indicators
     - the real numbers on your performance
 
+## Test Types
 
 ### Smoke Testing
 
@@ -164,7 +167,7 @@ Reasons to know limits include:
 
 Considerations:
 
-- run breakpoints only when the system is know to perform under all other test types (somke, average load, stress)
+- run breakpoints only when the system is known to perform under all other test types (smoke, average load, stress)
 - avoid breakpoint tests in elastic cloud environments
 - increase the load gradually
 - system failure could mean different things to different teams
@@ -185,6 +188,117 @@ You typically run this test to:
 - Make sure your database doesn't exhaust the allotted storage space and stops
 - Make sure your logs don't exhaust the allotted disk storage.
 - Make sure the external services you depend on don't stop working after a certain amount of requests are executed.
+
+
+---
+
+## k6 scripts
+
+### structure of a k6 script
+
+```js
+// import some stuff from k6
+// ...
+
+console.log('-- init stage --')
+
+// this is happening during init stage
+export const options = {
+  // configure some options
+};
+
+
+
+export function setup() {
+  console.log('-- setup stage --')
+}
+
+export default function() {
+  console.log('-- VU stage --')
+}
+
+export function teardown() {
+  console.log('-- teardown stage --')
+}
+```
+
+### http responses
+
+```js
+import http from 'k6/http';
+
+export default function() {
+  // save the response in a var
+  const res = http.get('https://test.k6.io/');
+
+  // try res.<c-space> to see the options
+  console.log(res.status)
+}
+```
+
+
+### assertions
+
+```js
+import http from 'k6/http';
+import { check } from 'k6';
+
+export default function() {
+  const res = http.get('https://test.k6.io/')
+  check(res.status, {
+    'status is 200': (statusCode) => statusCode === 200
+  });
+}
+```
+
+### thresholds
+
+example:
+```js
+// ...
+export const options = {
+  thresholds: {
+    http_req_duration: [{
+
+      // 99% must be "solved" in less than 1 second
+      threshold: "p(99) < 1000",
+
+      // abort the test if the threshold is crossed, but...
+      abortOnFail: true,
+
+      // ... wait for 10s before considering the 'abortOnFail'
+      delayAbortEval: "10s"
+    }]
+  },
+  //...
+}
+```
+
+
+### metric types and aggregation methods
+
+| metric type                                                     | description                                                                     |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [Counter](https://k6.io/docs/javascript-api/k6-metrics/counter) | cumulatively sums added values.                                                 |
+| [Gauge](https://k6.io/docs/javascript-api/k6-metrics/gauge)     | stores the min, max and last values added to it.                                |
+| [Rate](https://k6.io/docs/javascript-api/k6-metrics/rate)       | tracks the percentage of added values that are non-zero.                        |
+| [Trend](https://k6.io/docs/javascript-api/k6-metrics/trend)     | calculates statistics on the added values (min, max, average, and percentiles). |
+
+- Counter
+    - count
+- Gauge
+    - min
+    - max
+    - value
+- Rate
+    - rate (note: 0.1 == 10%; 1 == 100%)
+- Trend
+    - min
+    - max
+    - med
+    - avg
+    - p(N)
+
 
 ---
 ## suggestions for improvements

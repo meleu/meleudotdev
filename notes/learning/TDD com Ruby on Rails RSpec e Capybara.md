@@ -14,7 +14,7 @@ dg-publish: true
 
 ```shell
 # no dir do projeto:
-rspec init
+rspec --init
 ```
 
 O `rspec init` cria um `spec_helper.rb` que já adiciona o diretório `lib/` no `$LOAD_PATH`. Desta forma já podemos fazer o `require` dos arquivos nos nossos testes sem precisar especificar o path.
@@ -24,12 +24,24 @@ Basicão:
 require 'calculator' # assume existência de lib/calculator.rb
 
 describe Calculator do
-  it '#sum 2 numbrs' do
+  it '#sum 2 numbers' do
     calc = Calculator.new    # setup
     result = calc.sum(5, 7)  # exercise
     expect(result).to eq(12) # verify
   end
   # neste exemplo o teardown é implícito
+end
+```
+
+Basicão com mais conhecimento:
+```ruby
+require 'calculator'
+
+describe Calculator do
+  it '#sum 2 numbers' do
+    result = subject.sum(5, 7)
+    expect(result).to eq(12)
+  end
 end
 ```
 
@@ -53,11 +65,9 @@ Termo criado pelo Dan North em 2003 quando notava uma dificuldade de ensinar TDD
 > A principal motivação do TDD não é testar o seu software, e sim especificá-lo com **exemplos de como usar o seu código** e deixar isso guiar o design do software.
 
 
-
-
 ### Context
 
-Para melhor organizar o código da spec, podemos agrupar os testes de um comportament/método em um `context`.
+Para melhor organizar o código da spec, podemos agrupar os testes de um comportamento/método em um `context`.
 
 Exemplo:
 ```ruby
@@ -86,7 +96,7 @@ end
 
 Se o argumento do `describe` for uma classe, não há necessidade de instanciar a classe. Ela já é automaticamente instanciada pelo rspec em uma variável chamada `subject`.
 
-> Na verdade, qualquer coisa que for passada como primeiro argumento para o `describe` será o subject (exemplo: strings, arrays). Explicado [neste vídeo](https://udemy.com/course/rails-tdd/learn/lecture/7766566#overview).
+> Na verdade, qualquer coisa que for passada como primeiro argumento para o `describe` será o `subject` (exemplo: strings, arrays). Explicado [neste vídeo](https://udemy.com/course/rails-tdd/learn/lecture/7766566#overview).
 
 Usando o exemplo da calculadora:
 ```ruby
@@ -501,3 +511,44 @@ it 'test something', :aggregate_failures do
   # ... run multiple expectatoins ...
 end
 ```
+
+### Custom Matcher
+
+```ruby
+# Exemplo de matcher customizado
+RSpec::Matchers.define :be_a_multiple_of do |dividend|
+  match do |subject|
+    subject % dividend == 0
+  end
+
+  description do
+    "be a multiple of #{dividend}"
+  end
+
+  failure_message do |subject|
+    "expected that #{subject} would be a multiple of #{dividend}"
+  end
+end
+
+describe 18, 'Custom Matcher' do
+  it { is_expected.to be_a_multiple_of(3) }
+end
+```
+
+
+### doubles
+
+Depende do `rspec-mocks` (instalado by default).
+
+```ruby
+user = double('User')
+allow(user).to receive_messages(
+  name: 'Jack',
+  password: 'sUpErSeCrEt'
+)
+# agora podemos usar:
+# user.name
+# user.password
+```
+
+
