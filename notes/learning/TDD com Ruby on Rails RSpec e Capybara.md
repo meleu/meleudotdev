@@ -536,7 +536,13 @@ end
 ```
 
 
-### doubles
+### mocks
+
+- double: cria objetos fake
+- stub: cria comportamento fake
+- mock: (?) cria verificação fake (?)
+
+#### doubles
 
 Depende do `rspec-mocks` (instalado by default).
 
@@ -551,4 +557,41 @@ allow(user).to receive_messages(
 # user.password
 ```
 
+
+#### stubs
+
+> Um stub é forçar uma resposta específica para um determinado método de um **objeto colaborador**.
+>
+> Stubs são usados para a fase de **setup**.
+> 
+> Stubs são usados para **substituir estados**.
+
+```ruby
+require 'student'
+require 'course'
+
+describe 'Stub' do
+  it '#has_finished?' do
+    student = Student.new
+    course = Course.new
+
+    # aqui está o stub
+    # (Course é a classe colaboradora)
+    allow(student).to receive(:has_fhinshed?)
+      .with(an_intance_of(Course))
+      .and_return(true)
+
+    course_finished = student.has_finished?(course)
+
+    expect(course_finished).to be_truthy
+  end
+end
+```
+
+
+#### Mocks
+
+> Mocks são usados para a fase de **verify**.
+> 
+> Mocks são usados para **testar comportamentos** (ao invés de testar o resultado).
 
