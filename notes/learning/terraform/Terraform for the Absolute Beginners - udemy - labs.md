@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Terraform for the Absolute Beginners - udemy - labs
 
 [[Terraform for the Absolute Beginners - udemy|course notes]]
