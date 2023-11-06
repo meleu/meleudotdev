@@ -5,6 +5,7 @@ dg-publish: true
 
 [[Terraform for the Absolute Beginners - udemy|course notes]]
 
+- <https://kodekloud.com/lessons/labs-4/>
 ## lab 01: HCL Basics
 
 [link](https://kodekloud.com/topic/lab-hcl-basics-3)
@@ -168,3 +169,66 @@ Use `terraform validate` to check your `.tf` config files.
 Use `terraform fmt` to format your code.
 
 Use `terraform providers` to list the providers currently in use.
+
+
+## lab 11: Data Sources
+
+Data Sources go in a `data` block.
+
+resource vs. data source:
+
+| resource                                     | data source           |
+| -------------------------------------------- | --------------------- |
+| keyword: resource                            | keyword: data         |
+| creates, updates and destroys infrastructure | reads infrastructures |
+| aka "managed resources"                      | aka "data resources"  |
+
+
+## lab 12: count and for_each
+
+### count
+
+```hcl
+# main.tf
+resource "local_file" "pet" {
+  count = 3
+  filename = var.filename[count.index]
+}
+
+# variables.tf
+variable "filename" {
+  default = [
+    "/root/pets.txt",
+    "/root/dogs.txt",
+    "/root/cats.txt"
+  ]
+}
+```
+
+Note that `count = 3` is hardcoded above 👆
+
+A more dynamic way would be to use `count = length(var.filename)`
+
+### for_each
+
+```hcl
+# main.tf
+resource "local_file" "pet" {
+  filename = each.value
+  for_each = toset(var.filename)
+}
+
+# variables.tf
+variable "filename" {
+  type = list(string)
+  default = [
+    "/root/pets.txt",
+    "/root/dogs.txt",
+    "/root/cats.txt"
+  ]
+}
+```
+
+- count vs. for_each
+    - `count` creates resources as a list
+    - `for_each` creates resources as a map

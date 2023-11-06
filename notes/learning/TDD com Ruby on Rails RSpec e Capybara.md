@@ -17,7 +17,7 @@ dg-publish: true
 rspec --init
 ```
 
-O `rspec init` cria um `spec_helper.rb` que já adiciona o diretório `lib/` no `$LOAD_PATH`. Desta forma já podemos fazer o `require` dos arquivos nos nossos testes sem precisar especificar o path.
+O `rspec --init` cria um `spec_helper.rb` que já adiciona o diretório `lib/` no `$LOAD_PATH`. Desta forma já podemos fazer o `require` dos arquivos nos nossos testes sem precisar especificar o path.
 
 Basicão:
 ```ruby

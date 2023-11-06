@@ -3,6 +3,10 @@ dg-publish: true
 ---
 # k8s - container probes
 
+> From [the docs](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/#define-a-liveness-http-request):
+> 
+> Any code greater than or equal to 200 and less than 400 indicates success. Any other code indicates failure.
+
 The liveness, readiness and startup probe are configured **per container** (not per Pod).
 
 - `livenessProbe`

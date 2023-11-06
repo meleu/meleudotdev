@@ -3,6 +3,13 @@ dg-publish: true
 ---
 # k6 performance testing
 
+## Still wanna do
+
+How to make k6 answer me these questions (probably with JSON output + [[jq]]):
+
+- When this error started to occur, how many requests were sent in the last second?
+- When the response time were bigger than X seconds, how many requests were sent in the last second?
+
 ## learning k6
 
 - [[k6 Performance Testing - udemy]] - Very good at showing the basics of k6 and load/performance testing in general.
@@ -115,7 +122,9 @@ export const options = {
 export default function () {
   // validating the response's status code
   const res = http.get('https://httpbin.test.k6.io/');
-  check(res, { 'status was 200': (r) => r.status == 200 });
+  check(res, {
+    'status 200': (r) => r.status == 200
+  });
   sleep(1);
 }
 ```

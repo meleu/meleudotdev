@@ -9,6 +9,7 @@ dg-permalink: books
 - ⭐ [[Rápido e Devagar]]
 - [[Continuous Delivery]]
 - [[A Ascensao do Dinheiro]]
+- [[Risiveis Amores]] - Kundera
 
 ---
 

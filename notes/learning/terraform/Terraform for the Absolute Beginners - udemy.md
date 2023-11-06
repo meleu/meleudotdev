@@ -204,3 +204,176 @@ terraform graph
 terraform graph | dot -Tsvg > graph.svg
 
 ```
+
+
+## LifeCycle Rules
+
+```hcl
+resource "loca_file" "pet" {
+  # ...
+  lifecycle {
+    create_before_destroy = true
+    # prevent_destroy = true
+    # ignore_changes = [ tags ]
+  }
+}
+```
+
+
+## Data Sources
+
+[docs](https://developer.hashicorp.com/terraform/language/data-sources)
+
+> Data Sources allow Terraform to read attributes from resources which are provisioned outside its control.
+
+Example to read attributes from the local file called `dogs.txt`:
+```hcl
+data "local_file" "dog" {
+  filename = "/root/dog.txt"
+}
+```
+
+resource vs. data source:
+
+| resource                                     | data source           |
+| -------------------------------------------- | --------------------- |
+| keyword: resource                            | keyword: data         |
+| creates, updates and destroys infrastructure | reads infrastructures |
+| aka "managed resources"                      | aka "data resources"  |
+
+
+## Meta Arguments
+
+### count
+
+Creating 3 files
+
+```hcl
+# main.tf
+resource "local_file" "pet" {
+  filename = var.filename[count.index]
+  count = 3
+}
+
+# variables.tf
+variable "filename" {
+  default = [
+    "/root/pets.txt",
+    "/root/dogs.txt",
+    "/root/cats.txt"
+  ]
+}
+```
+
+Note that `count = 3` is hardcoded above 👆
+
+A more dynamic way would be to use `count = length(var.filename)`
+
+### for_each
+
+```hcl
+# main.tf
+resource "local_file" "pet" {
+  filename = each.value
+  for_each = toset(var.filename)
+}
+
+# variables.tf
+variable "filename" {
+  type = list(string)
+  default = [
+    "/root/pets.txt",
+    "/root/dogs.txt",
+    "/root/cats.txt"
+  ]
+}
+```
+
+- count vs. for_each
+    - `count` creates resources as a list
+    - `for_each` creates resources as a map
+
+## Version Constraints
+
+When you run `terraform init`, terraform always get the latest version of each provider plugin.
+
+
+```hcl
+terraform {
+  required_providers {
+    local = {
+      source = "hashicorp/local"
+      version = "1.4.0"
+      # version = "!= 1.4.0" # do NOT use 1.4.0
+      # version = "< 1.4.0"
+      # version = "> 1.4.0"
+      # version = "> 1.2.0, < 2.0.0, != 1.4.0"
+      # version = "~> 1.4" # keep the major version, increments minor
+      # version = "~> 1.2.0" # keep the minor version, increments patch
+    }
+  }
+}
+
+resource "local_file "pet" {
+  # ...
+}
+```
+
+
+## AWS
+
+### IAM
+
+doc: <https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_user>
+
+```hcl
+resource "aws_iam_user" "admin-user" {
+  name = "lucy"
+  tags {
+    Description = "Technical Team Leader"
+  }
+}
+```
+
+
+### S3
+
+
+```hcl
+# create the bucket
+resource "aws_s3_bucket" "finance" {
+  bucket = "finance-21092020"
+  tags = {
+    Description = "Finance and Payroll"
+  }
+}
+
+# create an object inside the bucket
+resource "aws_s3_object" "finance-2020" {
+  source = "/root/finance/finance-2020.doc"
+  key = "finance-2020.doc"
+  bucket = aws_s3_bucket.finance.id
+}
+```
+
+
+## Remote State
+
+...
+
+### terraform state commands
+
+```shell
+terraform state show aws_s3_bucket.finance
+
+# terraform state <subcommand> [options] [args]
+```
+
+subcommands:
+
+- list
+- mv
+- pull
+- rm
+- show
+
