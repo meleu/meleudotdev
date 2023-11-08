@@ -29,7 +29,7 @@ Para me aprofundar nessas práticas, eu montei uma lista de livros a serem confe
 ### As 3 Regras do TDD
 
 1. Não escreva nenhum código de produção antes de elaborar um teste que falhou devido à falta desse mesmo código.
-2. Não escreva mais tetes do que o suficiente para identificação da falha - e falhas na compilação ainda contam como falhas.
+2. Não escreva mais testes do que o suficiente para identificação da falha - e falhas na compilação ainda contam como falhas.
 3. **Não escreva mais códigos de produção do que o suficiente para passar nos testes.**
 
 > Quando o teste passa, é possível tomar uma decisão. Essa decisão é *fazer o deploy*.

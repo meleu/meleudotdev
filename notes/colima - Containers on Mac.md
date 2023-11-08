@@ -10,5 +10,6 @@ brew install docker
 colima start
 
 # testing
-docker container run --rm -it alpine
+docker container run --rm hello-world
 ```
+
