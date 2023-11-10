@@ -9,9 +9,9 @@ dg-publish: true
 - [[#RADocs - docs & docs website pipeline|RADocs - docs & docs website pipeline]]
 - [[#RANews - webdesign/webdevelopment|RANews - webdesign/webdevelopment]]
 - [[#RABot - Discord Bot|RABot - Discord Bot]]
-- [[#Other Contributions]]
-    - [[#RetroArch]]
-    - [[#RetroPie]]
+- [[#Other Contributions|Other Contributions]]
+    - [[#RetroArch|RetroArch]]
+    - [[#RetroPie|RetroPie]]
 
 ---
 
