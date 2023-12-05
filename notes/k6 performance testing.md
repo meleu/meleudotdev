@@ -10,6 +10,15 @@ How to make k6 answer me these questions (probably with JSON output + [[jq]]):
 - When this error started to occur, how many requests were sent in the last second?
 - When the response time were bigger than X seconds, how many requests were sent in the last second?
 
+### idea - .csv logs can be read in metabase
+
+- k6 doc about CSV: <https://k6.io/docs/results-output/real-time/csv/>
+- metabase loading CSV: <https://www.metabase.com/product/csv-uploads>
+
+```shell
+k6 run --out csv=test_results.csv script.js
+```
+
 ## learning k6
 
 - [[k6 Performance Testing - udemy]] - Very good at showing the basics of k6 and load/performance testing in general.

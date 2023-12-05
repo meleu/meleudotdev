@@ -222,7 +222,22 @@ export function teardown() {
 }
 ```
 
+
+### environment variables
+
+We can get the content of environment variables inside a k6 script by using `__ENV.<varname>`.
+
+Example:
+
+```js
+const baseUrl = __ENV.BASE_URL
+```
+
+
+
 ### http responses
+
+[official docs](https://k6.io/docs/javascript-api/k6-http/response/)
 
 ```js
 import http from 'k6/http';
@@ -249,6 +264,40 @@ export default function() {
     'status is 200': (statusCode) => statusCode === 200
   });
 }
+```
+
+
+### jsutils - random numbers, random strings, etc.
+
+#### random intenger:
+
+```js
+import { randomIntBetween } from 'https://jslib.k6.io/k6-utils/1.2.0/index.js';
+
+// ...
+const my_int = randomIntBetween(1, 5);
+```
+
+It's useful to use `sleep()` with a random number, to prevent a block of requests when testing with several VUs.
+
+
+#### random string
+
+```js
+import { randomString } from 'https://jslib.k6.io/k6-utils/1.2.0/index.js';
+
+// ...
+const username = `test_${randomString(8)}`; // random string with 8 chars
+```
+
+
+#### random item from an array
+
+```js
+import { randomItem } from 'https://jslib.k6.io/k6-utils/1.2.0/index.js';
+
+// ...
+const item = randomItem(my_array);
 ```
 
 ### thresholds

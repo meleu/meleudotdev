@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # LeWagon - missing challenges
 
+[[bootcamp-log]]
+
 Challenges I didn't finish (yet).
 
 - [Your First Scraper](https://kitt.lewagon.com/camps/1254/challenges?path=01-Ruby%2F06-Parsing%2FOptional-02-Your-First-Scraper)

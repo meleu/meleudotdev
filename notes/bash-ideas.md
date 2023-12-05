@@ -15,6 +15,7 @@ dg-publish: true
 ## ytview
 
 - curl with search
-- parse html
+- cool tip: use XPath Helper chrome extension to build the xpath!
+- parse html (with xmlstarlet?)
 - convert html into a json (to be parsed with jq)
 - parse options from the json

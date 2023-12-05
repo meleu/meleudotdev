@@ -32,4 +32,10 @@ Talvez:
 - [Crust of Rust](https://youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa&si=mPXt_gQ0sh37WFK8)
 - [Rust Course - FreeCodeCamp](https://youtu.be/MsocPEZBd-M) - simple calculator project based (looks cool).
 - [Curso de Rust na alura](https://www.alura.com.br/curso-online-rust-linguagem-programacao-performatica-segura)
-  
+
+
+### Projetos Rust para contribuir
+
+- <https://github.com/cloudwalk/axum-test-helper>
+- <https://github.com/tokio-rs>
+

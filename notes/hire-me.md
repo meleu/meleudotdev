@@ -28,7 +28,7 @@ Here I have personal stuff, like [[#My principles|my principles]], [[#Main inter
 
 - Primary technical imperative: **managing complexity**.
 - Writing clean and manageable code is the way to go faster.
-- Act on the bottlenecks: "any improvements made anywhere besides the bottleneck are an illusion."
+- Act on the bottlenecks: "any improvement made anywhere besides the bottleneck is an illusion."
 
 
 ## Main interests
