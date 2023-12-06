@@ -4,6 +4,7 @@ dg-publish: true
 # TDD com Ruby on Rails RSpec e Capybara
 
 - https://udemy.com/course/rails-tdd/
+- [[Ruby on Rails - CRUD com TDD]]
 
 ## links
 
@@ -37,7 +38,7 @@ Basicão com mais conhecimento:
 ```ruby
 require 'calculator'
 
-describe Calculator do
+describe Calculator do # subject = Calculator.new
   it '#sum 2 numbers' do
     result = subject.sum(5, 7)
     expect(result).to eq(12)
@@ -289,10 +290,10 @@ be_nil # => .nil?
 Exemplos
 
 ```ruby
-# bad
+# 👎 bad
 expect(num.odd?).to be true
 
-# good
+# 👍 good
 expect(num).to be_odd
 ```
 
@@ -301,7 +302,8 @@ expect(num).to be_odd
 
 Testar se erros ocorrem na hora certa.
 
-**OBS**: para testar erros/exceptions, é necessário colocar dentro de um bloco, o código que vai lançar o erro.
+> [!note]
+> **OBS**: para testar erros/exceptions, é necessário colocar dentro de um bloco, o código que vai lançar o erro.
 
 Exemplo:
 
@@ -313,7 +315,10 @@ describe Calculator do
 end
 ```
 
-Usar `raise_exception` é uma bad practice, pois é muito genérico e não especifica qual tipo de erro. O melhor é especificar qual é o tipo de erro:
+> [!note]
+> Usar `raise_exception` é uma bad practice, pois é muito genérico e não especifica qual tipo de erro.
+
+O melhor é especificar qual é o tipo de erro:
 
 ```ruby
 describe Calculator do
@@ -392,6 +397,8 @@ output(/regex/).to_stdout # could be '_stderr'
 
 #### negando matcher com nome customizado
 
+[doc](https://rubydoc.info/github/rspec/rspec-expectations/RSpec%2FMatchers%2FDSL:define_negated_matcher)
+
 Exemplo:
 ```ruby
 # negando o 'include'
@@ -430,13 +437,13 @@ after(:context)
 #### cada teste
 
 ```ruby
-# antes/depis de cada teste
+# antes/depois de cada teste
 before(:each)
 before(:example)
 after(:each)
 after(:example)
 
-# obs.: ':all' e ':context' são sinônimos.
+# obs.: ':each' e ':example' são sinônimos.
 ```
 
 #### around
@@ -508,11 +515,15 @@ end
 
 # se não tem nada a fazer antes dos expects
 it 'test something', :aggregate_failures do
-  # ... run multiple expectatoins ...
+  # ... run multiple expectations ...
 end
 ```
 
 ### Custom Matcher
+
+[doc](https://rubydoc.info/github/rspec/rspec-expectations/RSpec%2FMatchers%2FDSL:define)
+
+O exemplo a seguir está melhor que no doc...
 
 ```ruby
 # Exemplo de matcher customizado
@@ -538,9 +549,17 @@ end
 
 ### mocks
 
-- double: cria objetos fake
-- stub: cria comportamento fake
+[Interesting reading from Martin Fowler](https://martinfowler.com/bliki/TestDouble.html)
+
+- double: cria **objetos fake**
+    - a classe não precisa existir
+    - utilizado na fase de setup
+- stub: cria **comportamento fake**
+    - "forçar uma resposta para um determinado método de um **objeto colaborador**"
+    - útil quando queremos testar uma classe que depende de outra
+    - utilizado na fase de setup
 - mock: (?) cria verificação fake (?)
+    - utilizado na fase de verificação
 
 #### doubles
 
@@ -577,7 +596,7 @@ describe 'Stub' do
 
     # aqui está o stub
     # (Course é a classe colaboradora)
-    allow(student).to receive(:has_fhinshed?)
+    allow(student).to receive(:has_finished?)
       .with(an_intance_of(Course))
       .and_return(true)
 
@@ -595,3 +614,436 @@ end
 > 
 > Mocks são usados para **testar comportamentos** (ao invés de testar o resultado).
 
+exemplo:
+```ruby
+# definir que student tem um método #bar
+expect(student).to receive(:bar)
+
+# agora essa chamada é válida
+student.bar
+```
+
+especificando os argumentos
+```ruby
+expect(student).to receive(:foo).with(123)
+students.foo(123)
+```
+
+
+### RSpec no Rails
+
+```shell
+rails new test_app -T
+cd test_app
+```
+
+Seguir instruções em https://github.com/rspec/rspec-rails para instalar `rspec-rails` no Gemfile
+
+Algo tipo assim:
+```ruby
+# verifique o README do rspec-rails!!
+group :development, :test do
+  # ...
+  gem 'rspec-rails', '~> 6.0.0'
+end
+```
+
+```shell
+# instalar o rspec-rails adicionado ao Gemfile
+bundle install
+
+# criar os arquivos para o RSpec
+rails generate rspec:install
+```
+
+Abrir o `.rspec` e adicionar o `--format documentation`.
+
+No arquivo `config/application.rb`:
+
+```ruby
+module TestApp
+  class Application < Rails::Application
+    # ...
+
+    # configuração da aula de TDD (Jackson Pires)
+    config.generators do |g|
+      g.test_framework :rspec,
+        fixtures: false,
+        view_specs: false,
+        helper_specs: false,
+        routing_specs: false
+    end
+  end
+end
+```
+
+
+## Factory Bot
+
+- repo: <https://github.com/thoughtbot/factory_bot>
+- looks interesting: <https://thoughtbot.com/upcase/videos/factory-bot>
+
+### instalar
+
+TBD...
+
+lembrar de ativar o [[#FactoryBot Lint]]!
+
+### attributes_for
+
+### atributo transitório
+
+`spec/factories/customer.rb`:
+```ruby
+FactoryBot.define do
+  factory :customer do
+    # ...
+
+    transient do
+      upcased false
+    end
+
+    after(:create) do |customer, evaluator|
+      customer.name.upcase! if evaluator.upcased
+    end
+  end
+end
+```
+
+`spec/models/customer_spec.rb`:
+```ruby
+RSpec.describe Customer, type: :model do
+  it 'something...' do
+    customer = create(:customer, upcased: true)
+  end
+end
+```
+
+### traits
+
+`spec/factories/customer.rb`:
+```ruby
+FactoryBot.define do
+  factory :customer do
+    # ...
+
+    trait :male do
+      gender 'M'
+    end
+
+    trait :female do
+      gender 'F'
+    end
+
+    factory :customer_male, traits: [:male]
+    factory :customer_female, traits: [:female]
+    
+  end
+end
+```
+
+
+### callbacks
+
+- `after(:build)` - após instanciar o objeto, com `build` ou `create`
+- `before(:create)` - antes de persistir no DB
+- `after(:create)` - após persistir no DB
+
+
+### sequences
+
+`spec/models/customer_spec.rb`:
+```ruby
+FactoryBot.define do
+  factory :customer do
+    # ...
+    sequence(:email) { |n| "user#{n}@email.com"}
+  end
+end
+```
+
+
+### associações - belongs_to
+
+criando um outro model
+```shell
+rails g model Order description:string customer:references
+```
+
+`spec/factories/orders.rb`:
+```ruby
+FactoryBot.define do
+  factory :order do
+    sequence(:description) { |n| "Pedido #{n}" }
+
+    # usar apenas 'customer' é equivalente a:
+    # association :customer, factory: :customer
+    customer
+    
+  end
+end
+```
+
+### create_list
+
+Cria várias instâncias de uma vez só:
+```ruby
+# cria 3 instâncias de Order
+orders = create_list(:order, 3)
+```
+
+Similarmente também temos `build_list`e `attributes_for_list`.
+
+
+
+### associações - has_many
+
+
+TBD...
+
+
+### FactoryBot Lint
+
+Colocar no `spec/spec_helper.rb`:
+```ruby
+RSpec.configure do |config|
+  # FactoryBot Lint
+  config.before(:suite) { FactoryBot.lint }
+end
+```
+
+lembrete: ativar o lint pode causar impactos na performance
+
+
+## httparty
+
+- repo: <https://github.com/jnunemaker/httparty>
+
+Funciona como um `curl` para Ruby.
+
+instalação
+
+`Gemfile`
+```ruby
+group :development, :test do
+  gem 'httparty'
+end
+```
+
+
+## WebMock
+
+repo: <https://github.com/bblimke/webmock>
+
+"Library for stubbing and setting expectations on HTTP requests in Ruby"
+
+`Gemfile`
+```ruby
+group :development, :test do
+  gem 'webmock'
+end
+```
+
+`spec/spec_helper`
+```ruby
+require 'webmock/rspec'
+```
+
+e aí no teste usamos algo como
+```ruby
+stub_request(:get)
+```
+
+
+## VCR
+
+repo: <https://github.com/vcr/vcr>
+
+"Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests"
+
+Instalar
+
+`Gemfile`
+```ruby
+group :development, :test do
+  gem 'vcr'
+end
+```
+
+`spec/spec_helper`
+```ruby
+VCR.configure do |config|
+  config.cassette_library_dir = "spec/fixtures/vcr_cassettes"
+  config.hook_into :webmock
+
+  # permite usar ':vcr' na assinatura do teste
+  config.configure_rspec_metadata!
+
+  # filtrando dados sensíveis
+  config.filter_sensitive_data('<LOCATION>') { 'World' }
+  config.filter_sensitive_data('<KEY-TOKEN>') { ENV[:api_key] }
+  
+end
+```
+
+documentação sobre filtragem de dados sensíveis: <https://benoittgt.github.io/vcr/#/configuration/filter_sensitive_data>
+
+No teste fica algo assim:
+```ruby
+describe 'HTTParty' do
+  # atenção nesse 'vcr:' aqui
+  it 'content-type', vcr: do
+    response = HTTParty.get('https://jsonplaceholder.typicode.com/posts/2')
+    content_type = response.headers['content-type']
+
+    expect(content_type).to match(/application\/json/)
+  end
+end
+```
+
+Outras opções para `vcr:`
+- `cassette_name: 'custom/path'` - define um arquivo pra salvar o cassette
+- `match_requests_on: [:body]` - permite usar VCR com URIs não determinísticos
+- `:new_episode` - define um novo modo de gravação (útil para quando temos um número finito de possibilidades)
+
+### modos de gravação
+
+- once (default)
+- new episodes: útil para quando temos um n´úmero finito de possibilidades
+- none: nunca grava um cassette
+- all: sempre grava
+
+
+## Rails ActiveSupport Time Helpers
+
+<https://api.rubyonrails.org/classes/ActiveSupport/Testing/TimeHelpers.html>
+
+Nota: use Timecop para projetos sem Rails.
+
+## Executar testes em ordem aleatória
+
+colocar no `.rspec`: `--order random`
+
+Se precisar repetir uma ordem, use `--seed <seed-number>`
+
+
+## Testando Models
+
+Tentando listar os passos pra começar do zero...
+
+No terminal
+```shell
+# -T: skip test files
+rails new my_project -T
+cd my_project
+```
+
+`Gemfile`
+```ruby
+group :development, :test do
+  # ...
+  # ler no readme qual é a versão a ser utilizada
+  gem "rspec-rails"
+  gem "factory_bot_rails"
+  gem "faker"
+  gem "httparty"
+  gem "webmock"
+  gem "vcr"
+end
+```
+
+De volta ao terminal:
+```shell
+bundle install
+rails generate rspec:install
+```
+
+`spec/rails_helper.rb`
+```ruby
+RSpec.configure do |config|
+  # add FactoryBot
+  config.include FactoryBot::Syntax::Methods
+
+  # ...
+end
+```
+
+- TBD:
+    - vcr
+
+<https://rspec.info/features/6-0/rspec-rails/model-specs/>
+
+Nos códigos de teste de model, colocar `type: :model` no describe. Exemplo:
+```ruby
+RSpec.describe Post, type: model do
+  # ...
+end
+```
+
+
+`spec/factories/products.rb`
+```ruby
+FactoryBot.define do
+  factory :product do
+    description { Faker::Commerce.product_name }
+    price { Faker::Commerce.price }
+    category
+  end
+end
+```
+
+`spec/factories/products.rb`
+```ruby
+FactoryBot.define do
+  factory :product do
+    description { Faker::Commerce.department }
+  end
+end
+```
+
+### testes de product
+
+- it "is valid with description, price and category"
+- it "is invalid without description"
+- it "is invalid without price"
+- it "is invalid without category"
+- it "returns a product with full description"
+
+
+### shoulda-matchers
+
+- repo: <https://github.com/thoughtbot/shoulda-matchers>
+- website: <https://matchers.shoulda.io/>
+
+`Gemfile`
+```ruby
+group :development, :test do
+  # ...
+  gem 'shoulda-matchers'
+end
+```
+
+`spec/rails_helper.rb`
+```ruby
+RSpec.configure do |config| 
+  Shoulda::Matchers.configure do |config|
+    config.integrate do |with|
+      with.test_framework :rspec
+      with.library :rails
+    end
+  end
+
+  # ...
+end
+```
+
+Agora podemos fazer isso:
+
+```ruby
+it { should validate_presence_of(:description) }
+# é possível usar 'is_expected.to' no lugar do should
+```
+
+### devise
+
+instalar devise...
