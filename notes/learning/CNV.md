@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Comunicação Não-Violenta
 
 ## 4 Pilares
