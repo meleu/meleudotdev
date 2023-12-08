@@ -98,7 +98,7 @@ feature 'Welcome', type: :feature do
 
   scenario 'Show Welcome message' do
     visit(root_path)
-    expect(page).to have_content('Welcome')
+    expect(page).to have_content('Welcome to my app!')
   end
 
 end
@@ -122,15 +122,15 @@ Rodar o teste.
 
 `spec/features/welcome_spec.rb`:
 ```ruby
-scenario 'Check Show Clients link' do
+scenario 'Check Show Customers link' do
   visit(root_path)
-  expect(find('ul li')).to have_link('Show Clients')
+  expect(find('ul li')).to have_link('Show Customers')
 end
 ```
 
 Rodar o teste e ver que vai falhar
 
-Criar o link para "Show Clients" na view.
+Criar o link para "Show Customers" na view.
 
 Rodar os testes.
 
@@ -144,16 +144,16 @@ rails generate rspec:feature customer
 `spec/features/customers_spec.rb`:
 ```ruby
 feature 'Customers', type: :feature do
-  scenario 'Check New Client link' do
+  scenario 'Check New Customer link' do
     visit(root_path)
-    expect(page).to have_link('Show Clients')
+    expect(page).to have_link('Show Customers')
   end
 
-  scenario 'Validate New Client link' do
+  scenario 'Validate New Customer link' do
     visit(root_path)
-    click_on('Show Clients')
-    expect(page).to have_content('Clients List')
-    expect(page).to have_link('New Client')
+    click_on('Show Customers')
+    expect(page).to have_content('Customers List')
+    expect(page).to have_link('New Customer')
   end
 end
 ```
@@ -169,17 +169,50 @@ resources :customers
 ```
 
 
-
 `spec/features/customers_spec.rb`:
 ```ruby
 feature 'Customers', type: :feature do
   # ...
-  scenario 'Check New Client form' do
+  scenario 'Check New Customer form' do
     visit(customers_path)
-    click_on('New Client')
-    expect(page).to have_content('New Client')
+    click_on('New Customer')
+    expect(page).to have_content('New Customer')
   end
 end
 ```
 
 Criar a view `new.html.erb`
+
+## 05. Formulário de novo cliente
+
+Instalar a `faker` gem no grupo de desenvolvimento/teste (`Gemfile`).
+
+teste:
+```ruby
+scenario 'create a new customer' do
+  visit(new_customer_path)
+  customer_name = Faker::Name.name 
+  fill_in('Name', with: customer_name )
+  fill_in('Email', with: Faker::Name.name)
+  fill_in('Telephone', with: Faker::Name.name)
+  attach_file('Avatar', "#{Rails.root}/spec/fixtures/avatar.png")
+  choose(optin: ['Y', 'N'].sample)
+  click_on('Create Customer')
+
+  expect(page).to have_content('New Customer successfully created')
+  expect(Customer.last.name).to eq(customer_name)
+end
+```
+
+Criando o  model
+```shell
+rails generate model Customer name email phone avatar smoker
+
+# check the migration file
+
+rails db:migrate
+```
+
+Legal aqui o lance de internacionalização (aka i18n): [aula, aos 7min](https://udemy.com/course/rails-tdd/learn/lecture/9348306#overview)
+
+
