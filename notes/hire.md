@@ -1,10 +1,10 @@
 ---
 dg-publish: true
-dg-permalink: hire-me
+dg-permalink: hire
 ---
 # Hire Me
 
-Here I have personal stuff, like [[#My principles|my principles]], [[#Main interests|main interests]] and [[#Personal/side projects I've built from scratch|the things I built from scratch]]. If you want to see my **professional achievements**, it's better to check my [LinkedIn profile](https://www.linkedin.com/in/meleu/)
+Here I have [[#My principles|my principles]], [[#Main interests|main interests]] and [[#Personal/side projects I've built from scratch|the things I built from scratch]]. If you want to see my **professional achievements**, it's better to check my [LinkedIn profile](https://www.linkedin.com/in/meleu/)
 
 ---
 
@@ -35,7 +35,6 @@ Here I have personal stuff, like [[#My principles|my principles]], [[#Main inter
 
 - Test-Driven Development.
 - Clean Architecture
-- Refactoring
 - DevOps Culture
 
 
@@ -43,11 +42,11 @@ Here I have personal stuff, like [[#My principles|my principles]], [[#Main inter
 
 #### LogBots
 
-A follow-up system for a local logistics company.
+In 2018 I created a follow-up system for a local logistics company.
 
 In the website, developed with PHP, the user uploads an Excel spreadsheet with the shipments' info, the data is parsed and persisted in a MySQL database.
 
-I created an API and a telegram bot to interact with it. The drivers use the telegram bot to update the status of their deliveries.
+I also created an API (PHP) and a telegram bot (JavaScript/NodeJS) to interact with it. The truck drivers use the telegram bot to update the status of their deliveries.
 
 This system is still in use today.
 
@@ -69,9 +68,9 @@ Created tools that converts a github wiki into a beautiful documentation webpage
 
 **Technologies:**
 
-- GitHub Actions
-- Shell Scripting (bash)
 - mkdocs
+- Shell Scripting (bash)
+- GitHub Actions
 
 
 #### RABot
