@@ -54,6 +54,7 @@ pet = 'The Kraken';
 console.log(pet); // "The Kraken"
 ```
 
+In JavaScript variables don't have types, only values do.
 #### Rules of Assignment
 
 **The right side of an assignment must be an expression, so it always result in a value.**
@@ -89,3 +90,7 @@ double(money);
 
 console.log(money); // 10
 ```
+
+If the the value being passed is a **primitive value**, it can't be changed. **However**, if it's a mutable value (like an array, which is an Object) it can be changed!
+
+
