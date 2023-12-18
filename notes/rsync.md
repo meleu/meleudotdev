@@ -3,20 +3,6 @@ dg-publish: true
 ---
 # rsync
 
-## options
-
-Some sort of a gitignore:
-
-
-From the man page:
-> `--exclude-from=FILE`
->
-> This  option is related to the --exclude option, but it specifies a FILE that contains exclude patterns (one per line).  Blank lines in the  file  are  ig‐ nored,  as are whole-line comments that start with ';' or '#' (filename rules that contain those characters are unaffected).
-> 
-> If FILE is '-', the list will be read from standard input.
-
-
-
 ## Clonando um sistema com `rsync`
 
 Tava precisando migrar um sistema da Amazon para a Digital Ocean, e para clonar o sistema todo, usei `rsync`.
@@ -50,3 +36,19 @@ A man page do `rsync` explica a função de cada uma das opções que utilizamos
 **Observação**: é de suma importância que o acesso ao host que vai receber os arquivos seja `root` pois queremos manter as permissões e as informações de proprietário e grupo dos arquivos. E se usarmos um usuário regular para receber os arquivos, ele não terá permissão de alterar as permissões e consequentemente todos os arquivos pertencerão a ele (o que inviabiliza o que estamos querendo fazer aqui).
 
 A execução deste comando vai demorar muitos minutos. Recomenda-se um bom café...
+
+---
+
+## options
+
+Some sort of a gitignore:
+
+
+From the man page:
+> `--exclude-from=FILE`
+>
+> This  option is related to the --exclude option, but it specifies a FILE that contains exclude patterns (one per line).  Blank lines in the  file  are  ig‐ nored,  as are whole-line comments that start with ';' or '#' (filename rules that contain those characters are unaffected).
+> 
+> If FILE is '-', the list will be read from standard input.
+
+
