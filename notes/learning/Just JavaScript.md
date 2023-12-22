@@ -252,3 +252,110 @@ for (let i = 0; i < 5; i++) {
 
 ### Equality of Values
 
+Kinds of equality:
+
+- strict equality: `a === b` (has two exceptions: `NaN` and `0`/`-0`)
+- loose equality: `a == b` (🛑✋ don't use this!)
+- same value equality: `Object.is(a, b)`
+
+> [!fun fact]
+> Despite the `Object` in the method name, `Object.is` is not specific to objects.
+
+
+Exceptions:
+
+- `NaN === NaN` is `false`, although they are the same value ([history](https://stackoverflow.com/a/1573715))
+- `-0 === 0` and `0 === -0` are true, although they are different values ([history](https://softwareengineering.stackexchange.com/a/280708)).
+
+> [!important]
+> `NaN` is the only value that's not equal to itself.
+> 
+> Since `NaN === NaN` is always false, never check if a variable is `NaN` through strict equality. Use this insteaad: `Number.isNaN(variable)`
+
+From <https://dorey.github.io/JavaScript-Equality-Table/unified/>
+
+![[Just JavaScript - equality table.png]]
+
+
+### Properties
+
+This example shows how effective is our mental model to detect potential unexpected bugs:
+```js
+// Sherlock Holmes live in london
+let sherlock = {
+  surname: 'Holmes',
+  address: { city: 'London' }
+};
+
+// John Watson go live with Mr. Holmes
+let john = {
+  surname: 'Watson',
+  address: sherlock.address
+};
+
+// then Watson decided to change his name and live in Malibu
+john.surname = 'Lennon'
+john.address.city = 'Malibu'
+
+// now let's check
+console.log(john.surname); // "Lennon"
+console.log(john.address.city); // "Malibu"
+console.log(sherlock.surname); // "Holmes"
+console.log(sherlock.address.city); // "Malibu"
+// 👆 this is unexpected! -------------👆
+```
+
+
+> Unlike variables, properties *belong* to a particular object.
+>
+> In our JavaScript mental model, both variables and properties act like "wires".
+> 
+> Importantly, properties don't *contain* values - they point to them!
+![[Just JavaScript - object wires.png]]
+
+Simplified set of rules that JavaScript uses when parsing an expression like `sherlock.boat`:
+
+1. Figure out the value of the part before the dot `.`
+2. If that value is `null` or `undefined`, throw an error immediately.
+3. Check whether a property with that name exists on our object:
+    1. If **it exists**, answer with the value this property points to.
+    2. If **it doesn't exist**, answer with the `undefined` value.
+
+### Mutation
+
+**No Nested Objects**
+
+```js
+let sherlock = {
+  surname: 'Holmes',
+  address: { city: 'London' }
+};
+```
+
+In the code above, we have not one, but *two* completely separate objects. Two pairs of curly braces mean two objects.
+
+![[Just JavaScript - sherlock object.png]]
+
+> [!important]
+> Objects might appear "nested" in code, but in our universe each object is completely separate. **An object cannot be "inside" of another object!**
+
+
+#### `let` vs `const`
+
+Remember: `const` prevents variable reassignment, not object mutation.
+
+```js
+const shrek = { species: 'ogre' };
+
+shrek = fiona; // TypeError
+
+shrek.species = 'human';
+console.log(shrek.species); // 'human'
+```
+
+
+
+### Prototypes
+
+[link](https://justjavascript.com/learn/10-prototypes)
+

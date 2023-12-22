@@ -4,7 +4,9 @@ dg-permalink: hire
 ---
 # Hire Me
 
-Here I have [[#My principles|my principles]], [[#Main interests|main interests]] and [[#Personal/side projects I've built from scratch|the things I built from scratch]]. If you want to see my **professional achievements**, it's better to check my [LinkedIn profile](https://www.linkedin.com/in/meleu/)
+Here I have [[#My principles|my principles]], my [[#Main interests|main interests]], the [[#Personal/side projects I've built from scratch|things I built from scratch]], and the [[#Open Source projects I've contributed to]].
+
+If you want to see my **professional achievements**, it's better to check my [LinkedIn profile](https://www.linkedin.com/in/meleu/)
 
 ---
 
@@ -30,13 +32,16 @@ Here I have [[#My principles|my principles]], [[#Main interests|main interests]]
 - Writing clean and manageable code is the way to go faster.
 - Act on the bottlenecks: "any improvement made anywhere besides the bottleneck is an illusion."
 
+---
 
 ## Main interests
 
 - Test-Driven Development.
 - Clean Architecture
+- Working effectively with legacy code
 - DevOps Culture
 
+---
 
 ## Personal/side projects I've built from scratch
 
@@ -97,6 +102,7 @@ RetroAchievements digital magazine. I've built this to learn more about CSS.
 - HTML/CSS
 - Jekyll as the Static Site Generator
 
+---
 
 ## Open Source projects I've contributed to
 

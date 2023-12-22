@@ -11,7 +11,7 @@ Algumas citações sobre justiça.
 
 ## Platão
 
-> Dar a cada um o que lhe corresponde segunda sua natureza e seus atos
+> Dar a cada um o que lhe corresponde segunda sua natureza de seus atos.
 
 Em "República" (sobre Justiça).
 
