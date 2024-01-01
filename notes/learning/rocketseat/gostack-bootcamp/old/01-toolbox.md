@@ -142,9 +142,6 @@ Ir nas configurações do vscode: `Ctrl+Shift+P`01 - Toolbox tips
 
 ### EditorConfig
 
-**NOTE**: sorry, I originally wrote it in portuguese and didn't find enough freetime to translate.
-
-
 EditorConfig é útil quando trabalhamos em projetos onde os outros desenvolvedores utilizam editores diferentes do nosso (VSCode).
 
 Ir na seção de plugins do VSCode e instalar EditorConfig.

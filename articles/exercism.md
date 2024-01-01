@@ -10,7 +10,7 @@ date: 2022-09-09T10:13:00-03:00
 
 ## Intro
 
-In this article I show **my** reasons to believe that exercism.org is currently (2022) the best platform to learn a *new* programming language. And why it stands out from other similar platforms of coding challenges.
+In this article I show **my** reasons to believe that exercism.org is currently (2024) the best platform to learn a *new* programming language. And why it stands out from other similar platforms of coding challenges.
 
 Expect to read some opinionated conclusions. 😇
 

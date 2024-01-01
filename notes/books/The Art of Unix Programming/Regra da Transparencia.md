@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # Regra da Transparência - The Art of Unix Programming
 
+from [[The Art of Unix Programming]]
+
 **Projete para visibilidade para tornar mais fácil a inspeção e a depuração.**
 
 > **Como depuração frequentemente ocupa 3/4 ou mais do tempo de desenvolvimento, trabalho antecipado para facilitar depuração pode ser um investimento muito bom.** Uma maneira particularmente efetiva de facilitar a depuração é projetar para *transparência* e *descoberta*.

@@ -10,3 +10,4 @@ dg-publish: true
 ### 📝 Notes
 
 - [[01-fundamentals-of-testing-in-js]]
+- [[03-static-analysis-testing]]

@@ -5,7 +5,7 @@ dg-publish: true
 
 <https://lazyvim.org>
 
-September/2023 and I'm testing LazyVim distribution (do not confuse with [[Lazy.nvim plugin]]).
+Since September/2023 and I'm testing LazyVim distribution (do not confuse with [[Lazy.nvim plugin]], very related but different).
 
 The out-of-the-box experience is not 100% aligned with what I'm used to, but at least it's not as buggy as [[LunarVim]].
 
@@ -13,7 +13,7 @@ The out-of-the-box experience is not 100% aligned with what I'm used to, but at 
 
 ## Things to do right after installation
 
-### enable/disable some plugins
+### plugins to disable
 
 Create the file `lua/plugins/disabled.lua`:
 ```lua
@@ -25,12 +25,15 @@ return {
   { "folke/flash.nvim", enabled = false },
 
   -- disable commandline and search in unusual places
-  { "folke/noice.nvim", enabled = false },
+  -- NOTE: disabling noice also removes popup notifications
+  -- { "folke/noice.nvim", enabled = false },
 
   -- alpha-nvim: neovim "splashscreen"
   { "goolord/alpha-nvim", enabled = false },
 }
 ```
+
+### plugins to install
 
 Create the file `lua/plugins/init.lua`:
 ```lua
@@ -61,7 +64,7 @@ Put this at the end of `lua/config/options.lua`
 vim.cmd('source ~/.vimrc')
 ```
 
-### `.bats` as bash scripts
+### `.bats` as shell scripts
 
 This is important to have `shfmt` and `shellcheck` even when working on `bats` files.
 
@@ -75,7 +78,7 @@ vim.filetype.add({
 
 ### ctrl-j / ctrl-k to navigate in telescope
 
-I used this, but I think it can be simplified
+I used this in `lua/config/plugins/telescope.lua`:
 ```lua
 return {
   "nvim-telescope/telescope.nvim",
@@ -98,16 +101,37 @@ return {
 }
 ```
 
+
+### navigate between buffers like they were tabs
+
+I want to navigate between tabs with `gt` (to keep the same feel when using VSCodeVIM).
+
+`lua/config/keymaps.lua`
+```lua
+vim.keymap.set("n", "gT", ":bprevious<cr>", { desc = "Prev buffer" })
+vim.keymap.set("n", "gt", ":bnext<cr>", { desc = "Next buffer" })
+```
+
+### disable H and L to navigate between buffers
+
+These keys have a native meaning in vim and should not be remapped to do other things. Prefixing them with the leaderkey would be ok...
+
+`lua/config/keymaps.lua`:
+```lua
+vim.keymap.del("n", "<S-h>")
+vim.keymap.del("n", "<S-l>")
+```
+
+
 ---
 
 ## Things I still wanna do
 
-### use tabs instead of buffers
+### `gr` for "go replace" conflicting with "go reference"
 
-I want to navigate between tabs with `gt` (to keep the same feel when using VSCode).
+### auto-formatting for some languages
 
-> possible workaround: open files with `<C-T>` instead of `<CR>`
-
+### github copilot
 
 ### disable prompt for Ex-commands in the middle of screen
 
@@ -118,8 +142,4 @@ the problem is that disabling noice also disables notifications
 ### disable different prompt for searching with `/`
 
 also noice.nvim...
-
-### disable H and L to navigate between buffers
-
-These keys have a native meaning in vim and should not be remapped to do other things. Prefixing them with the leaderkey would be ok...
 

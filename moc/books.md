@@ -6,10 +6,7 @@ dg-permalink: books
 
 ## currently reading
 
-- ⭐ [[Rápido e Devagar]]
-- [[Continuous Delivery]]
-- [[A Ascensao do Dinheiro]]
-- [[Risiveis Amores]] - Kundera
+- [[Clean Code in JavaScript]]
 
 ---
 
@@ -31,6 +28,8 @@ Maybe this list can tell a bit about who I am.
 - ⭐ [[O Valor do Amanha]]
 - ⭐ [[O Programador Apaixonado]]
 - [[Clean Coder]]
+- [[Risiveis Amores]] - Kundera
+- [[O Ego é Seu Inimigo]]
 
 ### unfinished
 
@@ -38,6 +37,11 @@ Maybe this list can tell a bit about who I am.
 - [[Pense e Enriqueca]]
 - [[Effective Software Testing]]
 - [[Pragmatic Programmer]]
+- ⭐ [[Rápido e Devagar]]
+- [[Continuous Delivery]]
+- [[A Ascensao do Dinheiro]]
+- [[Practical Object-Oriented Design]]
+- [[Practical Vim]]
 
 
 ## 2022

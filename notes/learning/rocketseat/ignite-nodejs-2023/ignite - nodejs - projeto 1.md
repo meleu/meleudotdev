@@ -16,8 +16,8 @@ Instale httpie.
 [video](https://app.rocketseat.com.br/node/projeto-01-1/group/iniciando-com-node-js/lesson/criando-um-projeto-node)
 
 ```shell
-mkdir -p ~/src/github/ignite/01-fundamentos
-cd ~/src/github/ignite/01-fundamentos
+mkdir -p ~/src/github/ignite-node/01-fundamentos
+cd ~/src/github/ignite-node/01-fundamentos
 
 # cria o arquivo package.json
 npm init -y
