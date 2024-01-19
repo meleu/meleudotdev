@@ -52,3 +52,5 @@ end
 rails generate rspec:swagger posts
 rails rswag
 ```
+
+
