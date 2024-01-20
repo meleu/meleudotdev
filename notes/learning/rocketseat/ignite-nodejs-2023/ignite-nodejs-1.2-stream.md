@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Ignite - NodeJS - Stream
 
 ## Principais aprendizados

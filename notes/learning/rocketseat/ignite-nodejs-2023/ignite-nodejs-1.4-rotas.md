@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # ignite-nodejs-1.4-rotas
 
 ## input do cliente

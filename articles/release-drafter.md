@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-# Using Release Drafter GitHub Action to automatically create Releases
+# Manage Release Notes and Versioning automatically with Release Drafter GitHub Action
 
 If your project is hosted on GitHub, there's an awesome way to automate how your Releases are created.
 
@@ -12,7 +12,10 @@ If your project is hosted on GitHub, there's an awesome way to automate how your
 - create a Release draft as PRs get merged
 - fill the Release Notes with the title/author/ID of the merged PRs
 
-As all these steps are done automatically, publishing a new release is just a matter of clicking some buttons in the web interface. As the Release will be properly filled.
+As all these steps are done automatically, the Release notes are going to be properly filled, therefore publishing a new release will be just a matter of clicking some buttons in the web interface.
+
+> [!important]
+> This can be specially useful if you want to enforce [Semantic Versioning](https://semver.org/) in your project.
 
 ## Requirements
 
