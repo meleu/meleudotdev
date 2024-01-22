@@ -5,14 +5,14 @@ dg-publish: true
 
 If your project is hosted on GitHub, there's an awesome way to automate how your Releases are created.
 
-[Release Drafter GitHub Action](https://github.com/marketplace/actions/release-drafter) is an awesome way to automatically:
+With [Release Drafter GitHub Action](https://github.com/marketplace/actions/release-drafter) you can automatically:
 
 - label your Pull  Requests based on their titles
 - bump the Release version based on PRs labels
 - create a Release draft as PRs get merged
 - fill the Release Notes with the title/author/ID of the merged PRs
 
-As all these steps are done automatically, the Release notes are going to be properly filled, therefore publishing a new release will be just a matter of clicking some buttons in the web interface.
+As all these steps are done automatically, the Release notes are going to be properly filled. Therefore publishing a new release will be just a matter of clicking some buttons in the web interface.
 
 > [!important]
 > This can be specially useful if you want to enforce [Semantic Versioning](https://semver.org/) in your project.
