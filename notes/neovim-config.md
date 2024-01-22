@@ -8,6 +8,10 @@ Trying to understand neovim config madness.
 
 ## typecraft
 
+Awesome series!
+
+[Playlist](https://www.youtube.com/playlist?list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn)
+
 [video](https://youtu.be/zHTeCSVAFNY?feature=shared)
 
 ### 1. `init.lua`
