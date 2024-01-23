@@ -12,7 +12,11 @@ With [Release Drafter GitHub Action](https://github.com/marketplace/actions/rele
 - create a Release draft as PRs get merged
 - fill the Release Notes with the title/author/ID of the merged PRs
 
-As all these steps are done automatically, the Release notes are going to be properly filled. Therefore publishing a new release will be just a matter of clicking some buttons in the web interface.
+As all these steps are done automatically, the Release notes are going to be properly filled. Like in this example:
+
+![[release-drafter - fancy config.png]]
+
+Once the Release draft is populated, publishing a it is just a matter of clicking some buttons in the web interface.
 
 > [!important]
 > This can be specially useful if you want to enforce [Semantic Versioning](https://semver.org/) in your project.
