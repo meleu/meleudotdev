@@ -3,7 +3,7 @@ dg-publish: true
 ---
 # Ruby on Rails - CRUD com TDD
 
-Origem: <https://cloudwalk.udemy.com/course/rails-tdd/>()
+Origem: <https://udemy.com/course/rails-tdd/>
 
 ## 00. Ideias:
 

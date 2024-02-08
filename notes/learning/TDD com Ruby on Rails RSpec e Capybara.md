@@ -468,7 +468,6 @@ Ao usar `let`, a variável é carregada apenas quando ela é utilizada pela prim
 Se quiser "forçar" a execução para antes do teste (desativar o "lazy loading"), use `let!`.
 
 ```ruby
-########
 # 👎 bad
 ########
 before(:each) do
@@ -476,7 +475,6 @@ before(:each) do
 end
 # referenciar com '@pessoa'
 
-#########
 # 👍 good
 #########
 let(:pessoa) { Pessoa.new }
