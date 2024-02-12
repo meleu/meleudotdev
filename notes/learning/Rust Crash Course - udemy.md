@@ -335,3 +335,37 @@ for num in 0..=50 {
 > my_string.nth(3);
 > ```
 
+
+## Ownership
+
+3 Rules
+
+1. Each value has an owner
+    - There's no value in memory, no data, that doesn't have a variable that owns it.
+2. Only one owner.
+    - No variables may share ownership. (Other variables may borrow the value)
+3. Value gets dropped if its owner goes out of scope.
+
+
+Example:
+
+```rust
+let s1 = String::from("abc");
+let s2 = s1;
+println!("{}", s1); // Error!
+```
+
+When you do `let s2 = s1` you can't use `s1` anymore, the value has moved to `s2`.
+
+If you want to copy, you should use `let s2 = s1.clone();`
+
+### Referencing and Borrowing
+
+<https://udemy.com/course/ultimate-rust-crash-course/learn/lecture/17981905>
+
+> [!important]
+> About referencing: You can have **either**:
+> 
+> - Exactly one mutable reference.
+> - Any number of immutable references.
+
