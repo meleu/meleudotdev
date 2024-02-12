@@ -19,7 +19,7 @@ Isso me deixa assim: 😍
 
 Quando eu for começar minhas aventuras com Rust pretendo:
 
-1. Começar por [[Rust Crash Course]].
+1. Começar por [[Rust Crash Course - ZtM]].
 2. Ler [The Rust Programming Language (with quizzes)](https://rust-book.cs.brown.edu/)
 3. Praticar no [Exercism](https://exercism.org/tracks/rust).
 4. Seguir com esse livro aqui: <https://www.zero2prod.com/>

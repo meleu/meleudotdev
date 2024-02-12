@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-# Rust Crash Course
+# Rust Crash Course - ZtM
 
 - <https://youtu.be/lzKeecy4OmQ>
 
