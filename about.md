@@ -12,6 +12,8 @@ dg-publish: true
 - [[#meleu in 2 minutes|meleu in 2 minutes]]
 - [[#Interviews & Podcasts|Interviews & Podcasts]]
 
+See also: [[hire]]
+
 ---
 
 ## meleu in 15 seconds
