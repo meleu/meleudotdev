@@ -4,7 +4,7 @@ dg-permalink: hire
 ---
 # Hire Me
 
-Here I have [[#My principles|my principles]], my [[#Main interests|main interests]], the [[#Personal/side projects I've built from scratch|things I built from scratch]], and the [[#Open Source projects I've contributed to]].
+Here I have [[#My principles|my principles]], my [[#Main interests|main interests]], the [[#Personal/side projects I've built from scratch|things I built from scratch]], and the [[#Open Source projects|Open Source projects I've contributed to]].
 
 If you want to see my **professional achievements**, it's better to check my [LinkedIn profile](https://www.linkedin.com/in/meleu/)
 
@@ -19,7 +19,7 @@ If you want to see my **professional achievements**, it's better to check my [Li
     - [[#RADocs|RADocs]]
     - [[#RABot|RABot]]
     - [[#RANews|RANews]]
-- [[#Open Source projects I've contributed to|Open Source projects I've contributed to]]
+- [[#Open Source projects|Open Source projects]]
     - [[#RetroAchievements.org|RetroAchievements.org]]
     - [[#RetroArch|RetroArch]]
     - [[#RetroPie|RetroPie]]
@@ -104,7 +104,7 @@ RetroAchievements digital magazine. I've built this to learn more about CSS.
 
 ---
 
-## Open Source projects I've contributed to
+## Open Source projects
 
 ### RetroAchievements.org
 
