@@ -16,6 +16,7 @@ Ruby gems:
 - factory_bot_rails
 - shoulda-matchers
 - faker
+- rubocop (to keep code consistency)
 
 Auxiliary tools:
 
