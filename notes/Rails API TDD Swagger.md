@@ -5,6 +5,9 @@ dg-publish: true
 
 [original article](https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-one)
 
+> [!important]
+> Pra fazer geração automática do swagger é uma DSL diferente e mais verbosa. Não usei! 😔
+
 Main tools:
 
 - Ruby: 3.2.2
@@ -129,7 +132,21 @@ Faker::Number.number(digits: 10)
 > [!important]
 > Ler sobre concerns
 
+### JWT
 
+lembrar que o factory fica assim:
+
+```ruby
+FactoryBot.define do
+  factory :user do
+    name { Faker::Name.name }
+    email { "foo@bar.com" }
+    password { "foobar" }
+    # NÃO É password_digest
+  end
+end
+
+```
 
 ---
 
