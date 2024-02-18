@@ -54,7 +54,7 @@ rails new rails-todo-api --api --skip-test
 # --skip-active-storage
 # --skip-action-mailbox
 
-cd rails
+cd rails-todo-api
 
 # more robust gitignore
 gitignore.io vim,emacs,visualstudiocode,linux,windows,macos,dotenv,ruby,rails >> .gitignore
@@ -63,12 +63,17 @@ gitignore.io vim,emacs,visualstudiocode,linux,windows,macos,dotenv,ruby,rails >>
 echo 'ruby 3.2.2' > .tool-versions
 ```
 
-### installing rspec and other dev dependencies
+
+> **COMMIT**
+
+#### installing rspec and other dev dependencies
+
 
 `Gemfile`:
 
 ```ruby
 group :development, :test do
+  gem 'rubocop'
   gem 'rspec-rails'
   gem 'factory_bot_rails'
   gem 'shoulda-matchers'
@@ -110,9 +115,58 @@ end
 ```
 
 
+> **COMMIT**
+
 ### models
 
-Faltou explicar um pouco sobre a modelagem dos dados e como queremos "visualizar" esses models.
+![[Rails API TDD - todo db.png]]
+
+```shell
+# Todo model
+rails generate model Todo title created_by
+
+# Item model
+rails g model Item name done:boolean todo:references
+
+rails db:create db:migrate
+```
+
+#### TDD models
+
+`spec/models/todo_spec.rb`:
+
+```ruby
+require 'rails_helper'
+
+# Test suite for the Todo model
+RSpec.describe Todo, type: :model do
+  # Association test
+  # ensure Todo model has a 1:m relationship with the Item model
+  it { should have_many(:items).dependent(:destroy) }
+  # Validation tests
+  # ensure columns title and created_by are present before saving
+  it { should validate_presence_of(:title) }
+  it { should validate_presence_of(:created_by) }
+end
+```
+
+`spec/models/item_spec.rb`
+
+```ruby
+require 'rails_helper'
+
+# Test suite for the Item model
+RSpec.describe Item, type: :model do
+  # Association test
+  # ensure an item record belongs to a single todo record
+  it { should belong_to(:todo) }
+  # Validation test
+  # ensure column name is present before saving
+  it { should validate_presence_of(:name) }
+end
+```
+
+
 
 ### controllers
 #### request specs
