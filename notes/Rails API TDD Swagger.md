@@ -150,6 +150,15 @@ RSpec.describe Todo, type: :model do
 end
 ```
 
+`app/models/todo.rb`:
+
+```ruby
+class Todo < ApplicationRecord
+  has_many :items, dependent: :destroy
+  validates_presence_of :title, :created_by
+end
+```
+
 `spec/models/item_spec.rb`
 
 ```ruby
@@ -166,18 +175,68 @@ RSpec.describe Item, type: :model do
 end
 ```
 
+`app/models/item.rb`
 
+```ruby
+class Item < ApplicationRecord
+  belongs_to :todo
+  validates :name, presence: true
+end
+```
+
+> **COMMIT**
 
 ### controllers
-#### request specs
 
-Observação:
-```ruby
-# use this in the factory block
-Faker::Number.number(digits: 10)
+```shell
+rails generate controller Todos
+rails generate controller Items
 ```
 
 #### routes
+
+```ruby
+resources :todos do
+  resources :items
+end
+```
+
+
+#### factories
+
+`spec/factories/todos.rb`:
+
+```ruby
+FactoryBot.define do
+  factory :todo do
+    title { Faker::Lorem.word }
+    created_by { Faker::Number.number }
+  end
+end
+```
+
+`spec/factories/items.rb`
+
+```ruby
+FactoryBot.define do
+  factory :item do
+    name { "item: #{Faker::Lorem.word}" }
+    done { false }
+    todo { nil }
+  end
+end
+```
+
+#### request specs
+
+```shell
+mkdir -p spec/requests
+touch spec/requests/{todos,items}_spec.rb
+```
+
+> PAREI AQUI!!!!
+> FAZER OS SPECS DE CADA ROTA UMA POR UMA
+
 
 #### controllers
 
