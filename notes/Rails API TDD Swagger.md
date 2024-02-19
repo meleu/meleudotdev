@@ -87,8 +87,6 @@ And then run:
 bundle install
 
 rails generate rspec:install
-
-mkdir -p spec/factories
 ```
 
 Edit the `.rspec` to add the `--format documentation`.
@@ -228,11 +226,6 @@ end
 ```
 
 #### request specs
-
-```shell
-mkdir -p spec/requests
-touch spec/requests/{todos,items}_spec.rb
-```
 
 > PAREI AQUI!!!!
 > FAZER OS SPECS DE CADA ROTA UMA POR UMA
