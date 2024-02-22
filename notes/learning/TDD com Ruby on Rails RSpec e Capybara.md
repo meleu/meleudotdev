@@ -34,7 +34,7 @@ describe Calculator do
 end
 ```
 
-Basicão com mais conhecimento:
+Basicão com mais conhecimento (`describe` já cria uma instância de `Calculator`):
 ```ruby
 require 'calculator'
 
