@@ -810,7 +810,7 @@ RSpec.configure do |config|
 end
 ```
 
-lembrete: ativar o lint pode causar impactos na performance
+lembrete: ativar o lint pode causar impactos na performance ([link pra documentação](https://github.com/thoughtbot/factory_bot/blob/main/GETTING_STARTED.md#linting-factories))
 
 
 ## httparty
