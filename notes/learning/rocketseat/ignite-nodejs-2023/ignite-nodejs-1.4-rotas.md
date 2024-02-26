@@ -3,7 +3,7 @@ dg-publish: true
 ---
 # ignite-nodejs-1.4-rotas
 
-back to [[ignite-nodejs]]
+back to [[ignite-nodejs-2023]]
 
 ## input do cliente
 
