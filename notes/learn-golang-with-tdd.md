@@ -37,15 +37,15 @@ dg-publish: true
 - in order to use `*testing.T` type you need to `import "testing"`
 
 
-### Didn't work
+### godoc and the PATH
 
 ```bash
 # installing local documentation
 go install golang.org/x/tools/cmd/godoc@latest
 
-# after installing this command still don't work
-godoc -http :8000
-# ERROR: 'godoc' command not found
+# after installing the godoc command isn't available
+# in the path! I had to call it via:
+~/.asdf/installs/golang/1.21.7/packages/bin/godoc -http :8000
 ```
 
 
