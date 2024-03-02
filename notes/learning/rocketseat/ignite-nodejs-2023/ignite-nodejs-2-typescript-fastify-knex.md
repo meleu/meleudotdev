@@ -161,6 +161,9 @@ app.get('/hello', async () => {
 })
 ```
 
+> [!important]
+> PAREI AQUI
+
 
 #### migrations
 
@@ -358,8 +361,6 @@ app.register(transactionsRoutes, {
   prefix: 'transactions'
 })
 ```
-
-PAREI AQUI
 
 - Insomnia:
     - 9:55
