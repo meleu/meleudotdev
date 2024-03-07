@@ -143,3 +143,4 @@ the problem is that disabling noice also disables notifications
 
 also noice.nvim...
 
+### disable json and markdown render

@@ -34,7 +34,7 @@ A meu ver, aprimorarmos a nós mesmos é uma maneira muito mais efetiva de aprim
 
 ## Regra 04: Compare a si mesmo com quem você foi ontem, não com quem outra pessoa é hoje
 
-## Regra 05 Não deixe que seus filhos façam algo que faça você deixar de gostar deles
+## Regra 05: Não deixe que seus filhos façam algo que faça você deixar de gostar deles
 
 
 ## Regra 06: Deixe sua casa em perfeita ordem antes de criticar o mundo

@@ -7,6 +7,8 @@ voltar para [[ignite-nodejs-2023]]
 
 ## preparativos
 
+obs.: testes de requisições são feitos com o httpie: `brew install httpie`
+
 ```shell
 npm init
 mkdir src
@@ -55,7 +57,7 @@ app.listen({
 npx tsx src/sever.ts
 ``` 
 
-Configurando `tsx` nop `package.json`:
+Configurando `tsx` no `package.json`:
 
 ```json
 {
@@ -105,6 +107,10 @@ no `package.json`
 }
 ```
 
+Depois é só testar com:
+```shell
+npm run lint
+```
 
 
 ### Bancos de Dados e Knex
@@ -115,6 +121,9 @@ https://knexjs.org/guide/
 
 ```shell
 npm install knex sqlite3
+
+# criando dir onde ficará o arquivo .db
+mkdir tmp
 ```
 
 `src/database.ts`:
@@ -127,7 +136,7 @@ export const config: Knex.Config = {
   connection: {
     filename: './tmp/app.db'
   },
-  useNullAsDefault: true // necessário para sqlite
+  useNullAsDefault: true, // necessário para sqlite
   migrations: {
     extension: 'ts',
     directory: './db/migrations'
@@ -154,6 +163,8 @@ A partir de agora podemos usar o comando `npm run knex -- ...`
 `src/server.ts`:
 
 ```ts
+import { knex } from './database.ts'
+
 // ...
 app.get('/hello', async () => {
   const tables = await knex('sqlite_schema').select()
@@ -161,8 +172,19 @@ app.get('/hello', async () => {
 })
 ```
 
-> [!important]
-> PAREI AQUI
+```shell
+http :3333/hello
+```
+
+Deve dar o seguinte erro:
+```json
+{
+    "code": "SQLITE_CANTOPEN",
+    "error": "Internal Server Error",
+    "message": "SQLITE_CANTOPEN: unable to open database file",
+    "statusCode": 500
+}
+```
 
 
 #### migrations
@@ -206,6 +228,9 @@ export async function down(knex: Knex): Promise<void> {
 
 ```shell
 npm run knex -- migrate:latest
+
+# nesse ponto o /hello já vai retornar uns dados do schema
+http :3333/hello
 
 # se for necessário desfazer:
 npm run knex -- migrate:rollback
@@ -299,9 +324,6 @@ export const config: Knex.Config = {
 }
 ```
 
-
-
-
 ## rotas
 
 Salvar essa "todo list" no README:
@@ -328,6 +350,9 @@ Salvar essa "todo list" no README:
 `src/routes/transactions.ts` post: 9:25
 
 ```ts
+// IMPORTANTE: o knex tem que ser importado de ../database
+import { knex } from '../database'
+
 export async function transactionRoutes(app: FastifyInstance) {
   app.post('/', async (request, reply) => {
     const createTransactionBodySchema = z.object({
@@ -365,10 +390,24 @@ app.register(transactionsRoutes, {
 - Insomnia:
     - 9:55
 
+Via httpie:
+```shell
+# observe que amount usa := na atribuição!
+# isso serve para não enviar como string
+http :3333/transactions \
+  title=Freelancing \
+  amount:=8000 \
+  type=credit
+```
 
 ### sobrescrição de tipos
 
+> [!important]
+> PAREI AQUI
+
 [video](https://app.rocketseat.com.br/classroom/criando-api-restful-com-node-js/group/implementando-as-rotas/lesson/tipagem-no-knex)
+
+vamos criar uma maneira do knex saber quais campos existem na tabela do banco de dados.
 
 ```shell
 mkdir -p src/@types
@@ -378,8 +417,12 @@ touch src/@types/knex.d.ts
 Extensão `.d.ts` = definição de tipos.
 
 ```ts
+// eslint-disable-next-line
 import { Knex } from 'knex'
 
+// por que knex/types/tables?
+// reposta na documentação:
+// https://knexjs.org/guide/#typescript
 declare module 'knex/types/tables' {
   export interface Tables {
     transactions: {
@@ -436,7 +479,7 @@ app.get('/:id', async (request) => {
 
   const transaction = await knex('transactions')
     .where('id', id)
-    .first
+    .first()
 
   return { transaction }
 })
@@ -449,5 +492,238 @@ app.get('/summary', async () => {
 
   return { summary }
 })
+```
+
+
+### utilizando cookies
+
+- [video](https://app.rocketseat.com.br/classroom/criando-api-restful-com-node-js/group/implementando-as-rotas/lesson/utilizando-cookies-no-fastify)
+
+Cookies: formas da gente manter contexto entre as requisições
+
+Como as aplicações web precisam ser *stateless*, esse estado é mantido pelo cliente.
+
+```shell
+npm install @fastify/cookie
+```
+
+Rotas de cookies precisa vir antes das rotas:
+
+```ts
+import cookie from '@fastify/cookie'
+
+// ...
+
+app.register(cookie)
+
+// app.register(transactionsRoutes, ...)
+```
+
+`src/routes/transactions.ts`
+
+```ts
+app.post('/', async (request, reply) => {
+  // ...
+  // depois do parse...
+
+  let sessionId = request.cookies.sessionId
+
+  // se não existir, vamos criar
+  if(!sessionId) {
+    sessionId = randomUUID()
+
+    reply.cookie('sessionId', sessionId, {
+      path: '/',
+      maxAge: 60 * 60 * 24 * 7 // 7 dias em segundos
+    })
+  }
+
+  await knex('transaactions').insert({
+    // ...
+    session_id: sessionId
+  })
+})
+```
+
+
+### validando cookie
+
+- [video](https://app.rocketseat.com.br/classroom/criando-api-restful-com-node-js/group/implementando-as-rotas/lesson/validando-existencia-do-cookie)
+
+1:25
+
+```shell
+mkdir -p src/middlewares
+touch src/middlewares/check-session-id-exists.ts
+```
+
+`src/middlewares/check-session-id-exists.ts`
+
+```ts
+import { FastifyReply, FastifyRequest } from 'fastify'
+
+export async function checkSessionIdExists(
+  request: FastifyRequest,
+  reply: FastifyReply,
+) {
+  const sessionId = request.cookies.sessionId
+
+  if (!sessionId) {
+    return reply.status(401).send({
+      error: 'Unauthorized.'
+    })
+  }
+}
+```
+
+
+`src/routes/transactions.ts`
+
+- import
+- adicionar o `preHandler`
+- adicionar o `.where('session_id', sessionId)`
+
+```ts
+import { checkSessionIdExists } from '../middlewares/check-session-id-exists'
+
+export async function transactionsRoutes(app: FastifyInstance) {
+  app.get(
+    '/',
+    {
+      preHandler: [checkSessionIdExists],
+    },
+    async (request, reply) => {
+      const { sessionId } = request.cookies
+
+      const transactions = await knex('transactions')
+        .where('session_id', sessionId)
+        .select()
+
+      return { transactions }
+    }
+  )
+
+  // repetir para as outras rotas, exceto no post
+}
 
 ```
+
+
+## testes automatizados
+
+Usaremos o vitest: <https://vitest.dev>
+
+```shell
+npm install -D vitest supertest @types/supertest
+```
+
+`package.json`
+
+```json
+{
+  "scripts": {
+    "test": "vitest"
+  }
+}
+````
+
+
+### primeiro teste
+
+- [video](https://app.rocketseat.com.br/classroom/criando-api-restful-com-node-js/group/testes-automatizados-3/lesson/testando-criacao-de-transacao)
+
+Primeira etapa é separar o `server.ts` em dois arquivos:
+
+- `app.ts`: contem toda config do app
+- `server.ts`: contem o `listen()`
+
+`test/transactions.spec.ts`
+
+```ts
+import { it, expect, beforeAll, afterAll, describe } from 'vitest'
+import { execSync } from 'node:child_process'
+import request from 'supertest'
+import { app } from '../src/app'
+
+describe('Transactions routest', () => {
+  beforeAll(async () => {
+    await app.ready()
+  })
+  
+  afterAll(async () => {
+    await app.close()
+  })
+
+  // limpar o DB antes de cada teste
+  beforeEach(() => {
+    execSync('npm run knex migrate:rollback --all')
+    execSync('npm run knex migrate:latest')
+  })
+  
+  it('creates a new transaction', async() => {
+    await request(app.server)
+      .post('/transaction')
+      .send({
+        title: 'New transaction',
+        amount: 5000,
+        type: 'credit'
+      })
+      .expect(201)
+  })
+
+  it('lists all transactions', async () => {
+    const createTransactionResponse = await request(app.server)
+      .post('/transactions')
+      .send({
+        title: 'New transaction',
+        amount: 5000,
+        type: 'credit'
+      })
+
+    const cookies = createTransactionResponse.get('Set-Cookie')
+    const listTransactionResponse = await request(app.server)
+      .get('/transactions')
+      .set('Cookie', cookies)
+      .expect(200)
+
+    expect(listTransactionsResponse.body.transactions)
+      .toEqual([
+        expect.objectContaining({
+          title: 'New transaction',
+          amount: 5000
+        })
+      ])
+  })
+})
+```
+
+[video](https://app.rocketseat.com.br/classroom/criando-api-restful-com-node-js/group/testes-automatizados-3/lesson/testando-listagem-de-transacoes) - 6:00
+
+### configurando banco de dados de teste
+
+- [video](https://app.rocketseat.com.br/classroom/criando-api-restful-com-node-js/group/testes-automatizados-3/lesson/configurando-banco-de-testes)
+
+`.env.test`
+`.env.test.sample`
+
+```
+DATABASE_URL='./db/test.db'
+```
+
+Alterar o `src/env/index.ts`:
+
+```ts
+import { config } from 'dotenv'
+// ...
+
+if (process.env.NODE_ENV === 'test') {
+  config({ path: '.env.test' })
+} else
+  config()
+}
+```
+
+### finalizando testes
+
+[video](https://app.rocketseat.com.br/classroom/criando-api-restful-com-node-js/group/testes-automatizados-3/lesson/finalizando-testes-da-aplicacao)
+
