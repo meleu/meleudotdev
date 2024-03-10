@@ -60,7 +60,7 @@ Things to do after installing the plugin
 
 By default it supports the following plugins that I'm used to use:
 
-- `tpope/vim-surround
+- `tpope/vim-surround`
 - `tpope/vim-commentary`
 - `michaeljsmith/vim-indent-object`
 - `vim-scripts/ReplaceWithRegister`

@@ -5,6 +5,21 @@ dg-publish: true
 
 Trying to understand neovim config madness.
 
+- [ ] vanilla nvim
+- [ ] `vim.cmd("source ~/.vimrc")`
+- [ ] install lazy.nvim
+- [ ] install The Classics™
+    - "vim-scripts/ReplaceWithRegister",
+    - "tpope/vim-surround",
+    - "tpope/vim-repeat",
+    - "tpope/vim-speeddating",
+- [ ] catppuccin
+- [ ] pegar inspiração no kickstart.nvim
+
+
+
+
+---
 
 ## typecraft
 
