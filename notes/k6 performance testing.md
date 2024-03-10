@@ -3,6 +3,39 @@ dg-publish: true
 ---
 # k6 performance testing
 
+## test lifecycle
+
+- [doc](https://k6.io/docs/using-k6/test-lifecycle/)
+
+```js
+// 1. init code [REQUIRED]
+// prepares the script, loading files, importing
+// modules, and defining the test lifecycle functions.
+//
+// NOTE:
+// All code that is outside of a lifecycle function is
+// code in the init context
+
+export function setup() {
+  // 2. setup code [OPTIONAL]
+  // setting up the test environment and generating data.
+  // Whatever is returned from this function, is accessible
+  // in default and teardown via `data` object.
+}
+
+export default function (data) {
+  // 3. VU code (aka scenario function) [REQUIRED]
+  // running for as long and as many times as
+  // the `options` define.
+}
+
+export function teardown(data) {
+  // 4. teardown code [OPTIONAL]
+  // postprocessing data and closing the test environment.
+}
+
+```
+
 ## Still wanna do
 
 How to make k6 answer me these questions (probably with JSON output + [[jq]]):
