@@ -12,11 +12,11 @@ Simply select the text in visual mode and then run `:normal .`
 Other usages:
 
 ```vim
-" the '%' percent symbol means "the whole file",
-" so, to append ';' in the end of all lines of a file:
+" the `%` percent symbol means *the whole file*,
+" so, to append `;` in the end of all lines of a file:
 :%normal A;
 
-" comment the whole file using '//'
+" comment the whole file using `//`
 :%normal i//
 ```
 
