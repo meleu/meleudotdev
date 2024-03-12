@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+title: Manage Release Notes and Versioning automatically with Release Drafter GitHub Action
 ---
 # Manage Release Notes and Versioning automatically with Release Drafter GitHub Action
 

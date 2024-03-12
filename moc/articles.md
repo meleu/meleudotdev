@@ -13,7 +13,7 @@ Although this website is my [[digital garden]], sometimes I write some (kinda) "
 ```dataview
 TABLE
   title as Title,
-  file.mdate as "Last change"
+  dateformat(file.mtime, "yyyy-MM-dd") as "Last change"
 FROM "articles"
 WHERE
   dg-publish = true

@@ -13,12 +13,23 @@ The out-of-the-box experience is not 100% aligned with what I'm used to, but at 
 
 ## Things to do right after installation
 
+### disable H and L to navigate between buffers
+
+These keys have a native meaning in vim and should not be remapped to do other things. Prefixing them with the leaderkey would be ok...
+
+`lua/config/keymaps.lua`:
+```lua
+vim.keymap.del("n", "<S-h>")
+vim.keymap.del("n", "<S-l>")
+```
+
 ### plugins to disable
 
 Create the file `lua/plugins/disabled.lua`:
 ```lua
 return {
   -- disable mini.surround, (confusing keybindings)
+  -- I have years of muscle memory using tpope/vim-surround
   { "echasnovski/mini.surround", enabled = false },
 
   -- flash.nvim tries to enhance /searching but it's confusing!
@@ -62,6 +73,58 @@ Put this at the end of `lua/config/options.lua`
 ```lua
 -- meleu: load my own "old" configs written in VimScript
 vim.cmd('source ~/.vimrc')
+
+-- version with checking if file exists
+if vim.fn.filereadable("~/.vimrc") then
+  vim.cmd("source ~/.vimrc")
+end
+
+```
+
+### navigate between buffers like they were tabs
+
+I want to navigate between tabs with `gt` (to keep the same feel when using VSCodeVIM).
+
+`lua/config/keymaps.lua`
+```lua
+vim.keymap.set("n", "gT", ":bprevious<cr>", { desc = "Prev buffer" })
+vim.keymap.set("n", "gt", ":bnext<cr>", { desc = "Next buffer" })
+```
+
+### `gr` for "go replace" conflicting with "go reference"
+
+
+`lua/plugins/lsp.lua`:
+
+```lua
+-- overriding LazyVim's default LSP configs
+return {
+  "neovim/nvim-lspconfig",
+  init = function()
+    local keys = require("lazyvim.plugins.lsp.keymaps").get()
+
+    -- I want to use gr for "Go Replace" (vim-scripts/ReplaceWithRegister)
+    keys[#keys + 1] = { "gr", false }
+
+    -- use gR to "Go to References"
+    keys[#keys + 1] = { "gR", ":Telescope lsp_references<cr>", desc = "[G]oto [R]eferences" }
+  end,
+}
+```
+
+### disable the clock in lualine
+
+`lua/plugins/lualine.lua`:
+
+```lua
+return {
+  "nvim-lualine/lualine.nvim",
+  opts = {
+    sections = {
+      lualine_z = {},
+    },
+  },
+}
 ```
 
 ### `.bats` as shell scripts
@@ -77,6 +140,8 @@ vim.filetype.add({
 ```
 
 ### ctrl-j / ctrl-k to navigate in telescope
+
+**UPDATE**: I decided to not change this behavior anymore. Reason: keep consistency with other situations where `C-n`/`C-p` are used for next/previous option.
 
 I used this in `lua/config/plugins/telescope.lua`:
 ```lua
@@ -102,32 +167,10 @@ return {
 ```
 
 
-### navigate between buffers like they were tabs
-
-I want to navigate between tabs with `gt` (to keep the same feel when using VSCodeVIM).
-
-`lua/config/keymaps.lua`
-```lua
-vim.keymap.set("n", "gT", ":bprevious<cr>", { desc = "Prev buffer" })
-vim.keymap.set("n", "gt", ":bnext<cr>", { desc = "Next buffer" })
-```
-
-### disable H and L to navigate between buffers
-
-These keys have a native meaning in vim and should not be remapped to do other things. Prefixing them with the leaderkey would be ok...
-
-`lua/config/keymaps.lua`:
-```lua
-vim.keymap.del("n", "<S-h>")
-vim.keymap.del("n", "<S-l>")
-```
-
 
 ---
 
 ## Things I still wanna do
-
-### `gr` for "go replace" conflicting with "go reference"
 
 ### auto-formatting for some languages
 
