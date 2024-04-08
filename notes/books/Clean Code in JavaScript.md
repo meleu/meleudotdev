@@ -46,7 +46,7 @@ aka **fault tolerance**.
 
 The examples in the book are interesting:
 
-1. An escalator, when functioning correctly, will convey people via a set of moving metallic steps (...). Ifthe system fails, then the escalator remains static, acting as a regular flight of stairs.
+1. An escalator, when functioning correctly, will convey people via a set of moving metallic steps (...). If the system fails, then the escalator remains static, acting as a regular flight of stairs.
 2. An application that delivers the transcription of an audio if the client is unable to play mp3 content.
 
 **My note**:  this "fault tolerance" talk made me remember the [Rule of Repair](http://www.catb.org/esr/writings/taoup/html/ch01s06.html#id2878538) ([[The Art of Unix Programming]]):
@@ -92,7 +92,7 @@ We, as coders, should be defending the interests of that second group. Here are 
 
 - The first group are already very visible and they'll be vocal if we don't do a good job (we think about them, but we can count that they'll be vocal if we don't do a good work).
 - The second group will use our code later. When it happens we probably won't be there to think about what we did wrong, how to do better...
-- (There's a high chance that the user will be ourselves)
+- (There's a high chance that the second group user will be ourselves)
 
 
 ### User stories

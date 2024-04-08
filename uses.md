@@ -8,7 +8,7 @@ These are the tools I use:
 ## software
 
 - OS:
-    - personal computer: currently using Linux Pop OS!
+    - personal computer: currently using [Linux Pop OS!](https://pop.system76.com/)
     - my new job made me use [[MacOS Tips|MacOS]]
 - shell: currently playing with [[zsh]] (after 2 decades with [[bash]])
 - terminal multiplexer: [[tmux]]
@@ -18,6 +18,11 @@ These are the tools I use:
 - personal knowledge management: [[obsidian]]
 - spaced repetition: [[anki]]
 
+### MacOS setup
+
+- [yabai](https://github.com/koekeishiya/yabai) for a tiling window management (and [skhd](https://github.com/koekeishiya/skhd/) to control it with a keyboard)
+- [SketchyBar](https://github.com/FelixKratz/SketchyBar) for a minimalist bar
+- [iTerm2](https://iterm2.com/) because it integrates very well with [[tmux]]
 
 ## hardware
 

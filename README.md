@@ -27,6 +27,7 @@ I believe that **writing is thinking**, and the notes here exist to aid my think
 Here are some things that might be interesting to you:
 
 - 🧑‍💻 info [[about]] me.
+- 🗒 a growing list of little things I've been learning: [[til]] (Today I Learned)
 - 📰 [[articles]] I write about nerdy things (sometimes in [[artigos|portuguese]]).
 - 🇧🇷🇵🇹 [[traducoes]] de artigos da área de TI que julgo que permanecerão relevantes por muitos anos.
 - 📚 [[books]] I've been reading ([[books-tech|tech]], [[books-fiction|fiction]], or [[books-nonfiction|non-fiction]]).

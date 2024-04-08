@@ -14,7 +14,13 @@ Trying to understand neovim config madness.
     - "tpope/vim-repeat",
     - "tpope/vim-speeddating",
 - [x] catppuccin
-- [ ] pegar inspiração no kickstart.nvim
+- [x] pegar inspiração no kickstart.nvim
+- [x] ctrl-p fuzzy find file
+- [x] typecraft
+- [x] obsidian.nvim
+- [ ] find cheatsheet
+- [ ] copilot
+    - [ ] como desativar "on demand"?
 
 
 

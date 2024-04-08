@@ -274,3 +274,20 @@ Main concepts:
 - **window**: viewport on a buffer
 - **tab**: collection of windows
 
+
+### folding
+
+| Command      | Description                                      |
+| ------------ | ------------------------------------------------ |
+| `zf{motion}` | Create a fold                                    |
+| `zo`         | **O**pen fold                                    |
+| `zc`         | **C**lose fold                                   |
+| `za`         | Toggle fold                                      |
+| `zd`         | **D**elete fold (text is unchanged)              |
+| `zj`         | Move to the next fold (`j` move)                 |
+| `zk`         | Move to the previous fold (`k` move)             |
+| `zR`         | Open all folds in buffer (**R**educe all folds)  |
+| `zM`         | Close all folds in buffer (close **M**ore folds) |
+| `zE`         | Delete all folds in buffer                       |
+| `:fold`      | In Visual mode: fold selected lines.             |
+

@@ -5,8 +5,7 @@ dg-publish: true
 
 Topics I'm currently diving into:
 
-- Ruby on Rails
-    - [[TDD com Ruby on Rails RSpec e Capybara]]
+- [[Aprendendo TypeScript]]
 - [[TDD-Refactoring literature]]
 
 

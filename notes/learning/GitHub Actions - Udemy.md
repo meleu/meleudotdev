@@ -559,7 +559,7 @@ jobs:
 
 [video](https://udemy.com/course/github-actions-the-complete-guide/learn/lecture/34140204#overview)
 
-If our `reusable-deploy.yml` needs input from previous jobs, we can something like this:
+If our `reusable-deploy.yml` needs input from previous jobs, we can do something like this:
 
 ```yaml
 name: Reusable Deploy
@@ -578,7 +578,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-laatest
+    runs-on: ubuntu-latest
     steps:
       - name: get code
         uses: actions/download-artifact@v3

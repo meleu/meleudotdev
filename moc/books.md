@@ -7,6 +7,7 @@ dg-permalink: books
 ## currently reading
 
 - [[Clean Code in JavaScript]]
+- [[Aprendendo TypeScript]]
 
 ---
 
