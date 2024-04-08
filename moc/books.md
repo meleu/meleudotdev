@@ -6,7 +6,7 @@ dg-permalink: books
 
 ## currently reading
 
-- [[Clean Code in JavaScript]]
+- [[99 Bottles of OOP]]
 - [[Aprendendo TypeScript]]
 
 ---
@@ -22,6 +22,7 @@ Maybe this list can tell a bit about who I am.
 3. 🇧🇷🇵🇹 Veja aqui os [[livros que me influenciaram]] e o que aprendi com eles.
 
 ---
+
 
 ## 2023
 
@@ -43,6 +44,7 @@ Maybe this list can tell a bit about who I am.
 - [[A Ascensao do Dinheiro]]
 - [[Practical Object-Oriented Design]]
 - [[Practical Vim]]
+- [[Clean Code in JavaScript]]
 
 
 ## 2022
