@@ -11,9 +11,9 @@ List of little things I've been learning...
 ```dataview
 TABLE
   file.tags as tags,
-  dateformat(file.ctime, "yyyy-MM-dd") as "date"
+  dateformat(file.mtime, "yyyy-MM-dd") as "Last change"
 FROM "til"
 WHERE
   dg-publish = true
-SORT file.ctime DESC
+SORT file.mtime DESC
 ```

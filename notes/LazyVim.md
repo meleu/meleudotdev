@@ -13,16 +13,6 @@ The out-of-the-box experience is not 100% aligned with what I'm used to, but at 
 
 ## Things to do right after installation
 
-### disable H and L to navigate between buffers
-
-These keys have a native meaning in vim and should not be remapped to do other things. Prefixing them with the leaderkey would be ok...
-
-`lua/config/keymaps.lua`:
-```lua
-vim.keymap.del("n", "<S-h>")
-vim.keymap.del("n", "<S-l>")
-```
-
 ### plugins to disable
 
 Create the file `lua/plugins/disabled.lua`:
@@ -44,6 +34,7 @@ return {
 }
 ```
 
+
 ### plugins to install
 
 Create the file `lua/plugins/init.lua`:
@@ -56,15 +47,6 @@ return {
 }
 ```
 
-### disable plugin update checker
-
-`lua/config/lazy.lua`
-```lua
-  checker = {
-    enabled = false,
-    notify = false,
-  },
-```
 
 ### keep my `.vimrc`
 
@@ -78,7 +60,43 @@ vim.cmd('source ~/.vimrc')
 if vim.fn.filereadable("~/.vimrc") then
   vim.cmd("source ~/.vimrc")
 end
+```
 
+
+### disable the clock in lualine
+
+`lua/plugins/lualine.lua`:
+
+```lua
+return {
+  "nvim-lualine/lualine.nvim",
+  opts = {
+    sections = {
+      lualine_z = {},
+    },
+  },
+}
+```
+
+
+### disable plugin update checker
+
+`lua/config/lazy.lua`
+```lua
+  checker = {
+    enabled = false,
+    notify = false,
+  },
+```
+
+### disable H and L to navigate between buffers
+
+These keys have a native meaning in vim and should not be remapped to do other things. Prefixing them with the leaderkey would be ok...
+
+`lua/config/keymaps.lua`:
+```lua
+vim.keymap.del("n", "<S-h>")
+vim.keymap.del("n", "<S-l>")
 ```
 
 ### navigate between buffers like they were tabs
@@ -92,7 +110,6 @@ vim.keymap.set("n", "gt", ":bnext<cr>", { desc = "Next buffer" })
 ```
 
 ### `gr` for "go replace" conflicting with "go reference"
-
 
 `lua/plugins/lsp.lua`:
 
@@ -112,21 +129,6 @@ return {
 }
 ```
 
-### disable the clock in lualine
-
-`lua/plugins/lualine.lua`:
-
-```lua
-return {
-  "nvim-lualine/lualine.nvim",
-  opts = {
-    sections = {
-      lualine_z = {},
-    },
-  },
-}
-```
-
 ### `.bats` as shell scripts
 
 This is important to have `shfmt` and `shellcheck` even when working on `bats` files.
@@ -139,34 +141,37 @@ vim.filetype.add({
 })
 ```
 
-### ctrl-j / ctrl-k to navigate in telescope
 
-**UPDATE**: I decided to not change this behavior anymore. Reason: keep consistency with other situations where `C-n`/`C-p` are used for next/previous option.
+### Add GitHub Copilot
 
-I used this in `lua/config/plugins/telescope.lua`:
+Following the instructions in: <https://www.lazyvim.org/extras/coding/copilot>
+
+And added this line in `lua/config/lazy.lua`
+
 ```lua
-return {
-  "nvim-telescope/telescope.nvim",
-  config = function()
-    local telescope = require("telescope")
-    local actions = require("telescope.actions")
+require("lazy").setup({
+  spec = {
+    { "LazyVim/LazyVim", import = "lazyvim.plugins" },
 
-    telescope.setup({
-      defaults = {
-        mappings = {
-          i = {
-            ["<C-k>"] = actions.move_selection_previous, -- prev result
-            ["<C-j>"] = actions.move_selection_next, -- next result
-            ["<C-q>"] = actions.send_selected_to_qflist + actions.open_qflist,
-          },
-        },
-      },
-    })
-  end,
-}
+    -- this 👇 line
+    { import = "lazyvim.plugins.extras.coding.copilot" },
+    -- this 👆 line
+
+    { import = "plugins" },
+  },
+})
 ```
 
+Also configured a way to enable/disable copilot in `lua/plugins/copilot.lua`:
 
+```lua
+return {
+  -- TODO: find a way to toggle copilot
+
+  vim.keymap.set("n", "<leader>cpd", ":Copilot disable<cr>", { desc = "GitHub Copilot Disable" }),
+  vim.keymap.set("n", "<leader>cpe", ":Copilot enable<cr>", { desc = "GitHub Copilot Enable" }),
+}
+```
 
 ---
 

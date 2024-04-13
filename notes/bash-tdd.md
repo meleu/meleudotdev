@@ -3,6 +3,9 @@ dg-publish: false
 ---
 # bash-tdd
 
+o bashunit parece ser bem maneiro: <https://bashunit.typeddevs.com/>
+
+
 - hello world cruzão!
     - executável
     - definir o PATH
