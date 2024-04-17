@@ -47,6 +47,26 @@ return {
 }
 ```
 
+### `gr` for "go replace" conflicting with "go reference"
+
+`lua/plugins/lsp.lua`:
+
+```lua
+-- overriding LazyVim's default LSP configs
+return {
+  "neovim/nvim-lspconfig",
+  init = function()
+    local keys = require("lazyvim.plugins.lsp.keymaps").get()
+
+    -- I want to use gr for "Go Replace" (vim-scripts/ReplaceWithRegister)
+    keys[#keys + 1] = { "gr", false }
+
+    -- use gR to "Go to References"
+    keys[#keys + 1] = { "gR", ":Telescope lsp_references<cr>", desc = "[G]oto [R]eferences" }
+  end,
+}
+```
+
 
 ### keep my `.vimrc`
 
@@ -54,9 +74,6 @@ Put this at the end of `lua/config/options.lua`
 
 ```lua
 -- meleu: load my own "old" configs written in VimScript
-vim.cmd('source ~/.vimrc')
-
--- version with checking if file exists
 if vim.fn.filereadable("~/.vimrc") then
   vim.cmd("source ~/.vimrc")
 end
@@ -109,26 +126,6 @@ vim.keymap.set("n", "gT", ":bprevious<cr>", { desc = "Prev buffer" })
 vim.keymap.set("n", "gt", ":bnext<cr>", { desc = "Next buffer" })
 ```
 
-### `gr` for "go replace" conflicting with "go reference"
-
-`lua/plugins/lsp.lua`:
-
-```lua
--- overriding LazyVim's default LSP configs
-return {
-  "neovim/nvim-lspconfig",
-  init = function()
-    local keys = require("lazyvim.plugins.lsp.keymaps").get()
-
-    -- I want to use gr for "Go Replace" (vim-scripts/ReplaceWithRegister)
-    keys[#keys + 1] = { "gr", false }
-
-    -- use gR to "Go to References"
-    keys[#keys + 1] = { "gR", ":Telescope lsp_references<cr>", desc = "[G]oto [R]eferences" }
-  end,
-}
-```
-
 ### `.bats` as shell scripts
 
 This is important to have `shfmt` and `shellcheck` even when working on `bats` files.
@@ -141,6 +138,21 @@ vim.filetype.add({
 })
 ```
 
+
+
+
+### disable json and yaml "renderization
+
+```lua
+-- Disable the concealing in some file formats
+-- This "conceal" thing omits quotes.
+vim.api.nvim_create_autocmd({ "FileType" }, {
+  pattern = { "json", "jsonc", "yaml" },
+  callback = function()
+    vim.wo.conceallevel = 0
+  end,
+})
+```
 
 ### Add GitHub Copilot
 
@@ -181,25 +193,3 @@ return {
 
 ### github copilot
 
-### disable prompt for Ex-commands in the middle of screen
-
-noice.nvim is doing that...
-
-the problem is that disabling noice also disables notifications
-
-### disable different prompt for searching with `/`
-
-also noice.nvim...
-
-### disable json "renderization
-
-```lua
--- Disable the concealing in some file formats
--- The default conceallevel is 3 in LazyVim
-vim.api.nvim_create_autocmd({ "FileType" }, {
-  pattern = { "json", "jsonc" },
-  callback = function()
-    vim.wo.conceallevel = 0
-  end,
-})
-```

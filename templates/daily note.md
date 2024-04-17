@@ -6,11 +6,11 @@
 ### Notes created today
 
 ```dataview
-List FROM "" WHERE file.cday = date("{{title}}") SORT file.ctime asc
+List FROM -"work/cw/log/daily" WHERE file.cday = date("{{title}}") SORT file.ctime asc
 ```
 
 ### Notes modified today
 
 ```dataview
-List FROM "" WHERE file.mday = date("{{title}}") SORT file.mtime asc
+List FROM -"work/cw/log/daily" WHERE file.mday = date("{{title}}") SORT file.mtime asc
 ```
