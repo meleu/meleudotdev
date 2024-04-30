@@ -9,7 +9,7 @@ In this note I'm trying to list some fundamental books about these topics.
 
 ## online courses
 
-- my very first contact was with [[ruby minitest]]
+- my very first contact was with [[ruby minitest cheatsheet]]
 - then I went to [[RSpec - udemy]]
 - and got some interesting insights from upcase's [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd).
 - Rails Testing Exercises (upcase): <https://thoughtbot.com/upcase/rails-testing-exercises>
@@ -31,5 +31,7 @@ In this note I'm trying to list some fundamental books about these topics.
 - [[Effective Software Testing]]: A Developer's Guide - Maricio Aniche (just because it's from Aniche)
 - Beyond Legacy Code: Nine Practices to Extend the Life (and Value) of Your Software - David Scott Bernstein
 - Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce
+- [books from Emily Bache](https://leanpub.com/b/codekatas#bundle-page-mocks-fakes-stubs), about Coding Dojos / Code Katas
+- https://www.manning.com/books/the-mikado-method
 
 
