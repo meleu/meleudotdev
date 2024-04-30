@@ -2,7 +2,6 @@
 dg-publish: true
 ---
 - how to test CLI programs?
-- exemplos de repositórios open source que podem ser boas inspirações
 
 
 ## Questions
@@ -18,28 +17,54 @@ You ask us to imagine a continuum with "most concrete" at one end and "most abst
 My question is: do you think that the knowledge level of the team working in the codebase can influence where this sweet spot is?
 
 
+
 ### Material to improve test writing skills
 
-I'm currently facing the very same scenario you mention in chapter 2 of the book, where you talk about avoiding the echo-chamber:
+I'm still reading the book and going through the course, currently reading chapter 3...
 
-I'm frustrated because making a change that preserves the behavior breaks apparently unrelated tests
+Until now, one of the most impactful concept I learned is the systematic approach to do our job.
 
-It's pretty apparent in this project that the tests impede change and increase costs.
+We usually get a demand in form of a ticket or whatever and we need to implement a new feature or fix a bug.
 
-I'm following your guidance:
+And the systematic approach you suggest is:
+
+1. Refactor
+2. Then implement the new feature.
+
+I like how you break down the refactoring process:
+
+1. make our code adhere the open-closed principle
+2. by removing the code smells
+3. until the code is open to the new requirement
+
+I really like this systematic approach because it brings more actionable directions of what to do when we receive a ticket.
+
+But... my experience as a programmer is mostly working on other people's code. And (unfortunately) in codebases with no tests or poorly written tests. Which impacts the refactoring process.
+
+In some part of the book you also mention:
 
 > If your tests are flawed such that they interfere with refactoring, improve them first, and then refactor.
 
-That being said, here goes my question:
+So, in my experience, the systematic approach to do my job would always be:
 
-Can you suggest good books (or any other kind of media) about writing good tests (and maybe about rewriting bad ones)?
+1. **improve (or write) the tests**
+2. refactor
+3. implement the new feature
 
-I want to something I can use to practice and improve my test writing skills.
+And here's where I feel I'm weak. I don't feel confident that I'm able to write good tests.
 
-Real world problems sometimes have a lot of noise and strict deadlines, making them not so good for the purpose of practicing.
+I mean, when I look at (let's say) "production code" I have an instinctive taste to judge if it's good or not. And I believe this happens because we're doing this for decades.
 
-**UPDATE**
-I think this is a good answer: [books from Emily Bache](https://leanpub.com/b/codekatas#bundle-page-mocks-fakes-stubs), about Coding Dojos / Code Katas
+But I don't feel the same for "testing code".
+
+That being said, what I really want to say is that my current quest is to work-out my test writing skills.
+
+There's a `references.txt` in the course's repository and for testing it mentions Michael Feather's book, "Working Effectively with Legacy Code". It's on my plan to check that after finishing the course.
+
+But I was googling about this topic and found some people mentioning Code Katas. And it seems aligned to what I want: practice and practice!
+
+So, here's my question: what do you suggest for those who want to improve their test writing skills?
+
 
 
 ### Open Source project for inspiration
