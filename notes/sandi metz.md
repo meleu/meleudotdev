@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - how to test CLI programs?
 - exemplos de repositórios open source que podem ser boas inspirações
 
