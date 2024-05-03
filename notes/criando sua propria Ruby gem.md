@@ -44,10 +44,9 @@ Criar uma RubyGem é uma excelente forma de compartilhar código.
 
 - Nerdão do Linux since late 90s
 - Projetos Open Source relacionados a retrogaming
-- Experiência como
-    - Desenvolvedor Web
-    - DevOps Engineer
-    - Hoje Software Quality Engineer na CloudWalk
+- Desenvolvedor Web
+- DevOps Engineer
+- Hoje Software Quality Engineer na CloudWalk
 -  https://meleu.dev
 
 ---
@@ -64,7 +63,7 @@ Criar uma RubyGem é uma excelente forma de compartilhar código.
 - Testes
     - Minitest e/ou RSpec?
 - CI/CD pipeline
-    - GitHub Actions?
+    - GitHub Actions, GitLab CI e afins?
 
 ---
 
@@ -186,7 +185,7 @@ Sua gem foi publicada!
 
 ---
 
-### enriquecendo nossa gem
+### enriquecendo a gemspec
 
 #### arquivo de versão
 
@@ -199,7 +198,7 @@ end
 
 ---
 
-### enriquecendo nossa gem
+### enriquecendo a gemspec
 
 #### arquivo de versão
 
@@ -215,7 +214,7 @@ end
 
 ---
 
-### enriquecendo nossa gem
+### enriquecendo a gemspec
 
 ```ruby
 Gem::Specification.new do |s|
@@ -230,13 +229,13 @@ end
 
 ---
 
-### enriquecendo nossa gem
+### enriquecendo a gemspec
 
 #### criar um repositório no github
 
 ---
 
-### enriquecendo nossa gem
+### enriquecendo a gemspec
 
 ```ruby
 Gem::Specification.new do |s|
@@ -247,7 +246,7 @@ end
 
 ---
 
-## enriquecendo nossa gem
+## enriquecendo a gemspec
 
 ```ruby
 Gem::Specification.new do |s|
@@ -264,7 +263,7 @@ end
 
 ---
 
-### enriquecendo nossa gem
+### enriquecendo a gemspec
 
 #### documentação
 
@@ -355,7 +354,7 @@ experimentar no `irb`:
 Motivação:
 
 - Criar uma gem que depende de outra gem
-- Criar um CLI pra obter dad jokes no terminal
+- Criar um CLI pra usar a gem a partir do terminal
 
 ---
 
@@ -384,6 +383,7 @@ bundle install
 
 - obs.: não precisa criar repo no github ainda
 - criar um `.gitignore`
+    - <https://gitignore.io> (script)
 - `git add && git commit`
 
 ---
