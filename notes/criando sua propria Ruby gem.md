@@ -23,20 +23,22 @@ por meleu
 
 ---
 
-## O que veremos?
+## Motivação
 
-- Processo de criação de uma gem!
-    - o arquivo `*.gemspec`
-    - o serviço RubyGems.org
-- Criar um CLI para usar a gem direto do terminal
+Criar uma Ruby Gem é uma excelente forma de compartilhar código.
+
+(não apenas no Open-Source, mas também internamente)
 
 ---
 
-## Motivação
+## O que veremos?
 
-Criar uma RubyGem é uma excelente forma de compartilhar código.
-
-(não apenas no Open-Source, mas também internamente)
+- Processo de criação/publicação de gems:
+    - "do zero"
+    - com o bundler
+- configurar o arquivo `*.gemspec`
+- o que o RubyGems.org nos oferece
+- criar um CLI para usar a gem direto do terminal
 
 ---
 
@@ -126,7 +128,10 @@ doc: <https://guides.rubygems.org/what-is-a-gem/>
 
 ## Test First!!!
 
-(opcional)
+(???)
+
+`test/test_hello_meleu.rb`
+
 
 ---
 
@@ -383,7 +388,7 @@ bundle install
 
 - obs.: não precisa criar repo no github ainda
 - criar um `.gitignore`
-    - <https://gitignore.io> (script)
+    - <https://gitignore.io> ([script](https://github.com/meleu/.dotfiles/blob/master/bin/gitignore.io))
 - `git add && git commit`
 
 ---
@@ -409,7 +414,7 @@ Gem::Specification.new do |s|
   # ...
   # ignorar código confuso e cheio de TODOs...
   # ...
-  spec.add_runtime_dependency "httparty", "~>0.21"
+  spec.add_runtime_dependency "httparty", "~> 0.21"
 end
 ```
 
@@ -422,9 +427,9 @@ bundle install
 
 ## Test First!!!
 
-(opcional)
+(??? [link](https://github.com/meleu/dadjoke/blob/main/test/test_dadjoke.rb) ???)
 
-[link](https://github.com/meleu/dadjoke/blob/main/test/test_dadjoke.rb)
+`test/test_dadjoke.rb`
 
 ---
 
@@ -458,7 +463,7 @@ end
 
 ---
 
-## Testar
+## Testar no irb
 
 ```bash
 bin/console
@@ -623,6 +628,11 @@ end
 
 ---
 
+# Fim! 🥲
+
+<!--
+---
+
 ## references
 
 - <https://gist.github.com/jendiamond/6128723> - onde tudo começou
@@ -634,3 +644,5 @@ end
     - gorails 1: <https://www.youtube.com/watch?v=wu2zoy63DeU>
     - gorails 2: <https://www.youtube.com/watch?v=_RPVUwBm6U8>
     - indiano: 
+
+-->
