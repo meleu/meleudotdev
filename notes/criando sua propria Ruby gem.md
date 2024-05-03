@@ -112,6 +112,8 @@ O bundler é uma ferramenta criada para garantir que **os desenvolvedores** de u
 
 ## Colocando a mão na massa! 💪
 
+doc: <https://guides.rubygems.org/what-is-a-gem/>
+
 O mínimo do mínimo para criarmos uma gem:
 
 ```
@@ -122,7 +124,7 @@ hello_meleu/
     └── hello_meleu.rb
 ```
 
-doc: <https://guides.rubygems.org/what-is-a-gem/>
+obs.: usar um nome diferente!
 
 ---
 
@@ -368,6 +370,8 @@ Motivação:
 ## Criando uma gem usando o bundler
 
 (scaffold feelings 😇)
+
+obs.: usar um nome diferente!
 
 ```bash
 bundle gem dadjoke \
