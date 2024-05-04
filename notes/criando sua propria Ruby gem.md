@@ -383,7 +383,7 @@ bundle gem dadjoke \
   --linter=rubocop
   
 cd dadjoke
-bundle install
+bundle install # vai falhar
 ```
 
 ---
