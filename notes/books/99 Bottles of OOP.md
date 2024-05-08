@@ -167,6 +167,44 @@ I found this very impactful:
 > The goal is to use green to maximize your understanding of the problem and to unearth _all_ available information before committing to abstractions.
 
 
+
+---
+
+## 3. Unearthing Concepts
+
+See also: [[Code Smells]]
+
+### SOLID
+
+#### Open-Closed
+
+**Objects should be open for extension, but closed for modification.**
+
+> The decision about whether to refactor in the first place should be determined by whether your code is already "open" to the new requirement.
+
+> The "open" principle says that you should not conflate the process of refactoring with the act of adding new features. You should instead separate these two operations. When faced with a new requirement, first rearrange the existing code such that it's open to the new feature, and once that's complete, then add the new code.
+
+> New requirements should be implemented in two steps. First, you rearrange existing code so that it becomes open to the new requirement. Next you write new code to meet that requirement. The first of these steps is refactoring.
+
+### Flocking Rules to create abstractions
+
+1. Select the things that are mos alike
+2. Find the smallest difference between them.
+3. Make the simplest change that will remove that difference.
+    1. parse the new code
+    2. parse and execute it
+    3. parse, execute and use its result
+    4. delete unused code
+
+Following the flocking rules:
+- change only one line at a time
+- run tests after every change
+- if the tests fail, undo and make a better change
+
+---
+
+## From the POOD-I course
+
 ### Writing the Tests
 
 These are from the POOD-I course.
@@ -235,38 +273,25 @@ These are from the POOD-I course.
 - my answers: I don't know... 🤷
 
 
+### Techniques to find a good name
 
----
+- What's the responsibility of the method I'm about to create?
+- One layer of abstraction below the concrete code.
+- Not too far away from the domain
 
-## 3. Unearthing Concepts
+### Choosing meaningful defaults
 
-See also: [[Code Smells]]
+- use `:FIXME`
+- make the `:FIXME` case be the `else` case, so you can remember to remove it later.
 
-### SOLID
+### Quotes
 
-#### Open-Closed
+> Slow tests are an indication that there's something wrong with the design. Either something wrong in the tests or something wrong with the code.
 
-**Objects should be open for extension, but closed for modification.**
+> As the code is read many more times than it's written, the cost of code is in the reading.
 
-> The decision about whether to refactor in the first place should be determined by whether your code is already "open" to the new requirement.
+> Having a style guide is not about the style, it's about the consistency.
 
-> The "open" principle says that you should not conflate the process of refactoring with the act of adding new features. You should instead separate these two operations. When faced with a new requirement, first rearrange the existing code such that it's open to the new feature, and once that's complete, then add the new code.
-
-> New requirements should be implemented in two steps. First, you rearrange existing code so that it becomes open to the new requirement. Next you write new code to meet that requirement. The first of these steps is refactoring.
-
-### Flocking Rules to create abstractions
-
-1. Select the things that are mos alike
-2. Find the smallest difference between them.
-3. Make the simplest change that will remove that difference.
-    1. parse the new code
-    2. parse and execute it
-    3. parse, execute and use its result
-    4. delete unused code
-
-Following the flocking rules:
-- change only one line at a time
-- run tests after every change
-- if the tests fail, undo and make a better change
-
-
+> \[About Liskov Substitution Principle]
+> 
+> The point of Liskov is: the objects have to be what they say they are. They have to behave like you expect. They can't do anything that forces folks that interact with them to check what kind of thing they are in order know how to talk to them.

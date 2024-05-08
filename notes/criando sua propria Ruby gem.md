@@ -194,6 +194,8 @@ Sua gem foi publicada!
 
 ### enriquecendo a gemspec
 
+TODO: tirar isso e o slide seguinte 
+
 #### arquivo de versão
 
 `lib/hello_meleu/version.rb`
@@ -222,6 +224,8 @@ end
 ---
 
 ### enriquecendo a gemspec
+
+TODO: tirar isso!
 
 ```ruby
 Gem::Specification.new do |s|
@@ -273,6 +277,8 @@ end
 ### enriquecendo a gemspec
 
 #### documentação
+
+TODO: link para YARD
 
 ```ruby
 # Class used to greet meleu with "hello".
@@ -383,7 +389,6 @@ bundle gem dadjoke \
   --linter=rubocop
   
 cd dadjoke
-bundle install # vai falhar
 ```
 
 ---
@@ -397,6 +402,10 @@ bundle install # vai falhar
 
 ---
 
+```bash
+bundle install # vai falhar
+```
+
 ## Gemfile
 
 ```ruby
@@ -408,8 +417,13 @@ gemspec
 # ...
 ```
 
+---
+
+
+TODO: editar os TODOs! Principalmente os do gemspec.
 
 ---
+
 
 ## Listando dependências no gemspec
 

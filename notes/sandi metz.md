@@ -1,8 +1,23 @@
 ---
-dg-publish: true
+dg-publish: false
 ---
-- how to test CLI programs?
 
+## Questions 2
+
+### Temporary var vs. Calling a message multiple times
+
+As I learned to code in C and learned some low level stuff about what happens when we call a function, the values on the stack, etc... I mean, the computational cost of calling a function.
+
+Calling `quantity(number)` several times or saving the result in a temp var?
+
+
+### The wrong abstraction: `pronoun` vs. `action`
+
+
+
+
+
+---
 
 ## Questions
 
