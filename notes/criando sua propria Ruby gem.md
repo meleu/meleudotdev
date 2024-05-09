@@ -62,10 +62,8 @@ Criar uma Ruby Gem é uma excelente forma de compartilhar código.
 
 ### Calibrando o conteúdo
 
-- Testes
-    - Minitest e/ou RSpec?
-- CI/CD pipeline
-    - GitHub Actions, GitLab CI e afins?
+- Test first
+- CI/CD pipelines
 
 ---
 
@@ -189,54 +187,6 @@ gem push hello_meleu-0.0.1.gem
 Sua gem foi publicada!
 
 <https://rubygems.org/gems/hello_meleu>
-
----
-
-### enriquecendo a gemspec
-
-TODO: tirar isso e o slide seguinte 
-
-#### arquivo de versão
-
-`lib/hello_meleu/version.rb`
-```ruby
-module HelloMeleu
-  VERSION = "0.0.2"
-end
-```
-
----
-
-### enriquecendo a gemspec
-
-#### arquivo de versão
-
-`hello_meleu.gemspec`
-```ruby
-require_relative "lib/hello_meleu/version"
-
-Gem::Specification.new do |s|
-  # ...
-  s.version = HelloMeleu::VERSION
-end
-```
-
----
-
-### enriquecendo a gemspec
-
-TODO: tirar isso!
-
-```ruby
-Gem::Specification.new do |s|
-  # ...
-  s.description <<~DESC
-    A useless gem created for the only purpose
-    of showing people how to create a gem.
-  DESC
-end
-```
-
 
 ---
 
@@ -406,6 +356,8 @@ cd dadjoke
 bundle install # vai falhar
 ```
 
+---
+
 ## Gemfile
 
 ```ruby
@@ -421,6 +373,8 @@ gemspec
 
 
 TODO: editar os TODOs! Principalmente os do gemspec.
+
+Falar do arquivo `version.rb`
 
 ---
 
