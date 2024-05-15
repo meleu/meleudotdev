@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 # Kamal
 
 Trying https://kamal-deploy.org/
