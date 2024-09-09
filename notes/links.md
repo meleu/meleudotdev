@@ -28,7 +28,7 @@ My own list of awesome links.
 
 - <https://www.destroyallsoftware.com/> - explaining advanced programming practices via concrete examples.
 - <https://www.executeprogram.com/> - seems to be an awesome resource to effectively learn JavaScript/TypeScript (uses spaced repetition).
-
+- <https://jsoning.com/> - JSON-dedicated toolset includes Mock APIs, a JSONPath tester, a JSONPatch generator, and a data generator.
 
 ## node
 
