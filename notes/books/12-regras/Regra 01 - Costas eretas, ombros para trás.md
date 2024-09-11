@@ -50,5 +50,5 @@ Sobre a importância de se sentir amado:
 
 Sobre a importância da rotina:
 
-> Os atos da vida que repetimos diariamente precisão ser automatizados. Eles devem se tornar hábitos estáveis e confiáveis, assim eles perdem sua complexidade e ganham previsibilidade e simplicidade. [isso me lembrou [[Rápido e Devagar]]]. Podemos perceber isso mais claramente no caso das crianças, que ficam agradáveis, divertidas e brincalhonas quando seu horário de dormir e comer está estável, e ficam irritáveis, chorosas e desagradáveis quando não está.
+> Os atos da vida que repetimos diariamente precisam ser automatizados. Eles devem se tornar hábitos estáveis e confiáveis, assim eles perdem sua complexidade e ganham previsibilidade e simplicidade. [isso me lembrou [[Rápido e Devagar]]]. Podemos perceber isso mais claramente no caso das crianças, que ficam agradáveis, divertidas e brincalhonas quando seu horário de dormir e comer está estável, e ficam irritáveis, chorosas e desagradáveis quando não está.
 

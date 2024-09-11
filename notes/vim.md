@@ -6,12 +6,13 @@ dg-publish: true
 - [[vim-upcase]]
 - [[neovim]]
 - [[vim-macros]]
-- [[LazyVim]]
+- [[notes/LazyVim]]
 - [[LunarVim]] - buggy :(
 - books
     - [[Practical Vim]]
     - [[Learning the vi and vim Editors]]
     - [[Mastering Vim Quickly]]
+    - [[LazyVim for Ambitious Developers]]
 
 ## Vim TerminalRoot
 
@@ -22,7 +23,7 @@ stty -ixon # 30 min
 
 ## things to do after vimtutor
 
-By reading the contents of [this repository](https://github.com/dahu/learnvim) I realized that this is the things to do after finishing the vimtutor:
+By reading the contents of [this repository](https://github.com/dahu/learnvim) I realized that these are the things to do after finishing the vimtutor:
 
 - learn how to navigate the documentation
     - `ctrl-]` to follow a vimdoc link
@@ -40,6 +41,7 @@ By reading the contents of [this repository](https://github.com/dahu/learnvim) I
 
 ## things I wanna learn
 
+- folding
 - macros
 - windows/buffers management
 - linting
@@ -276,3 +278,6 @@ Questions to be answered:
 
 
 
+
+
+https://thorstenball.com/blog/2012/07/09/vim-learning-resources/

@@ -6,6 +6,21 @@ dg-publish: true
 - live editor: <https://mermaid-js.github.io/mermaid-live-editor>
 - video showing mermaid feature on Obsidian: <https://youtu.be/rxJZ7oG0UOQ>
 
+## Entity Relation Diagrams - DataBase
+
+- [article](https://newdevsguide.com/2023/04/08/creating-erds-with-mermaid/)
+- [docs](https://mermaid.js.org/syntax/entityRelationshipDiagram.html)
+```mermaid
+erDiagram
+  users {
+    int id
+    string name
+    string email
+    timestamp created_at
+    timestamp updated_at
+  }
+```
+
 ## simple graph
 
 ```mermaid
@@ -104,5 +119,4 @@ graph
   --> entities
   --> DB
 ```
-
 

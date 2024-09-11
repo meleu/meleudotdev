@@ -4,3 +4,6 @@
 [submodule "repos/meleu.sh"]
 	path = repos/meleu.sh
 	url = git@github.com:meleu/meleudotsh.git
+[submodule "repos/tdd-ruby"]
+	path = repos/tdd-ruby
+	url = git@github.com:meleu/tdd-ruby.git

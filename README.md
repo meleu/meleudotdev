@@ -1,11 +1,12 @@
 ---
 dg-publish: true
 dg-home: true
-dg-show-backlinks: false
-dg-show-toc: false
-dg-show-local-graph: false
+dg-show-backlinks: "false"
+dg-show-toc: "false"
+dg-show-local-graph: "false"
 title: "meleu.dev"
 ---
+
 # Hi, I'm meleu! 👋
 
 <div style="text-align: center">
@@ -25,8 +26,8 @@ This is my 🌱 [[digital garden]]. Most of the contents is not "finished", but 
 I believe that **writing is thinking**, and the notes here exist to aid my thinking, learning and creating. I keep them public because [learning in public](https://www.swyx.io/learn-in-public/) helps me to learn faster.
 
 Here are some things that might be interesting to you:
-
 - 🧑‍💻 info [[about]] me.
+- 🗒️ a growing list of little things I've been learning: [[til]] (Today I Learned)
 - 📰 [[articles]] I write about nerdy things (sometimes in [[artigos|portuguese]]).
 - 🇧🇷🇵🇹 [[traducoes]] de artigos da área de TI que julgo que permanecerão relevantes por muitos anos.
 - 📚 [[books]] I've been reading ([[books-tech|tech]], [[books-fiction|fiction]], or [[books-nonfiction|non-fiction]]).

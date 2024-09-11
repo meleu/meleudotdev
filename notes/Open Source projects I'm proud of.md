@@ -9,6 +9,9 @@ dg-publish: true
 - [[#RADocs - docs & docs website pipeline|RADocs - docs & docs website pipeline]]
 - [[#RANews - webdesign/webdevelopment|RANews - webdesign/webdevelopment]]
 - [[#RABot - Discord Bot|RABot - Discord Bot]]
+- [[#Other Contributions|Other Contributions]]
+    - [[#RetroArch|RetroArch]]
+    - [[#RetroPie|RetroPie]]
 
 ---
 
@@ -27,8 +30,16 @@ What I did:
 - created the [documentation project](https://docs.retroachievements.org/).
 - community management
 
+### Interviews & Podcasts
 
-## RADocs - docs & docs website pipeline
+Since I put a lot of effort into the [RetroAchievements](https://retroachievements.org) project, I was interviewed on some podcasts to talk about myself and my involvement with the project.
+
+- [The SEGA Lounge - RetroAchievements with meleu](https://www.thesegalounge.com/133-retroachievements/)
+- [RAPodcast Episode 5 - meleu](https://youtu.be/49vgbPt9MWA)
+- [RA Talks 4 - meleu](https://youtu.be/XtXbugukhAU) (in Portuguese)
+
+
+## RADocs - docs & website pipeline
 
 - website: <https://docs.retroachievements.org>
 
@@ -68,3 +79,19 @@ Technologies used:
 - JavaScript/NodeJS
 - [DiscordJS](https://discord.js.org/#/)
 - A bunch 3rd party APIs.
+
+
+## Other Contributions
+
+### RetroArch
+
+[RetroArch](https://github.com/libretro/RetroArch/) is a highly portable multi-emulator written in C.
+
+I've made some contributions related to the RetroAchievements feature. [Here's the list of commits](https://github.com/libretro/RetroArch/commits/master?author=meleu).
+
+### RetroPie
+
+[RetroPie](https://retropie.org.uk/) is a collection of shell scripts that turns a Raspberry Pi into a retrogaming station.
+
+I've added some automated configuration features, using bash and Python. [Here's the list of commits](https://github.com/RetroPie/RetroPie-Setup/commits/master?author=meleu).
+

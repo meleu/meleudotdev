@@ -147,3 +147,28 @@ silent = true
 ```
 
 **This is incomplete...**
+
+I found this in an old `.bashrc` file:
+
+```
+# mount Google Drive & sync with unison
+###############################################################################
+# Requirements:
+# - https://github.com/astrada/google-drive-ocamlfuse
+# - https://github.com/bcpierce00/unison
+#
+# Configuring a systemd unit:
+# - google-drive-ocamlfuse:
+# https://github.com/astrada/google-drive-ocamlfuse/wiki/Automounting#mount-using-systemd
+#
+# - unison [just as inspiration]:
+# https://gist.github.com/asksven/ee38dbe5bdab7e39aa133a1df24dd034
+###############################################################################
+# [[ -s "${HOME}/.config/systemd/user/gdrive.service" ]] \
+#   && [[ -s "${HOME}/.config/systemd/user/unison.service" ]] \
+#   && [[ -s "${HOME}/.unison/gdrive.prf" ]] \
+#   && ! mountpoint -q "${HOME}/gdrive" \
+#   && systemctl start --user gdrive
+# && systemctl start --user unison
+# stopped using unison because I paid a subscription of Obsidian Sync
+```

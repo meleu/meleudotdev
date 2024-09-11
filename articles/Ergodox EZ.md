@@ -36,7 +36,7 @@ Um tempo depois vi uma apresentação do [swyx](https://swyx.io/) chamada [[oper
 Scott Hanselman:
 > Cuide de si mesmo. esse trabalho pode destruir suas mãos, costas e ombros. Caminhe, converse, fique de pé, agache, qualquer coisa. **Suas mãos, costas e cérebro são o seu dinheiro**. Trate-os bem agora e eles durarão de 30 a 50 anos.
 
-Pois bem... Eu particularmente não tenho hoje nenhum problema físico pra trabalhar no computador. Mas como não pretendo ter esse tipo de problema para começar a me preocupar com ele, aproveitei o fato de estar com uma grana extra na mão e investi em um equipamento que eu uso todos os dias por aproximadamente 8 horas.
+Pois bem... Atualmente não tenho problema físico algum pra trabalhar no computador. E como não pretendo ter esse tipo de problema para começar a me preocupar com ele, aproveitei o fato de estar com uma grana extra na mão e investi em um equipamento que eu uso todos os dias por aproximadamente 8 horas.
 
 Após algumas pesquisadas pela interwebs, cheguei a conclusão que teclado split era o caminho, e depois de mais algumas googladas acabei indo para o [Ergodox EZ](https://ergodox-ez.com/).
 
@@ -45,7 +45,7 @@ Após algumas pesquisadas pela interwebs, cheguei a conclusão que teclado split
 
 Foi caro. Tipo, **muito caro**. Somando teclado mais taxas de importação, deu perto de R$ 2,5k.
 
-Só comprei por que realmente apareceu uma grana extra pra torrar e eu tava nessa fissura de cuidar do meu corpitcho. Eu amo codar e e se tivesse que parar de fazer isso por problemas causados por má ergonomia, isso me deixaria muito deprimido (muito mais do que saber que estou 2 mil reais mais pobre).
+Só comprei por que realmente apareceu uma grana extra pra torrar e eu tava nessa fissura de cuidar do meu corpitcho. Eu amo codar e se tivesse que parar de fazer isso por problemas causados por má ergonomia, isso me deixaria muito deprimido (muito mais do que saber que estou 2 mil reais mais pobre).
 
 **Dica**: se você se preocupa com ergonomia mas não tem condições ou vontade de desembolsar tanta grana num teclado desses, pesquise teclados split que estejam mais em conta. Falo isso porque, após mais de um ano utilizando o Ergodox EZ, percebo que o maior benefício ergonômico é poder digitar com as mãos afastadas uma da outra. Deixar as mãos alinhadas com os cotovelos e ombros é uma posição bem mais relaxada e natural.
 

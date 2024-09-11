@@ -3,6 +3,10 @@ dg-publish: true
 ---
 # jq
 
+## services to practice JSON parsing
+
+- <https://jsonplaceholder.typicode.com/>
+
 ## minify JSON with jq
 
 ```shell

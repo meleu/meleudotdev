@@ -29,13 +29,12 @@ exmap rsb obcommand app:toggle-right-sidebar
 exmap wiki surround [[ ]]
 map [[ :wiki
 
-exmap surround_double_quotes surround " "
-exmap surround_single_quotes surround ' '
-exmap surround_brackets surround ( )
-exmap surround_square_brackets surround [ ]
-exmap surround_curly_brackets surround { }
-exmap surround_double_quotes surround " "
-exmap surround_double_quotes surround " "
+exmap sur` :surround ` `
+exmap sur" :surround " "
+exmap sur' :surround ' '
+exmap sur) :surround ( )
+exmap sur] :surround [ ]
+exmap sur} :surround { }
 
 " NOTE: disable 's' command (delete and enter Insert mode) for Visual Mode
 " NOT WORKING!

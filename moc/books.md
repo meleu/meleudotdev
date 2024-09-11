@@ -6,9 +6,7 @@ dg-permalink: books
 
 ## currently reading
 
-- ⭐ [[Rápido e Devagar]]
-- [[Effective Software Testing]]
-- [[Pragmatic Programmer]]
+- [[Tidy First]]
 
 ---
 
@@ -24,18 +22,36 @@ Maybe this list can tell a bit about who I am.
 
 ---
 
+
+## 2024
+
+### unfinished
+
+- ⭐ [[99 Bottles of OOP]]
+- [[Aprendendo TypeScript]]
+
+
 ## 2023
 
 - ⭐ [[Bom Demais Para Ser Ignorado]]
 - ⭐ [[O Valor do Amanha]]
 - ⭐ [[O Programador Apaixonado]]
 - [[Clean Coder]]
+- [[Risiveis Amores]] - Kundera
+- [[O Ego é Seu Inimigo]]
 
 ### unfinished
 
 - [[Startup Enxuta]] (portuguese version of "Lean Startup")
 - [[Pense e Enriqueca]]
-
+- [[Effective Software Testing]]
+- [[Pragmatic Programmer]]
+- ⭐ [[Rápido e Devagar]]
+- [[Continuous Delivery]]
+- [[A Ascensao do Dinheiro]]
+- [[Practical Object-Oriented Design]]
+- [[Practical Vim]]
+- [[Clean Code in JavaScript]]
 
 
 ## 2022
@@ -116,7 +132,7 @@ Maybe this list can tell a bit about who I am.
 - ⭐ [[Farenheit 451]]
 - [[As Intermitencias da Morte]]
 - [[O Poder do Habito]]
-- ⭐ [[O homem mais rico da Babilônia]]
+- ⭐ [[O homem mais rico da Babilonia]]
 - [[O apanhador no campo de centeio]]
 - [[101 perguntas e respostas para investidores iniciantes]]
 - ⭐ [[Segredos da Mente Milionária]]

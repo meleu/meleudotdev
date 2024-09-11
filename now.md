@@ -5,10 +5,7 @@ dg-publish: true
 
 Topics I'm currently diving into:
 
-- Ruby on Rails
-- [[GitHub Actions - Udemy]]
 - [[TDD-Refactoring literature]]
-
 
 ## Frequent Ideas
 
@@ -21,14 +18,3 @@ Topics I'm currently diving into:
 
 - [ ] [[Effective Software Testing]]
 - [ ] advanced usage of [[vim]]
-- [x] [[Rust]]
-- [x] Ruby (Le Wagon bootcamp)
-- [x] [[Fundamentals of TDD - upcase]]
-
-
-## 2023 goals
-
-- [ ] play with 12 programming languages - [[exercism - 12in23 challenge]]
-- [x] work with Ruby
-- [x] do the Le Wagon bootcamp
-

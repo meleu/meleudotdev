@@ -10,6 +10,7 @@ deck: webdev::rails
 
 Flashcards for Rails. Created with [Obsidian Anki Sync](https://github.com/debanjandhar12/Obsidian-Anki-Sync) notation.
 
+### Rails Contr
 
 ---
 

@@ -8,9 +8,10 @@ dg-publish: true
 
 **Table of Contents**:
 
-- [[#meleu in 15 seconds|meleu in 15 seconds]]
-- [[#meleu in 2 minutes|meleu in 2 minutes]]
-- [[#Interviews & Podcasts|Interviews & Podcasts]]
+- [[#meleu in 15 seconds]]
+- [[#meleu in 2 minutes]]
+
+For a more professional perspective, see: [[hire]]
 
 ---
 
@@ -18,15 +19,15 @@ dg-publish: true
 
 - 🐧 Linux nerd since the late 90s
 
-- 👨‍💻 Software Engineer and an [open source enthusiast](https://github.com/meleu), currently working as a [DevOps Specialist](https://www.linkedin.com/in/meleu/).
+- 👨‍💻 **Software Engineer**. With experience as a **DevOps Specialist** and as a **Software Quality Engineer** ([LinkedIn profile](https://www.linkedin.com/in/meleu/)).
 
-- 🤓 Generalist programmer, with a greater affinity with Ruby on Rails and JavaScript (NodeJS). I also worked with PHP, HTML/CSS, and made some contributions related to low-level stuff using C (mainly related to [RetroArch](https://github.com/libretro/RetroArch/)).
+- 👾 [Open Source enthusiast and retrogaming fan](https://github.com/meleu). I've contributed to projects like [RetroAchievements](https://retroachievements.org), [RetroPie](https://retropie.org.uk) and [RetroArch](https://github.com/libretro/retroarch) (more details [[Open Source projects I'm proud of|about my contributions here]]).
+
+- 🤓 Generalist programmer, currently  focused in the Ruby on Rails ecosystem. I also worked with JavaScript (NodeJS), PHP, HTML/CSS, and coded some low-level stuff using C (mainly related to [RetroArch](https://github.com/libretro/RetroArch/)).
 
 - 🧼 I like my code clean and maintainable.
 
-- 🐚 I love the shell and the Command Line Interface. I write a blog (**in portuguese**) totally focused on the terminal environment: <https://meleu.sh>
-
-- ️👾 Big retrograming fan. Between 2016-2021 I dedicated a big portion of my free time to [[Open Source projects I'm proud of|open source projects related to this hobby]] (gave some [[#Interviews & Podcasts|interviews]] talking about such contributions).
+- 🐚 I love the Command Line Interface. I have a blog (**in portuguese**) totally focused on the terminal environment: <https://meleu.sh>
 
 - 📚 Avid book reader. Maybe you can know more about me seeing the list of [[books]] I read.
 
@@ -39,29 +40,18 @@ I spent a big portion of my youth having fun with Linux, shell scripting, C prog
 
 In 2004 I started working in the oil industry, as a Control Room Operator of an Oil Rig (where I stayed for 17 years). Yeah, it wasn't a job in the IT field, but for a lad in his early 20s, that was an exciting one.
 
-In 2011 I graduated in Computer Science (while still working) and thought the natural path would be to work with IT, but the ~~money~~ fate made me stay in the same job.
-
-During the years spent in the oil industry, besides acquiring good technical knowledge and systemic view of industrial processes, I was also able to develop my social and communication skills, working and managing people with different backgrounds.
+In 2011 I graduated in Computer Science (while still working).
 
 In 2016 I started to get involved with open source projects related to my hobby: retrogaming. I started with [RetroPie](https://retropie.org.uk/) (using a lot of bash scripting), made some contributions to [RetroArch](https://github.com/libretro/RetroArch) (using the C language), and then I became focused in the [RetroAchievements](https://github.com/RetroAchievements) project (using a myriad of web technologies like HTML/CSS/JavaScript, SQL, NodeJS, PHP, git, bash, etc.).
 
 In RetroAchievements, as part of the project's leadership, I became some sort of a community manager, where I used a lot of the, so called, *soft skills*. I also produced a lot of [documentation](https://docs.retroachievements.org/) for the project.
 
-Since 2018, I started to manage Linux servers for a few customers/friends and also launched the <https://meleu.sh/> website, sharing my knowledge about shell scripting (in Portuguese).
+(For more detailed info, see [[Open Source projects I'm proud of]])
 
-In 2021 I finally left the oil industry. I started my career as DevOps Engineer, mainly handling CI/CD pipelines and deploying containerized applications to Kubernetes. During that time I realized how beneficial it was for me to have a broad experience with industrial processes. It's a highly valuable knowledge to have in the DevOps world.
+Since 2018, I started to manage Linux servers for a few customers and also launched the <https://meleu.sh/> website, sharing my knowledge about shell scripting (in Portuguese).
 
----
+I also created the <https://logbots.app> for a logistics company. It's a follow up web app integrated with a telegram bot, where drivers can update the status of their shipments. That's a project I developed entirely from scratch.
 
-## Interviews & Podcasts
+In 2021 I left the oil industry to work full-time as a DevOps Engineer. Mainly handling CI/CD pipeline, test automation and deploying containerized applications to Kubernetes.
 
-Since I put a lot of effort into the [RetroAchievements](https://retroachievements.org) project, I was interviewed on some podcasts to talk about myself and the project.
-
-- [The SEGA Lounge - RetroAchievements with meleu](https://www.thesegalounge.com/133-retroachievements/)
-- [RAPodcast Episode 5 - meleu](https://youtu.be/49vgbPt9MWA)
-- [RA Talks \#4 - meleu](https://youtu.be/XtXbugukhAU) (in Portuguese)
-
----
-
-See also the [[Open Source projects I'm proud of]].
-
+In 2023 I decided to focus on Web Development with the Ruby on Rails stack.

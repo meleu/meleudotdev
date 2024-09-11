@@ -7,8 +7,9 @@ dg-publish: true
 brew install colima
 brew install docker
 
-colima start
+colima start --runtime docker
 
 # testing
-docker container run --rm -it alpine
+docker container run --rm hello-world
 ```
+

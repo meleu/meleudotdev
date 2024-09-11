@@ -29,7 +29,7 @@ And you want this:
 Steps to quickly achieve that:
 - cursor on the first line
 - `yyp` - copy the line and paste below, the cursor follows
-- `cW`.news - change `.blog` with `.news`
+- `cW.news` - replace `.blog` with `.news`
 - `180<c-x>` - yeah! this is enough to make `0` become `-180`! there's no need to even move the cursor!
 - `w.` - go to the next word and repeat
 

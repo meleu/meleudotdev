@@ -4,7 +4,7 @@ dg-publish: true
 ## Code Coverage highlighting
 
 > [!note]
-> This is an excerpt from copied from <https://jmatuszewski.com/Automatically-run-Rails-tests-in-VS-Code-and-highlight-test-coverage/>.
+> This is an excerpt from <https://jmatuszewski.com/Automatically-run-Rails-tests-in-VS-Code-and-highlight-test-coverage/>.
 
 > [!todo]
 > Make it work with minitest!

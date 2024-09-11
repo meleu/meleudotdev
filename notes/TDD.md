@@ -6,6 +6,7 @@ dg-publish: true
 - <https://tddmanifesto.com/getting-started/>
 - <https://tddmanifesto.com/a-clean-test/>
 - <https://tddmanifesto.com/exercises/>
+- <https://online-training.jbrains.ca/p/wbitdd-01>
 
 
 <!-- basicblock-start oid="ObsHeA3rTomq5owz6XxpuqE3" -->

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 ---
 # Exercism Configuration to practice Ruby
 

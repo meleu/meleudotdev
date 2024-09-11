@@ -6,7 +6,8 @@ cards-deck: webdev::ruby
 
 See [[A melhor maneira que encontrei para aprender Ruby]].
 
-[TOC]
+Ruby LSP for Ruby version < 3.0: <https://nrogap.medium.com/install-ruby-lsp-in-vs-code-128f02571ea0>
+
 
 ---
 
@@ -16,6 +17,13 @@ See [[A melhor maneira que encontrei para aprender Ruby]].
 <https://blog.dennisokeeffe.com/blog/2022-03-12-simplecov-with-ruby-and-github-actions>
 
 
+---
+
+## Ruby Books
+
+https://ryanbigg.com/books
+
+---
 
 
 ## Ruby Basics

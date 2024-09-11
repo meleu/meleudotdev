@@ -20,7 +20,8 @@ dg-publish: true
 
 Create an ingress resource from command line:
 ```bash
-kubectl create ingress INGRESS-NAME --rule=HOST/PATH=SERVICE_NAME:PORT \
+kubectl create ingress INGRESS-NAME \
+  --rule=HOST/PATH=SERVICE_NAME:PORT \
   --dry-run=client -o yaml > INGRESS-NAME.yaml
 ```
 

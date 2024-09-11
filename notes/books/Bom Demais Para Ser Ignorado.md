@@ -37,7 +37,7 @@ Pode parecer contra-intuitivo, mas o autor oferece várias evidências de como i
 
 O exemplo do Steve Jobs é bem emblemático. Apesar dele dizer em sua famosa palestra que "A única maneira de fazer um ótimo trabalho é amar o que faz", vemos em sua biografia que o seu sucesso não se deve exatamente a esta abordagem.
 
-Se o jovem Steve Jobs seguisse e linha de "seguira sua paixão", provavelmente ele se tornaria um monge budista, ou um hipponga do gênero.
+Se o jovem Steve Jobs seguisse e linha de "seguir a sua paixão", provavelmente ele se tornaria um monge budista, ou um hipponga do gênero.
 
 > Faça o que o Steve Jobs fez, não o que ele disse.
 

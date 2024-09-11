@@ -7,8 +7,11 @@ dg-publish: true
 
 ## Things I wanna do
 
-- shortcut to move windows to the side of the screen
-- shortcut to alternate between visible windows
+- define bash homebrew as the default `bash`
+- define GNU sed as the default `sed`
+
+- shortcut to move windows to the side of the screen - use yabai
+- shortcut to alternate between visible windows - use yabai
 
 Solution I found: use Yabai!!! -> <https://www.youtube.com/watch?v=k94qImbFKWE>
 

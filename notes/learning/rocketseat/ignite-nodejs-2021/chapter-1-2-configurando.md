@@ -20,7 +20,7 @@ yarn add nodemon -D
 mkdir src
 ```
 
-- criar um src/index.js com um hello world
+- criar um `src/index.js` com um hello world
 - editar o `package.json`
 ```json
 "scripts": {

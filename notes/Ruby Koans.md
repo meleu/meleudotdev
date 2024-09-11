@@ -142,7 +142,7 @@ assert_equal 'It is raining cats and dogs.', string
 
 ---
 
-### The `<<` shovel operator changes the original string
+### The shovel operator changes the original string
 
 In `about_strings.rb`
 
@@ -209,6 +209,80 @@ my_hash['nonexisting key']
 #=> "this is my default value"
 ```
 
+### The hash's default value is the same object
+
+```ruby
+h = Hash.new([])
+#=> {}
+
+h[:invalid]
+#=> []
+
+# pushing a string to the default value (which is an array)
+h[:one] << 'uno'
+#=> ["uno"]
+
+# the default value was updated
+h[:invalid]
+#=> ["uno"]
+
+h[:two] << 'dos'
+#=> ["uno", "dos"]
+
+h[:invalid]
+# => ["uno", "dos"]
+
+h[:one]
+# => ["uno", "dos"]
+h[:two]
+# => ["uno", "dos"]
+
+# the actual hash is still empty
+h
+# => {}
+```
+
+If you want default values to be unique objects **AND** the hash to be populated, use a block when instantiating a new hash.
+
+```ruby
+# a new empty array is created 
+h = Hash.new { |hash, key| hash[key] = [] }
+# => {}
+
+# invalid key returns an empty array...
+h[:invalid]
+# => []
+
+# ... and creates a key-value pair in the hash
+h
+# => {:invalid=>[]}
+
+# another invalid key creates an empty array and populate it
+h[:one] << 'uno'
+# => ["uno"]
+
+# invalid key still returns an empty array
+h[:invalid]
+# => []
+
+h[:one]
+# => ["uno"]
+
+# creating another brand new array
+h[:two] << 'dos'
+# => ["dos"]
+
+h[:one]
+# => ["uno"]
+
+h[:two] 
+# => ["dos"]
+
+h
+# => {:invalid=>[], :one=>["uno"], :two=>["dos"]}
+
+```
+
 ---
 
 
@@ -216,7 +290,7 @@ my_hash['nonexisting key']
 
 ### about strings
 
-#### Why Ruby programmers tend to favor the `<<` shovel operator over the `+=` plus equals operator when building up strings?
+#### Why Ruby programmers tend to favor the shovel operator over the `+=` plus equals operator when building up strings?
 
 Maybe because it modifies the original string... 🤔
 

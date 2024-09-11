@@ -6,7 +6,6 @@ dg-publish: true
 ## themes
 
 - ⭐ <https://github.com/adityatelange/hugo-PaperMod/> - this seems to be the best theme to be used for now
-- <https://themes.gohugo.io/themes/ronu-hugo-theme/> -really simple and clean - [demo](https://www.softwareyoga.com/)
 - <https://themes.gohugo.io/hugo-theme-timeline/> - useful for when needing a timeline.
 - harbor
 - congo

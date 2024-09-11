@@ -3,6 +3,13 @@ dg-publish: true
 ---
 # HTTP
 
+## RFCs
+
+- [9110 - HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110)
+- [9111 - HTTP Caching](https://www.rfc-editor.org/rfc/rfc9111)
+- [9112 - HTTP 1.1](https://www.rfc-editor.org/rfc/rfc9112)
+- [9113 - HTTP 2](https://www.rfc-editor.org/rfc/rfc9113)
+- [9114 - HTTP 3](https://www.rfc-editor.org/rfc/rfc9114)
 
 ## HTTP verbs:
 

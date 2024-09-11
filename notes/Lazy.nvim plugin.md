@@ -3,7 +3,7 @@ dg-publish: true
 ---
 ## Lazy.nvim plugin
 
-> See also: [[LazyVim]] (the distribution)
+> See also: [[notes/LazyVim]] (the distribution)
 
 Awesome video to get started with Lazy.nvim plugin manager:
 <https://youtu.be/6mxWayq-s9I>
