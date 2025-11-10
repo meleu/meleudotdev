@@ -8,7 +8,7 @@ author: Eric S. Raymond
 
 # The Art of Unix Programming
 
-#books/tech 
+# books/tech
 
 ## Por que eu li esse livro?
 
@@ -66,7 +66,6 @@ Fazendo uma conexão com outras áreas da vida, isso tb está relacionado com a 
 16. [[Regra da Diversidade]]: Desconfie de todas reivindicações de "o caminho verdadeiro".
 17. [[Regra da Extensibilidade]]: Projete para o futuro, pois ele estará aqui mais cedo do que você pensa.
 
-
 ## Outros livros mencionados
 
 - The Design of the Unix Operating System
@@ -75,98 +74,60 @@ Fazendo uma conexão com outras áreas da vida, isso tb está relacionado com a 
 - The Practice of Programming
 - Zen Flesh, Zen Bones
 
-
 ## Anki Cards
 
 TARGET DECK: programming
 
-Número de regras da filosofia Unix? #flashcard 
+Número de regras da filosofia Unix? #flashcard
 17
-<!--ID: 1627938988782-->
 
-
-1. Regra da Modularidade (Unix) #flashcard 
+1. Regra da Modularidade (Unix) #flashcard
 Escreva partes simples conectadas por interfaces limpas.
-<!--ID: 1627938988787-->
 
-
-2. Regra da Clareza (Unix) #flashcard 
+2. Regra da Clareza (Unix) #flashcard
 Clareza é mais importante que esperteza.
-<!--ID: 1627938988791-->
 
-
-3. Regra da Composicao (Unix) #flashcard 
+3. Regra da Composicao (Unix) #flashcard
 Projete programas para serem conectados a outros programas.
-<!--ID: 1627938988795-->
 
-
-4. Regra da Separacao (Unix) #flashcard 
+4. Regra da Separacao (Unix) #flashcard
 Separe política do mecanismo; separe interfaces dos motores.
-<!--ID: 1627938988799-->
 
-
-5. Regra da Simplicidade (Unix) #flashcard 
+5. Regra da Simplicidade (Unix) #flashcard
 Projete para simplicidade; adiciona complexidade apenas onde você precisa.
-<!--ID: 1627938988803-->
 
-
-6. Regra da Parsimonia (Unix) #flashcard 
+6. Regra da Parsimonia (Unix) #flashcard
 Escreva um programa grande apenas quando é claro por demonstração que nada mais serve.
-<!--ID: 1627938988807-->
 
-
-7. Regra da Transparencia (Unix) #flashcard 
+7. Regra da Transparencia (Unix) #flashcard
 Projete para visibilidadade para tornar mais fácil a inspeção e depuração.
-<!--ID: 1627938988811-->
 
-
-8. Regra da Robustez (Unix) #flashcard 
+8. Regra da Robustez (Unix) #flashcard
 Robustez é o filho da transparência e simplicidade.
-<!--ID: 1627938988815-->
 
-
-9. Regra da Representacao (Unix) #flashcard 
+9. Regra da Representacao (Unix) #flashcard
 Agrupe conhecimento em dados para que a lógica do programa seja estúpida e robusta.
-<!--ID: 1627938988819-->
 
-
-10. Regra da Menor Surpresa (Unix) #flashcard 
+10. Regra da Menor Surpresa (Unix) #flashcard
 Ao projetar interfaces, sempre faça a coisa menos surpreendente.
-<!--ID: 1627938988823-->
 
-
-11. Regra do Silencio (Unix) #flashcard 
+11. Regra do Silencio (Unix) #flashcard
 Quando um programa não tem nada surpreendente para dizer, ele deve dizer nada.
-<!--ID: 1627938988827-->
 
-
-12. Regra do Reparo (Unix) #flashcard 
+12. Regra do Reparo (Unix) #flashcard
 Quando precisar falhar, falhe ruidosamente e o mais rápido possível.
-<!--ID: 1627938988831-->
 
-
-13. Regra da Economia (Unix) #flashcard 
+13. Regra da Economia (Unix) #flashcard
 O tempo do programador é caro; conserve-o em preferência ao tempo de máquina.
-<!--ID: 1627938988835-->
 
-
-14. Regra da Geracao (Unix) #flashcard 
+14. Regra da Geracao (Unix) #flashcard
 Evite hacking manual; escreva programas para escrever programas quando puder.
-<!--ID: 1627938988839-->
 
-
-15. Regra da Otimizacao (Unix) #flashcard 
+15. Regra da Otimizacao (Unix) #flashcard
 Faça um protótipo antes de polir. Deixe funcionando antes de otimizar.
-<!--ID: 1627938988844-->
 
-
-16. Regra da Diversidade (Unix) #flashcard 
+16. Regra da Diversidade (Unix) #flashcard
 Desconfie de todas reivindicações de "o caminho verdadeiro".
-<!--ID: 1627938988848-->
 
-
-17. Regra da Extensibilidade (Unix) #flashcard 
+17. Regra da Extensibilidade (Unix) #flashcard
 Projete para o futuro, pois ele estará aqui mais cedo do que você pensa.
-<!--ID: 1627938988852-->
-
-

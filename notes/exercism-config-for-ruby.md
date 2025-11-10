@@ -3,10 +3,9 @@ dg-publish: true
 ---
 # Exercism Configuration to practice Ruby
 
-An attempt to provide instructions for those who want to practice Ruby right after finishing the Le Wagon's Full-Stack Web Development bootcamp.
+This is an attempt to provide instructions for those who want to keep practicing Ruby right after finishing the Le Wagon's Full-Stack Web Development bootcamp.
 
 Website: <https://exercism.org>
-
 
 ## Create an account
 

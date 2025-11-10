@@ -19,6 +19,22 @@ See also: [[LazyVim for coding]]
 
 ---
 
+## Mason v2 incompatibility
+
+- <https://github.com/LazyVim/LazyVim/issues/6039>
+
+## Notes about LazyVim v14
+
+- `telescope` was replaced by `fzf-lua`
+    - config the "go to References"
+    - `gr` for `ReplaceWithRegister`
+- `nvim-cmp` was replaced by `blink.cmp
+    - config the borders
+    - [x] disable enter to accept autosuggestions
+
+
+---
+
 ## Useful keybindings to know right-away
 
 ### Notifications
@@ -116,6 +132,22 @@ vim.keymap.set("n", "gt", ":bnext<cr>", { desc = "Next buffer" })
 
 ### disable `<enter>` to accept autosuggestions
 
+Starting from LazyVim v14, completions are being done by `blink.cmp`.
+
+The config is this simple:
+
+```lua
+return {
+  "saghen/blink.cmp",
+  opts = {
+    keymap = {
+      preset = "default",
+    },
+  },
+}
+```
+
+#### old way - for nvim-cmp
 [Inspiration from here.](https://lazyvim-ambitious-devs.phillips.codes/course/chapter-5/#modifying-existing-options).
 
 The code below disables `<cr>` to accept autosuggestions and configure `<tab>`/`<s-tab>` to choose the suggestions.
@@ -228,13 +260,6 @@ return {
 return {
   "neovim/nvim-lspconfig",
   opts = function(_, opts)
-    local keys = require("lazyvim.plugins.lsp.keymaps").get()
-
-    -- other configs...
-
-    -- use gh to "hover documentation"
-    keys[#keys + 1] = { "gh", vim.lsp.buf.hover, desc = "Hover" }
-
     opts.diagnostics = {
       float = {
         border = "rounded",

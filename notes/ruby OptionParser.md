@@ -1,0 +1,2 @@
+- [tutorial oficial](https://ruby-doc.org/3.4.1/optparse/tutorial_rdoc.html)
+- [about subcommands](https://naildrivin5.com/blog/2025/10/07/building-a-sub-command-ruby-cli-with-just-optionparser.html)

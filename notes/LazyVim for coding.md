@@ -9,10 +9,13 @@ dg-publish: true
 
 See also: [[notes/LazyVim]]
 
-## Things I still wanna do
+## TODO
 
-- copiloting with other AI models
-- get used to the trouble.nvim and how to use it
+I still must figure out:
+
+- solving merge conflicts
+- do a "live-grep" filtering the directories
+- neotest-bats
 
 ## Useful things to know right-away
 
@@ -34,6 +37,10 @@ Sometimes Language Servers don't work and a `:LspStart` (or `:LspRestart`) solve
 
 ---
 
+## LazyExtras
+
+- `ui.treesitter-context`: mantém o contexto do código no topo. TODO: quero aumentar a quantidade de níveis de contexto.
+
 ## configs
 
 ### `.bats` as shell scripts
@@ -47,6 +54,8 @@ vim.filetype.add({
   extension = { bats = "sh" },
 })
 ```
+
+TODO: Dangerfile
 
 ### disable json and yaml "renderization"
 

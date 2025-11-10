@@ -7,20 +7,17 @@ While reading [[Desenvolvimento Agil Limpo]] I became interested in a deep dive 
 
 In this note I'm trying to list some fundamental books about these topics.
 
-## online courses
+> [!IMPORTANT]
+> Check the book I'm writing: <https://tdd-ruby.gitbook.io>
 
-- my very first contact was with [[ruby minitest cheatsheet]]
-- then I went to [[RSpec - udemy]]
-- and got some interesting insights from upcase's [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd).
-- Rails Testing Exercises (upcase): <https://thoughtbot.com/upcase/rails-testing-exercises>
 
 ## must read
 
-- Test-Drive Development: By Example - Kent Beck (iff: B393t / 005.14)
-- Understanding the Four Rules of Simple Design - Corey Haines - [link](https://leanpub.com/4rulesofsimpledesign)
+- ✅ [[Test-Driven Development by Example]] - Kent Beck (iff: B393t / 005.14)
+- ✅ [[Understanding the Four Rules of Simple Design]] - Corey Haines - [link](https://leanpub.com/4rulesofsimpledesign)
 - [[Clean Code]] - Robert Martin
-- Refatoração: Aperfeiçoando o Design de Códigos Existentes - Martin Fowler
 - Trabalho Eficaz com Código Legado - Michael Feathers
+- Refatoração: Aperfeiçoando o Design de Códigos Existentes - Martin Fowler
 - [[eXtreme Programming Explained]]: Embrace Change - Kent Beck (iff: B393p / 005.1)
 
 
@@ -35,3 +32,10 @@ In this note I'm trying to list some fundamental books about these topics.
 - https://www.manning.com/books/the-mikado-method
 
 
+
+## online courses
+
+- my very first contact was with [[ruby minitest cheatsheet]]
+- then I went to [[RSpec - udemy]]
+- and got some interesting insights from upcase's [Fundamentals of TDD](https://thoughtbot.com/upcase/fundamentals-of-tdd).
+- [Just Searls - My favorite way to TDD](https://testdouble.com/insights/how-i-use-test-doubles)

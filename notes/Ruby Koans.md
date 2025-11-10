@@ -68,6 +68,10 @@ assert expected == actual
 assert_equal expected, actual
 ```
 
+### About True and False
+
+Only `false` and `nil` are falsy values.
+
 ### About Strings
 
 ```ruby
@@ -93,6 +97,9 @@ hi = original_string
 there = "World"
 hi += there
 assert_equal 'Hello, ', original_string
+# here 👆 it didn't modify the original_string
+# because in `hi = original_string` a copy was
+# created
 
 # shovel operator append content to a string
 hi = "Hello, "
@@ -107,6 +114,12 @@ hi = original_string
 there = "World"
 hi << there
 assert_equal "Hello, World", original_string
+# THINK ABOUT IT:
+#
+# Ruby programmers tend to favor the shovel operator (<<) over the
+# plus equals operator (+=) when building up strings.  Why?
+# My (meleu) answer: because it's faster. And it's faster
+# because it doesn't create a copy of the original string.
 
 # single quotes interpret backslash as escape chars
 string = '\\\''
@@ -121,6 +134,12 @@ assert_equal 'let', string[7..9]
 string = "Bacon, lettuce and tomato"
 assert_equal 'a', string[1]
 # a bit surprising...
+
+# strings are unique objects
+a = "a string"
+b = "a string"
+
+assert_equal false, a.object_id == b.object_id
 ```
 
 

@@ -9,24 +9,18 @@ Good reading: [thoughtbot guidelines for testing with RSpec](https://github.com/
 
 ## Fundamentals of TDD - Overview
 
-
 ## Red-Green-Refactor by Example
-
 
 ## Telling a Story with Your Tests
 
 - <https://thoughtbot.com/upcase/videos/telling-a-story-with-your-tests>
 
-<!-- basicblock-start oid="ObsbD5zGPHi7NJpG7tbqRnMR" -->
 ### Four Phases of Testing
-::
+
 - **Setup**: get the conditions correct for the test
 - **Exercise**: perform the thing that you're testing
 - **Verification**: verify that the exercise did what you expected
 - **Teardown**: undo any conditions that shouldn't persist post-test
-<!-- basicblock-end -->
-
-
 
 In this lesson it was mentioned that the test code should "tell a story", so it can work as documentation. Therefore, trying to DRY in test code can be a bad-practice.
 

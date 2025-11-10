@@ -3,18 +3,16 @@ dg-publish: true
 ---
 # What I'm into *now*
 
-Topics I'm currently diving into:
-
-- [[TDD-Refactoring literature]]
+- Writing [Learn Ruby with TDD](https://tdd-ruby.gitbook.io)
 
 ## Frequent Ideas
 
 - Managing complexity: the software's primary technical imperative. ([[Code Complete]])
-- How to encourage co-workers to care about the quality of their work, despite business pressure? ([[Clean Coder]])
+- How to encourage co-workers to care about the quality of their work? ([[Clean Coder]])
 - How can I integrate TDD techniques in my workflow? Have it as a second nature. To achieve this I need to invest time in [[TDD-Refactoring literature]].
 
 
-## Studying
+## 2025 Goals
 
-- [ ] [[Effective Software Testing]]
-- [ ] advanced usage of [[vim]]
+- [x] Carefully read [[99 Bottles of OOP]]
+- [ ] Carefully read [[TDD-Refactoring literature]]

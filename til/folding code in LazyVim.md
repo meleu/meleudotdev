@@ -11,3 +11,5 @@ Useful keymaps:
 - `zR` open all folds
 - `za` toggle fold under cursor
 - `zA` toggle fold in the whole block under cursor
+
+#vim 

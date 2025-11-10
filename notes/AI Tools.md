@@ -3,6 +3,8 @@ dg-publish: true
 ---
 # AI Tools
 
+[Video of a guy coding with Devin](https://www.youtube.com/watch?v=7UIYiOGtC8Y)
+
 ## Audio and Video AI Tools:  
 
 1. VoicePen AI:Convert audio content into blog posts, using AI.  

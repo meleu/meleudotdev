@@ -3,6 +3,10 @@ dg-publish: true
 ---
 # Knowledge Gaps
 
+## git worktrees
+
+I know this can be useful to keep different versions of the code base available in your filesystem, but I still need to find a natural way to put this in my workflow.
+
 ## Redis
 
 I don't know what is the exact usefulness of redis and what kind of problem it tries to solve.
@@ -15,7 +19,7 @@ I need to remember what exactly is NAT, what it does and how it works.
 
 ## VPN
 
-I need to understand, at least in general, how a Virtual Private Network works.
+I know how to use it, but I want to understand, at least in general, how a Virtual Private Network works.
 
 
 ## nslookup

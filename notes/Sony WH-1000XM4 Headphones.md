@@ -3,6 +3,10 @@ dg-publish: true
 ---
 # Sony WH-1000XM4 Headphones
 
+Pairing mode:
+
+With the phones off, press the power button for 7s (NOTE: you must keep the button pressed even after the voice saying "Power on")
+
 Cleaning the phones:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WnFetuJajfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

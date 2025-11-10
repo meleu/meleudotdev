@@ -19,7 +19,7 @@ For a more professional perspective, see: [[hire]]
 
 - 🐧 Linux nerd since the late 90s
 
-- 👨‍💻 **Software Engineer**. With experience as a **DevOps Specialist** and as a **Software Quality Engineer** ([LinkedIn profile](https://www.linkedin.com/in/meleu/)).
+- 👨‍💻 **Software Engineer**. With experience as **Full Stack Web Developer** and **DevOps Specialist**.
 
 - 👾 [Open Source enthusiast and retrogaming fan](https://github.com/meleu). I've contributed to projects like [RetroAchievements](https://retroachievements.org), [RetroPie](https://retropie.org.uk) and [RetroArch](https://github.com/libretro/retroarch) (more details [[Open Source projects I'm proud of|about my contributions here]]).
 

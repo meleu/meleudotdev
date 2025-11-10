@@ -18,7 +18,6 @@ git bisect good ${goodCommitHash}
 git bisect run ${commandToCheckCommitIsGood}
 ```
 
-
 ### checkout old commit and make it a new commit
 
 From [StackOverflow](https://stackoverflow.com/a/3382249/6354514).
@@ -34,7 +33,6 @@ git checkout ${commitHash} .
 git commit
 ```
 
-
 ---
 
 ### squash commits non-interactively
@@ -45,7 +43,7 @@ git reset --soft HEAD~3
 git commit -m 'new commit message'
 ```
 
-https://stackoverflow.com/a/7275658/6354514
+<https://stackoverflow.com/a/7275658/6354514>
 
 ---
 
@@ -84,6 +82,7 @@ GIT_TRACE=true \
 ### revert a commit
 
 Undoing **and removing** commits that were not yet pushed to the remote repository:
+
 ```sh
 # reverting a commit
 # the '--hard' option discards the changes made in the commits being reverted.
@@ -104,6 +103,7 @@ git commit --amend -m 'commit message'
 Undoing **and removing** commits that were already pushed to the remote repository
 
 **WARNING**: Don't do this in master or develop branch! Only do this when working alone in a branch!
+
 ```sh
 # reverting a commit
 git reset --hard HEAD~1
@@ -113,6 +113,7 @@ git push --force
 ```
 
 Reverting changes through a new commit actually changing the files to the previous state.
+
 ```sh
 # create a new commit changing the commit but in the reverse way
 git revert <commit-hash>
@@ -131,7 +132,6 @@ git log origin/master --max-count=1 --no-merges --format='format:%h'
 For more info about formatting see `man git log`.
 
 ---
-
 
 ### copy of the remote repository
 
@@ -153,6 +153,7 @@ git reset --hard origin/master
 Tip obtained from: <https://ardupilot.org/dev/docs/editing-prs.html>
 
 **Assumptions**:
+
 - you have the main repository cloned locally
 - you have permission to modify the PR
 
@@ -188,13 +189,13 @@ $ git remote remove tempremote
 TARGET DECK: git
 
 testing a pull request again #flashcard
+
 ```sh
 git fetch origin pull/1234/head:pr-1234
 git checkout pr-1234
 # git fetch <repo> pull/<pr-id>/head:<local-branchname>
 # git checkout <local-branchname>
 ```
-<!--ID: 1625054083408-->
 
 ---
 
@@ -240,4 +241,3 @@ Once each directory has its own gitconfig, now we must setup the global `.gitcon
 ```
 
 Once it's done, your configuration in `~/src/client1/gitconfig` will be applied to all cloned repositories inside that directory (same for `client2`).
-

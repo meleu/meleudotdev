@@ -18,7 +18,13 @@ My principles related to my profession.
     - **I want my code to be a quick skim, not an intense study.**
 
 
-## Influence
+## draft
+
+The real cost of coding is in the reading ([[99 Bottles of OOP]])
+
+It doesn't matter if you code is to be handled by a human or AI agent, the more verbose it is, the more expensive it is.
+
+## References
 
 - [[Code Complete]]
 - [[Clean Code]]

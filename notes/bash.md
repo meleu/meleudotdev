@@ -5,6 +5,7 @@ dg-publish: true
 
 check this: <https://stackoverflow.com/questions/78497/design-patterns-or-best-practices-for-shell-scripts/739034#739034>
 
+Gold: <https://www.binaryphile.com/bash/2018/07/26/approach-bash-like-a-developer-part-1-intro.html>
 ## references
 
 - <https://bertvv.github.io/cheat-sheets/Bash.html> - applying principles of Clean Code in bash scripts
@@ -14,6 +15,7 @@ check this: <https://stackoverflow.com/questions/78497/design-patterns-or-best-p
 - <https://wiki.bash-hackers.org> - more bash hacking
 - <https://github.com/dylanaraps/pure-bash-bible> - pure bash bible
 - <http://redsymbol.net/articles/unofficial-bash-strict-mode/> - bash strict mode explanation
+- https://github.com/progrium/bashstyle
 
 ## books
 

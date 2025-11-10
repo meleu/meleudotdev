@@ -36,3 +36,7 @@ dg-publish: true
 [[gitlab-ci-templates]]
 
 
+## Automating Releases
+
+This seems to be useful:
+<https://about.gitlab.com/blog/2023/11/01/tutorial-automated-release-and-release-notes-with-gitlab/>

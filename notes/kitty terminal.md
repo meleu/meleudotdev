@@ -11,6 +11,15 @@ Everything I need to know get started with kitty terminal:
 - `kitty list-fonts` - lists the available fonts
 - links are opened with `Ctrl+Shift+click`
 
+
+Change theme:
+
+```bash
+kitty +kitten themes Catppuccin-Mocha
+```
+
+
+
 ## references
 
 - <https://www.youtube.com/watch?v=-0XjDgaLUY0>

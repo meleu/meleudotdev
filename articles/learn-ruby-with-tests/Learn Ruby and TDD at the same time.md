@@ -1,18 +1,22 @@
 ---
 dg-publish: true
 ---
+
+> [!important]
+> See <https://tdd-ruby.gitbook.io/>.
+
 This is going to be the fanciest "Hello, world" program you will ever write!
 
 ---
 
 > This article is an attempt to teach the basics of Ruby and TDD (with Minitest) at the same time.
-> 
+>
 > It's mainly aimed at people who already know how to code and want to quickly learn such topics.
-> 
+>
 > It's heavily inspired by the first chapter of the awesome [Learn Go with Tests](https://quii.gitbook.io/), by [Chris James](https://quii.dev/).
-> 
+>
 > If you enjoy this, please leave a comment and share so I can measure the interest and **maybe** evolve this to a free book (still inspired by "Learn Go with Tests" but focused on idiomatic Ruby and Object-Oriented Programming).
-> 
+>
 > It's assumed you already have Ruby installed. The code here were tested on Ruby 3.2.
 
 ---
@@ -22,11 +26,13 @@ This is going to be the fanciest "Hello, world" program you will ever write!
 It is traditional for your first program in a new language to be [Hello, World](https://en.m.wikipedia.org/wiki/%22Hello,_World!%22_program).
 
 Open your terminal and create a `hello` directory:
+
 ```bash
 mkdir hello
 ```
 
 Create a new file called `hello.rb` and put the following code inside it:
+
 ```ruby
 puts("Hello, World")
 ```
@@ -38,7 +44,6 @@ To run it type `ruby hello.rb` in your terminal.
 The `puts` instruction stands for "Put String", and what it does is to put the string you give to it in the output.
 
 In our code we're giving the "Hello, World" string.
-
 
 ## How to test
 
@@ -160,7 +165,6 @@ end
 
 The concept of class and subclass will be explained in another moment. For now just keep in mind that when we create the `TestHello` as a subclass of `Minitest::Test`, this means that `TestHello` inherits the behavior defined in `Minitest::Test`.
 
-
 ## Hello, YOU
 
 Now that we have a test, we can iterate on our software safely.
@@ -258,7 +262,6 @@ When you run the tests now, it should pass.
 
 Normally, as part of the TDD cycle, we should now _refactor_.
 
-
 ### A note on source control
 
 At this point, if you are using source control (which you should!) you should `commit` the code as it is. We have working software backed by a test.
@@ -271,7 +274,6 @@ git commit -m 'hello-world, work in progress'
 ```
 
 I _wouldn't_ push to main though, because I plan to refactor next. It is nice to commit at this point in case you somehow get into a mess with refactoring - you can always go back to the working version.
-
 
 ## Hello, world... again
 
@@ -352,6 +354,7 @@ It is important that your tests are _clear specifications_ of what the code need
 Now that we are happy with the code, I would amend the previous commit so that we only check in the lovely version of our code with its test.
 
 Example:
+
 ```bash
 git add hello.rb hello_test.rb
 git commit --amend
@@ -613,7 +616,6 @@ Remember the cycle:
 - Write enough code to make the test pass
 - Refactor
 
-
 ## Key Concepts
 
 This is probably the fanciest `Hello, world` you have ever written, isn't it?
@@ -635,12 +637,12 @@ We learn a bunch of things here.
 The TDD process and _why_ the steps are important
 
 - _Write a failing test and see it fail_
-    - so we know we have written a _relevant_ test for our requirements
-    - and seen that it produces an _easy to understand description of the failure_
+  - so we know we have written a _relevant_ test for our requirements
+  - and seen that it produces an _easy to understand description of the failure_
 - Writing the smallest amount of code to make it pass
-    - so we know we have working software
+  - so we know we have working software
 - _Then_ refactor, backed with the safety of our tests
-    - to ensure we have well-crafted code that is easy to work with
+  - to ensure we have well-crafted code that is easy to work with
 
 We've gone from `hello` to `hello("name")` and then to `hello("name", "french")` in small and easy to understand steps.
 

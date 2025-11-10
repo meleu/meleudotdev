@@ -3,7 +3,7 @@ dg-publish: true
 ---
 # database queries from inside neovim
 
-I started to play with [dadbod.vim](https://github.com/tpope/vim-dadbod) to interact with a Postgres Data Base, and it is awesome!
+I started to play with [dadbod.vim](https://github.com/tpope/vim-dadbod) to interact with a Postgres Data Base from i side #vim , and it is awesome!
 
 For the [[notes/LazyVim]] users, you just need to enable `lang.sql` in `:LazyExtras`now you can do things like:  
 

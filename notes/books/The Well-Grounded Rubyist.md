@@ -18,14 +18,21 @@ author:
 
 ## Chapter 1 - Bootstrapping your Ruby Literacy
 
+
+### Checking for syntax errors
+
+```bash
+ruby -cw mycode.rb
+```
+
 ### stylistic conventions
 
-| type     | Ruby convention | Nonconventional               |
-|:--------:| --------------- | ----------------------------- |
-| local    | `first_name`    | `firstName`, `_firstName`     |
+|   type   | Ruby convention | Nonconventional               |
+| :------: | --------------- | ----------------------------- |
+|  local   | `first_name`    | `firstName`, `_firstName`     |
 | instance | `@first_name`   | `@First_name`, `@firstName`   |
-| class    | `@@first_name`  | `@@First_name`, `@@firstName` |
-| global   | `$FIRST_NAME`   | `$first_name`, `$firstName`   | 
+|  class   | `@@first_name`  | `@@First_name`, `@@firstName` |
+|  global  | `$FIRST_NAME`   | `$first_name`, `$firstName`   |
 
 ### method names
 
@@ -70,3 +77,42 @@ despite the lack of a message-sending dot and an explicit receiver for the messa
 ### require vs. load
 
 p. 20-24
+
+
+---
+
+## Chapter 4 - Modules and program organization
+
+### Mix-ins and/or inheritance
+
+> class names tend to be nouns, whereas module names are often, but not always, adjectives (`Stack` versus `Stacklike`)
+
+
+```ruby
+#####################################
+# 👎 Bad
+#####################################
+module Vehicle
+# ...
+
+class SelfPropelling
+# ...
+
+class Truck < SelfPropelling
+  include Vehicle
+
+#####################################
+# 👍 Good
+#####################################
+module SelfPropelling
+# ...
+
+class Vehicle
+  include SelfPropelling
+# ...
+
+class Truck < Vehicle
+```
+
+
+> A class can have only one super class

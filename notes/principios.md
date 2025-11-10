@@ -13,7 +13,7 @@ dg-publish: true
 
 ## Finanças
 
-- Sempre guardarei no mínimo 10% de qualquer quantia que eu receba para mim mesmo. [[O Homem Mais Rico da Babilonia]]
+- Sempre guardar no mínimo 10% de qualquer quantia que eu receba para mim mesmo. [[O Homem Mais Rico da Babilonia]]
 - Dê preferência a usar débito (evite usar a função crédito).
     - Preciso ver o dinheiro saindo do meu bolso na hora
     - Encurtar o loop de feedback.
@@ -23,7 +23,7 @@ dg-publish: true
 - Focarei em construir ativos antes de começar a comprar passivos. ([[Pai Rico, Pai Pobre]])
 - Não estabeleça um teto para sua receita. ([[Segredos da Mente Milionária]])
     - Como tempo é um recurso finito, trocar tempo por dinheiro é estabelecer um limite para sua receita.
-    - Esse princípio me estimula a me aventurar em desenvolvimento web, onde posso desenvolver algo que vai me gerar receita simplesmente por resolver o problema de alguém. As vezes não sendo necessário a minha atuação frequente.
+    - Esse princípio me estimula a colocar energia onde posso desenvolver algo que vai me gerar receita, simplesmente por resolver o problema de alguém. Muitas vezes não sendo necessária a minha atuação frequente.
 
 
 ## Trabalho

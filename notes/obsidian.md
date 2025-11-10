@@ -13,6 +13,7 @@ Here are some notes of things I do after a fresh install and that I like to show
 
 These are my preferences.
 
+- [Stacked tabs](https://help.obsidian.md/User+interface/Tabs#Stack%20tab%20groups)
 - Editor
     - Readable line length - turn on
     - Strict line breaks (for consistent markdown usage)

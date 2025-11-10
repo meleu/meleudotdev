@@ -38,7 +38,7 @@ Pouquíssimo dinheiro pode não ser suficiente para resolver o problema de negó
 
 Um comentário interessante, sutil e poderoso:
 
-> Outro problema com o custo é que maiores investimentos geralmente alimentam objetivos secundários, como status ou prestígio. "É claro, eu tenho um projeto com 150 pessoas." Isso pode levar a projetos que falham porque o gerente queria impressionar. No fim, que status existem em escalar 10 programadores para o mesmo projeto e entregá-lo na metade do tempo.
+> Outro problema com o custo é que maiores investimentos geralmente alimentam objetivos secundários, como status ou prestígio. "É claro, eu tenho um projeto com 150 pessoas." Isso pode levar a projetos que falham porque o gerente queria impressionar. No fim, que status existe em escalar 10 programadores para o mesmo projeto e entregá-lo na metade do tempo?
 
 
 ### Tempo
@@ -54,7 +54,7 @@ Solução: trabalhar com iterações curtas, limitadas a pequenas entregas de es
 
 > Você pode ter ganhos a curto prazo se deliberadamente sacrificar a qualidade, mas o custo - humano, comercial e técnico - é enorme.
 
-Abrir mão da qualidade gera o *infamous* debito tecnico.
+Abrir mão da qualidade gera o *infamous* debito técnico.
 
 Esse tema me faz lembrar de uma coisa que li no [[Code Complete - 3.2. Determine the Kind of Software You're Working On]]. Para cada tipo de software existe uma abordagem mais apropriada. Imagino eu que em Hackathons e construção de MVPs, abrir mão da qualidade para fazer algo muito rápido pode ser uma decisão aceitável. O perigo é querer evoluir a partir de uma versão feita sem qualidade para ser concluída rapidamente.
 

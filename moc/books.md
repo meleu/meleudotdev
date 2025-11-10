@@ -6,7 +6,7 @@ dg-permalink: books
 
 ## currently reading
 
-- [[Tidy First]]
+- [[A Philosophy of Software Design]]
 
 ---
 
@@ -22,13 +22,29 @@ Maybe this list can tell a bit about who I am.
 
 ---
 
+## 2025
+
+
+- [[Understanding the Four Rules of Simple Design]]
+- ⭐ [[99 Bottles of OOP]]
+
+### unfinished
+
+- [[Tidy First]]
+- [[Shape Up]]
+- [[O Milionario Mora ao Lado]]
+
 
 ## 2024
+
+- [[Learning Test-Driven Development]]
+- [[Test-Driven Development by Example]]
 
 ### unfinished
 
 - ⭐ [[99 Bottles of OOP]]
 - [[Aprendendo TypeScript]]
+- [[LazyVim for Ambitious Developers]]
 
 
 ## 2023

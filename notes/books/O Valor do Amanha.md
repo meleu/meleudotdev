@@ -47,7 +47,7 @@ minha parte favorita:
 
 Mortalidade aqui se refere a "morrer de velhice".
 
-Pra mim foi interessante perceber que na reprodução assexuada um indivíduo se torna outros dois novo indivíduos. Podemos até dizer que o indivíduo original deixou de existir, mas não podemos dizer que ele morreu.
+Pra mim foi interessante perceber que na reprodução assexuada um indivíduo se torna outros dois novos indivíduos. Podemos até dizer que o indivíduo original deixou de existir, mas não podemos dizer que ele morreu.
 
 Obviamente que ocorrem mortes por escassez de recursos (alimentos ou ambiente propício a vida), mas a morte por velhice não acontece.
 
@@ -123,7 +123,7 @@ Neste capítulo é mostrado um experimento muito interessante realizado com pomb
 A conclusão do experimento (de maneira extremamente simplificada) pode ser resumida assim:
 
 - ao ter que decidir entre menos agora vs. mais no futuro, há uma tendência de preferir "menos agora"
-- ao ter que decidir entre menos no futuro vs. mais num futuro ainda mais distante, conseguimos pensar melhor nos benefícios da espera
+- ao ter que decidir entre menos no futuro vs. mais num futuro mais distante, conseguimos pensar melhor nos benefícios da espera
 
 O experimento que mostra o poder que o "aqui agora" exerce nas nossas decisões.
 
